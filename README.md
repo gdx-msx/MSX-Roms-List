@@ -1,5 +1,5 @@
 # MSX-Roms-List
 
-This is a list of almost all MSX Roms in YAML format.
+This is a list in YAML format of almost all MSX Roms.
 
-Need Help to fill it.
+Need help filling it out.
