@@ -35,7 +35,7 @@
 
 - Folder longname: ~/Bad Dumps
   Folder name: ~/BadDumps
-
+  Files:
   - English title: 
     Original title: 
     Longname: A.E. [a] [Bad dump].rom
@@ -5148,7 +5148,7 @@
 
 - Folder longname: ~/Colecovision Game Roms Converted
   Folder name: ~/ColecoRC
-
+  Files:
   - English title: 2010 - The Graphic Action Game
     Original title: 2010 - The Graphic Action Game
     Longname: 2010 The Graphic Action Game [Taylor].rom
@@ -6857,7 +6857,7 @@
 
 - Folder longname: ~/FDD Games Converted to ROM
   Folder name: ~/FDD2Rom
-
+  Files:
   - English title: Barunba
     Original title: Barunba
     Longname: Barunba (Namco).rom
@@ -7278,7 +7278,7 @@
 
 - Folder longname: ~/FDD Games Converted to ROM/Compile
   Folder name: ~/FDD2Rom/Compile
-
+  Files:
   - English title: Aleste 2
     Original title: Aleste 2
     Longname: Aleste 2 [v6] (Ricbit).rom
@@ -7607,7 +7607,7 @@
 
 - Folder longname: ~/FDD Games Converted to ROM/Kotai (Spain)
   Folder name: ~/FDD2Rom/Kotai
-
+  Files:
   - English title: Bubble Dream
     Original title: Bubble Dream
     Longname: Bubble Dream [ASCII8 mapper].rom
@@ -7683,7 +7683,7 @@
 
 - Folder longname: ~/FDD Games Converted to ROM/Namcot (Namco)
   Folder name: ~/FDD2Rom/Namcot
-
+  Files:
   - English title: Baseball Family Stadium - Home Run Contest
     Original title: Pro Yakyuu Family Stadium - Home Run Contest
     Longname: Pro Yakyuu Family Stadium Home Run Contest (J).rom
@@ -7713,7 +7713,7 @@
 
 - Folder longname: ~/FDD Games Converted to ROM/Pastel Hope
   Folder name: ~/FDD2Rom/PastHope
-
+  Files:
   - English title: Bubble Utilize
     Original title: Bubble Utilize
     Longname: Bubble Utilize.rom
@@ -7789,7 +7789,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM
   Folder name: ~/Bin2Rom
-
+  Files:
   - English title: Breaker
     Original title: Breaker
     Longname: Breaker [a] (Philips).rom
@@ -8049,7 +8049,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/ASCII
   Folder name: ~/Bin2Rom/ASCII
-
+  Files:
   - English title: 
     Original title: 
     Longname: Air Shoot.rom
@@ -8125,7 +8125,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/Baa
   Folder name: ~/Bin2Rom/Baa
-
+  Files:
   - English title: Nenokatas
     Original title: ネノカタス
     Longname: Nenokatas (J).rom
@@ -8178,7 +8178,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/Cobinee
   Folder name: ~/Bin2Rom/Cobinee
-
+  Files:
   - English title: 50 Metres
     Original title: 50 Metres
     Longname: 50 Metres.rom
@@ -8346,7 +8346,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/Compile
   Folder name: ~/Bin2Rom/Compile
-
+  Files:
   - English title: E.I. - Exa Innova
     Original title: E.I. - Exa Innova
     Longname: E.I. Exa Innova (Compile).rom
@@ -8468,7 +8468,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/Konami
   Folder name: ~/Bin2Rom/Konami
-
+  Files:
   - English title: Ago Board
     Original title: Ago Board
     Longname: Ago Board (J) [SCC].rom
@@ -11948,7 +11948,7 @@
 
 - Folder longname: ~/Games from Binary Converted to ROM/Namcot (Namco)
   Folder name: ~/Bin2Rom/Namcot
-
+  Files:
   - English title: SHM
     Original title: SHM
     Longname: SHM [ASCII8 mapper].rom
@@ -12024,7 +12024,7 @@
 
 - Folder longname: ~/Binary Converted to ROM/Tom Gerritsen
   Folder name: ~/BIN2Rom/TomGerri
-
+  Files:
   - English title: Yab Yum
     Original title: Yab Yum
     Longname: Yab Yum (D-E).rom
@@ -12123,7 +12123,7 @@
 
 - Folder longname: ~/Games from magazine converted to ROM
   Folder name: ~/Mag2Rom
-
+  Files:
   - English title: Adonis
     Original title: Adonis
     Longname: Adonis (MSX Magazine 1988-05).rom
@@ -12406,7 +12406,7 @@
 
 - Folder longname: ~/Games from TheLink Converted to ROM
   Folder name: ~/TheLink
-
+  Files:
   - English title: Cannon Fighter
     Original title: 
     Longname: Cannon Fighter (TheLink).rom
@@ -12554,7 +12554,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2003
   Folder name: ~/MSXdev/2003
-
+  Files:
   - English title: Guru Logic
     Original title: Guru Logic
     Longname: Guru Logic [v1] (Karoshi).rom
@@ -12675,7 +12675,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2004
   Folder name: ~/MSXdev/2004
-
+  Files:
   - English title: Chocobo Racing
     Original title: Chocobo Racing
     Longname: Chocobo Racing (HL-Soft).rom
@@ -13141,7 +13141,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2005
   Folder name: ~/MSXdev/2005
-
+  Files:
   - English title: Blusy Shop
     Original title: Blusy Shop
     Longname: Blusy Shop (S).rom
@@ -13860,7 +13860,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2006
   Folder name: ~/MSXdev/2006
-
+  Files:
   - English title: Beepertron
     Original title: Beepertron
     Longname: Beepertron.rom
@@ -14694,7 +14694,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2007
   Folder name: ~/MSXdev/2007
-
+  Files:
   - English title: Bag Man
     Original title: Bag Man
     Longname: Bag Man.rom
@@ -15091,7 +15091,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2008
   Folder name: ~/MSXdev/2008
-
+  Files:
   - English title: Bakerman
     Original title: Bakerman
     Longname: Bakerman.rom
@@ -15465,7 +15465,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2009
   Folder name: ~/MSXdev/2009
-
+  Files:
   - English title: British Bob
     Original title: British Bob
     Longname: British Bob [r1].rom
@@ -15816,7 +15816,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2010
   Folder name: ~/MSXdev/2010
-
+  Files:
   - English title: DAQ Lord of Idar
     Original title: DAQ Lord of Idar
     Longname: DAQ Lord of Idar.rom
@@ -16190,7 +16190,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2011
   Folder name: ~/MSXdev/2011
-
+  Files:
   - English title: Alter Ego
     Original title: Alter Ego
     Longname: Alter Ego.rom
@@ -16311,7 +16311,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2012
   Folder name: ~/MSXdev/2012
-
+  Files:
   - English title: Dinj 2 - Belmonte's Revenge
     Original title: Dinj 2 - Belmonte's Revenge
     Longname: Jinj 2 Belmonte's Revenge [final].rom
@@ -16501,7 +16501,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2013
   Folder name: ~/MSXdev/2013
-
+  Files:
   - English title: Gommy Medieval Defender
     Original title: Gommy Medieval Defender
     Longname: Gommy Medieval Defender [r1].rom
@@ -16783,7 +16783,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2014
   Folder name: ~/MSXdev/2014
-
+  Files:
   - English title: CMJN
     Original title: CMJN
     Longname: CMJN [2014-06-22].rom
@@ -17226,7 +17226,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2015
   Folder name: ~/MSXdev/2015
-
+  Files:
   - English title: BitLogic
     Original title: BitLogic
     Longname: BitLogic [v1.00] (OXiAB Game Studio).rom
@@ -17324,7 +17324,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2017
   Folder name: ~/MSXdev/2017
-
+  Files:
   - English title: Andrea Petkovic -  Tennis tournament
     Original title: Andrea Petkovic -  Torneo de Tenis
     Longname: Andrea Petkovic Torneo de Tenis (S).rom
@@ -17652,7 +17652,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2018
   Folder name: ~/MSXdev/2018
-
+  Files:
   - English title: Any Treasure Day
     Original title: Any Treasure Day
     Longname: Any Treasure Day.rom
@@ -18440,7 +18440,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2020
   Folder name: ~/MSXdev/2020
-
+  Files:
   - English title: Anchors Aweigh
     Original title: Anchors Aweigh
     Longname: Anchors Aweigh [v1.0] (Manuel Martinez Torres).rom
@@ -19083,7 +19083,7 @@
     Developer: Andre Baptista
     Release: 2020
     Original Dump: Yes
-   Remark: 
+    Remark: 
 
   - English title: Pacific
     Original title: Pacific
@@ -19320,7 +19320,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2021
   Folder name: ~/MSXdev/2021
-
+  Files:
   - English title: Alien Attack
     Original title: Alien Attack
     Longname: Alien Attack [v1.00] (CBSFox).rom
@@ -19664,7 +19664,7 @@
     Developer: Ray2Day
     Release: 2021
     Original Dump: Yes
-   Remark: 
+    Remark: 
 
   - English title: Logic Remastered
     Original title: Logic Remastered
@@ -20246,7 +20246,7 @@
 #
 - Folder longname: ~/Roms from MSXdev/2022
   Folder name: ~/MSXdev/2022
-
+  Files:
   - English title: Automania - Manic Mechanic
     Original title: Automania - Manic Mechanic
     Longname: Automania Manic Mechanic [v1.0].rom
@@ -20943,7 +20943,7 @@
 
 - Folder longname: ~/Roms for cheaters
   Folder name: ~/Cheaters
-
+  Files:
   - English title: 
     Original title: 
     Longname: A-Na-Za Kaleidoscope Special [Ulver crack].rom
@@ -22238,7 +22238,7 @@
 
 - Folder longname: ~/Roms for cheaters/Konami
   Folder name: ~/Cheaters/Konami
-
+  Files:
   - English title: 
     Original title: 
     Longname: Akumajou Dracula - Vampire Killer [a2-Invincible].rom
@@ -24365,7 +24365,7 @@
 
 - Folder longname: ~/Roms from Arabic Countries/Al Alamiah
   Folder name: ~/Arabic/Alamiah
-
+  Files:
   - English title: 1 2 3
     Original title: ٣٢١
     Longname: 1 2 3 (A) [v1.16].rom 
@@ -27500,7 +27500,7 @@
 
 - Folder longname: ~/Roms from Arabic Countries/Al Aqsa Barq
   Folder name: ~/Arabic/Barq
-
+  Files:
   - English title: Our flags
     Original title: أعلامنا
     Longname: A'lamona (Our flags).rom 
@@ -28220,7 +28220,7 @@
 
 - Folder longname: ~/Roms from Arabic Countries/Methali (Kuwait)
   Folder name: ~/Arabic/Methali
-
+  Files:
   - English title: Comecocos
     Original title: عودة
     Longname: Eawda - Comecocos (S).rom 
@@ -28852,7 +28852,7 @@
 
 - Folder longname: ~/Roms from Australia/Under4Mhz
   Folder name: ~/AU/Undr4Mhz
-
+  Files:
   - English title: Arno Dash
     Original title: Arno Dash
     Longname: Arno Dash [v1.0].rom
@@ -28974,7 +28974,7 @@
 
 - Folder longname: ~/Roms from Belgium
   Folder name: ~/Belgium
-
+  Files:
   - English title: Super Mario Word
     Original title: Super Mario Word
     Longname: Super Mario Word [v1.0] (Noramos).rom
@@ -29050,7 +29050,7 @@
 
 - Folder longname: ~/Roms from Brazil or Portugal
   Folder name: ~/Brazil
-
+  Files:
   - English title: 
     Original title: 
     Longname: Alien Attack [v3.00] (CBSFox).rom
@@ -29287,7 +29287,7 @@
 
 - Folder longname: ~/Roms from Brazil or Portugal/Amaury Calvalho
   Folder name: ~/Brazil/Calvalho
-
+  Files:
   - English title: 
     Original title: 
     Longname: Amadeus Classical Beats [v1.0].rom
@@ -29455,7 +29455,7 @@
 
 - Folder longname: ~/Roms from Brazil or Portugal/Amaweks
   Folder name: ~/Brazil/Amaweks
-
+  Files:
   - English title: T.C.Q.
     Original title: T.C.Q.
     Longname: T.C.Q. [50Hz].rom
@@ -29600,7 +29600,7 @@
 
 - Folder longname: ~/Roms from Brazil or Portugal/Cube MSX
   Folder name: ~/Brazil/Cube_MSX
-
+  Files:
   - English title: 
     Original title: 
     Longname: Jewels (Mario Cavalcanti).rom
@@ -29699,7 +29699,7 @@
 
 - Folder longname: ~/Roms from Brazil or Portugal/Sharp-Epcom
   Folder name: ~/Brazil/Epcom
-
+  Files:
   - English title: 
     Original title: 
     Longname: Predio Assombrado - Squish'em (P).rom
@@ -29729,7 +29729,7 @@
 
 - Folder longname: ~/Roms from Croatia
   Folder name: ~/Croatia
-
+  Files:
 ##
 ### Game Roms from Finland ###
 ##
@@ -29740,7 +29740,7 @@
 
 - Folder longname: ~/Roms from Finland/Uninteresting
   Folder name: ~/Finland/Unintere
-
+  Files:
   - English title: Turfy
     Original title: 
     Longname: Turfy [2018].rom
@@ -29793,7 +29793,7 @@
 
 - Folder longname: ~/Roms From France
   Folder name: ~/France
-
+  Files:
   - English title: Casio The Complete Collection
     Original title: Casio The Complete Collection
     Longname: Casio The Complete Collection.rom
@@ -30099,7 +30099,7 @@
 
 - Folder longname: ~/Roms From France/MSX cafe
   Folder name: ~/France/MSX_cafe
-
+  Files:
   - English title: Tiles of Shalom
     Original title: Tiles of Shalom
     Longname: Tiles of Shalom.rom
@@ -30129,7 +30129,7 @@
 
 - Folder longname: ~/Roms From France/MSXosaure
   Folder name: ~/France/MSXosaur
-
+  Files:
   - English title: Drop
     Original title: Drop
     Longname: Drop (MSXosaure).rom
@@ -30251,7 +30251,7 @@
 
 - Folder longname: ~/France/Sony
   Folder name: ~/France/Sony
-
+  Files:
   - English title: MSXPanic
     Original title: MSXPanic
     Longname: MSX Panic (F) (EOE).rom
@@ -30281,7 +30281,7 @@
 
 - Folder longname: ~/France/Repro-Factory
   Folder name: ~/France/ReproFac
-
+  Files:
   - English title: Arcomage
     Original title: Arcomage
     Longname: Arcomage.rom
@@ -30683,7 +30683,7 @@
 
 - Folder longname: ~/Roms From Hong-Kong/Mass Tael
   Folder name: ~/Hong-Kong/MassTael
-
+  Files:
   - English title: 
     Original title: 
     Longname: Robofrog [a].rom
@@ -30759,7 +30759,7 @@
 
 - Folder longname: ~/Roms From Italy
   Folder name: ~/Italy
-
+  Files:
   - English title: Cross Chase
     Original title: Cross Chase
     Longname: Cross Chase (Fabrizio Caruso).rom
@@ -30835,7 +30835,7 @@
 
 - Folder longname: ~/Roms From Italy/AG Software
   Folder name: ~/Italy/AG_Soft
-
+  Files:
   - English title: Night Escape
     Original title: Night Escape
     Longname: Night Escape.rom
@@ -30865,7 +30865,7 @@
 
 - Folder longname: ~/Roms From Italy/Gamecast Entertainment
   Folder name: ~/Italy/Gamecast
-
+  Files:
   - English title: Kill Mice
     Original title: Kill Mice
     Longname: Kill Mice.rom
@@ -30918,7 +30918,7 @@
 
 - Folder longname: ~/Roms From Italy/Pintus Giuseppe Ettore (Geppo)
   Folder name: ~/Italy/Geppo
-
+  Files:
   - English title: Freedom Fighter
     Original title: Freedom Fighter
     Longname: Freedom Fighter [v1.3].rom
@@ -31113,7 +31113,7 @@
 
 - Folder longname: ~/Roms From Japan/Ample Software
   Folder name: ~/Japan/Ample
-
+  Files:
   - English title: Boogie Woogi Jungle
     Original title: Boogie Woogi Jungle
     Longname: Boogie Woogi Jungle.rom
@@ -31465,7 +31465,7 @@
 
 - Folder longname: ~/Roms From Japan/ASCII
   Folder name: ~/Japan/ASCII
-
+  Files:
   - English title: 1942
     Original title: 1942
     Longname: 1942 MSX1.rom
@@ -33304,7 +33304,6 @@
     Release: 1984
     Original Dump: 
     Remark: 
-   Remark: 
 
   - English title: Manes
     Original title: メイニーズ
@@ -35267,7 +35266,7 @@
 
 - Folder longname: ~/Roms From Japan/Bandai
   Folder name: ~/Japan/Bandai
-
+  Files:
   - English title: Galactic Drifter Vifam
     Original title: 銀河漂流バイファム
     Longname: Ginga Hyouryou Vifam.rom
@@ -35550,7 +35549,7 @@
 
 - Folder longname: ~/Roms From Japan/Bit^2
   Folder name: ~/Japan/Bit^2
-
+  Files:
   - English title: Quinpl
     Original title: クインプル
     Longname: Quinpl.rom
@@ -35718,7 +35717,7 @@
 
 - Folder longname: ~/Roms From Japan/Bothtec
   Folder name: ~/Japan/Bothtec
-
+  Files:
   - English title: Anty
     Original title: アンティ
     Longname: Anty.rom
@@ -36070,7 +36069,7 @@
 
 - Folder longname: ~/Roms From Japan/Carry Lab
   Folder name: ~/Japan/CarryLab
-
+  Files:
   - English title: The Great Escape
     Original title: 大脱走
     Longname: Daidassou (J).rom
@@ -36238,7 +36237,7 @@
 
 - Folder longname: ~/Roms From Japan/Casio
   Folder name: ~/Japan/Casio
-
+  Files:
   - English title: Introduction to the Basic I - Basic for beginners
     Original title: BASIC入門 BASIC FOR BEGINNERS 
     Longname: Basic Nyuumon I Basic for beginners (J).rom
@@ -37441,7 +37440,7 @@
 
 - Folder longname: ~/Roms From Japan/Cobinee
   Folder name: ~/Japan/Cobinee
-
+  Files:
   - English title: 3, 4
     Original title: 3, 4
     Longname: 3-4.rom
@@ -37862,7 +37861,7 @@
 
 - Folder longname: ~/Roms From Japan/Colpax - Nippon Columbia
   Folder name: ~/Japan/Colpax
-
+  Files:
   - English title: Boggy '84
     Original title: ボギー'84
     Longname: Boggy '84.rom
@@ -38488,7 +38487,7 @@
 
 - Folder longname: ~/Roms From Japan/Compile
   Folder name: ~/Japan/Compile
-
+  Files:
   - English title: Aleste
     Original title: アレスタ
     Longname: Aleste (J).rom
@@ -38909,7 +38908,7 @@
 
 - Folder longname: ~/Roms From Japan/Comptiq
   Folder name: ~/Japan/Comptiq
-
+  Files:
   - English title: B.C.'s Quest For Tires II - Grog's Revenge
     Original title: グロッグス・リベンジ
     Longname: B.C.'s Quest For Tires II Grog's Revenge.rom
@@ -39307,7 +39306,7 @@
 
 - Folder longname: ~/Roms From Japan/Cosmos Computer
   Folder name: ~/Japan/Cosmos
-
+  Files:
   - English title: Courageous Perseus
     Original title: カレイジアスペルセウス
     Longname: Courageous Perseus.rom
@@ -39429,7 +39428,7 @@
 
 - Folder longname: ~/Roms From Japan/Cross Talk
   Folder name: ~/Japan/CrossTlk
-
+  Files:
   - English title: Con-Dori
     Original title: コンドリ
     Longname: Con-Dori.rom
@@ -39528,7 +39527,7 @@
 
 - Folder longname: ~/Roms From Japan/dB Soft
   Folder name: ~/Japan/dB_Soft
-
+  Files:
   - English title: Cross Blaim
     Original title: クロスブレイム
     Longname: Cross Blaim.rom
@@ -40041,7 +40040,7 @@
 
 - Folder longname: ~/Roms From Japan/Dexter Soft
   Folder name: ~/Japan/Dexter
-
+  Files:
   - English title: Druid
     Original title: ドルイド
     Longname: Druid.rom
@@ -40370,7 +40369,7 @@
 
 - Folder longname: ~/Roms From Japan/Enix
   Folder name: ~/Japan/Enix
-
+  Files:
   - English title: Animal Land - Murder Case
     Original title: アニマルランド 殺人事件
     Longname: Animal Land Satsujin Jikken (J).rom
@@ -40768,7 +40767,7 @@
 
 - Folder longname: ~/Roms From Japan/Falcom
   Folder name: ~/Japan/Falcom
-
+  Files:
   - English title: Dragon Slayer II - Xanadu
     Original title: ドラゴンスレイヤーII ザナドゥ
     Longname: Dragon Slayer II Xanadu.rom
@@ -41051,7 +41050,7 @@
 
 - Folder longname: ~/Roms From Japan/Game Arts
   Folder name: ~/Japan/GameArts
-
+  Files:
   - English title: Gambler Selfish 
     Original title: ぎゅわんぶらあ自己中心派
     Longname: Gambler JikoChuu Shinpa 1 (J).rom
@@ -41242,7 +41241,7 @@
 
 - Folder longname: ~/Roms From Japan/GAmu - Hot-B
   Folder name: ~/Japan/GAmuHotB
-
+  Files:
   - English title: A-Na-Za - Kaleidoscope Special
     Original title: ア・ナ・ザ カレイドスコープスペシャル
     Longname: A-Na-Za Kaleidoscope Special.rom
@@ -41455,7 +41454,7 @@
 
 - Folder longname: ~/Roms From Japan/General (Paxon)
   Folder name: ~/Japan/General
-
+  Files:
   - English title: Aqua Polis SOS
     Original title: アクアポリスＳＯＳ
     Longname: Aqua Polis SOS.rom
@@ -41692,7 +41691,7 @@
 
 - Folder longname: ~/Roms From Japan/GW's Workshop
   Folder name: ~/Japan/Workshop
-
+  Files:
   - English title: Inq & Suq vs Nightmare
     Original title: Inq & Suq vs Nightmare
     Longname: Inq & Suq vs Nightmare.rom
@@ -41768,7 +41767,7 @@
 
 - Folder longname: ~/Roms From Japan/H1romas4
   Folder name: ~/Japan/H1romas4
-
+  Files:
   - English title: Noborunoca
     Original title: Noborunoca
     Longname: Noborunoca [v0.70].rom
@@ -41913,7 +41912,7 @@
 
 - Folder longname: ~/Roms From Japan/HAL Laboratory
   Folder name: ~/Japan/HAL
-
+  Files:
   - English title: Balance
     Original title: バラン数
     Longname: Balan-Suu - Balance.rom
@@ -43921,7 +43920,7 @@
 
 - Folder longname: ~/Roms From Japan/HAL Laboratory/Seika Romox
   Folder name: ~/Japan/HAL/Romox
-
+  Files:
   - English title: Kick It!
     Original title: キックイット
     Longname: Kick It!.rom
@@ -44089,7 +44088,7 @@
 
 - Folder longname: ~/Roms From Japan/Heart Soft
   Folder name: ~/Japan/Heart
-
+  Files:
   - English title: Craze
     Original title: クレイズ
     Longname: Craze (J).rom
@@ -44188,7 +44187,7 @@
 
 - Folder longname: ~/Roms From Japan/Honeybee Soft - SoftBank
   Folder name: ~/Japan/Honeybee
-
+  Files:
   - English title: Bomber man
     Original title: ボンバーマン
     Longname: Bomber Man.rom
@@ -44333,7 +44332,7 @@
 
 - Folder longname: ~/Roms From Japan/Hudson Soft
   Folder name: ~/Japan/Hudson
-
+  Files:
   - English title: Bomber King
     Original title: ボンバーキング
     Longname: Bomber King.rom
@@ -45306,7 +45305,7 @@
 
 - Folder longname: ~/Roms From Japan/Humming Bird Soft
   Folder name: ~/Japan/Humming
-
+  Files:
   - English title: Fire Ball
     Original title: ファイアボール
     Longname: Fire Ball.rom
@@ -45428,7 +45427,7 @@
 
 - Folder longname: ~/Roms From Japan/Inufuto
   Folder name: ~/Japan/Inufuto
-
+  Files:
   - English title: Aerial
     Original title: AERIAL
     Longname: Aerial.rom
@@ -45941,7 +45940,7 @@
 
 - Folder longname: ~/Roms From Japan/Irem
   Folder name: ~/Japan/Irem
-
+  Files:
   - English title: 10-Yard Fight
     Original title: 10ヤードファイト
     Longname: 10-Yard Fight.rom
@@ -46454,7 +46453,7 @@
 
 - Folder longname: ~/Roms From Japan/Jaleco
   Folder name: ~/Japan/Jaleco
-
+  Files:
   - English title: Alien 8
     Original title: エイリアン エイト
     Longname: Alien 8.rom
@@ -46668,7 +46667,7 @@
 
 - Folder longname: ~/Roms From Japan/Jast
   Folder name: ~/Japan/Jast
-
+  Files:
   - English title: Erika SF Adult Adventure
     Original title: SFアダルトアドベンチャーエリカ
     Longname: Erika SF Adult Adventure (J).rom
@@ -46744,7 +46743,7 @@
 
 - Folder longname: ~/Roms From Japan/Koei
   Folder name: ~/Japan/Koei
-
+  Files:
   - English title: The Blue Wolf and The White Stag - Yuan Dynasty Secret History
     Original title: 蒼き狼と白き牝鹿 元朝秘史
     Longname: Aoki Ookami to Shiroki Mejika Genchou Hishi (J).rom
@@ -47183,7 +47182,7 @@
     Remark: 
 
   - English title: Bandit Kings of Ancient China
-    Original title: [水滸伝] 天命の誓い
+    Original title: "[水滸伝] 天命の誓"
     Longname: Suikoden Tenmei no Chikai (J).rom
     sha1: de251a0af1df3be18469578dc00d414e572ee33e
     Name: Suikoden.ROM
@@ -47234,7 +47233,7 @@
 
 - Folder longname: ~/Roms From Japan/Kogado Software Products (KGD)
   Folder name: ~/Japan/Kogado
-
+  Files:
   - English title: The wings of Arguice
     Original title: アルギースの翼
     Longname: Arguice no Tsubasa (J).rom
@@ -47379,7 +47378,7 @@
 
 - Folder longname: ~/Japan/Konami
   Folder name: ~/Japan/Konami
-
+  Files:
   - English title: Vampire Killer
     Original title: 悪魔城ドラキュラ
     Longname: Akumajou Dracula - Vampire Killer.rom
@@ -54976,7 +54975,7 @@
 
 - Folder longname: ~/Roms From Japan/Konami Roms patched for JoySNES
   Folder name: ~/Japan/KonamiJS
-
+  Files:
   - English title: Vampire Killer
     Original title: 悪魔城ドラキュラ
     Longname: Akumajou Dracula - Vampire Killer [Dynamic vsync fixed] [JoySNES].rom
@@ -56018,7 +56017,7 @@
 
 - Folder longname: ~/Roms From Japan/Magic Soft
   Folder name: ~/Japan/Magic
-
+  Files:
   - English title: Color Midway
     Original title: カラー・ミッドウエイ
     Longname: Color Midway.rom
@@ -56209,7 +56208,7 @@
 
 - Folder longname: ~/Roms From Japan/MIA (Micro Information Associates)
   Folder name: ~/Japan/MIA
-
+  Files:
   - English title: Adven' Chuta!
     Original title: アドベン・チュー太
     Longname: Adven' Chuta! (J).rom
@@ -56469,7 +56468,7 @@
 
 - Folder longname: ~/Roms From Japan/Micomsoft - Dempa Shinbunsha
   Folder name: ~/Japan/Micom
-
+  Files:
   - English title: 
     Original title: 
     Longname: Burgertime.rom
@@ -56798,7 +56797,7 @@
 
 - Folder longname: ~/Roms From Japan/Micro Cabin
   Folder name: ~/Japan/MicroCab
-
+  Files:
   - English title: 
     Original title: 
     Longname: Blagger MSX.rom
@@ -57311,7 +57310,7 @@
 
 - Folder longname: ~/Roms From Japan/Micronet
   Folder name: ~/Japan/Micronet
-
+  Files:
   - English title: 
     Original title: 
     Longname: Flicky.rom
@@ -57387,7 +57386,7 @@
 
 - Folder longname: ~/Roms From Japan/Namcot (Namco)
   Folder name: ~/Japan/Namcot
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bosconian Star Destroyer.rom
@@ -58820,7 +58819,7 @@
 
 - Folder longname: ~/Roms From Japan/N.I.
   Folder name: ~/Japan/NI
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bee.rom
@@ -59149,7 +59148,7 @@
 
 - Folder longname: ~/Roms From Japan/Ochixn
   Folder name: ~/Japan/Ochixn
-
+  Files:
   - English title: No Rensha MSX
     Original title: 
     Longname: No Rensha MSX [v0.13].rom
@@ -59409,7 +59408,7 @@
 
 - Folder longname: ~/Roms From Japan/Pack-in-Video
   Folder name: ~/Japan/PckVideo
-
+  Files:
   - English title: 
     Original title: 
     Longname: Batman (Ocean).rom
@@ -59991,7 +59990,7 @@
 
 - Folder longname: ~/Roms From Japan/Panasoft - Panasonic - National
   Folder name: ~/Japan/Panasoft
-
+  Files:
   - English title: A1 Spirit
     Original title: A1スピリット
     Longname: A1 Spirit The Way to Formula-1.rom
@@ -60596,7 +60595,7 @@
 
 - Folder longname: ~/Roms From Japan/Pax Softonica
   Folder name: ~/Japan/PaxSofto
-
+  Files:
   - English title: 
     Original title: 
     Longname: Attack Four Joshi Volley Ball (J).rom
@@ -60649,7 +60648,7 @@
 
 - Folder longname: ~/Roms From Japan/Pixel co
   Folder name: ~/Japan/Pixel
-
+  Files:
   - English title: 
     Original title: 
     Longname: M36 A Life Planet MotherBrain has been aliving (J) [fixed].rom
@@ -60840,7 +60839,7 @@
 
 - Folder longname: ~/Roms From Japan/Pony Canyon (Activision game)
   Folder name: ~/Japan/Ponyca
-
+  Files:
   - English title: 
     Original title: 
     Longname: Alcazar The Forgotten Fortress [a].rom
@@ -61629,7 +61628,7 @@
 
 - Folder longname: ~/Roms From Japan/Pony Canyon (Ponyca)
   Folder name: ~/Japan/Ponyca
-
+  Files:
   - English title: 
     Original title: 
     Longname: A Ressha de Ikou - A-train (J).rom
@@ -64212,7 +64211,7 @@
 
 - Folder longname: ~/Roms From Japan/Scap Trust
   Folder name: ~/Japan/ScapTrst
-
+  Files:
   - English title: Crimson
     Original title: 
     Longname: Crimson (J).rom
@@ -64334,7 +64333,7 @@
 
 - Folder longname: ~/Roms From Japan/Sega
   Folder name: ~/Japan/Sega
-
+  Files:
   - English title: Star Trek -  Strategic Operations Simulator
     Original title: 
     Longname: Star Trek Strategic Operations Simulator [a].rom
@@ -64387,7 +64386,7 @@
 
 - Folder longname: ~/Roms From Japan/SNK
   Folder name: ~/Japan/SNK
-
+  Files:
   - English title: Ikari
     Original title: 怒
     Longname: Ikari (J).rom
@@ -64463,7 +64462,7 @@
 
 - Folder longname: ~/Roms From Japan/Sony
   Folder name: ~/Japan/Sony
-
+  Files:
   - English title: Alibaba and 40 Thieves
     Original title: アリババと４０人の盗賊
     Longname: Alibaba and 40 Thieves.rom
@@ -67115,7 +67114,7 @@
 
 - Folder longname: ~/Roms From Japan/Spectravideo
   Folder name: ~/Japan/Spectrav
-
+  Files:
   - English title: Roger Rubbish
     Original title: 
     Longname: Roger Rubbish.rom
@@ -67191,7 +67190,7 @@
 
 - Folder longname: ~/Roms From Japan/Square
   Folder name: ~/Japan/Square
-
+  Files:
   - English title: Alien 2 - Aliens
     Original title: 
     Longname: Alien 2 Aliens.rom
@@ -67405,7 +67404,7 @@
 
 - Folder longname: ~/Roms From Japan/System Sacom
   Folder name: ~/Japan/SysSacom
-
+  Files:
   - English title: Marchen Veil I
     Original title: 
     Longname: Marchen Veil I (J).rom
@@ -67527,7 +67526,7 @@
 
 - Folder longname: ~/Roms From Japan/System Soft
   Folder name: ~/Japan/System
-
+  Files:
   - English title: AcroJet
     Original title: 
     Longname: AcroJet [MSX2].rom
@@ -67787,7 +67786,7 @@
 
 - Folder longname: ~/Roms From Japan/T&E Soft
   Folder name: ~/Japan/T&E_Soft
-
+  Files:
   - English title: Battleship Clapton II
     Original title: バトルシップ・クラプトンII
     Longname: Battleship Clapton II.rom
@@ -68482,7 +68481,7 @@
 
 - Folder longname: ~/Roms From Japan/Nidecom - Taito
   Folder name: ~/Japan/Nidecom
-
+  Files:
   - English title: American Soccer
     Original title: AMERICAN SOCCER
     Longname: American Soccer.rom
@@ -69662,7 +69661,7 @@
 
 - Folder longname: ~/Roms From Japan/Takeru (Brother Industries)
   Folder name: ~/Japan/Takeru
-
+  Files:
   - English title: Cannon Turbo
     Original title: 
     Longname: Cannon Turbo.rom
@@ -69830,7 +69829,7 @@
 
 - Folder longname: ~/Roms From Japan/Techno soft
   Folder name: ~/Japan/Techno
-
+  Files:
   - English title: 
     Original title: 
     Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.00].rom
@@ -69929,7 +69928,7 @@
 
 - Folder longname: ~/Roms From Japan/Technopolis Soft
   Folder name: ~/Japan/Technopo
-
+  Files:
   - English title: Lot Lot
     Original title: 
     Longname: Lot Lot (Tokuma Shoten).rom
@@ -70074,7 +70073,7 @@
 
 - Folder longname: ~/Roms From Japan/Telenet Japan
   Folder name: ~/Japan/Telenet
-
+  Files:
   - English title: Albatross Tournament Golf
     Original title: 
     Longname: Albatross Tournament Golf (J).rom
@@ -70633,7 +70632,7 @@
 
 - Folder longname: ~/Roms From Japan/Toho Cinefile-Soft Library
   Folder name: ~/Japan/TohoCine
-
+  Files:
   - English title: Bridge
     Original title: 
     Longname: Bridge (Filosoft).rom
@@ -70893,7 +70892,7 @@
 
 - Folder longname: ~/Roms From Japan/Tokuma Shoten Intermedia inc
   Folder name: ~/Japan/Tokuma
-
+  Files:
   - English title: 
     Original title: 
     Longname: MSX Program Collection 50-pon Fandom Library 1 (J).rom
@@ -71015,7 +71014,7 @@
 
 - Folder longname: ~/Japan/Toshiba Emi
   Folder name: ~/Japan/Toshiba
-
+  Files:
   - English title: 3-D Golf Simulation
     Original title: 
     Longname: 3-D Golf Simulation (J).rom
@@ -72172,7 +72171,7 @@
 
 - Folder longname: ~/Japan/Others
   Folder name: ~/Japan/Others
-
+  Files:
   - English title: Banana
     Original title: BANANA
     Longname: Banana (Studio Gen).rom
@@ -72777,7 +72776,7 @@
 
 - Folder longname: ~/Roms From Japan/Victor
   Folder name: ~/Japan/Victor
-
+  Files:
   - English title: Drainer
     Original title: 
     Longname: Drainer.rom
@@ -73106,7 +73105,7 @@
 
 - Folder longname: ~/Roms From Japan/Xain (aka Sein)
   Folder name: ~/Japan/Xain
-
+  Files:
   - English title: A.R.A.M.O.
     Original title: 
     Longname: A.R.A.M.O.rom
@@ -73458,7 +73457,7 @@
 
 - Folder longname: ~/Roms From Japan/Xtal Soft
   Folder name: ~/Japan/Xtal
-
+  Files:
   - English title: 
     Original title: 
     Longname: Volfoss to 5-nin no Akuma (J).rom
@@ -73511,6 +73510,7 @@
 
 - Folder longname: ~/Roms From Japan/Yusuke Miyauchi
   Folder name: ~/Japan/Miyauchi
+  Files:
 
 ##
 ### Game Roms from Korea ###
@@ -73522,7 +73522,7 @@
 
 - Folder longname: ~/Roms from Korea/Aproman
   Folder name: ~/Korea/Aproman
-
+  Files:
   - English title: Aproman's Adventure Island
     Original title: 아프로만 모험도
     Longname: Aproman Boukenjima - Aproman Adventure Island.rom
@@ -73667,7 +73667,7 @@
 
 - Folder longname: ~/Roms from Korea/Boram Soft
   Folder name: ~/Korea/Boram
-
+  Files:
   - English title: Casio World Open
     Original title: 
     Longname: Casio World Open (Boram).rom
@@ -73858,7 +73858,7 @@
 
 - Folder longname: ~/Roms from Korea/Clover Soft
   Folder name: ~/Korea/Clover
-
+  Files:
   - English title: Alibaba and 40 Thieves
     Original title: 
     Longname: Alibaba and 40 Thieves (Clover) [PSG ports fix].rom
@@ -74578,7 +74578,7 @@
 
 - Folder longname: ~/Roms from Korea/Daewoo
   Folder name: ~/Korea/Daewoo
-
+  Files:
   - English title: FA Tetris
     Original title: 에프에이 테트리스
     Longname: FA Tetris.rom
@@ -74769,7 +74769,7 @@
 
 - Folder longname: ~/Roms from Korea/Daou Infosys
   Folder name: ~/Korea/DaouInfo
-
+  Files:
   - English title: Dooly The Little Dinosaur
     Original title: 아기공룡 둘리
     Longname: Agigongnyong Dooly - Dooly The Little Dinosaur (K).rom
@@ -74868,7 +74868,7 @@
 
 - Folder longname: ~/Roms from Korea/Gabo System
   Folder name: ~/Korea/GaboSys
-
+  Files:
   - English title: City connection
     Original title: 
     Longname: City connection (Gabo).rom
@@ -74990,7 +74990,7 @@
 
 - Folder longname: ~/Roms from Korea/Open
   Folder name: ~/Korea/Open
-
+  Files:
   - English title: Adventure Kid
     Original title: 
     Longname: Adventure Kid.rom
@@ -75089,7 +75089,7 @@
 
 - Folder longname: ~/Roms from Korea/Others
   Folder name: ~/Korea/Others
-
+  Files:
   - English title: Bomber Man Special
     Original title: 
     Longname: Bomber Man Special (Softmen).rom
@@ -75487,7 +75487,7 @@
 
 - Folder longname: ~/Roms from Korea/Prosoft
   Folder name: ~/Korea/Prosoft
-
+  Files:
   - English title: Actman
     Original title: 
     Longname: Actman (Prosoft).rom
@@ -76690,7 +76690,7 @@
 
 - Folder longname: ~/Roms from Korea/Qnix Corporation
   Folder name: ~/Korea/Qnix
-
+  Files:
   - English title: Comet Tail
     Original title: 별똥별
     Longname: Comet Tail (Qnix Corporation).rom
@@ -76858,7 +76858,7 @@
 
 - Folder longname: ~/Roms from Korea/Sammi
   Folder name: ~/Korea/Sammi
-
+  Files:
   - English title: Aqua Polis SOS
     Original title: 
     Longname: Aqua Polis SOS (Sammi) [a].rom
@@ -77210,7 +77210,7 @@
 
 - Folder longname: ~/Roms from Korea/San Ho
   Folder name: ~/Korea/San_Ho
-
+  Files:
   - English title: Car Jamboree
     Original title: 
     Longname: Car Jamboree (San Ho).rom
@@ -77378,7 +77378,7 @@
 
 - Folder longname: ~/Roms from Korea/Screen Software
   Folder name: ~/Korea/Screen
-
+  Files:
   - English title: Poppaq The Fish
     Original title: 보글보글
     Longname: Bogle Bogle - Poppaq The Fish (Screen Software).rom
@@ -78144,7 +78144,7 @@
 
 - Folder longname: ~/Roms from Korea/Static Soft
   Folder name: ~/Korea/Static
-
+  Files:
   - English title: The Treasure of Moai
     Original title: 모아이의 보물
     Longname: Moai-ui Bomul - Moai no Hihou (The Treasure of Moai) (Static Soft).rom
@@ -78197,7 +78197,7 @@
 
 - Folder longname: ~/Korea/Topia
   Folder name: ~/Korea/Topia
-
+  Files:
   - English title: Alien 8
     Original title: 에어리언 8
     Longname: Alien 8 (Topia).rom
@@ -78595,7 +78595,7 @@
 
 - Folder longname: ~/Roms from Korea/Uttum Soft (Best)
   Folder name: ~/Korea/Uttum
-
+  Files:
   - English title: 
     Original title: 
     Longname: Angma Jidae - Devil zone [ASCII 16K mapper].rom
@@ -78786,7 +78786,7 @@
 
 - Folder longname: ~/Korea/Zemina - Saehan Sangsa
   Folder name: ~/Korea/Zemina
-
+  Files:
   - English title: 1942
     Original title: 1942
     Longname: 1942 [MSX1] (Zemina).rom
@@ -80840,7 +80840,7 @@
 
 - Folder longname: ~/Roms from Korea/Unknown Publisher
   Folder name: ~/Korea/Unknown
-
+  Files:
   - English title: 
     Original title: 
     Longname: AcroJet [Zemina 16K mapper].rom
@@ -82434,7 +82434,7 @@
 
 - Folder longname: ~/Roms from Netherlands
   Folder name: ~/NL
-
+  Files:
   - English title: 
     Original title: 
     Longname: Angelic Warrior DEVA [ASCII8 mapper] [PAC].rom
@@ -82671,7 +82671,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Checkmark
   Folder name: ~/NL/Checkmrk
-
+  Files:
   - English title: 
     Original title: 
     Longname: ARC (Parallax).rom
@@ -82770,14 +82770,14 @@
 
 - Folder longname: ~/Roms from Netherlands/Darkstone
   Folder name: ~/NL/Darkston
-
+  Files:
 #
 ## Game Roms from Netherlands: Dvik & Joyrex ##
 #
 
 - Folder longname: ~/Roms from Netherlands/Dvik & Joyrex
   Folder name: ~/NL/Dvik&Joy
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bengan.rom
@@ -82876,7 +82876,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Infinite
   Folder name: ~/NL/Infinite
-
+  Files:
   - English title: 
     Original title: 
     Longname: Jailbreak [v1.00].rom
@@ -83044,14 +83044,14 @@
 
 - Folder longname: ~/Roms from Netherlands/ARC8 (Micha Mulder)
   Folder name: ~/NL/ARC8
-
+  Files:
 #
 ## Game Roms from Netherlands: Norakomi ##
 #
 
 - Folder longname: ~/Roms from Netherlands/Norakomi
   Folder name: ~/NL/Norakomi
-
+  Files:
   - English title: 
     Original title: 
     Longname: Vectroids.rom
@@ -83127,7 +83127,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Platty Soft
   Folder name: ~/NL/Platty
-
+  Files:
   - English title: Logic Remastered
     Original title: Logic Remastered
     Longname: Logic Remastered [v1.2 for 32K RAM].rom
@@ -83157,7 +83157,7 @@
 
 - Folder longname: ~/Roms from UK/UltraNarwhal
   Folder name: ~/UK/UNarwhal
-
+  Files:
   - English title: 
     Original title: 
     Longname: Duckstroma [v1.00].rom
@@ -83210,7 +83210,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Ray2Day
   Folder name: ~/NL/Ray2Day
-
+  Files:
   - English title: 
     Original title: 
     Longname: Tool Blocks.rom
@@ -83240,7 +83240,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Robosoft
   Folder name: ~/NL/Robosoft
-
+  Files:
 
 #
 ## Game Roms from Netherlands: Sunrise ##
@@ -83248,7 +83248,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Sunrise
   Folder name: ~/NL/Sunrise
-
+  Files:
   - English title: 
     Original title: 
     Longname: Manbow 2 [v1].rom
@@ -83393,7 +83393,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Timmy
   Folder name: ~/NL/Timmy
-
+  Files:
   - English title: 
     Original title: 
     Longname: Heart Stealer 2 [v1.0].rom
@@ -83444,9 +83444,9 @@
 ## Game Roms from Netherlands: TNI (The New Image) ##
 #
 
-- Folder longname: ~/Roms from Netherlands: TNI (The New Image)
+- Folder longname: "~/Roms from Netherlands: TNI (The New Image)"
   Folder name: ~/NL/TNI
-
+  Files:
   - English title: 
     Original title: 
     Longname: Equivocal.rom
@@ -83499,7 +83499,7 @@
 
 - Folder longname: ~/Roms from Netherlands/Trilobyte
   Folder name: ~/NL/Trilobyt
-
+  Files:
   - English title: 
     Original title: 
     Longname: Deep Dungeon Adventure.rom
@@ -83598,14 +83598,14 @@
 
 - Folder longname: ~/Game Roms from Netherlands/XL2S Entertainment
   Folder name: ~/NL/XL2S
-
+  Files:
 ##
 ### Game Roms from Russia ###
 ##
 
 - Folder longname: ~/Roms from Russia
   Folder name: ~/Russia
-
+  Files:
   - English title: 
     Original title: 
     Longname: Twinlight [r1] (RetroSouls).rom
@@ -83704,7 +83704,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico
   Folder name: ~/Spain
-
+  Files:
   - English title: Casio Complete Collection
     Original title: Casio Complete Collection
     Longname: Casio Complete Collection (Rafa Bollero).rom
@@ -84333,7 +84333,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Brain Games (Santiontanon)
   Folder name: ~/Spain/BrainGam
-
+  Files:
   - English title: 
     Original title: 
     Longname: The Menace from Triton  [v1.00].rom
@@ -84639,7 +84639,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Cesar Rincon
   Folder name: ~/Spain/Rincon
-
+  Files:
   - English title: 
     Original title: 
     Longname: Pong.rom
@@ -84715,7 +84715,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Crappysoft
   Folder name: ~/Spain/Crappy
-
+  Files:
   - English title: Computer Wars
     Original title: Computer Wars
     Longname: Computer Wars (S) [a].rom
@@ -84814,7 +84814,7 @@
 
 - Folder longname: ~/Game Roms from Spain or Mexico/CEZ Games Studio
   Folder name: ~/Spain/CEZ_GS
-
+  Files:
   - English title: Stratos
     Original title: Stratos
     Longname: Stratos (S) [v2].rom
@@ -84844,7 +84844,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Dioniso
   Folder name: ~/Spain/Dioniso
-
+  Files:
   - English title: 
     Original title: 
     Longname: Zero and The Castle of Infinite Sadness [48K].rom
@@ -84874,7 +84874,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/FX Software
   Folder name: ~/Spain/FX
-
+  Files:
   - English title: 
     Original title: 
     Longname: Batman MSX2 remake [FlashRom & second PSG].rom
@@ -84927,6 +84927,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Guzuta Raster Leisure
   Folder name: ~/Spain/GuzutaRL
+  Files:
 
 #
 ## Game Roms from Spain or Mexico: Joesg ##
@@ -84934,7 +84935,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Joesg
   Folder name: ~/Spain/Joesg
-
+  Files:
   - English title: Andrea Petkovic Tennis
     Original title: 
     Longname: Andrea Petkovic Tennis.rom
@@ -85010,7 +85011,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Imanok
   Folder name: ~/Spain/Imanok
-
+  Files:
   - English title: 
     Original title: 
     Longname: J.E.T.P.A.C. Jupiter Elite Troop Power Afield Company.rom
@@ -85086,7 +85087,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Impulse9
   Folder name: ~/Spain/Impulse9
-
+  Files:
   - English title: 
     Original title: 
     Longname: Questprobe 2 Spiderman.rom
@@ -85139,7 +85140,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Jam
   Folder name: ~/Spain/Jam
-
+  Files:
   - English title: 
     Original title: 
     Longname: Activision Gamecase [Fixed].rom
@@ -85353,7 +85354,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Juan J. Martínez
   Folder name: ~/Spain/Martinez
-
+  Files:
   - English title: 
     Original title: 
     Longname: Night Knight [v1.00].rom
@@ -85475,7 +85476,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Kai Magazine
   Folder name: ~/Spain/Kai
-
+  Files:
   - English title: 
     Original title: 
     Longname: Highway Fighter.rom
@@ -85620,7 +85621,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Karoshi
   Folder name: ~/Spain/Karoshi
-
+  Files:
   - English title: 
     Original title: 
     Longname: Classic Minesweeper.rom
@@ -85880,7 +85881,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Kotai
   Folder name: ~/Spain/Kotai
-
+  Files:
   - English title: 
     Original title: 
     Longname: Danger.rom
@@ -86002,7 +86003,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Kralizec
   Folder name: ~/Spain/Kralizec
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bomb Jack [MSX2].rom
@@ -86124,7 +86125,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Matra Computer Automations
   Folder name: ~/Spain/Matra
-
+  Files:
   - English title: 
     Original title: 
     Longname: Cardwork Orange.rom
@@ -86545,7 +86546,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Mapax
   Folder name: ~/Spain/Mapax
-
+  Files:
   - English title: 
     Original title: 
     Longname: Avalon RPG OST Moonsound Edition [OPL4].rom
@@ -86713,7 +86714,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Micromancers
   Folder name: ~/Spain/Microman
-
+  Files:
   - English title: 
     Original title: 
     Longname: Children of the Night.rom
@@ -86904,7 +86905,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Microbyte
   Folder name: ~/Spain/Microbyt
-
+  Files:
   - English title: 
     Original title: 
     Longname: Dip-Dip (S).rom
@@ -86957,7 +86958,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/MSX Cartridge Shop
   Folder name: ~/Spain/CartShop
-
+  Files:
   - English title: BeTiled!
     Original title: BeTiled!
     Longname: BeTiled! [final].rom
@@ -87332,14 +87333,14 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Nitrofurano
   Folder name: ~/Spain/Nitrofur
-
+  Files:
 #
 ## Game Roms from Spain or Mexico: Oniric Factory ##
 #
 
 - Folder longname: ~/Roms from Spain or Mexico/Oniric Factory
   Folder name: ~/Spain/Oniric
-
+  Files:
   - English title: Crazy Factory
     Original title: Crazy Factory
     Longname: Crazy Factory [digital edition v1.3].rom
@@ -87392,7 +87393,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Nerlaska Studio
   Folder name: ~/Spain/Nerlaska
-
+  Files:
   - English title: 
     Original title: 
     Longname: Pretty Kingdom [v1].rom
@@ -87445,7 +87446,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Nanochess (Oscar Toledo Gutierrez)
   Folder name: ~/Spain/Nanoches
-
+  Files:
   - English title: 
     Original title: 
     Longname: Karateka 2.rom
@@ -87567,7 +87568,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Paxanga Soft
   Folder name: ~/Spain/Paxanga
-
+  Files:
   - English title: 
     Original title: 
     Longname: Eat Blue! 2004 [r1].rom
@@ -87643,7 +87644,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Physical Dreams
   Folder name: ~/Spain/Physical
-
+  Files:
   - English title: Gelatino 2
     Original title: Gelatino 2
     Longname: Gelatino 2 (S).rom
@@ -87949,14 +87950,14 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Pentacour
   Folder name: ~/Spain/Pentacou
-
+  Files:
 #
 ## Game Roms from Spain or Mexico: Relevo Videogames ##
 #
 
 - Folder longname: ~/Roms from Spain or Mexico/Relevo Videogames
   Folder name: ~/Spain/Relevo
-
+  Files:
   - English title: 
     Original title: 
     Longname: Azzurro 8bit Jam (S) [v1.0].rom
@@ -88239,7 +88240,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/RetroWorks
   Folder name: ~/Spain/RetroWor
-
+  Files:
   - English title: 
     Original title: 
     Longname: Alien 8 Remake [MSX2].rom
@@ -88568,7 +88569,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Roolando
   Folder name: ~/Spain/Roolando
-
+  Files:
   - English title: 
     Original title: 
     Longname: La Reliquia - The Relic (S).rom
@@ -88621,7 +88622,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Sony
   Folder name: ~/Spain/Sony
-
+  Files:
   - English title: 3D Water Driver
     Original title: 
     Longname: 3D Water Driver.rom
@@ -88973,14 +88974,14 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Tortilla Sunrise
   Folder name: ~/Spain/Tortilla
-
+  Files:
 #
 ## Game Roms from Spain or Mexico: Walther Miller ##
 #
 
 - Folder longname: ~/Roms from Spain or Mexico/Walther Miller
   Folder name: ~/Spain/Miller
-
+  Files:
   - English title: Droids - On The Planet Ingo
     Original title: Droids - En el Planeta Ingo
     Longname: Droids En el Planeta Ingo (S).rom
@@ -89148,7 +89149,7 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Yermani Soft (German Gomez Herrera)
   Folder name: ~/Spain/Yermani
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bank (S).rom
@@ -89454,7 +89455,7 @@
 
 - Folder longname: ~/Roms from Sweden
   Folder name: ~/Sweden
-
+  Files:
   - English title: 
     Original title: 
     Longname: Photon (Ola Andersson).rom
@@ -89484,7 +89485,7 @@
 
 - Folder longname: ~/Roms from Taiwan
   Folder name: ~/Taiwan
-
+  Files:
   - English title: 
     Original title: 
     Longname: Rally-X (DahJee).rom
@@ -89583,7 +89584,7 @@
 
 - Folder longname: ~/Game Roms from UK
   Folder name: ~/UK
-
+  Files:
   - English title: 
     Original title: 
     Longname: Deep Core Raider [v1.1] (Paul Jenkinson).rom
@@ -89705,7 +89706,7 @@
 
 - Folder longname: ~/Roms from UK/Aetherbyte
   Folder name: ~/UK/Aetherby
-
+  Files:
   - English title: 
     Original title: 
     Longname: Inferno.rom
@@ -89735,7 +89736,7 @@
 
 - Folder longname: ~/Roms from UK/Electric Software
   Folder name: ~/UK/Electric
-
+  Files:
   - English title: 
     Original title: 
     Longname: Backgammon (Electric Software).rom
@@ -89811,7 +89812,7 @@
 
 - Folder longname: ~/Roms from UK/Konami
   Folder name: ~/UK/Konami
-
+  Files:
   - English title: 
     Original title: 
     Longname: Green Beret.rom
@@ -89841,7 +89842,7 @@
 
 - Folder longname: ~/Game Roms from USA
   Folder name: ~/USA
-
+  Files:
   - English title: 
     Original title: 
     Longname: OpenWide! [v1.0] (Hakogame).rom
@@ -89917,7 +89918,7 @@
 
 - Folder longname: ~/Roms from USA/Damage X
   Folder name: ~/USA/Damage_X
-
+  Files:
   - English title: 
     Original title: 
     Longname: Mecha Taisen on planet Oldskool Plus.rom
@@ -89947,7 +89948,7 @@
 
 - Folder longname: ~/SG-1000 Roms Converted
   Folder name: ~/SG1000RC
-
+  Files:
   - English title: Bomb Jack
     Original title: Bomb Jack
     Longname: Bomb Jack [MSX1].rom
@@ -90188,7 +90189,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Aackosoft (Netherlands)
   Folder name: ~/Tape2Rom/Aackosft
-
+  Files:
   - English title: 
     Original title: 
     Longname: Aacko Presto (The Bytebusters).rom
@@ -90540,7 +90541,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Activision (US)
   Folder name: ~/Tape2Rom/Activisi
-
+  Files:
   - English title: 
     Original title: 
     Longname: Ballblazer.rom
@@ -90846,7 +90847,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Addictive Games (UK)
   Folder name: ~/Tape2Rom/Addictiv
-
+  Files:
   - English title: 
     Original title: 
     Longname: Football Manager.rom
@@ -90876,7 +90877,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Alligata (UK)
   Folder name: ~/Tape2Rom/Alligata
-
+  Files:
   - English title: 
     Original title: 
     Longname: 3D Knockout.rom
@@ -91136,7 +91137,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Alternative Software (UK)
   Folder name: ~/Tape2Rom/Alternat
-
+  Files:
   - English title: 
     Original title: 
     Longname: The Munsters.rom
@@ -91166,7 +91167,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Anirog (UK)
   Folder name: ~/Tape2Rom/Anirog
-
+  Files:
   - English title: 
     Original title: 
     Longname: Flight Path 737.rom
@@ -91288,7 +91289,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Artic Computing (UK)
   Folder name: ~/Tape2Rom/Artic
-
+  Files:
   - English title: 
     Original title: 
     Longname: Mr Wong's Loopy Laundry.rom
@@ -91410,7 +91411,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/ASCII (JP)
   Folder name: ~/Tape2Rom/ASCII-JP
-
+  Files:
   - English title: Queen's Golf - Joy Pack
     Original title: QUEENS GOLF ジョイパック
     Longname: Queen's Golf Joy Pack.rom
@@ -91463,7 +91464,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Atlantis Software (US)
   Folder name: ~/Tape2Rom/Atlantis
-
+  Files:
   - English title: 
     Original title: 
     Longname: Survivors [a].rom
@@ -91516,7 +91517,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Aventuras AD (Spain)
   Folder name: ~/Tape2Rom/Aventura
-
+  Files:
   - English title: 
     Original title: 
     Longname: Jabato (S).rom
@@ -91615,7 +91616,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Blue Ribbon Software (UK)
   Folder name: ~/Tape2Rom/
-
+  Files:
   - English title: 
     Original title: 
     Longname: Astro Plumber.rom
@@ -91691,7 +91692,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Bubble Bus (UK)
   Folder name: ~/Tape2Rom/BubblBus
-
+  Files:
   - English title: 
     Original title: 
     Longname: Hustler.rom
@@ -91813,7 +91814,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Bug-Byte Software (UK)
   Folder name: ~/Tape2Rom/Bug-Byte
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bop! [a].rom
@@ -92188,7 +92189,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Bulldog (UK)
   Folder name: ~/Tape2Rom/Bulldog
-
+  Files:
   - English title: 
     Original title: 
     Longname: Colony [a].rom
@@ -92356,7 +92357,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Codemasters (Netherlands)
   Folder name: ~/Tape2Rom/Codemast
-
+  Files:
   - English title: 
     Original title: 
     Longname: BMX Simulator.rom
@@ -92409,7 +92410,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Colpax - Nippon Columbia (Japan)
   Folder name: ~/Tape2Rom/Colpax
-
+  Files:
   - English title: 
     Original title: 
     Longname: Donpan.rom
@@ -92692,7 +92693,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Databyte (UK)
   Folder name: ~/Tape2Rom/Databyte
-
+  Files:
   - English title: 
     Original title: 
     Longname: Spy vs Spy II The Island Caper [SCC mapper].rom
@@ -92745,7 +92746,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/dB-Soft (Japan)
   Folder name: ~/Tape2Rom/dB-Soft
-
+  Files:
   - English title: 
     Original title: 
     Longname: Flappy.rom
@@ -92844,7 +92845,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Delta (Spain)
   Folder name: ~/Tape2Rom/Delta
-
+  Files:
   - English title: 
     Original title: 
     Longname: Drakkar (S).rom
@@ -92874,7 +92875,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Dinamic (Spain)
   Folder name: ~/Tape2Rom/Dinamic
-
+  Files:
   - English title: 
     Original title: 
     Longname: Abu Simbel Profanation (S) [a].rom
@@ -94353,7 +94354,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Discovery Informatic (Spain)
   Folder name: ~/Tape2Rom/Discovry
-
+  Files:
   - English title: 
     Original title: 
     Longname: Cavern of Death.rom
@@ -94429,7 +94430,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Disprosoft (Brazil)
   Folder name: ~/Tape2Rom/Dispro
-
+  Files:
   - English title: Dragon Slayer
     Original title: Dragon Slayer
     Longname: Dragon Slayer (P).rom
@@ -94528,7 +94529,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Domark Software Ltd (UK)
   Folder name: ~/Tape2Rom/Domark
-
+  Files:
   - English title: 
     Original title: 
     Longname: James Bond 007 In The Living Daylights.rom
@@ -94650,7 +94651,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Dro Soft (Spain)
   Folder name: ~/Tape2Rom/Dro
-
+  Files:
   - English title: 
     Original title: 
     Longname: Alien Syndrome (S).rom
@@ -95232,7 +95233,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Eaglesoft (Netherlands)
   Folder name: ~/Tape2Rom/Eaglesft
-
+  Files:
   - English title: 
     Original title: 
     Longname: Come On! Picot (Eaglesoft).rom
@@ -95791,7 +95792,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Eclipse (UK)
   Folder name: ~/Tape2Rom/Eclipse
-
+  Files:
   - English title: 
     Original title: 
     Longname: Hot Shoe [a].rom
@@ -95890,7 +95891,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Electric Software (UK)
   Folder name: ~/Tape2Rom/Electric
-
+  Files:
   - English title: 
     Original title: 
     Longname: Barnstormer.rom
@@ -96035,7 +96036,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Endurance Games (UK)
   Folder name: ~/Tape2Rom/Enduranc
-
+  Files:
   - English title: 
     Original title: 
     Longname: International Karate.rom
@@ -96157,7 +96158,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/EngeSoft (Brazil)
   Folder name: ~/Tape2Rom/EngeSoft
-
+  Files:
   - English title: 
     Original title: 
     Longname: Dig Dug (P) (EngeSoft).rom
@@ -96256,7 +96257,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Erbe Software (Spain)
   Folder name: ~/Tape2Rom/Erbe
-
+  Files:
   - English title: 
     Original title: 
     Longname: Ale Hop!.rom
@@ -96815,7 +96816,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Erbe Software - MCM Software
   Folder name: ~/Tape2Rom/Erbe_MCM
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bronx.rom
@@ -96891,7 +96892,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Erbe Software - Topo Soft
   Folder name: ~/Tape2Rom/ErbeTopo
-
+  Files:
   - English title: 
     Original title: 
     Longname: Black Beard (S).rom
@@ -97174,7 +97175,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Eurosoft (Netherlands)
   Folder name: ~/Tape2Rom/Eurosoft
-
+  Files:
   - English title: 
     Original title: 
     Longname: Boom.rom
@@ -97388,7 +97389,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Gema S.L. (Spain)
   Folder name: ~/Tape2Rom/Gema_SL
-
+  Files:
   - English title: 
     Original title: 
     Longname: El Descubrimiento de America (S).rom
@@ -97441,7 +97442,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Grandslam Entertainments (UK)
   Folder name: ~/Tape2Rom/Grandslm
-
+  Files:
   - English title: 
     Original title: 
     Longname: Pac-Mania [a].rom
@@ -97517,7 +97518,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Gremlin Graphics (UK)
   Folder name: ~/Tape2Rom/Gremlin
-
+  Files:
   - English title: 
     Original title: 
     Longname: Auf Wiedersehen Monty [ASCII8 mapper].rom
@@ -98076,7 +98077,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Honeybee Soft - SoftBank (JP)
   Folder name: ~/Tape2Rom/Honeybee
-
+  Files:
   - English title: 3-D Bomberman
     Original title: 三次元ボンバーマン
     Longname: 3-D Bomberman.rom
@@ -98405,7 +98406,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Hudson Soft - Honeybee Soft (Japan)
   Folder name: ~/Tape2Rom/Hudson
-
+  Files:
   - English title: 
     Original title: 
     Longname: Ame no Hi ha Ooisogashi (J).rom
@@ -98826,7 +98827,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Iber Soft (Spain)
   Folder name: ~/Tape2Rom/Iber
-
+  Files:
   - English title: 
     Original title: 
     Longname: Habilit (S).rom
@@ -98971,7 +98972,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Idealogic (Spain)
   Folder name: ~/Tape2Rom/Idealogi
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bouncing Block (S).rom
@@ -99070,7 +99071,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Image Works (UK)
   Folder name: ~/Tape2Rom/Image
-
+  Files:
   - English title: 
     Original title: 
     Longname: Blasteroids [a].rom
@@ -99123,7 +99124,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/KG Soft (Japan)
   Folder name: ~/Tape2Rom/KG
-
+  Files:
   - English title: 
     Original title: 
     Longname: Safari X.rom
@@ -99222,7 +99223,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Kuma Computers (UK)
   Folder name: ~/Tape2Rom/Kuma
-
+  Files:
   - English title: 
     Original title: 
     Longname: Binary Land.rom
@@ -99505,7 +99506,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Level 9 Computing (UK)
   Folder name: ~/Tape2Rom/Level9
-
+  Files:
   - English title: 
     Original title: 
     Longname: Colossal Adventure.rom
@@ -99650,7 +99651,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Livewire (UK)
   Folder name: ~/Tape2Rom/Livewire
-
+  Files:
   - English title: 
     Original title: 
     Longname: Grid Trap [a].rom
@@ -99703,7 +99704,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Loriciels (France)
   Folder name: ~/Tape2Rom/Loriciel
-
+  Files:
   - English title: 
     Original title: 
     Longname: Infernal Miner (F).rom
@@ -99871,7 +99872,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/M.A.D. - Mastertronic (UK)
   Folder name: ~/Tape2Rom/MAD
-
+  Files:
   - English title: 
     Original title: 
     Longname: 180 [ASCII8 mapper].rom
@@ -100614,7 +100615,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/MagicalZoo (Japan)
   Folder name: ~/Tape2Rom/MagicZoo
-
+  Files:
   - English title: 
     Original title: 
     Longname: Outland [a].rom
@@ -100713,7 +100714,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Martech Games (UK)
   Folder name: ~/Tape2Rom/Martech
-
+  Files:
   - English title: 
     Original title: 
     Longname: Eddie Kidd Jump Challenge.rom
@@ -100858,7 +100859,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Melbourne House (UK)
   Folder name: ~/Tape2Rom/Melbourn
-
+  Files:
   - English title: 
     Original title: 
     Longname: Barbarian.rom
@@ -101026,7 +101027,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Methodic Solutions (Netherlands)
   Folder name: ~/Tape2Rom/Methodic
-
+  Files:
   - English title: 
     Original title: 
     Longname: Alpine Ski.rom
@@ -101240,7 +101241,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/MIA (Japan)
   Folder name: ~/Tape2Rom/MIA
-
+  Files:
   - English title: 
     Original title: 
     Longname: Jumping Rabbit.rom
@@ -101293,7 +101294,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Micro value (UK)
   Folder name: ~/Tape2Rom/MicroVal
-
+  Files:
   - English title: 
     Original title: 
     Longname: Attacked.rom
@@ -101415,7 +101416,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Microcabin (Japan)
   Folder name: ~/Tape2Rom/Microcab
-
+  Files:
   - English title: 
     Original title: 
     Longname: Happy Fret.rom
@@ -101514,7 +101515,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Mind Games Espania (Spain)
   Folder name: ~/Tape2Rom/MindGame
-
+  Files:
   - English title: 
     Original title: 
     Longname: Adel (S).rom
@@ -101866,7 +101867,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Mirrorsoft (UK)
   Folder name: ~/Tape2Rom/Mirror
-
+  Files:
   - English title: 
     Original title: 
     Longname: Dynamite Dan [a].rom
@@ -102034,7 +102035,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Mister Chip (Spain)
   Folder name: ~/Tape2Rom/Mr_Chip
-
+  Files:
   - English title: 
     Original title: 
     Longname: Rex Hard.rom
@@ -102110,7 +102111,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Mitsubishi
   Folder name: ~/Tape2Rom/Mitsubis
-
+  Files:
   - English title: Bang! Bang!
     Original title: Bang! Bang!
     Longname: Bang! Bang! [PSG ports fix].rom
@@ -102163,7 +102164,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Monser (Spain)
   Folder name: ~/Tape2Rom/Monser
-
+  Files:
   - English title: Maziacs
     Original title: Maziacs
     Longname: Maziacs [a].rom
@@ -102216,7 +102217,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Morwood Software (UK)
   Folder name: ~/Tape2Rom/Morwood
-
+  Files:
   - English title: Panic Junction
     Original title: Panic Junction
     Longname: Panic Junction.rom
@@ -102269,7 +102270,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Mr. Micro (UK)
   Folder name: ~/Tape2Rom/Mr_Micro
-
+  Files:
   - English title: Aliens
     Original title: Aliens
     Longname: Aliens.rom
@@ -102506,7 +102507,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Nice Ideas (France)
   Folder name: ~/Tape2Rom/NiceIdea
-
+  Files:
   - English title: Illusions
     Original title: Illusions
     Longname: Illusions (F).rom
@@ -102697,7 +102698,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Ocean Software (UK)
   Folder name: ~/Tape2Rom/Ocean
-
+  Files:
   - English title: 
     Original title: 
     Longname: Bat Man [a].rom
@@ -103026,7 +103027,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Omikron Software (Spain)
   Folder name: ~/Tape2Rom/Omikron
-
+  Files:
   - English title: 
     Original title: 
     Longname: Skate Dragon (S) [a].rom
@@ -103079,7 +103080,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Opera Soft (Spain)
   Folder name: ~/Tape2Rom/Opera
-
+  Files:
   - English title: 
     Original title: 
     Longname: Corsarios.rom
@@ -103385,7 +103386,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Orpheus (UK)
   Folder name: ~/Tape2Rom/Orpheus
-
+  Files:
   - English title: 
     Original title: 
     Longname: Boulder Dash [a].rom
@@ -103576,7 +103577,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Others
   Folder name: ~/Tape2Rom/Others
-
+  Files:
   - English title: 3D Pool Maltese - Joe's Pool Challenge
     Original title: 3D Pool Maltese - Joe's Pool Challenge
     Longname: 3D Pool Maltese Joe's Pool Challenge.rom
@@ -104848,7 +104849,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/P.P.P. Ediciones (Spain)
   Folder name: ~/Tape2Rom/PPP
-
+  Files:
   - English title: Pepe Saltarin
     Original title: Pepe Saltarin
     Longname: Pepe Saltarin (S).rom
@@ -104901,7 +104902,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Philips
   Folder name: ~/Tape2Rom/Philips
-
+  Files:
   - English title: Alcyon
     Original title: Alcyon
     Longname: Alcyon.rom
@@ -105207,7 +105208,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Players (UK)
   Folder name: ~/Tape2Rom/Players
-
+  Files:
   - English title: Foot Volley
     Original title: Foot Volley
     Longname: Foot Volley.rom
@@ -105398,7 +105399,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Ponyca (Japan)
   Folder name: ~/Tape2Rom/Ponyca
-
+  Files:
   - English title: Amida
     Original title: Amida
     Longname: Amida.rom
@@ -105773,7 +105774,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Positive (Spain)
   Folder name: ~/Tape2Rom/Positive
-
+  Files:
   - English title: African Trail Simulator
     Original title: African Trail Simulator
     Longname: African Trail Simulator (S) [Adapted by JAM erased].rom
@@ -105918,7 +105919,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Premium III Software Distribution (Netherlands)
   Folder name: ~/Tape2Rom/Premium3
-
+  Files:
   - English title: 747 400b Flight Simulator
     Original title: 747 400b Flight Simulator
     Longname: 747 400b Flight Simulator [a].rom
@@ -106592,7 +106593,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Proein Soft Line (Spain)
   Folder name: ~/Tape2Rom/ProeinSL
-
+  Files:
   - English title: Demonia　- L'intrusion
     Original title: Demonia　- L'intrusion
     Longname: Demonia L'intrusion.rom
@@ -106668,7 +106669,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/PSS (UK)
   Folder name: ~/Tape2Rom/PSS
-
+  Files:
   - English title: Battle for Midway
     Original title: Battle for Midway
     Longname: Battle for Midway.rom
@@ -106951,7 +106952,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Quicksilva (UK)
   Folder name: ~/Tape2Rom/Quicksil
-
+  Files:
   - English title: The Flea
     Original title: Booga-Boo
     Longname: Booga-Boo (The Flea).rom
@@ -107073,7 +107074,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Soft Pro Internationnal
   Folder name: ~/Tape2Rom/SoftPro
-
+  Files:
   - English title: Rabbian
     Original title: Rabbian
     Longname: Rabbian (Soft Pro International).rom
@@ -107126,7 +107127,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Software Projects (UK)
   Folder name: ~/Tape2Rom/SoftProj
-
+  Files:
   - English title: Manic Miner
     Original title: Manic Miner
     Longname: Manic Miner.rom
@@ -107202,7 +107203,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Sony
   Folder name: ~/Tape2Rom/Sony
-
+  Files:
   - English title: Binary Land
     Original title: Binary Land
     Longname: Binary Land (Sony).rom
@@ -107278,7 +107279,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Sprites (France)
   Folder name: ~/Tape2Rom/Sprites
-
+  Files:
   - English title: Sprites Man
     Original title: Sprites Man
     Longname: Sprites Man.rom
@@ -107354,7 +107355,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/SVI (US)
   Folder name: ~/Tape2Rom/SVI
-
+  Files:
   - English title: Castle Combat
     Original title: Castle Combat
     Longname: Castle Combat.rom
@@ -107453,7 +107454,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/System 4 (Spain)
   Folder name: ~/Tape2Rom/System4
-
+  Files:
   - English title: Amoto's Puf
     Original title: Amoto's Puf
     Longname: Amoto's Puf (S).rom
@@ -107621,7 +107622,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/T&E Soft (Japan)
   Folder name: ~/Tape2Rom/T&E_Soft
-
+  Files:
   - English title: Hydlide
     Original title: Hydlide
     Longname: Hydlide [tape].rom
@@ -107720,7 +107721,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/The Bytebusters (Netherlands)
   Folder name: ~/Tape2Rom/Bytebust
-
+  Files:
   - English title: Break In
     Original title: Break In
     Longname: Break In.rom
@@ -107865,7 +107866,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Toshiba
   Folder name: ~/Tape2Rom/Toshiba
-
+  Files:
   - English title: Battleship Clapton II
     Original title: Battleship Clapton II
     Longname: Battleship Clapton II [tape].rom
@@ -107895,7 +107896,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Ultimate Play The Game (UK)
   Folder name: ~/Tape2Rom/Ultimate
-
+  Files:
   - English title: Cyberun
     Original title: Cyberun
     Longname: Cyberun (A.C.G.).rom
@@ -108086,7 +108087,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/US Gold (UK)
   Folder name: ~/Tape2Rom/US_Gold
-
+  Files:
   - English title: 10th Frame
     Original title: 10th Frame
     Longname: 10th Frame.rom
@@ -108185,7 +108186,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Vifi International (France)
   Folder name: ~/Tape2Rom/Vifi
-
+  Files:
   - English title: Octopuss MSX Panic
     Original title: Octopuss MSX Panic
     Longname: Octopuss MSX Panic (Vifi International).rom
@@ -108215,7 +108216,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Virgin Game Roms (UK)
   Folder name: ~/Tape2Rom/Virgin
-
+  Files:
   - English title: Sorcery
     Original title: Sorcery
     Longname: Sorcery.rom
@@ -108245,7 +108246,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Zafiro - ZCobra (Spain)
   Folder name: ~/Tape2Rom/Zafiro
-
+  Files:
   - English title: The A-Team
     Original title: El Equipo A
     Longname: El Equipo A.rom
@@ -108275,7 +108276,7 @@
 
 - Folder longname: ~/Tape Converted to ROM/Zigurat (Spain)
   Folder name: ~/Tape2Rom/Zigurat
-
+  Files:
   - English title: Afteroids
     Original title: Afteroids
     Longname: Afteroids (S).rom
@@ -108627,7 +108628,7 @@
 
 - Folder longname: ~/Unclassified Game Roms
   Folder name: ~/Unclassd
-
+  Files:
   - English title: 2048 Simulator
     Original title: 2048 Simulator
     Longname: 2048 Simulator [2015-08-02].rom
@@ -108933,7 +108934,7 @@
 
 - Folder longname: ~/Application Roms
   Folder name: ~/Applis
-
+  Files:
   - English title: Basic Compiler
     Original title: Basic Compiler
     Longname: Basic Compiler.rom
@@ -109929,7 +109930,7 @@
 
 - Folder longname: ~/Application Roms/ASCII
   Folder name: ~/Applis
-
+  Files:
   - English title: MSX-Aid
     Original title: MSX-Aid
     Longname: MSX-Aid.rom
@@ -110143,7 +110144,7 @@
 
 - Folder longname: ~/Application Roms/HAL Laboratory
   Folder name: ~/Applis/HAL
-
+  Files:
   - English title: Animation Editor - Eddy II
     Original title: Anime Editor - Eddy II
     Longname: Anime Editor Eddy II.rom
@@ -110219,7 +110220,7 @@
 
 - Folder longname: ~/Application Roms/Konami
   Folder name: ~/Applis/Konami
-
+  Files:
   - English title: Konami's Synthesizer
     Original title: ShinSeSizer
     Longname: ShinSeSizer - Konami's Synthesizer.rom
@@ -110410,7 +110411,7 @@
 
 - Folder longname: ~/Application Roms/Nippon Electronics (NEOS)
   Folder name: ~/Applis/NEOS
-
+  Files:
   - English title: Jigsaw Puzzle
     Original title: ジグソーパズル
     Longname: Jigsaw Puzzle.rom
@@ -110440,7 +110441,7 @@
 
 - Folder longname: ~/Application Roms/Panasonic
   Folder name: ~/Applis/Pansonic
-
+  Files:
   - English title: FM Pana Amusement Cartridge
     Original title: FM Pana Amusement Cartridge
     Longname: FM Pana Amusement Cartridge (J).rom
@@ -110562,7 +110563,7 @@
 
 - Folder longname: ~/Application Roms/Sanyo
   Folder name: ~/Applis/Sanyo
-
+  Files:
   - English title: Music studio G7
     Original title: Music studio G7
     Longname: Music studio G7.rom
@@ -110615,7 +110616,7 @@
 
 - Folder longname: ~/Application Roms/Sony
   Folder name: ~/Applis/Sony
-
+  Files:
   - English title: Farm Kit
     Original title: Farm Kit
     Longname: Farm Kit.rom
@@ -110691,7 +110692,7 @@
 
 - Folder longname: ~/Application Roms/Yamaha
   Folder name: ~/Applis/Yamaha
-
+  Files:
   - English title: DX7 Voicing Program
     Original title: DX7 Voicing Program
     Longname: DX7 Voicing Program.rom
@@ -111158,7 +111159,7 @@
 
 - Folder longname: ~/Sega SG-1000 Roms
   Folder name: ~/SG-1000
-
+  Files:
   - English title: 007 James Bond
     Original title: 
     Longname: 007 James Bond [v2.6] [40K] [Othello Multivision].sg
@@ -115305,7 +115306,7 @@
 
 - Folder longname: ~/Sega SG-1000 Homebrews
   Folder name: ~/SG1000HB
-
+  Files:
   - English title: Libreway
     Original title: 
     Longname: Libreway [2014-06-16] (Paulo Silva).sg
@@ -115496,7 +115497,7 @@
 
 - Folder longname: ~/Roms for MarkIII - SG-1000 with RAM expansion
   Folder name: ~/MarkIII
-
+  Files:
   - English title: Alibaba
     Original title: Alibaba and 40 Thieves
     Longname: Alibaba and 40 Thieves [KR] (Hi-Com).sms
@@ -116216,7 +116217,7 @@
 
 - Folder longname: ~/Utility Roms
   Folder name: ~/Utility
-
+  Files:
   - English title: ASM Cocar
     Original title: ASM Cocar
     Longname: ASM Cocar [v5.2] (MSX Informatica).rom
@@ -116361,7 +116362,7 @@
 
 - Folder longname: ~/Demonstration Roms
   Folder name: ~/Demos
-
+  Files:
   - English title: 3D maze test
     Original title: 3D maze test
     Longname: 3D maze test [SCC].rom
@@ -116868,4 +116869,4 @@
     Original Dump: 
     Remark: 
 
----
+#---
