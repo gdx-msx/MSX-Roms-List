@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 02-10-2022 by gdx
+    MSX Roms Database version 09-10-2022 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -8228,7 +8228,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Baa
@@ -12653,7 +12653,7 @@
     Longname: Yellow Submarine (TheLink).rom
     sha1: 637c11a7ae7690e175570bbc6a6dcbce0a42d965
     Name: TLYelSub.ROM
-    Genre: Shoot'em up
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: 
     Size: 16kB
@@ -20392,6 +20392,52 @@
   Folder name: ~/MSXdev/2022
 
   Files:
+  - English title: 1937
+    Original title: 1937
+    Longname: 1937 [v1.0].rom
+    sha1: c97591331046562a69d64d40210d39972955fc29
+    Name: 1937-100.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: 1937
+    Original title: 1937
+    Longname: 1937 [v1.0].rom
+    sha1: 866832b6a5e3f2a0f5c2e0a0ad5d1594070f539e
+    Name: 1937S100.ROM
+    Genre: Platform
+    Language: Spainish
+    Country: Spain
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
   - English title: Automania - Manic Mechanic
     Original title: Automania - Manic Mechanic
     Longname: Automania Manic Mechanic [v1.0].rom
@@ -20406,11 +20452,34 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: MSXdev
     Developer: Ludogix ltd
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Balloon Buster
+    Original title: Balloon Buster
+    Longname: Balloon Buster [v1.0].rom
+    sha1: d81a11ba78fe472355740a96c8681cc3281fd2a0
+    Name: BallBust.ROM
+    Genre: Shooting
+    Language: English
+    Country: 
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: Hakogame
     Release: 2022
     Original Dump: Yes
     Remark: 
@@ -20576,6 +20645,52 @@
     Original Dump: Yes
     Remark: Version very buggy.
 
+  - English title: DICED - Tournament
+    Original title: DICED - Tournament
+    Longname: DICED - Tournament [v1.0].rom
+    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
+    Name: DICED100.ROM
+    Genre: Dice
+    Language: English
+    Country: Germany
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: Daniel Simon (DannyMedium) & Michael Stellmann (Mi-Chi)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Lilly's Saga The Stones of Evergreen
+    Original title: Lilly's Saga The Stones of Evergreen
+    Longname: Lilly's Saga The Stones of Evergreen [v1.0].rom
+    sha1: e0f4d38b0df46b7326c3a39e1ea41887946b7f50
+    Name: LillySag.ROM
+    Genre: Platform
+    Language: English
+    Country: Norway
+    Size: 
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG, MSX-Music
+    Signature: None
+    Publisher: MSXdev
+    Developer: Fabulous 8bit (Bengalack)
+    Release: 2022
+    Original Dump: Yes
+    Remark: Free version (no save). The premium version is sold MSX Cartridge Shop.
+
   - English title: Memory
     Original title: Memory
     Longname: Memory [v1.0].rom
@@ -20710,6 +20825,29 @@
     Signature: None
     Publisher: MSXdev
     Developer: Uninteresting
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSXmas
+    Original title: MSXmas
+    Longname: MSXmas [v1.0].rom
+    sha1: e6f648c2e215ea1ef1ec9ea6619846e6b3b9656d
+    Name: MSXmas10.ROM
+    Genre: Catching up
+    Language: English
+    Country: Brazil
+    Size: 
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB (16kB)
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: André Baptista
     Release: 2022
     Original Dump: Yes
     Remark: 
@@ -20900,7 +21038,7 @@
 
   - English title: Space Cat
     Original title: Space Cat
-    Longname: Wash Man [v1.0].rom
+    Longname: Space Cat [v1.0].rom
     sha1: e2ab61dce070892aabcfa98bfe8d525619cd617a
     Name: SpaceCat.ROM
     Genre: Landing
@@ -20917,6 +21055,29 @@
     Signature: None
     Publisher: MSXdev
     Developer: Platty Soft
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: The Circus Mystery
+    Original title: The Circus Mystery
+    Longname: The Circus Mystery [v1.4].rom
+    sha1: a759e464c7077abc14f48cbcfd3c860df16b2ac1
+    Name: The Circus Mystery.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Signature: None
+    Publisher: MSXdev
+    Developer: Dionso
     Release: 2022
     Original Dump: Yes
     Remark: 
@@ -31981,6 +32142,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Banana
+    Original title: BANANA
+    Longname: Banana (Studio Gen).rom
+    sha1: 7a40237867f62611d0e976666451648edb80753c
+    Name: Banana.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: ASCII & Studio Gen
+    Developer: Studio Gen
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
   - English title: Bokosuka Wars
     Original title: ボコスカウォーズ
     Longname: Bokosuka Wars.rom
@@ -34778,7 +34962,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: ASCII Corporation
@@ -34801,7 +34985,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: ASCII Corporation
@@ -34824,7 +35008,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: ASCII Corporation
@@ -45563,7 +45747,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Humming Bird Soft
@@ -45586,7 +45770,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Humming Bird Soft
@@ -45609,7 +45793,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Humming Bird Soft
@@ -45632,7 +45816,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Humming Bird Soft
@@ -47643,7 +47827,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47666,7 +47850,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47689,7 +47873,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47712,7 +47896,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47735,7 +47919,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47758,7 +47942,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47781,7 +47965,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47804,7 +47988,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47827,7 +48011,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47850,7 +48034,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -47873,7 +48057,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -47896,7 +48080,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -47919,7 +48103,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47942,7 +48126,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47965,7 +48149,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -47988,7 +48172,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48011,7 +48195,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48034,7 +48218,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48057,7 +48241,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48080,7 +48264,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48103,7 +48287,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48126,7 +48310,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48149,7 +48333,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48172,7 +48356,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48195,7 +48379,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48218,7 +48402,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48241,7 +48425,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48264,7 +48448,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48287,7 +48471,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48310,7 +48494,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48333,7 +48517,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48356,7 +48540,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48379,7 +48563,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48402,7 +48586,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48448,7 +48632,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48471,7 +48655,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48494,7 +48678,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48517,7 +48701,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48540,7 +48724,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48563,7 +48747,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48586,7 +48770,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48609,7 +48793,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -48632,7 +48816,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48655,7 +48839,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48678,7 +48862,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48701,7 +48885,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48724,7 +48908,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48747,7 +48931,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48770,7 +48954,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48793,7 +48977,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48816,7 +49000,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48839,7 +49023,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48862,7 +49046,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48885,7 +49069,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48908,7 +49092,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48931,7 +49115,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48954,7 +49138,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -48977,7 +49161,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49000,7 +49184,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49023,7 +49207,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49046,7 +49230,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC in slot2
     Signature: None
     Publisher: Konami
@@ -49069,7 +49253,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49092,7 +49276,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49115,7 +49299,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49138,7 +49322,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49161,7 +49345,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49184,7 +49368,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49207,7 +49391,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49230,7 +49414,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49253,7 +49437,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49276,7 +49460,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49299,7 +49483,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49322,7 +49506,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49345,7 +49529,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49368,7 +49552,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49391,7 +49575,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49414,7 +49598,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49437,7 +49621,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49460,7 +49644,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49483,7 +49667,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49506,7 +49690,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49529,7 +49713,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -49736,7 +49920,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49759,7 +49943,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49782,7 +49966,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49805,7 +49989,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49828,7 +50012,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49851,7 +50035,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49874,7 +50058,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49897,7 +50081,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49920,7 +50104,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49943,7 +50127,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49966,7 +50150,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -49989,7 +50173,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50012,7 +50196,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50035,7 +50219,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50058,7 +50242,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50081,7 +50265,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -50104,7 +50288,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50127,7 +50311,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50150,7 +50334,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50173,7 +50357,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50196,7 +50380,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50219,7 +50403,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50242,7 +50426,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50265,7 +50449,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50288,7 +50472,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50380,7 +50564,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50403,7 +50587,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50426,7 +50610,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50449,7 +50633,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50472,7 +50656,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50495,7 +50679,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50518,7 +50702,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50610,7 +50794,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50679,7 +50863,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50702,7 +50886,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50725,7 +50909,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50748,7 +50932,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50771,7 +50955,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50794,7 +50978,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50817,7 +51001,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50840,7 +51024,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -50863,7 +51047,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: Dual/Single PSG, SCC
     Signature: None
     Publisher: Konami
@@ -50886,7 +51070,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: Dual/Single PSG, SCC
     Signature: None
     Publisher: Konami
@@ -50909,7 +51093,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: Dual/Single PSG, SCC
     Signature: None
     Publisher: Konami
@@ -50932,7 +51116,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: Dual/Single PSG, SCC
     Signature: None
     Publisher: Konami
@@ -50955,7 +51139,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: Dual/Single PSG, SCC
     Signature: None
     Publisher: Konami
@@ -50978,7 +51162,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51001,7 +51185,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51024,7 +51208,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -51323,7 +51507,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51346,7 +51530,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51369,7 +51553,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51392,7 +51576,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51415,7 +51599,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51438,7 +51622,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51461,7 +51645,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51484,7 +51668,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51507,7 +51691,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51530,7 +51714,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51553,7 +51737,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51576,7 +51760,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51599,7 +51783,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51622,7 +51806,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51645,7 +51829,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51668,7 +51852,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51691,7 +51875,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51714,7 +51898,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51737,7 +51921,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51760,7 +51944,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51783,7 +51967,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51806,7 +51990,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51829,7 +52013,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51852,7 +52036,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51875,7 +52059,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51898,7 +52082,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51921,7 +52105,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51944,7 +52128,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51967,7 +52151,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -51990,7 +52174,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52013,7 +52197,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52036,7 +52220,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52059,7 +52243,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52082,7 +52266,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52105,7 +52289,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52128,7 +52312,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52151,7 +52335,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52174,7 +52358,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52197,7 +52381,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52220,7 +52404,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52243,7 +52427,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52266,7 +52450,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52289,7 +52473,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52312,7 +52496,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52335,7 +52519,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52358,7 +52542,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52381,7 +52565,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52404,7 +52588,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52427,7 +52611,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52450,7 +52634,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52473,7 +52657,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52496,7 +52680,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52519,7 +52703,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52542,7 +52726,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52565,7 +52749,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52588,7 +52772,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52611,7 +52795,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -52634,7 +52818,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52657,7 +52841,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52680,7 +52864,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52703,7 +52887,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52726,7 +52910,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52749,7 +52933,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52772,7 +52956,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52795,7 +52979,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52818,7 +53002,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52841,7 +53025,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52864,7 +53048,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52887,7 +53071,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52910,7 +53094,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52933,7 +53117,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52956,7 +53140,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -52979,7 +53163,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53002,7 +53186,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53025,7 +53209,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53048,7 +53232,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53071,7 +53255,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53094,7 +53278,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53117,7 +53301,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53140,7 +53324,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53163,7 +53347,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53186,7 +53370,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53209,7 +53393,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53232,7 +53416,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53255,7 +53439,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53278,7 +53462,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53301,7 +53485,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53347,7 +53531,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53370,7 +53554,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53393,7 +53577,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53416,7 +53600,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53439,7 +53623,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53462,7 +53646,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53485,7 +53669,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53508,7 +53692,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53531,7 +53715,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53554,7 +53738,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53577,7 +53761,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53600,7 +53784,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53623,7 +53807,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53646,7 +53830,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53669,7 +53853,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53692,7 +53876,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53715,7 +53899,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53738,7 +53922,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53761,7 +53945,7 @@
     RAM: 648kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53784,7 +53968,7 @@
     RAM: 648kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53807,7 +53991,7 @@
     RAM: 648kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53830,7 +54014,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53853,7 +54037,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53876,7 +54060,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -53899,7 +54083,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53922,7 +54106,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53945,7 +54129,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -53968,7 +54152,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -53991,7 +54175,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54014,7 +54198,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -54037,7 +54221,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -54060,7 +54244,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -54083,7 +54267,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -54106,7 +54290,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54129,7 +54313,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54152,7 +54336,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54175,7 +54359,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54198,7 +54382,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54221,7 +54405,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54244,7 +54428,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54267,7 +54451,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -54382,7 +54566,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54451,7 +54635,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54474,7 +54658,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54497,7 +54681,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54520,7 +54704,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54796,7 +54980,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54842,7 +55026,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54865,7 +55049,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54888,7 +55072,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54911,7 +55095,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54934,7 +55118,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -54957,7 +55141,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55026,7 +55210,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55049,7 +55233,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55072,7 +55256,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55095,7 +55279,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55118,7 +55302,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55141,7 +55325,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55164,7 +55348,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55187,7 +55371,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55210,7 +55394,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55241,7 +55425,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55264,7 +55448,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55287,7 +55471,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55310,7 +55494,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55333,7 +55517,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55356,7 +55540,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55379,7 +55563,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55402,7 +55586,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55425,7 +55609,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55448,7 +55632,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55471,7 +55655,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55494,7 +55678,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55517,7 +55701,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55540,7 +55724,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55563,7 +55747,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55586,7 +55770,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55609,7 +55793,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55632,7 +55816,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55655,7 +55839,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55678,7 +55862,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55701,7 +55885,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55724,7 +55908,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55747,7 +55931,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55770,7 +55954,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55793,7 +55977,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55816,7 +56000,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -55839,7 +56023,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: Floppy disk, Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55862,7 +56046,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55885,7 +56069,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Tape
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55908,7 +56092,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55931,7 +56115,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55954,7 +56138,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -55977,7 +56161,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56000,7 +56184,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56023,7 +56207,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56046,7 +56230,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56069,7 +56253,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56092,7 +56276,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56115,7 +56299,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -56138,7 +56322,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and Dual SCC
     Signature: None
     Publisher: Konami
@@ -56161,7 +56345,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56184,7 +56368,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: Konami
@@ -56207,7 +56391,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -56230,7 +56414,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -56253,7 +56437,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Konami
@@ -59307,7 +59491,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59353,7 +59537,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom (original)
@@ -59468,7 +59652,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -59491,7 +59675,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -59514,7 +59698,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -59537,7 +59721,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -59560,7 +59744,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -59583,7 +59767,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and OPL4
     Signature: None
     Publisher: Taito (original)
@@ -59606,7 +59790,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and OPL4
     Signature: None
     Publisher: Taito (original)
@@ -59629,7 +59813,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -59652,7 +59836,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59675,7 +59859,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59698,7 +59882,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59721,7 +59905,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito / Nidecom
@@ -59744,7 +59928,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59767,7 +59951,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59790,7 +59974,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59813,7 +59997,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59836,7 +60020,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59859,7 +60043,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59882,7 +60066,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59905,7 +60089,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59928,7 +60112,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59951,7 +60135,7 @@
     RAM: kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59974,7 +60158,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -59997,7 +60181,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60020,7 +60204,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -60043,7 +60227,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -60066,7 +60250,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -60089,7 +60273,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -60112,7 +60296,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito (original)
@@ -60135,7 +60319,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60158,7 +60342,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60181,7 +60365,7 @@
     RAM: 8kB / 64kB
     VRAM: 16kB / 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60204,7 +60388,7 @@
     RAM: 8kB / 64kB
     VRAM: 16kB / 64kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom (original)
@@ -60227,7 +60411,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60250,7 +60434,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60273,7 +60457,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -60296,7 +60480,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60319,7 +60503,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60342,7 +60526,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60365,7 +60549,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60388,7 +60572,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: Floppy disk
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60411,7 +60595,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60434,7 +60618,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Nidecom Soft
@@ -60457,7 +60641,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Taito
@@ -60749,7 +60933,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Pack-in-Video
@@ -60772,7 +60956,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Pack-in-Video
@@ -62229,7 +62413,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Ponyca
@@ -66638,7 +66822,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony
@@ -67167,7 +67351,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony
@@ -67190,7 +67374,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony
@@ -67213,7 +67397,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony
@@ -68317,7 +68501,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony
@@ -69002,6 +69186,75 @@
   Folder name: ~/Japan/T&E_Soft
 
   Files:
+  - English title: 3-D Golf Simulation
+    Original title: 3-Dゴルフシミュレーション
+    Longname: 3-D Golf Simulation (J).rom
+    sha1: f8164d3872b5d54eaeafc6de3bb98a472f0c828d
+    Name: 3DGolfS.ROM
+    Genre: Golf
+    Language: Japanese
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSXJapanese MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: T&E Soft, Toshiba Emi
+    Developer: T&E Soft
+    Release: 1983
+    Original Dump: 
+    Remark: 
+
+  - English title: 3-D Golf Simulation
+    Original title: 3-Dゴルフシミュレーション
+    Longname: 3-D Golf Simulation (J) [a].rom
+    sha1: 6fe8c1725c35d85a5e489c0c8d21134def09ecfb
+    Name: 3DGolfSA.ROM
+    Genre: Golf
+    Language: Japanese
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: Japanese MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: T&E Soft, Toshiba Emi
+    Developer: T&E Soft
+    Release: 1983
+    Original Dump: 
+    Remark: 
+
+  - English title: 3-D Golf Simulation Turbo
+    Original title: 3-Dゴルフシミュレーション 快速版
+    Longname: 3-D Golf Simulation Turbo.rom
+    sha1: 9a63d48c4fc05e76c9de25e5c5f2a0c99b5d1be4
+    Name: 3DGolfSH.ROM
+    Genre: Golf
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: T&E Soft, Toshiba Emi
+    Developer: T&E Soft
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
   - English title: Battleship Clapton II
     Original title: バトルシップ・クラプトンII
     Longname: Battleship Clapton II.rom
@@ -69016,7 +69269,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69039,7 +69292,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69062,7 +69315,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69085,7 +69338,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69108,7 +69361,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69131,7 +69384,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69153,8 +69406,8 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: 2kB SRAM
-    Control: Keyboard, Joystick
+    Data saving: 2kB SRAM in the cartridge
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69176,8 +69429,8 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: 2kB SRAM
-    Control: Keyboard, Joystick
+    Data saving: 2kB SRAM in the cartridge
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69199,13 +69452,13 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: 2kB SRAM
-    Control: Keyboard, Joystick
+    Data saving: 2kB SRAM in the cartridge
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft (original)
     Developer: T&E Soft
-    Release: 1986
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -69222,13 +69475,13 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: 2kB SRAM
-    Control: Keyboard, Joystick
+    Data saving: 2kB SRAM in the cartridge
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft (original)
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -69246,12 +69499,12 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987
     Original Dump: Yes
     Remark: 
 
@@ -69269,13 +69522,13 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: T&E Soft
+    Release: 1987 (original)
+    Original Dump: No
     Remark: 
 
   - English title: Hydlide 3 - The Space Memories
@@ -69292,12 +69545,12 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and MSX-Music
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69315,12 +69568,12 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and MSX-Music
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69338,12 +69591,12 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69361,12 +69614,12 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69384,12 +69637,12 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987
     Original Dump: Yes
     Remark: 
 
@@ -69407,12 +69660,12 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and MSX-Music
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69430,13 +69683,13 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: T&E Soft
+    Release: 1987 (original)
+    Original Dump: No
     Remark: 
 
   - English title: Hydlide 3 - The Space Memories
@@ -69453,12 +69706,12 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
-    Developer: 
-    Release: 
+    Developer: T&E Soft
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -69476,7 +69729,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft, Toshiba
@@ -69499,7 +69752,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft, Toshiba
@@ -69522,12 +69775,12 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft, Toshiba
     Developer: T&E Soft
-    Release: 
+    Release: 1983 (original)
     Original Dump: No
     Remark: 
 
@@ -69545,12 +69798,12 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft, Toshiba (original)
     Developer: T&E Soft
-    Release: 
+    Release: 1983 (original)
     Original Dump: No
     Remark: 
 
@@ -69568,12 +69821,12 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft, Toshiba (original)
     Developer: T&E Soft
-    Release: 
+    Release: 1983 (original)
     Original Dump: No
     Remark: 
 
@@ -69591,17 +69844,17 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG and SCC
     Signature: None
     Publisher: T&E Soft, Toshiba (original)
     Developer: T&E Soft
-    Release: 1983
+    Release: 1983 (original)
     Original Dump: No
     Remark: 
 
   - English title: Super Laydock - Mission Striker
-    Original title: Super Laydock - Mission Striker
+    Original title: スーパーレイドック - Mission Striker
     Longname: Super Laydock Mission Striker.rom
     sha1: 2dfbca8f5cc3a9e9d151382ebe0da410f5393eaf
     Name: SLaydock.ROM
@@ -69614,7 +69867,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69624,7 +69877,7 @@
     Remark: 
 
   - English title: Super Laydock - Mission Striker
-    Original title: Super Laydock - Mission Striker
+    Original title: スーパーレイドック - Mission Striker
     Longname: Super Laydock Mission Striker [a].rom
     sha1: 83d7dfc1693e73d2a6ef597a67e091071c479298
     Name: SLaydoKA.ROM
@@ -69637,7 +69890,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69647,7 +69900,7 @@
     Remark: 
 
   - English title: Super Laydock - Mission Striker
-    Original title: Super Laydock - Mission Striker
+    Original title: スーパーレイドック - Mission Striker
     Longname: Super Laydock Mission Striker [SCC mapper].rom
     sha1: cf00fbe6c959ae4cf43558a023c7cb7789570f12
     Name: SLaydoKS.ROM
@@ -69660,7 +69913,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69670,7 +69923,7 @@
     Remark: 
 
   - English title: Super Laydock - Mission Striker
-    Original title: Super Laydock - Mission Striker
+    Original title: スーパーレイドック - Mission Striker
     Longname: Super Laydock Mission Striker [SCC mapper by Sector28bis].rom
     sha1: d4ed4f21a55da81b6cd974c421f4e8f262af07ef
     Name: SLaydKSS.ROM
@@ -69683,7 +69936,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: T&E Soft
@@ -69701,109 +69954,109 @@
 
   Files:
   - English title: Cannon Turbo
-    Original title: 
+    Original title: キャノンターボ
     Longname: Cannon Turbo.rom
     sha1: 1765ab792d9d6e9df8458f3aefee9dc399f9bb63
     Name: CannonTu.ROM
-    Genre: 
+    Genre: Racing
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Takeru (Brother Industries)
-    Developer: 
-    Release: 
+    Developer: E.L.S.
+    Release: 1987
     Original Dump: 
     Remark: 
 
   - English title: Cannon Turbo
-    Original title: 
+    Original title: キャノンターボ
     Longname: Cannon Turbo [a].rom
     sha1: a571134028339766db4ec487a3641fb625dc62b5
     Name: CannonTA.ROM
-    Genre: 
+    Genre: Racing
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Takeru (Brother Industries)
-    Developer: 
-    Release: 
+    Developer: E.L.S.
+    Release: 1987
     Original Dump: 
     Remark: 
 
   - English title: Cannon Turbo
-    Original title: 
+    Original title: キャノンターボ
     Longname: Cannon Turbo [a-overdumped].rom
     sha1: e997d8f02e413d2df5aed2bf7e79986c4c851d34
     Name: CannonTA Overdumped.ROM
-    Genre: 
+    Genre: Racing
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Takeru (Brother Industries)
-    Developer: 
-    Release: 
+    Developer: E.L.S.
+    Release: 1987
     Original Dump: 
     Remark: 
 
   - English title: Rally
-    Original title: 
+    Original title: ラリ−
     Longname: Rally (Zap).rom
     sha1: 209d3248fbb009151f0cd9325a5a75edc7330c65
     Name: RallyZap.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Takeru (Brother Industries)
-    Developer: 
+    Developer: Zap
     Release: 
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Takeru　Legend
+    Original title: タケル伝説
     Longname: Takeru Densetsu.rom
     sha1: 53337b61d7b86e6d18501967fcfc0908a00cc55c
     Name: TakeruDn.ROM
-    Genre: 
+    Genre: Fighting
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -69816,17 +70069,17 @@
     Remark: 
 
   - English title: Yellow Submarine
-    Original title: 
+    Original title: イエローサブマリン
     Longname: Yellow Submarine.rom
     sha1: 939ed6053363112c34766335b93d0ddf25059468
     Name: YelSubma.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -69839,124 +70092,24 @@
     Remark: 
 
   - English title: Zanac 2nd Version
-    Original title: 
+    Original title: ザナック 人工知能搭載ゲーム
     Longname: Zanac 2nd Version (Takeru).rom
     sha1: ffa8fc5756f7e1d1ef168618f5606aca10f8b2c7
     Name: TZanacV2.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Takeru (Brother Industries)
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Game Roms From Japan: Techno soft ##
-#
-
-- Folder longname: ~/Roms From Japan/Techno soft
-  Folder name: ~/Japan/Techno
-
-  Files:
-  - English title: 
-    Original title: 
-    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.00].rom
-    sha1: ee7dbd36a2b0bbae11c68ac4de75077f283bed05
-    Name: BatTa100.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Techno soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.03].rom
-    sha1: 9b58c70b976ca1d841185de862e7d663ec9db56b
-    Name: BatTa103.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Techno soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.04].rom
-    sha1: f86a7945b34c97cc58d5ee27964968870bfcef93
-    Name: BatTa104.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Techno soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Jong Yuu (J).rom
-    sha1: c6227431bfbc3aa921120ec3da7f6429a1a799a0
-    Name: JongYuu.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Techno soft
-    Developer: 
+    Developer: Compile
     Release: 
     Original Dump: 
     Remark: 
@@ -69970,58 +70123,12 @@
 
   Files:
   - English title: Lot Lot
-    Original title: 
+    Original title: ロットロット
     Longname: Lot Lot (Tokuma Shoten).rom
     sha1: 3c2db6321ee84e3690757c08ade9dc096bd209b3
     Name: LotLot.ROM
-    Genre: 
+    Genre: Action
     Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Technopolis Soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Lot Lot
-    Original title: 
-    Longname: Lot Lot (Tokuma Shoten) [a].rom
-    sha1: ca8753b2260214a13890023ee1bb293c585ca6d3
-    Name: LotLot-A.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Technopolis Soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Professional Baseball
-    Original title: プロフェッショナルベースボール
-    Longname: Professional Baseball (J).rom
-    sha1: 24c5cbf1ee4caa6d83a5aa7a5f3818692542fda8
-    Name: PBaseBal.ROM
-    Genre: Baseball
-    Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
@@ -70033,78 +70140,224 @@
     Sound: PSG
     Signature: None
     Publisher: Technopolis Soft
-    Developer: 
+    Developer: Tokuma Shoten
     Release: 1986
     Original Dump: 
     Remark: 
 
+  - English title: Lot Lot
+    Original title: ロットロット
+    Longname: Lot Lot (Tokuma Shoten) [a].rom
+    sha1: ca8753b2260214a13890023ee1bb293c585ca6d3
+    Name: LotLot-A.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Technopolis Soft
+    Developer: Tokuma Shoten
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: Professional Baseball
+    Original title: プロフェッショナルベースボール
+    Longname: Professional Baseball (J).rom
+    sha1: 24c5cbf1ee4caa6d83a5aa7a5f3818692542fda8
+    Name: PBaseBal.ROM
+    Genre: Baseball
+    Language: Japanese
+    Country: Japan
+    Size: Baseball
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Technopolis Soft
+    Developer: Technopolis Soft
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
   - English title: Never forget to Nausicaa Game Forever
-    Original title: 
+    Original title: 忘れじのナウシカ・ゲーム
     Longname: Wasure no Nausicaa Game - Never forget to Nausicaa Game Forever.rom
     sha1: fb968a2407eee00c683af3ac19e88015341564ad
     Name: Nausica.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Technopolis Soft
-    Developer: 
-    Release: 
+    Developer: Technopolis Soft
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Never forget to Nausicaa Game Forever
+    Original title: 忘れじのナウシカ・ゲーム
     Longname: Wasure no Nausicaa Game - Never forget to Nausicaa Game Forever [a].rom
     sha1: 2f7bc72c7a3f34438a2ac37626c50773a1a7705d
     Name: NausicaA.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Technopolis Soft
-    Developer: 
-    Release: 
+    Developer: Technopolis Soft
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Never forget to Nausicaa Game Forever
+    Original title: 忘れじのナウシカ・ゲーム
     Longname: Wasure no Nausicaa Game - Never forget to Nausicaa Game Forever [PSG ports fix].rom
     sha1: 5701b91354980d0e45722f21a3a48b6e2d309023
     Name: NausicPf.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Technopolis Soft
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Technopolis Soft
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: 
+
+#
+## Game Roms From Japan: Tecno soft ##
+#
+
+- Folder longname: ~/Roms From Japan/Tecno soft
+  Folder name: ~/Japan/Tecno
+
+  Files:
+  - English title: Batten Badger's Adventure
+    Original title: ばってんタヌキの大冒険
+    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.00].rom
+    sha1: ee7dbd36a2b0bbae11c68ac4de75077f283bed05
+    Name: BatTa100.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Techno soft
+    Developer: Techno soft
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Batten Badger's Adventure
+    Original title: ばってんタヌキの大冒険
+    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.03].rom
+    sha1: 9b58c70b976ca1d841185de862e7d663ec9db56b
+    Name: BatTa103.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: Password
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Techno soft
+    Developer: Techno soft
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Batten Badger's Adventure
+    Original title: ばってんタヌキの大冒険
+    Longname: Batten Tanuki no Daiboken (Batten Badger's Adventure) [v1.04].rom
+    sha1: f86a7945b34c97cc58d5ee27964968870bfcef93
+    Name: BatTa104.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Techno soft
+    Developer: Techno soft
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Mahjong friends
+    Original title: 雀友
+    Longname: JanYuu (Mahjong friends) (J).rom
+    sha1: c6227431bfbc3aa921120ec3da7f6429a1a799a0
+    Name: JongYuu.ROM
+    Genre: Mahjong
+    Language: Japanese
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Techno soft
+    Developer: Techno soft
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
 #
@@ -70115,8 +70368,8 @@
   Folder name: ~/Japan/Telenet
 
   Files:
-  - English title: Albatross Tournament Golf
-    Original title: 
+  - English title: Albatross - Tournament Golf
+    Original title: アルバトロス 〜Tournament Golf〜
     Longname: Albatross Tournament Golf (J).rom
     sha1: ec5111e3b06d64ef51196ff87448e1c62be4cdd8
     Name: AlbaGolf.ROM
@@ -70125,21 +70378,21 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1986
     Original Dump: 
     Remark: 
 
-  - English title: Albatross Tournament Golf
-    Original title: 
+  - English title: Albatross - Tournament Golf
+    Original title: アルバトロス 〜Tournament Golf〜
     Longname: Albatross Tournament Golf (J) [a].rom
     sha1: 3a9e1020b693b244f8437e938cdc7e0917eb441b
     Name: AlbGolfA.ROM
@@ -70148,21 +70401,21 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1986
     Original Dump: 
     Remark: 
 
-  - English title: Albatross Tournament Golf
-    Original title: 
+  - English title: Albatross - Tournament Golf
+    Original title: アルバトロス 〜Tournament Golf〜
     Longname: Albatross Tournament Golf (J) [a2].rom
     sha1: 13d38cc80112baa9bcbf03569988c163015d434c
     Name: AlGolfA2.ROM
@@ -70171,136 +70424,136 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: American Truck
-    Original title: 
+    Original title: アメリカントラック
     Longname: American Truck.rom
     sha1: 076abc988d51faef30143750dd41318a8a48c5c4
     Name: AmTruck.ROM
-    Genre: 
+    Genre: Driving
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: American Truck
-    Original title: 
+    Original title: アメリカントラック
     Longname: American Truck [a].rom
     sha1: 88fa967c420f7090a11e5de1d3674f4527f53d52
     Name: AmTruckA.ROM
-    Genre: 
+    Genre: Driving
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: American Truck
-    Original title: 
+    Original title: アメリカントラック
     Longname: American Truck [a2].rom
     sha1: e0bf5b5ae0f420c663f7b69f4f889added6e39f7
     Name: AmTrucA2.ROM
-    Genre: 
+    Genre: Driving
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: American Truck
-    Original title: 
+    Original title: アメリカントラック
     Longname: American Truck [a3].rom
     sha1: e1c0aaf53501aff407c49b5332c7b5e3977317c3
     Name: AmTrucA3.ROM
-    Genre: 
+    Genre: Driving
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: American Truck
-    Original title: 
+    Original title: アメリカントラック
     Longname: American Truck (Translated to Spanish).rom
     sha1: a6cd42c6cdebcd9b20330e64a38bb7abde5bbe30
     Name: AmTruckS.ROM
-    Genre: 
+    Genre: Driving
     Language: Spanish
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1985
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (J).rom
     sha1: 55183b7b7df66950dbb65ef1065d7d987e0fdf5a
     Name: Andorogy.ROM
@@ -70313,22 +70566,22 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (J) [a].rom
     sha1: ae3c3c2c022f566d2e790aba193470d5826f36cf
     Name: AndorogA.ROM
     Genre: Shoot'em up (vertical scrolling)
-    Language: Japanese
+    Language: Japanese, Joystick
     Country: Japan
     Size: 256kB
     Rom mapper: ASCII16
@@ -70340,13 +70593,13 @@
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (J) [Zemina 16K mapper].rom
     sha1: 875a262be44a27a8357f170080fb8466c9599b62
     Name: AndorK16.ROM
@@ -70359,17 +70612,17 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (Translated).rom
     sha1: 40ad6cd31327376b97eab0adfa06f05c97dd7278
     Name: AndorogT.ROM
@@ -70382,17 +70635,17 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (Translated) [MSX-Music].rom
     sha1: 694226684a4dc15ae98dcb6dcdd23ce34e0fcfdf
     Name: AndoTMus.ROM
@@ -70405,17 +70658,17 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG, MSX-Music
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Andorogynus - The Anti Life War-Machine
+    Original title: ANDOROGYNUS 反生命戦機アンドロギュヌス
     Longname: Andorogynus Han Seimei Senki (Translated) [MSX-Audio].rom
     sha1: f050370780e31c4c9276c9cb12729ef0e67bd603
     Name: AndoTAud.ROM
@@ -70428,17 +70681,17 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG, MSX-Audio, MSX-Music
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
+    Developer: Telenet Japan
+    Release: 1987
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Digital Devil Story - Reincarnation of the Goddess
+    Original title: デジタル・デビル物語 女神転生
     Longname: Digital Devil Monogatari Megami Tensei (J).rom
     sha1: 7dc7f7e3966943280f34836656a7d1bd3ace67cd
     Name: DDMMT.ROM
@@ -70447,17 +70700,17 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Telenet Japan
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
   - English title: Dires Giger Loop
@@ -70470,40 +70723,40 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: 8kB SRAM
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: 8kB SRAM in the cartridge
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Bothtec
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
   - English title: Final Zone Wolf
-    Original title: 
+    Original title: ファイナルゾーンウルフ
     Longname: Final Zone Wolf (J).rom
     sha1: a553c3f204c105c23b227a1e5aeb290671ccdbeb
     Name: FinalZW.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Telenet Japan
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Telenet Japan
+    Release: 1986
+    Original Dump: Yes
     Remark: 
 
   - English title: Girly Block
@@ -70672,33 +70925,10 @@
 #
 
 - Folder longname: ~/Roms From Japan/Toho Cinefile-Soft Library
-  Folder name: ~/Japan/TohoCine
+  Folder name: ~/Japan/Toho
 
   Files:
-  - English title: Bridge
-    Original title: 
-    Longname: Bridge (Filosoft).rom
-    sha1: 0d9a37ff931e5db2cdee2e0f312fd4bbef5cfd29
-    Name: Bridge.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
+  - English title: Block Tower
     Original title: 
     Longname: Block Tower (Eight Iron).rom
     sha1: d2ce76cddb6cc12dc68e9683b072fb57947ec172
@@ -70708,9 +70938,9 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
@@ -70721,19 +70951,19 @@
     Original Dump: 
     Remark: 
 
-  - English title: 
+  - English title: Block Tower
     Original title: 
-    Longname: Godzilla-kun [a].rom
-    sha1: 8bd874aa854cc26d7fc48e7d2de60dbbee681721
-    Name: GodzilaA.ROM
+    Longname: Block Tower [Mirrors fix] (Eight Iron).rom
+    sha1: bf2441100e8f0c56bb9e5a0538cc662a34a7774a
+    Name: Bl-Tower.ROM
     Genre: 
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
@@ -70744,169 +70974,238 @@
     Original Dump: 
     Remark: 
 
-  - English title: 
+  - English title: Bridge
     Original title: 
+    Longname: Bridge (Filosoft).rom
+    sha1: 0d9a37ff931e5db2cdee2e0f312fd4bbef5cfd29
+    Name: Bridge.ROM
+    Genre: 
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None (Rom without mirroir)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toho Cinefile-Soft Library
+    Developer: Filosoft
+    Release: 1991
+    Original Dump: 
+    Remark: 
+
+  - English title: Bridge
+    Original title: 
+    Longname: Bridge [Mirrors fix] (Filosoft).rom
+    sha1: 4660ee45403a1e32738ed4fd3153b26cd3cad7da
+    Name: BridgeMF.ROM
+    Genre: 
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toho Cinefile-Soft Library
+    Developer: Filosoft
+    Release: 1991
+    Original Dump: 
+    Remark: 
+
+  - English title: Godzilland
+    Original title: ゴジラくん
     Longname: Godzilla-kun.rom
     sha1: d6b6cb3d85b991f8adf2e07a0e8e74b586741d12
     Name: Godzilla.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Compile
+    Release: 1985
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Godzilland
+    Original title: ゴジラくん
+    Longname: Godzilla-kun [a].rom
+    sha1: 8bd874aa854cc26d7fc48e7d2de60dbbee681721
+    Name: GodzilaA.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toho Cinefile-Soft Library
+    Developer: Compile
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: Arsene Lupin The 3Rd - Legend of the Gold of Babylon
+    Original title: ルパン三世 バビロンの黄金伝説
     Longname: Lupin San-sei Babylon No Ougon Densetsu.rom
     sha1: 1aee947b1ad6d478c0def550868a3851c2910809
     Name: Lupin3OD.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Arsene Lupin The 3Rd - Legend of the Gold of Babylon
+    Original title: ルパン三世 バビロンの黄金伝説
     Longname: Lupin San-sei Babylon No Ougon Densetsu [a].rom
     sha1: c4a919f31d20008b5d6540aa5d2be59aa4cef5cf
     Name: Lupin3OA.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Arsene Lupin The 3Rd - Legend of the Gold of Babylon
+    Original title: ルパン三世 バビロンの黄金伝説
     Longname: Lupin San-sei Babylon No Ougon Densetsu (Translated).rom
     sha1: 33b66cb2d808e0fbd85be09165934663395675db
     Name: Lupin3OE.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Arsene Lupin The 3Rd - Legend of the Gold of Babylon
+    Original title: ルパン三世 バビロンの黄金伝説
     Longname: Lupin San-sei Babylon No Ougon Densetsu (Translated to French).rom
     sha1: 339937d990cccac286e7626ae776da48a1f9f7d5
     Name: Lupin3OF.ROM
-    Genre: 
+    Genre: Platform
     Language: French
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: Lupin San-sei Cagliostro No Shiro [a].rom
-    sha1: ae8172bcf76adfa3d401467cbc89cbec2db86ee2
-    Name: Lupin3CA.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
+  - English title: Arsene Lupin The 3Rd - The Castle Of Cagliostro
+    Original title: ルパン三世 カリオストロの城
     Longname: Lupin San-sei Cagliostro No Shiro.rom
     sha1: e89fc7437d8f9aed1640689a32ebbf047699b147
     Name: Lupin3CS.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1987
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Arsene Lupin The 3Rd - The Castle Of Cagliostro
+    Original title: ルパン三世 カリオストロの城
+    Longname: Lupin San-sei Cagliostro No Shiro [a].rom
+    sha1: ae8172bcf76adfa3d401467cbc89cbec2db86ee2
+    Name: Lupin3CA.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toho Cinefile-Soft Library
+    Developer: Toho Cinefile-Soft Library
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: Monster’s Fair
+    Original title: モンスターズフェア
     Longname: Monster’s Fair.rom
     sha1: b6d39bbaedb89f8c908cc2f44a0ab17e4b80ca4f
     Name: MonsterF.ROM
@@ -70915,16 +71214,16 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toho Cinefile-Soft Library
-    Developer: 
-    Release: 
+    Developer: Toho Cinefile-Soft Library
+    Release: 1986
     Original Dump: 
     Remark: 
 
@@ -70936,109 +71235,132 @@
   Folder name: ~/Japan/Tokuma
 
   Files:
-  - English title: 
-    Original title: 
+  - English title: 50 MSX programs Collection - Fandom Library 1
+    Original title: プログラムコレクション50本 ファンダムライブラリー1
     Longname: MSX Program Collection 50-pon Fandom Library 1 (J).rom
     sha1: 8557dcdb4cf1e15180d17acc8e6d515bf7bf7e7c
     Name: FandomL1.ROM
-    Genre: 
+    Genre: Collection
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Tokuma Shoten Intermedia inc
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Tokuma Shoten Intermedia inc
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: 50 MSX programs Collection - Fandom Library 2
+    Original title: プログラムコレクション50本 ファンダムライブラリー2
     Longname: MSX Program Collection 50-pon Fandom Library 2 (J).rom
     sha1: 7752b6624fb80d9499aaad28dd5776ec74565576
     Name: FandomL2.ROM
-    Genre: 
+    Genre: Compilation
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Tokuma Shoten Intermedia inc
-    Developer: 
-    Release: 
+    Developer: Tokuma Shoten Intermedia inc
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: 50 MSX programs Collection - Fandom Library 2
+    Original title: プログラムコレクション50本 ファンダムライブラリー2
     Longname: MSX Program Collection 50-pon Fandom Library 2 (J) [a].rom
     sha1: d784565474e82965e99e6314ff7e98b9addd4aa6
     Name: FandoL2A.ROM
-    Genre: 
+    Genre: Compilation
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Tokuma Shoten Intermedia inc
-    Developer: 
-    Release: 
+    Developer: Tokuma Shoten Intermedia inc
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: 50 MSX programs Collection - Fandom Library 2
+    Original title: プログラムコレクション50本 ファンダムライブラリー2
     Longname: MSX Program Collection 50-pon Fandom Library 2 (J) [a2].rom
     sha1: 6a428f948695714b4c506a1bebac7c2790c0dcfd
     Name: FandL2A2.ROM
-    Genre: 
+    Genre: Compilation
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Tokuma Shoten Intermedia inc
-    Developer: 
-    Release: 
+    Developer: Tokuma Shoten Intermedia inc
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: 50 MSX programs Collection - Fandom Library 3
+    Original title: プログラムコレクション50本 ファンダムライブラリー3
     Longname: MSX Program Collection 50-pon Fandom Library 3 (J).rom
     sha1: c2f4df1bd91f7dee1536774b9d7089086b9bf835
     Name: FandomL3.ROM
-    Genre: 
+    Genre: Compilation
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Tokuma Shoten Intermedia inc
+    Developer: Tokuma Shoten Intermedia inc
+    Release: 1988
+    Original Dump: Yes
+    Remark: 
+
+  - English title: U-Do
+    Original title: U-DO
+    Longname: U-Do.rom
+    sha1: a0aabe28306e7633111422baaa5a915d1cc547c7
+    Name: U-Do.ROM
+    Genre: 
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -71047,8 +71369,31 @@
     Signature: None
     Publisher: Tokuma Shoten Intermedia inc
     Developer: 
-    Release: 
-    Original Dump: 
+    Release: 1990
+    Original Dump: Yes
+    Remark: 
+
+  - English title: U-Do
+    Original title: U-DO
+    Longname: U-Do [Mirrors fix].rom
+    sha1: 1fe7fc007ec105060462272e07c40cc04414b1ef
+    Name: U-Do.ROM
+    Genre: 
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Tokuma Shoten Intermedia inc
+    Developer: 
+    Release: 1990
+    Original Dump: No
     Remark: 
 
 #
@@ -71059,219 +71404,82 @@
   Folder name: ~/Japan/Toshiba
 
   Files:
-  - English title: 3-D Golf Simulation
-    Original title: 
-    Longname: 3-D Golf Simulation (J).rom
-    sha1: f8164d3872b5d54eaeafc6de3bb98a472f0c828d
-    Name: 3DGolfS.ROM
-    Genre: Golf
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 3-D Golf Simulation
-    Original title: 
-    Longname: 3-D Golf Simulation (J) [a].rom
-    sha1: 6fe8c1725c35d85a5e489c0c8d21134def09ecfb
-    Name: 3DGolfSA.ROM
-    Genre: Golf
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 3-D Golf Simulation
-    Original title: 
-    Longname: 3-D Golf Simulation [High Speed Edition].rom
-    sha1: 9a63d48c4fc05e76c9de25e5c5f2a0c99b5d1be4
-    Name: 3DGolfSH.ROM
-    Genre: Golf
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
 
   - English title: A.E.
-    Original title: 
+    Original title: エー・イー
     Longname: A.E..rom
     sha1: 6b8a684ddbadd798a8e599449b823bceca9cdb58
     Name: AE.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Programmers-3
+    Release: 1983
     Original Dump: 
     Remark: 
 
   - English title: A.E.
-    Original title: 
+    Original title: エー・イー
     Longname: A.E. [a].rom
     sha1: e14970387aa8927256397cd35fd8c356a0502143
     Name: AE-A.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Programmers-3
+    Release: 1983
     Original Dump: 
     Remark: 
 
   - English title: Aquattack
-    Original title: 
+    Original title: アクゥアタック
     Longname: Aquattack.rom
     sha1: 93462ac9a322c2e5e0d996fddbe9eba2f3436931
     Name: Aquattac.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Interphase Technologies Inc.
+    Release: 1984
     Original Dump: 
     Remark: 
 
   - English title: B.C.'s Quest For Tires
-    Original title: 
+    Original title: クエスト
     Longname: B.C.'s Quest For Tires.rom
     sha1: 4c8a97669017296c2360ff9d53694a292197991e
     Name: QuestFT.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: B.C.'s Quest For Tires
-    Original title: 
-    Longname: B.C.'s Quest For Tires [a].rom
-    sha1: 0d504c359661ac731de07a7319afd0e31f01a5d7
-    Name: QuestFTA.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Blockade Runner
-    Original title: 
-    Longname: Blockade Runner.rom
-    sha1: bd4b8c48f1d8107f11ae680a787d7b3825669b7c
-    Name: BlockRun.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: D-Day
-    Original title: ディーデー
-    Longname: D-Day.rom
-    sha1: c62e058c2a54f3c9adba2e6a3006b8e749c43bd7
-    Name: D-Day.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 
@@ -71283,7 +71491,76 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba
+    Publisher: Toshiba Emi
+    Developer: Sydney
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: B.C.'s Quest For Tires
+    Original title: クエスト
+    Longname: B.C.'s Quest For Tires [a].rom
+    sha1: 0d504c359661ac731de07a7319afd0e31f01a5d7
+    Name: QuestFTA.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Sydney
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: Blockade Runner
+    Original title: ブロッケード ランナー
+    Longname: Blockade Runner.rom
+    sha1: bd4b8c48f1d8107f11ae680a787d7b3825669b7c
+    Name: BlockRun.ROM
+    Genre: Shoot'em up (First person scrolling)
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Interphase Technologies Inc.
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: D-Day
+    Original title: ディーデー
+    Longname: D-Day.rom
+    sha1: c62e058c2a54f3c9adba2e6a3006b8e749c43bd7
+    Name: D-Day.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Corporation
     Developer: Jaleco
     Release: 1984
     Original Dump: 
@@ -71294,7 +71571,7 @@
     Longname: D-Day [a].rom
     sha1: 6eeead7af376794ddb549998ecac9668215eaf54
     Name: D-Day-A.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
@@ -71306,7 +71583,7 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba
+    Publisher: Toshiba Corporation
     Developer: Jaleco
     Release: 1984
     Original Dump: 
@@ -71317,7 +71594,7 @@
     Longname: D-Day [a2].rom
     sha1: 0ba8ae697f3045b3b3175b27d00ac0e522288ff1
     Name: D-Day-A2.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
@@ -71329,7 +71606,7 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba
+    Publisher: Toshiba Corporation
     Developer: Jaleco
     Release: 1984
     Original Dump: 
@@ -71340,7 +71617,122 @@
     Longname: D-Day [a3].rom
     sha1: 18e87e15b09ec2fddc52fad10edc57918fadec34
     Name: D-Day-A3.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Corporation
+    Developer: Jaleco
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: Dynamite Bowl
+    Original title: ダイナマイトボウル
+    Longname: Dynamite Bowl.rom
+    sha1: bd70b00ccb8fafca883c7160585e9c5920cca58f
+    Name: DynBowl.ROM
+    Genre: Bowling
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Softvision
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: Dynamite Bowl
+    Original title: ダイナマイトボウル
+    Longname: Dynamite Bowl [a].rom
+    sha1: a6d285e515ad1e2c15b4352d9b699ebe060b1dba
+    Name: DynBowlA.ROM
+    Genre: Bowling
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Softvision
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: Dynamite Bowl
+    Original title: ダイナマイトボウル
+    Longname: Dynamite Bowl [a2].rom
+    sha1: d7109cf20a22558f923c833ff0b4e2311340acb1
+    Name: DynBowA2.ROM
+    Genre: Bowling
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Softvision
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: Dynamite Bowl
+    Original title: ダイナマイトボウル
+    Longname: Dynamite Bowl [a3].rom
+    sha1: 39cbdbc89085e6bcb0544ba3bd151cc46bcdc6cb
+    Name: DynBowA3.ROM
+    Genre: Bowling
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Softvision
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: Exerion-II - Zorni
+    Original title: エクセリオンII ゾルニ
+    Longname: Exerion-II Zorni.rom
+    sha1: aa1621a6b61f7cfb2df8dd2cf8647a943e13dfa7
+    Name: Exerion2.ROM
+    Genre: Shoot'em up
     Language: English
     Country: Japan
     Size: 
@@ -71358,146 +71750,31 @@
     Original Dump: 
     Remark: 
 
-  - English title: Dynamite Bowl
-    Original title: 
-    Longname: Dynamite Bowl.rom
-    sha1: bd70b00ccb8fafca883c7160585e9c5920cca58f
-    Name: DynBowl.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Dynamite Bowl
-    Original title: 
-    Longname: Dynamite Bowl [a].rom
-    sha1: a6d285e515ad1e2c15b4352d9b699ebe060b1dba
-    Name: DynBowlA.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Dynamite Bowl
-    Original title: 
-    Longname: Dynamite Bowl [a2].rom
-    sha1: d7109cf20a22558f923c833ff0b4e2311340acb1
-    Name: DynBowA2.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Dynamite Bowl
-    Original title: 
-    Longname: Dynamite Bowl [a3].rom
-    sha1: 39cbdbc89085e6bcb0544ba3bd151cc46bcdc6cb
-    Name: DynBowA3.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
   - English title: Exerion II - Zorni
-    Original title: 
-    Longname: Exerion II Zorni.rom
-    sha1: aa1621a6b61f7cfb2df8dd2cf8647a943e13dfa7
-    Name: Exerion2.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Exerion II - Zorni
-    Original title: 
+    Original title: エクセリオンII ゾルニ
     Longname: Exerion II Zorni [a].rom
     sha1: 2b36fe2b0d98d65ab31f13fcb858db6858a51d46
     Name: Exerion2A.ROM
-    Genre: 
+    Genre: Shoot'em up
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Publisher: Toshiba
+    Developer: Jaleco
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Fathom - Mermaid Legend
+    Original title: ファゾム 人魚伝説
     Longname: Fathom Ningyo Densetsu.rom
     sha1: ae52922a197a2f47c7fc4adf9dbfde13c136ed14
     Name: Fathom.ROM
@@ -71506,62 +71783,62 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Interphase
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: Flash Splash
-    Original title: 
+    Original title: フラッシュスプラッシュ
     Longname: Flash Splash.rom
     sha1: 60f685670de6d2d8ed5f1b1ddd40fac851ff1982
     Name: FlshSpla.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Isoco
+    Release: 1984
     Original Dump: 
     Remark: 
 
   - English title: Flash Splash
-    Original title: 
+    Original title: フラッシュスプラッシュ
     Longname: Flash Splash [overdumped].rom
     sha1: 94d7621b4c13935947fba4a83a401850b5f87558
     Name: FlshSpla Overdumped.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Isoco
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -71570,21 +71847,21 @@
     Longname: Gomoku Narabe (J).rom
     sha1: aacaf2e694a1c05f2ef20a8ce6892242c0f88919
     Name: GomokNar.ROM
-    Genre: 
+    Genre: Go
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Comtec
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -71593,26 +71870,26 @@
     Longname: Gomoku Narabe (J) [a].rom
     sha1: 6f0f61285be1158ecf2e5393619187f26a7395be
     Name: GomokNAA.ROM
-    Genre: 
+    Genre: Go
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Comtec
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Soldier Shogi - War God Mars
+    Original title: 軍人将棋 軍神マース
     Longname: Gunjin Shougi Gunshin Mars (J).rom
     sha1: f2ec3714138175212b6b6e28b5da4361cc4b5471
     Name: GShogiGM.ROM
@@ -71634,27 +71911,27 @@
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: Hanafuda KoiKoi Oichokabu (J).rom
+  - English title: Hanafuda
+    Original title: 花札
+    Longname: Hanafuda (J).rom
     sha1: 5370b7746112621169d503bbec2e7fc526279f53
-    Name: HanafKoi.ROM
-    Genre: 
+    Name: Hanafuda.ROM
+    Genre: Hanafuda
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Comtec
+    Release: 1985
+    Original Dump: Yes
     Remark: 
 
   - English title: Pretty Sheep
@@ -71674,93 +71951,93 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba Emi
+    Publisher: Toshiba
     Developer: Hudson Soft
-    Release: 
-    Original Dump: 
+    Release: 1984
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Kung-Fu Taikun
+    Original title: 功夫大君
     Longname: Kung-Fu Taikun.rom
     sha1: e817ab7b50674c414b1c1b72530024eb03396a41
     Name: KungFuTK.ROM
-    Genre: 
+    Genre: Beat'Em All
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Seibu Kaihatsu
+    Release: 1984
     Original Dump: 
-    Remark: 
+    Remark: Taikun (honorific title) is used by analogy to Tycoon
 
-  - English title: 
-    Original title: 
-    Longname: Kung-Fu Taikun [overdumped].rom
-    sha1: 304ea29469461f1cfa801f62af0bf5045a6882fc
-    Name: KungFuTK Overdumped.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
+  - English title: Kung-Fu Taikun
+    Original title: 功夫大君
     Longname: Kung-Fu Taikun [a].rom
     sha1: 4ac6a17c9c17bf6e9b149b727663496bf1bf35b0
     Name: KungFuTA.ROM
-    Genre: 
+    Genre: Beat'Em All
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Seibu Kaihatsu
+    Release: 1984
     Original Dump: 
-    Remark: 
+    Remark: Taikun (honorific title) is used by analogy to Tycoon
 
-  - English title: 
-    Original title: 
+  - English title: Kung-Fu Taikun
+    Original title: 功夫大君
+    Longname: Kung-Fu Taikun [overdumped].rom
+    sha1: 304ea29469461f1cfa801f62af0bf5045a6882fc
+    Name: KungFuTK Overdumped.ROM
+    Genre: Beat'Em All
+    Language: English
+    Country: Japan
+    Size: 
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Seibu Kaihatsu
+    Release: 1984
+    Original Dump: 
+    Remark: Taikun (honorific title) is used by analogy to Tycoon
+
+  - English title: Empire City 1931 - Magnum Close To Danger
+    Original title: マグナム危機一髪 エンパイアシティー1931
     Longname: Magnum Kiki Ippatsu Empire City.rom
     sha1: 3243a5cc562451de527917e9ca85657286b2852f
     Name: MKIEMPCI.ROM
-    Genre: 
+    Genre: Shooting
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -71768,22 +72045,22 @@
     Signature: None
     Publisher: Toshiba Emi
     Developer: 
-    Release: 
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Empire City 1931 - Magnum Close To Danger
+    Original title: マグナム危機一髪 エンパイアシティー1931
     Longname: Magnum Kiki Ippatsu Empire City [Emulation fix].rom
     sha1: 9c5c1c40ec30c34b1b436cf8cc494c0b509e81fc
     Name: MKIEmpEf.ROM
-    Genre: 
+    Genre: Shooting
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -71791,35 +72068,35 @@
     Signature: None
     Publisher: Toshiba Emi
     Developer: 
-    Release: 
+    Release: 1988
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Moonsweeper - Hayabusa The Space Warrior
+    Original title: ムーンスィーパー 宇宙戦士「隼」
     Longname: Moonsweeper.rom
     sha1: f93e23d958d2075bf476cb05a3c4f48d0c41aabb
     Name: Moonswee.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Interphase
+    Release: 1985
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Kazuo Morita's Othello
+    Original title: 森田和郎のオセロ
     Longname: Morita Kazuo no Othello (J).rom
     sha1: 4dd934902907db50ba76053f59ae7737d55824f4
     Name: MKOthell.ROM
@@ -71828,7 +72105,7 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -71836,9 +72113,9 @@
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
+    Developer: Random house
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Ninja
@@ -71861,30 +72138,30 @@
     Publisher: Toshiba
     Developer: Micro Cabin
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Pachicom
+    Original title: パチコン
     Longname: Pachicom.rom
     sha1: a2e144546a191da8829b9ca9fa019884fe95156c
     Name: Pachicom.ROM
-    Genre: 
+    Genre: Pachinko
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: J.P.M.
+    Release: 1985
+    Original Dump: Yes
     Remark: 
 
   - English title: Pretty Sheep
@@ -71934,122 +72211,122 @@
     Remark: 
 
   - English title: Scarlet 7 - The Mightiest Women
-    Original title: 
+    Original title: スカーレット7
     Longname: Scarlet 7 The Mightiest Women.rom
     sha1: bc3be8f829211dd8a8eb854f86ff014c47ed9254
     Name: Scarlet7.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Soft Pro International
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: Scarlet 7 - The Mightiest Women
-    Original title: 
+    Original title: スカーレット7
     Longname: Scarlet 7 The Mightiest Women [Crack FM].rom
     sha1: 817bebb1be373e9c1bae4850a2bc1daec5586a91
     Name: Scarl7CF.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Soft Pro International
+    Release: 1986
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Sewer Sam
+    Original title: スゥーワーサム
     Longname: Sewer Sam.rom
     sha1: db0ed31c779fffd2084946e3ba69512b372d845f
     Name: SewerSam.ROM
-    Genre: 
+    Genre: 3D Maze
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Interphase
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Sewer Sam
+    Original title: スゥーワーサム
     Longname: Sewer Sam [Numeric keypad].rom
     sha1: 899af4c7958de89f2e542e2e459475e69db57054
     Name: SewerSKP.ROM
-    Genre: 
+    Genre: 3D Maze
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Interphase
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Sewer Sam
+    Original title: スゥーワーサム
     Longname: Sewer Sam [Numeric keypad-a].rom
     sha1: 28d11dcfcb04fb77b4f26cea3e1d9aa91cd42abe
     Name: SeweSKPA.ROM
-    Genre: 
+    Genre: 3D Maze
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Interphase
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Shogi Master
+    Original title: 将棋名人
     Longname: Shougi Meijin (J).rom
     sha1: f9ad0cdb227c588b1a5c75220ed53d0314550d7f
     Name: ShougiMe.ROM
@@ -72058,44 +72335,44 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Soft Pro International
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: Square Dancer
-    Original title: 
+    Original title: スクェアダンサー
     Longname: Square Dancer.rom
     sha1: 18b90aaa2284eb46233e9203af1e8cf1922c417c
     Name: SquareDa.ROM
-    Genre: 
+    Genre: Pinball
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: T&Soft
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Genius Rabbian's Great Battle
+    Original title: 天才ラビアン大奮戦
     Longname: Tensai Rabbian Daifunsen (J).rom
     sha1: 249da12e2711c643c5e18cf96184d33dbf7e2305
     Name: TRabbian.ROM
@@ -72104,39 +72381,39 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Soft Pro International
+    Release: 1986
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Genius Rabbian's Great Battle
+    Original title: 天才ラビアン大奮戦
     Longname: Tensai Rabbian Daifunsen (J) [Dumped by Crack FM].rom
     sha1: 45bd813039977750c9a347952d2e527a4e1674c5
     Name: TRabbiDF.ROM
-    Genre: 
+    Genre: Action
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Soft Pro International
+    Release: 1986
     Original Dump: 
     Remark: 
 
@@ -72145,7 +72422,7 @@
     Longname: Top Roller.rom
     sha1: 174437bfb20e2895f0f552602da823ca17b2fe93
     Name: TopRollr.ROM
-    Genre: 
+    Genre: Roller Racing
     Language: English
     Country: Japan
     Size: 
@@ -72157,9 +72434,9 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba Emi
+    Publisher: Toshiba
     Developer: Jaleco
-    Release: 
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -72168,7 +72445,7 @@
     Longname: Top Roller [MSX1 only].rom
     sha1: 37c85041128ee21300327726b7300a20ef6b84dd
     Name: TopRolM1.ROM
-    Genre: 
+    Genre: Roller Racing
     Language: English
     Country: Japan
     Size: 
@@ -72180,102 +72457,102 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Toshiba Emi
+    Publisher: Toshiba
     Developer: Jaleco
     Release: 1984
     Original Dump: Yes
     Remark: 
 
   - English title: Trump Aid
-    Original title: 
+    Original title: トランプ・エイド
     Longname: Trump Aid.rom
     sha1: 8547ae0fa25b9f3e26b90d4f3e1a4325b9248549
     Name: TrumpAid.ROM
-    Genre: 
+    Genre: Trump
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
+    Developer: Tomy
+    Release: 1986
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Zoids - Battle of the Central Continent
+    Original title: ゾイド 中央大陸の戦い
     Longname: Zoids Chuuou Tairiku no Tatakai (J).rom
     sha1: d526249c1a35cf1174300df75bc28662f579290a
     Name: Zoids.ROM
-    Genre: 
+    Genre: Role playing
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Tomy
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: Zoids Chuuou Tairiku no Tatakai (J) [Emulation fix].rom
-    sha1: 757bd16abeb99cad298a33fa702217b1348b48eb
-    Name: Zoids-Ef.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
+  - English title: Zoids - Battle of the Central Continent
+    Original title: ゾイド 中央大陸の戦い
     Longname: Zoids Chuuou Tairiku no Tatakai (J) [Zemina 16K mapper].rom
     sha1: 42f528877218a1bbfae76b878818d2c0867764dd
     Name: ZoidsZ16.ROM
-    Genre: 
+    Genre: Role playing
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: Zemina16
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
     Publisher: Toshiba Emi
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Tomy
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Zoids - Battle of the Central Continent
+    Original title: ゾイド 中央大陸の戦い
+    Longname: Zoids Chuuou Tairiku no Tatakai (J) [Zemina16 mapper-a].rom
+    sha1: 757bd16abeb99cad298a33fa702217b1348b48eb
+    Name: Zoids-Ef.ROM
+    Genre: Role playing
+    Language: Japanese
+    Country: Japan
+    Size: 
+    Rom mapper: Zemina16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Toshiba Emi
+    Developer: Tomy
+    Release: 1988 (original)
+    Original Dump: No
     Remark: 
 
 #
@@ -72286,11 +72563,34 @@
   Folder name: ~/Japan/Others
 
   Files:
-  - English title: Banana
-    Original title: BANANA
-    Longname: Banana (Studio Gen).rom
-    sha1: 7a40237867f62611d0e976666451648edb80753c
-    Name: Banana.ROM
+  - English title: Asteria II - The Temple Of The Sun
+    Original title: アステリアII 太陽の神殿
+    Longname: Asteria II Taiyou no Shinden (J).rom
+    sha1: 414fd2a22076f45502c2329b45bda9f8730dcaae
+    Name: Asteria2.ROM
+    Genre: Adventure
+    Language: Japanese
+    Country: Japan
+    Size: 
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: 8kB SRAM in the cartridge
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: Tokyo Shoseki
+    Developer: Tokyo Shoseki (Copyrighted by Falcom)
+    Release: 1987
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Conclave of Darklord - Covid-19 Edition
+    Original title: Conclave of Darklord - Covid-19 Edition
+    Longname: Conclave of Darklord Covid-19 Edition [v1.0] (Ghost).rom
+    sha1: 12dca83bf696f08c396eb182c376eab080567e92
+    Name: codonl10.ROM
     Genre: 
     Language: English
     Country: Japan
@@ -72303,125 +72603,79 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Studio Gen
-    Developer: Studio Gen
-    Release: 1984
-    Original Dump: 
-    Remark: 
-
-  - English title: Conclave of Darklord - Covid-19 Edition
-    Original title: 
-    Longname: Conclave of Darklord Covid-19 Edition [v1.0] (Ghost).rom
-    sha1: 12dca83bf696f08c396eb182c376eab080567e92
-    Name: codonl10.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: CR3
-    Original title: 
-    Longname: CR3 (Nabeta).rom
-    sha1: 57d50db266744de42f5d03fba8e8eb6b05dc6ace
-    Name: CR3.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Ghost
+    Developer: Ghost
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
   - English title: Elthlead
-    Original title: 
+    Original title: エルスリード
     Longname: Elthlead (J).rom
     sha1: caeca37113c56e696d7053d90f5f9f3e02de8ad1
     Name: Elthlead.ROM
-    Genre: 
+    Genre: Role playing
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: 2kB SRAM in the cartridge
+    Control: Keyboard, Joystick
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: NCS
+    Developer: NCS
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
   - English title: High School Story
-    Original title: 
-    Longname: Gakuen Monogatari - High School Story (J).rom
+    Original title: 学園物語
+    Longname: Gakuen Monogatari - High School Story (J) (Great).rom
     sha1: 32dd4df2b39461c0694f6bb84de0709478a69d31
     Name: GakuenMo.ROM
-    Genre: 
+    Genre: Adventure
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Great
+    Developer: Great
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
   - English title: Mars II
-    Original title: 
+    Original title: マースII
     Longname: Mars II (Nagi-P Soft).rom
     sha1: a3772599cdb84df71ef2bb38b1e2cb2f66593969
     Name: Mars2.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, Joystick
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Nagi-P Soft
+    Developer: Nagi-P Soft
+    Release: 1990
+    Original Dump: Yes
     Remark: 
 
   - English title: Midnight Building
@@ -72429,7 +72683,7 @@
     Longname: Midnight Building (Way Limit Corporation).rom
     sha1: 5460aa3be896ad949bea75444bc6e7e072a859b8
     Name: Midnight.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Japan
     Size: 
@@ -72441,9 +72695,9 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: Way Limit Corporation
+    Publisher: Way Limit Corporation, 
     Developer: Way Limit Corporation
-    Release: 
+    Release: 1983
     Original Dump: 
     Remark: 
 
@@ -72452,7 +72706,7 @@
     Longname: Midnight Building [a] (Way Limit Corporation).rom
     sha1: 5359c905ad063a0faf1c46a8c03b1b9c9a04b3b3
     Name: Midnig-A.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Japan
     Size: 
@@ -72466,100 +72720,100 @@
     Signature: None
     Publisher: Way Limit Corporation
     Developer: Way Limit Corporation
-    Release: 
+    Release: 1983
     Original Dump: 
     Remark: 
 
-  - English title: The Three Eyed One Comes Here
-    Original title: 
-    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (J) (Natsume).rom
+  - English title: The Three-Eyed One
+    Original title: 三つ目がとおる
+    Longname: Mitsume Ga Tooru - The Three-Eyed One (J) (Natsume).rom
     sha1: 176ec8e65a9fdbf59edc245b9e8388cc94195db9
     Name: MitsumeG.ROM
-    Genre: 
+    Genre: Role playing
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Publisher: Natsume
+    Developer: Natsume
+    Release: 1989
+    Original Dump: Yes
+    Remark: Title means "The one with three eyes goes through".
 
-  - English title: 
-    Original title: 
+  - English title: How's business? Not Bad!
+    Original title: もうかりまっか？ぼちぼちでんなっ！
     Longname: Mokari Makka Bochibochi Tenna! (J).rom
     sha1: 17ac538dd63bc93ec0b88b6dd92079e807c22908
     Name: MokariMa.ROM
-    Genre: 
+    Genre: Action
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Leben Pro
+    Developer: Leben Pro
+    Release: 1986
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: How's business? Not Bad!
+    Original title: もうかりまっか？ぼちぼちでんなっ！
     Longname: Mokari Makka Bochibochi Tenna! (J) [Dump by Canal Cracker].rom
     sha1: aee97fa5e5ead1ff4f0bd4a72872a9293e3fb536
     Name: MokariCC.ROM
-    Genre: 
+    Genre: Action
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Leben Pro
+    Developer: Leben Pro
+    Release: 1986
+    Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Chronology of Japanese History
+    Original title: 日本史年表
     Longname: Nihon-Shi Nenpyou (J) (Stratford Computer Center).rom
     sha1: 7013fcf8c76bc610cec9f55fbb99374182641251
     Name: NihonShi.ROM
-    Genre: 
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Stratford Computer Center Corporation
+    Developer: Stratford Computer Center Corporation
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
   - English title: OLION
@@ -72567,26 +72821,26 @@
     Longname: OLION (Tiny Yarou).rom
     sha1: 987c709827ae5730dc765b93676383426ebe1d50
     Name: OLION.ROM
-    Genre: 
+    Genre: Shoot'em up (3D Wireframe)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Tiny Yarou
+    Developer: Tiny Yarou
+    Release: 10-2018
+    Original Dump: Yes
     Remark: 
 
   - English title: Real Tennis
-    Original title: 
+    Original title: リアルテニス
     Longname: Real Tennis (Takara).rom
     sha1: 54a49a3c8b42b8b246e62ed45346cf52836ddcac
     Name: RealTenn.ROM
@@ -72595,182 +72849,136 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Takara, Toshiba
+    Developer: Takara
+    Release: 1983
+    Original Dump: Yes
     Remark: 
 
   - English title: Skygaldo
-    Original title: 
+    Original title: スカイギャルド
     Longname: Skygaldo (Magical Zoo).rom
     sha1: 136d838cc1297940d96cd8e27aea9f9e3c7088a6
     Name: Skygaldo.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Magical Zoo
+    Developer: Magical Zoo
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: Skygaldo
-    Original title: 
+    Original title: スカイギャルド
     Longname: Skygaldo [a] (Magical Zoo).rom
     sha1: 72845ccc50f714562ddb87f978c99b4076aa120a
     Name: SkygaldA.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Taiyou no Shinden Asteria II (J).rom
-    sha1: 414fd2a22076f45502c2329b45bda9f8730dcaae
-    Name: Asteria2.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Magical Zoo
+    Developer: Magical Zoo
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: Tetris
-    Original title: 
+    Original title: テトリス
     Longname: Tetris.rom
     sha1: af310ee21b5534f32ea92c0ae34a44d828d157a7
     Name: Tetris.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
-    Sound: PSG
+    Sound: PSG and MSX-Music when present
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: BPS
+    Developer: BPS
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: The Double Vision Bishoujo Shashinkan (J).rom
+  - English title: The Double Vision - Beautiful Girl Photo Studio Special!
+    Original title: ダブル・ヴィジョン 美少女写真館スペシャル！
+    Longname: The Double Vision Bishoujo Shashinkan Special (J).rom
     sha1: 87a7fa43602f74c47151e79f1aaf7f641331ba51
     Name: DoublVis.ROM
     Genre: 
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Hard
+    Developer: Hard
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
-  - English title: Tumego 120
-    Original title: 
+  - English title: Tsumego 120
+    Original title: 詰碁120
     Longname: Tumego 120 (J).rom
     sha1: bfe8046f8ccc6d6016d7752c04f0654420ef81e7
-    Name: Tumeg120.ROM
-    Genre: 
+    Name: Tsume120.ROM
+    Genre: Tsumego
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Rom mapper: ASCII16
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: U-Do
-    Original title: 
-    Longname: U-Do (MSX-Fan).rom
-    sha1: a0aabe28306e7633111422baaa5a915d1cc547c7
-    Name: U-Do.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Champion Soft
+    Developer: Champion Soft
+    Release: 1987
+    Original Dump: Yes
     Remark: 
 
   - English title: Yaksa
-    Original title: 
+    Original title: ヤシャ
     Longname: Yaksa (J).rom
     sha1: 3e57fad130be79223068ab29f1e77ecb7f2ad237
     Name: Yaksa.ROM
@@ -72778,22 +72986,22 @@
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Wolfteam
+    Developer: Wolfteam
+    Release: 1987
     Original Dump: 
     Remark: 
 
   - English title: Zombie Hunter
-    Original title: 
+    Original title: ゾンビハンター
     Longname: Zombie Hunter (J).rom
     sha1: a322d4e572467be5e1b452214143f88db526b49f
     Name: ZombieHu.ROM
@@ -72801,7 +73009,7 @@
     Language: Japanese
     Country: Japan
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX
     RAM: kB
     VRAM: 16kB
@@ -72809,14 +73017,14 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Hi-Score Software (Victor Music)
+    Developer: Hi-Score Software (Victor Music)
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
   - English title: Zombie Hunter
-    Original title: 
+    Original title: ゾンビハンター
     Longname: Zombie Hunter (J) [Konami8 mapper] [a].rom
     sha1: 67fa6e9005d23d9c49f77884a856cfb376194083
     Name: ZombiAK4.ROM
@@ -72832,14 +73040,14 @@
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Hi-Score Software (Victor Music)
+    Developer: Hi-Score Software (Victor Music)
+    Release: 1988 (original)
+    Original Dump: No
     Remark: 
 
   - English title: Zombie Hunter
-    Original title: 
+    Original title: ゾンビハンター
     Longname: Zombie Hunter (J) [Konami8 mapper].rom
     sha1: aec3a4d883d1c34b0ba9bf2933e07b7e82207034
     Name: ZombieK4.ROM
@@ -72848,21 +73056,21 @@
     Country: Japan
     Size: 
     Rom mapper: Konami8
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Hi-Score Software (Victor Music)
+    Developer: Hi-Score Software (Victor Music)
+    Release: 1988 (original)
+    Original Dump: No
     Remark: 
 
   - English title: Zombie Hunter
-    Original title: 
+    Original title: ゾンビハンター
     Longname: Zombie Hunter (Translated by Django).rom
     sha1: 4cc5f197d2bd3f0306c07a880590b4b4a5574e12
     Name: ZombieHE.ROM
@@ -72870,17 +73078,17 @@
     Language: English
     Country: Japan
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Hi-Score Software (Victor Music)
+    Developer: Hi-Score Software (Victor Music)
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
@@ -73222,8 +73430,8 @@
   Folder name: ~/Japan/Xain
 
   Files:
-  - English title: A.R.A.M.O.
-    Original title: 
+  - English title: A.R.A.M.O
+    Original title: アラモ
     Longname: A.R.A.M.O.rom
     sha1: ec53d72e41e114574f4c116cab19e1633f3da207
     Name: ARAMO.ROM
@@ -73245,8 +73453,8 @@
     Original Dump: 
     Remark: 
 
-  - English title: A.R.A.M.O.
-    Original title: 
+  - English title: A.R.A.M.O
+    Original title: アラモ
     Longname: A.R.A.M.O (Translated to French).rom
     sha1: c6683bcf9934d695d5ef828e11cb36eb4d86a7b5
     Name: ARAMO-F.ROM
@@ -73268,8 +73476,8 @@
     Original Dump: No
     Remark: 
 
-  - English title: A.R.A.M.O.
-    Original title: 
+  - English title: A.R.A.M.O
+    Original title: アラモ
     Longname: A.R.A.M.O (Translated to French) [a].rom
     sha1: 185f2fbc9eb08224764186c3522328abfe67edc9
     Name: ARAMO-FA.ROM
@@ -79439,7 +79647,7 @@
     Machine: MSX
     RAM: kB
     VRAM: 16kB
-    Data saving: 8kB SRAM
+    Data saving: 8kB SRAM  in the cartridge
     Control: Keyboard
     Sound: PSG
     Signature: None
@@ -89088,7 +89296,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony (Spain)
@@ -89111,7 +89319,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard, Joystick
+    Control: Keyboard, joystick
     Sound: PSG
     Signature: None
     Publisher: Sony (Spain)
@@ -109060,6 +109268,29 @@
     Developer: 
     Release: 
     Original Dump: No
+    Remark: 
+
+  - English title: CR3
+    Original title: 
+    Longname: CR3 (Nabeta).rom
+    sha1: 57d50db266744de42f5d03fba8e8eb6b05dc6ace
+    Name: CR3.ROM
+    Genre: 
+    Language: English
+    Country: Tokelau
+    Size: 
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Signature: None
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: 
     Remark: 
 
   - English title: Foryster
