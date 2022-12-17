@@ -8411,22 +8411,22 @@
     Longname: Tetrinet (Ricardo Bittencourt).rom
     sha1: 46b64c53ca4a117d5934defd714b2fcb5b9d01ce
     Name: Tetrinet.ROM
-    Genre: 
+    Genre: Action, Puzzle (Tetris like)
     Language: English
-    Country: 
-    Size: 
+    Country: Brazil
+    Size: 8kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, joystick
     Sound: PSG
-    Player number: 1
+    Player number: 2 (against each other)
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Ricardo Bittencourt
+    Developer: Ricardo Bittencourt
+    Release: 2004
     Original Dump: No
     Remark: 
 
@@ -8435,22 +8435,22 @@
     Longname: The Lost Mines [Extended version] (Cesar Rincon).rom
     sha1: f2dfc7e0c3ae05214ee56362eef6a8bfd599f4db
     Name: LostMiEx.ROM
-    Genre: 
+    Genre: Maze
     Language: English
-    Country: 
-    Size: 
+    Country: Spain
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Nightfox & Co.
+    Developer: César Rincón
+    Release: 2015
     Original Dump: No
     Remark: 
 
@@ -26426,7 +26426,7 @@
     Country: Japan
     Size: 
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -26450,7 +26450,7 @@
     Country: Japan
     Size: 
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -46109,7 +46109,7 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX1/MSX2
+    Machine: MSX1, MSX2
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
@@ -46133,7 +46133,7 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX1/MSX2
+    Machine: MSX1, MSX2
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
@@ -46157,7 +46157,7 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX1/MSX2
+    Machine: MSX1, MSX2
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
@@ -46181,7 +46181,7 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX1/MSX2
+    Machine: MSX1, MSX2
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
@@ -46205,7 +46205,7 @@
     Country: Japan
     Size: 
     Rom mapper: Zemina8
-    Machine: MSX1/MSX2
+    Machine: MSX1, MSX2
     RAM: 16kB
     VRAM: 16kB
     Data saving: Password
@@ -57677,7 +57677,7 @@
     Country: Japan
     Size: 256kB
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -57701,7 +57701,7 @@
     Country: Japan
     Size: 256kB
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -57725,7 +57725,7 @@
     Country: Japan
     Size: 256kB
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -57749,7 +57749,7 @@
     Country: Japan
     Size: 256kB
     Rom mapper: ASCII8
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -59725,7 +59725,7 @@
     Country: Japan
     Size: 
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -59749,7 +59749,7 @@
     Country: Japan
     Size: 
     Rom mapper: KonamiSCC
-    Machine: MSX2
+    Machine: MSX2, MSX2+
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
@@ -72517,7 +72517,7 @@
     Player number: 1
     Signature: None
     Publisher: Sony
-    Developer: 
+    Developer: KLON
     Release: 1987
     Original Dump: Yes
     Remark: 
@@ -72541,9 +72541,9 @@
     Player number: 1
     Signature: None
     Publisher: Sony
-    Developer: 
-    Release: 1987
-    Original Dump: Yes
+    Developer: KLON
+    Release: 1987 (original), patch in 2021
+    Original Dump: No
     Remark: 
 
   - English title: Scion
@@ -87783,7 +87783,7 @@
     Country: Netherlands
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1, MSX2
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -87807,7 +87807,7 @@
     Country: Netherlands
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1, MSX2
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -87831,7 +87831,7 @@
     Country: Netherlands
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1, MSX2
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -89573,51 +89573,51 @@
     Remark: 
 
   - English title: The Lost Mines
-    Original title: 
-    Longname: The Lost Mines.rom
+    Original title: The Lost Mines
+    Longname: The Lost Mines [v1.4].rom
     sha1: 29a6c8bfda2af4c3f30af5ddfee8cd58a693aeb7
-    Name: LostMine.ROM
-    Genre: 
+    Name: LostM140.ROM
+    Genre: Maze
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: Cesar Rincon
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Nightfox & Co.
+    Developer: César Rincón
+    Release: 2015
+    Original Dump: Yes
     Remark: 
 
   - English title: The Lost Mines
-    Original title: 
+    Original title: The Lost Mines
     Longname: The Lost Mines [v1.5].rom
     sha1: e1e74bd56d04267f52060473afb0c00feaa33387
     Name: LostM150.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: Cesar Rincon
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Nightfox & Co.
+    Developer: César Rincón
+    Release: 2015
+    Original Dump: Yes
     Remark: 
 
 #
@@ -91155,7 +91155,7 @@
     Original Dump: 
     Remark: 
 
-  - English title: INK Exxon Surfing
+  - English title: INK - Exxon Surfing
     Original title: 
     Longname: INK Exxon Surfing.rom
     sha1: df505aecddb20171cafd06351e0b7d208365e708
@@ -91165,7 +91165,7 @@
     Country: Spain
     Size: 
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1, MSX2
     RAM: kB
     VRAM: 16kB
     Data saving: None
