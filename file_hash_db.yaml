@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 17-12-2022 by gdx
+    MSX Roms Database version 08-01-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -42955,7 +42955,7 @@
     Genre: 
     Language: English
     Country: Japan
-    Size: 
+    Size: 64kB
     Rom mapper: Cross Blaim
     Machine: MSX1
     RAM: 8kB
@@ -59349,7 +59349,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis (SCC) [Enhanced by Mikasen] [JoySNES].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Mikasen] [JoySNES].rom
     sha1: 0b3d380ae4ddf7a90dcaeeb0fb91772f0dd330a4
     Name: GrSCCMJS.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -59373,7 +59373,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis (SCC) [Enhanced by Shalom] [JoySNES].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [JoySNES].rom
     sha1: 4856c45a757c271fd317766ed7ff073e5252960a
     Name: GrSCCSJS.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -59397,7 +59397,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis (SCC) [Enhanced by Victor] [JoySNES].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Victor] [JoySNES].rom
     sha1: a3dc972f94ae5ed94f1b5c66d723ab46dad5dca1
     Name: GrSCCVJS.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -64214,7 +64214,7 @@
   - English title: Scramble Formation
     Original title: スクランブルフォーメーション
     Longname: Scramble Formation [OPM enhanced v1.0].rom
-    sha1: Scramble Formation [OPM enhanced v1.0]
+    sha1: 6a07c4aed4a302a4b4fc7f338ae3076a242e2ebb
     Name: ScramOPM.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
@@ -88892,100 +88892,148 @@
   Folder name: ~/Russia
 
   Files:
+  - English title: Gogo Boum
+    Original title: Gogo Boum
+    Longname: Gogo Boum (ESP Soft).rom
+    sha1: 89823917c4ac7481b1c2e65d7d8f3580ee7d1c67
+    Name: GogoBoum.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Russia
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: ESP Soft
+    Developer: ESP Soft
+    Release: 2022-12-03
+    Original Dump: Yes
+    Remark: 
+
+  - English title: OL
+    Original title: OL
+    Longname: OL [v2] (ESP Soft).rom
+    sha1: 2e247b2a432a1e0739cf1ea2847ed407fe3ee80e
+    Name: OL-v2.ROM
+    Genre: Adventure
+    Language: English
+    Country: Russia
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: ESP Soft
+    Developer: ESP Soft
+    Release: 2020-09-26
+    Original Dump: Yes
+    Remark: 
+
   - English title: Twinlight
-    Original title: 
+    Original title: Twinlight
     Longname: Twinlight [r1] (RetroSouls).rom
     sha1: 4683a34eb82c5951b316f93d964df508745a437e
     Name: TwinliR1.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
-    Country: Netherlands
-    Size: 
+    Country: Russia
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: RetroSouls
+    Developer: RetroSouls
+    Release: 2019-12-24
+    Original Dump: Yes
     Remark: 
 
   - English title: Twinlight
-    Original title: 
+    Original title: Twinlight
     Longname: Twinlight [r2] (RetroSouls).rom
     sha1: a1ecd18036afc7f5797f059d308b5be9ca8295f8
     Name: TwinliR2.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
-    Country: Netherlands
-    Size: 
+    Country: Russia
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: RetroSouls
+    Developer: RetroSouls
+    Release: 2019-12-25
+    Original Dump: Yes
     Remark: 
 
   - English title: Yazzie Remastered
-    Original title: 
+    Original title: Yazzie Remastered
     Longname: Yazzie Remastered [v1.0].rom
     sha1: 248829e6f8813236f67832d12e813756e4e560cb
     Name: YazziR10.ROM
-    Genre: 
+    Genre: Action
     Language: English
-    Country: Netherlands
-    Size: 
+    Country: Russia
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: RetroSouls & FRS
+    Developer: RetroSouls & FRS
+    Release: 2020-05-24
+    Original Dump: Yes
     Remark: 
 
   - English title: Yazzie Remastered
-    Original title: 
+    Original title: Yazzie Remastered
     Longname: Yazzie Remastered [v1.1].rom
     sha1: f1af5962a14f5f77853ceacdd0eee0ad55f066a6
     Name: YazziR11.ROM
-    Genre: 
+    Genre: Action
     Language: English
-    Country: Netherlands
-    Size: 
+    Country: Russia
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: RetroSouls & FRS
+    Developer: RetroSouls & FRS
+    Release: 2020-12-26
+    Original Dump: Yes
     Remark: 
 
 ##
@@ -89029,7 +89077,7 @@
     Language: English
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX
     RAM: kB
     VRAM: 16kB
@@ -92836,42 +92884,42 @@
   Folder name: ~/Spain/Physical
 
   Files:
-  - English title: Gelatino 2
-    Original title: Gelatino 2
-    Longname: Gelatino 2 (S).rom
-    sha1: cd992efdc4e676a94fe60ff86a4e3e5bc0eaa3ab
-    Name: Gelatin2.ROM
-    Genre: 
-    Language: Spanish
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
   - English title: Gelatino - To the Rescue of Bubbles
     Original title: Gelatino - Al Rescate de los Burbujos
     Longname: Gelatino Al Rescate de los Burbujos (S).rom
     sha1: 4521a638586fc44dc87160e74e17793c595f06b5
     Name: Gelatino.ROM
-    Genre: 
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2020
+    Original Dump: 
+    Remark: 
+
+  - English title: Gelatino 2
+    Original title: Gelatino 2
+    Longname: Gelatino 2 (S).rom
+    sha1: cd992efdc4e676a94fe60ff86a4e3e5bc0eaa3ab
+    Name: Gelatin2.ROM
+    Genre: Platform
     Language: Spanish
     Country: Spain
     Size: 
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -92879,7 +92927,7 @@
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
+    Developer: Jose Luis Salguero (Salgue79)
     Release: 
     Original Dump: 
     Remark: 
@@ -92889,21 +92937,21 @@
     Longname: Paco El Bombas (S).rom
     sha1: 704e9cf74c416de774ddf76d68705c6dcfa1e3f8
     Name: PacoElBo.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
+    Developer: Jose Luis Salguero (Salgue79)
     Release: 
     Original Dump: 
     Remark: 
@@ -92913,126 +92961,6 @@
     Longname: Paco El Bombas (Translated).rom
     sha1: 507b308f14ecca686ac0f08cf415ae056274d9d0
     Name: PacoElBE.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: No
-    Remark: 
-
-  - English title: Paco The Bombs
-    Original title: Paco El Bombas
-    Longname: Paco El Bombas (Translated to French).rom
-    sha1: 0cc75356c0d9c0efd7db81622ae8546b0bc8ba42
-    Name: PacoElBF.ROM
-    Genre: 
-    Language: French
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: No
-    Remark: 
-
-  - English title: Paco The Bombs Redux
-    Original title: Paco El Bombas Redux
-    Longname: Paco El Bombas Redux.rom
-    sha1: 17adadc4ba5722bd27f5f8add9f5c1d2ff1d243f
-    Name: PacoElBR.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Paco The Bombs Redux
-    Original title: Paco El Bombas Redux
-    Longname: Paco El Bombas Redux (I).rom
-    sha1: 549a53c976456ba242b6ae5627da226fb9230f20
-    Name: PacoEBRI.ROM
-    Genre: 
-    Language: Italian
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Paco The Bombs Redux
-    Original title: Paco El Bombas Redux
-    Longname: Paco El Bombas Redux (S).rom
-    sha1: 35f3d0b7a06881cce8006483de9604a0e9c04514
-    Name: PacoEBRS.ROM
-    Genre: 
-    Language: Spanish
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: None
-    Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Paco Time Attack
-    Original title: Paco Time Attack
-    Longname: Paco Time Attack.rom
-    sha1: 3b99a513cbace53aaedf21e8d956050444dab8d2
-    Name: PacoTA.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -93042,38 +92970,230 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Paco The Bombs
+    Original title: Paco El Bombas
+    Longname: Paco El Bombas (Translated to French).rom
+    sha1: 0cc75356c0d9c0efd7db81622ae8546b0bc8ba42
+    Name: PacoElBF.ROM
+    Genre: Platform
+    Language: French
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Paco The Bombs Redux
+    Original title: Paco El Bombas Redux
+    Longname: Paco El Bombas Redux.rom
+    sha1: 17adadc4ba5722bd27f5f8add9f5c1d2ff1d243f
+    Name: PacoElBR.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Paco The Bombs Redux
+    Original title: Paco El Bombas Redux
+    Longname: Paco El Bombas Redux (I).rom
+    sha1: 549a53c976456ba242b6ae5627da226fb9230f20
+    Name: PacoEBRI.ROM
+    Genre: Platform
+    Language: Italian
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Paco The Bombs Redux
+    Original title: Paco El Bombas Redux
+    Longname: Paco El Bombas Redux (S).rom
+    sha1: 35f3d0b7a06881cce8006483de9604a0e9c04514
+    Name: PacoEBRS.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Paco Time Attack
+    Original title: Paco Time Attack
+    Longname: Paco Time Attack [v1.0].rom
+    sha1: 3b99a513cbace53aaedf21e8d956050444dab8d2
+    Name: PacoTA10.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
     Release: 2022-10-11
     Original Dump: Yes
     Remark: 
 
-  - English title: Tere-Kinesis
-    Original title: Tere-Kinesis
-    Longname: Tere-Kinesis.rom
-    sha1: 90424f20cf92d52129d6c0f6cb78075d24917981
-    Name: TereKine.ROM
-    Genre: 
+  - English title: Paco Time Attack
+    Original title: Paco Time Attack
+    Longname: Paco Time Attack [v1.1].rom
+    sha1: 342cf0303b505093031f5a1e0db7dac1aacf1bdf
+    Name: PacoTA11.ROM
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2022-12-06
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Tere-Kinesis
+    Original title: テレーキネシス
+    Longname: Tere-Kinesis [r1].rom
+    sha1: fc67f615928cf42f5ede6627cb5cdaf3bf0da067
+    Name: TereKiR1.ROM
+    Genre: Habitity
+    Language: English
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Tere-Kinesis
+    Original title: テレーキネシス
+    Longname: Tere-Kinesis [r2].rom
+    sha1: 90424f20cf92d52129d6c0f6cb78075d24917981
+    Name: TereKiR2.ROM
+    Genre: Habitity
+    Language: English
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Tere-Kinesis
+    Original title: テレーキネシス
+    Longname: Tere-Kinesis (S).rom
+    sha1: dac7aa7aa8f286caabd7f0e53d4734803c5120ac
+    Name: TereKinS.ROM
+    Genre: Habitity
+    Language: Spanish
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021-08-23
+    Original Dump: Yes
     Remark: 
 
   - English title: Vengeance
@@ -93087,7 +93207,31 @@
     Size: 2MB
     Rom mapper: ASCII8
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: None
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Zorro
+    Original title: Zorrico
+    Longname: Zorrico.rom
+    sha1: 588a8ac2b5cd0a4870c3987539a8c3d44b06b549
+    Name: ZorricEX.ROM
+    Genre: 
+    Language: English
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -93105,13 +93249,13 @@
     Longname: Zorrico EX.rom
     sha1: d9483cad63e17b87246ceafd415e616559c1c7de
     Name: ZorricEX.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -93119,9 +93263,9 @@
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
   - English title: Zorro EX
@@ -93129,13 +93273,13 @@
     Longname: Zorrico EX (I).rom
     sha1: 97b0c65a7bc3ca3ff66b7e21cac99cc7bd1ecd9a
     Name: ZorriEXI.ROM
-    Genre: 
+    Genre: Platform
     Language: Italian
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -93143,9 +93287,9 @@
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
   - English title: Zorro EX
@@ -93153,13 +93297,13 @@
     Longname: Zorrico EX (S).rom
     sha1: 97cf2922014af07a6d9be0305a5994a4e19ac459
     Name: ZorriEXS.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -93167,9 +93311,9 @@
     Player number: 1
     Signature: None
     Publisher: Physical Dreams
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
 #
@@ -97376,7 +97520,7 @@
     Language: English
     Country: UK
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -97937,7 +98081,7 @@
 
   - English title: Vampire
     Original title: Phantomas 2
-    Longname: Vampire.rom
+    Longname: Vampire (Codemasters).rom
     sha1: e10e20c1a023b88c39566803998fbaf9e342ea6d
     Name: Vampire.ROM
     Genre: Platform
@@ -100549,7 +100693,7 @@
     Developer: Electronic Arts
     Release: 1989 (original tape)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Jam.
 
   - English title: Coliseum
     Original title: Coliseum
@@ -102144,7 +102288,7 @@
     Language: Spanish
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -105192,7 +105336,7 @@
 
   Files:
   - English title: Colossal Adventure
-    Original title: 
+    Original title: Colossal Adventure
     Longname: Colossal Adventure.rom
     sha1: 8fe43035185cd5fc5a3d26aa3fcdbb8076b89d49
     Name: ColosAdv.ROM
@@ -105200,7 +105344,7 @@
     Language: English
     Country: UK
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -105216,7 +105360,7 @@
     Remark: 
 
   - English title: Dungeon Adventure
-    Original title: 
+    Original title: Dungeon Adventure
     Longname: Dungeon Adventure.rom
     sha1: d78be4ef3478f6da7afdf9f127aeb90e8c18200e
     Name: DungeAdv.ROM
@@ -105240,7 +105384,7 @@
     Remark: 
 
   - English title: Emerald Isle
-    Original title: 
+    Original title: Emerald Isle
     Longname: Emerald Isle.rom
     sha1: a5fde4cae91d06811bd64ca3ebe76bb47755f73a
     Name: EmeraldI.ROM
@@ -105264,7 +105408,7 @@
     Remark: 
 
   - English title: Lords of Time
-    Original title: 
+    Original title: Lords of Time
     Longname: Lords of Time.rom
     sha1: 547805eb3b807cd4a289f01d7a76be62feaa7dff
     Name: LordsOfT.ROM
@@ -105288,7 +105432,7 @@
     Remark: 
 
   - English title: Lords of Time
-    Original title: 
+    Original title: Lords of Time
     Longname: Lords of Time [a].rom
     sha1: 2627631e735d56e6792e77075b2ad33fa4b538a5
     Name: LordsOfA.ROM
@@ -105312,7 +105456,7 @@
     Remark: 
 
   - English title: The Price of Magik
-    Original title: 
+    Original title: The Price of Magik
     Longname: The Price of Magik.rom
     sha1: ac109dac24df4dae813ca5d9f0938cc48a162bb1
     Name: PriceOfM.ROM
@@ -109248,7 +109392,7 @@
     Language: Spanish
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -109263,8 +109407,8 @@
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Goody
+    Original title: Goody
     Longname: Goody (S).rom
     sha1: 044207a4e1900bc6e68d22cd293c7b032ff4d398
     Name: Goody.ROM
@@ -110073,14 +110217,14 @@
 
   - English title: Cluedo
     Original title: Cluedo
-    Longname: Cluedo.rom
+    Longname: Cluedo (Leisure Genius).rom
     sha1: 2b3ba1518a5069b76624c4f65b08f863a261ed2d
     Name: Cluedo.ROM
     Genre: 
     Language: English
     Country: 
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -112480,7 +112624,7 @@
     Language: English
     Country: Netherlands
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -112493,7 +112637,7 @@
     Developer: 
     Release: 19 (original tape)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Jam.
 
   - English title: Chopper One
     Original title: Chopper One
@@ -112504,7 +112648,7 @@
     Language: English
     Country: Netherlands
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -112517,7 +112661,7 @@
     Developer: 
     Release: 19 (original tape)
     Original Dump: No
-    Remark: MSX support improved by gdx.
+    Remark: Converted to ROM by Jam. MSX support improved by gdx.
 
   - English title: Eagle Control
     Original title: Eagle Control
@@ -114560,7 +114704,7 @@
     Language: Spanish
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -114780,11 +114924,11 @@
     Longname: Carlos Sainz Campeonato del Mundo de Rallies (S).rom
     sha1: a212ef8d4568aa0072cbd632946da60ffb290e5a
     Name: CACampeo.ROM
-    Genre: 
+    Genre: Car racing
     Language: Spanish
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -114808,7 +114952,7 @@
     Language: Spanish
     Country: Spain
     Size: 
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: kB
     VRAM: 16kB
@@ -123479,8 +123623,8 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Platform Game Tes
-    Original title: Platform Game Tes
+  - English title: Platform Game Test
+    Original title: Platform Game Test
     Longname: Platform Game Test (Siudym).rom
     sha1: b1e3a1a3ef3c5072e165a0840a7fdca8419a3226
     Name: PFG-test.ROM
