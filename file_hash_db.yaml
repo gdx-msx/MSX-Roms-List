@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 12-03-2023 by gdx
+    MSX Roms Database version 14-03-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -3213,7 +3213,7 @@
 
   - English title: 
     Original title: 
-    Longname: MSX Swimming Game (J) [Without keyclick] [Bad dump].rom
+    Longname: MSX Swimming Game (J) [without keyclick] [Bad dump].rom
     sha1: c8ccd5bd619b4571b05d2e75748dfb33dfc39730
     Name: BADDUMP11.ROM
     Genre: Bad dump
@@ -7837,7 +7837,7 @@
 
   - English title: Livingstone, I Presume?
     Original title: Livingstone Supongo
-    Longname: Livingstone Supongo MSX2 [Without keyclick] (Opera Soft).rom
+    Longname: Livingstone Supongo MSX2 [without keyclick] (Opera Soft).rom
     sha1: 09097cdec9da8ee7c15be93f7dcc8339ab81777f
     Name: LiviX2Kf.ROM
     Genre: Platform
@@ -13179,54 +13179,6 @@
     Original Dump: No
     Remark: 
 
-  - English title: Dream Runaway
-    Original title: Dream Runaway
-    Longname: Dream Runaway (POPCOM 1985-12).rom
-    sha1: d241c478381841d72fea1b536ac0ca5fb758bf97
-    Name: DreamRun.ROM
-    Genre: Racing (3D Wireframe)
-    Language: English
-    Country: Japan
-    Size: 32kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 64kB in the same slot
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: POPCOM
-    Developer: 
-    Release: 1985-12
-    Original Dump: No
-    Remark: 
-
-  - English title: Dream Runaway
-    Original title: Dream Runaway
-    Longname: Dream Runaway (POPCOM 1985-12) [Without keyclick].rom
-    sha1: 639695be1fa8ba9d937295ff80a5f8485df4d196
-    Name: DreamRKf.ROM
-    Genre: Racing (3D Wireframe)
-    Language: English
-    Country: Japan
-    Size: 32kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 64kB in the same slot
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: POPCOM
-    Developer: 
-    Release: 1985-12
-    Original Dump: No
-    Remark: 
-
   - English title: Legion
     Original title: Legion
     Longname: Legion (MSX Magazine 1988).rom
@@ -13296,30 +13248,6 @@
     Publisher: 
     Developer: 
     Release: 
-    Original Dump: No
-    Remark: 
-
-  - English title: Rock'n Roller
-    Original title: Rock'n Roller
-    Longname: Rock'n Roller (ROC).rom
-    sha1: 25cc9638db16587a182534122d1c6b98ac321e2b
-    Name: RocknRoc.ROM
-    Genre: Car battle with paint
-    Language: English with some Japanese texts
-    Country: Japan
-    Size: 16kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 32kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Joystick for the main car (white); joystick 2 for the green; cursor keys for the blue; keyboard Q, SHIFT, CTRL, S keys for the red.
-    Sound: PSG
-    Player number: 1 to 4
-    Signature: No
-    Publisher: POPCOM Magazine
-    Developer: RCC, M.Akimoto (Kaeru Soft)
-    Release: 1988-12
     Original Dump: No
     Remark: 
 
@@ -13395,30 +13323,6 @@
     Original Dump: No
     Remark: 
 
-  - English title: Super Ilevan
-    Original title: Super Ilevan
-    Longname: Super Ilevan (POPCOM 1988-04).rom
-    sha1: d60554eb8f4ac42fdf0f725ac878472d5cc0d8e6
-    Name: SupIleva.ROM
-    Genre: Platform
-    Language: English
-    Country: Japan
-    Size: 32kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 32kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: POPCOM Soft
-    Developer: Koichi Nishida
-    Release: 1988-04
-    Original Dump: No
-    Remark: 
-
   - English title: Viper
     Original title: Viper
     Longname: Viper (MSX Computer Magazine 1987).rom
@@ -13444,7 +13348,7 @@
     Remark: 
 
 #
-## Games from Magazine Converted to ROM: Login ##
+## Games from Magazine Converted to ROM: Monthly Login ##
 #
 
 - Folder longname: ~/Games from Magazine Converted to ROM/Login
@@ -13594,6 +13498,157 @@
     Release: 1984-01
     Original Dump: No
     Remark: 
+##
+### Games from magazine converted to ROM: Popcom Magazine (JP) ###
+##
+
+- Folder longname: ~/Games from magazine converted to ROM/Popcom Magazine (JP)
+  Folder name: ~/Mag2Rom/Popcom
+
+  Files:
+  - English title: Apple Runner
+    Original title: Apple Runner
+    Longname: Apple Runner (Kazuki Suzuki).rom
+    sha1: 56b036f4864d97fed84ef7bd405497e0e73d6171
+    Name: AppleRun.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Size: 8kB without mirror
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Popcom
+    Developer: Kazuki Suzuki
+    Release: 1984-12
+    Original Dump: No
+    Remark: 
+
+  - English title: Dream Runaway
+    Original title: Dream Runaway
+    Longname: Dream Runaway (Koichi Nishida).rom
+    sha1: d241c478381841d72fea1b536ac0ca5fb758bf97
+    Name: DreamRun.ROM
+    Genre: Racing (3D Wireframe)
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Popcom
+    Developer: Koichi Nishida
+    Release: 1985-12
+    Original Dump: No
+    Remark: 
+
+  - English title: Dream Runaway
+    Original title: Dream Runaway
+    Longname: Dream Runaway (Koichi Nishida) [without keyclick].rom
+    sha1: 639695be1fa8ba9d937295ff80a5f8485df4d196
+    Name: DreamRKf.ROM
+    Genre: Racing (3D Wireframe)
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Popcom
+    Developer: Koichi Nishida
+    Release: 1985-12
+    Original Dump: No
+    Remark: 
+
+  - English title: Rescue
+    Original title: Rescue
+    Longname: Rescue (HX-10D).rom
+    sha1: 4da01869c89128e363f502eb4813cfdf40171d1c
+    Name: Rescue.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Popcom
+    Developer: HX-10D
+    Release: 1984-12
+    Original Dump: No
+    Remark: Converted to ROM by DrWh0.
+
+  - English title: Rock'n Roller
+    Original title: Rock'n Roller
+    Longname: Rock'n Roller (ROC).rom
+    sha1: 25cc9638db16587a182534122d1c6b98ac321e2b
+    Name: RocknRoc.ROM
+    Genre: Car battle with paint
+    Language: English with some Japanese texts
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Joystick for the main car (white); joystick 2 for the green; cursor keys for the blue; keyboard Q, SHIFT, CTRL, S keys for the red.
+    Sound: PSG
+    Player number: 1 to 4
+    Signature: No
+    Publisher: Popcom Magazine
+    Developer: RCC, M.Akimoto (Kaeru Soft)
+    Release: 1988-12
+    Original Dump: No
+    Remark: 
+
+  - English title: Super!! Ilevan
+    Original title: Super!! Ilevan
+    Longname: Super Ilevan (POPCOM 1988-04).rom
+    sha1: d60554eb8f4ac42fdf0f725ac878472d5cc0d8e6
+    Name: SupIleva.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Popcom Soft
+    Developer: Koichi Nishida
+    Release: 1988-04
+    Original Dump: No
+    Remark: 
 
 ##
 ### Games from The Links Converted to ROM ###
@@ -13683,7 +13738,7 @@
     Genre: Tank battle
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -17548,7 +17603,7 @@
     Longname: Alpine Sky (Al Alamiah).rom
     sha1: 6e15b3d92191bf2c5ff07435c9849e31dad3ed1e
     Name: ALAlpSky.ROM
-    Genre: 16kB
+    Genre: Ski
     Language: English
     Country: Kuwait
     Size: 16kB
@@ -19279,7 +19334,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: kB
@@ -19564,10 +19619,10 @@
     Longname: Sebaweh 2 (A).rom 
     sha1: bbabc8ce1e39d4405dee587737e4dea24477c24d
     Name: Sebaweh2.ROM
-    Genre: 32kB
+    Genre: 
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: kB
@@ -20487,7 +20542,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20511,7 +20566,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20535,7 +20590,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20559,7 +20614,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20583,7 +20638,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20607,7 +20662,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20631,7 +20686,7 @@
     Genre: Compilation
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20655,7 +20710,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20679,7 +20734,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: Arabic MSX1
     RAM: 16kB
@@ -20703,7 +20758,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20727,7 +20782,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: Arabic MSX1
     RAM: 64kB
@@ -20751,7 +20806,7 @@
     Genre: Platform
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20775,7 +20830,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20799,7 +20854,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20823,7 +20878,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20847,7 +20902,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20871,7 +20926,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20895,7 +20950,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20919,7 +20974,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20943,7 +20998,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20967,7 +21022,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -20991,7 +21046,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21015,7 +21070,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21039,7 +21094,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21063,7 +21118,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21087,7 +21142,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21111,7 +21166,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21135,7 +21190,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21159,7 +21214,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21183,7 +21238,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -21207,7 +21262,7 @@
     Genre: 
     Language: Arabic
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: Arabic MSX1
     RAM: 64kB
@@ -21239,7 +21294,7 @@
     Genre: Maze
     Language: Spanish
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 32kB
@@ -21263,7 +21318,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21287,7 +21342,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21311,7 +21366,7 @@
     Genre: 
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21335,7 +21390,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21359,7 +21414,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21383,7 +21438,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21407,7 +21462,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21431,7 +21486,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21455,7 +21510,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21479,7 +21534,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21503,7 +21558,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21527,7 +21582,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21551,7 +21606,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21575,7 +21630,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21599,7 +21654,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21623,7 +21678,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21647,7 +21702,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21671,7 +21726,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21695,7 +21750,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21719,7 +21774,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21743,7 +21798,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21767,7 +21822,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21791,7 +21846,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21815,7 +21870,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21839,7 +21894,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -21863,7 +21918,7 @@
     Genre: Educative
     Language: Arabic
     Country: Kuwait
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 64kB
@@ -88091,6 +88146,30 @@
   Folder name: ~/MSXdev/2023
 
   Files:
+  - English title: Pearl Rain
+    Original title: Pearl Rain
+    Longname: Pearl Rain [v1.0].rom
+    sha1: f198a005ce74c01cfd8fb6b8e335a3cb0f324ef7
+    Name: Pearl100.ROM
+    Genre: Platform
+    Language: English
+    Country: Swedish
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Patrik's Retro Tech
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00
+
   - English title: Pentacorn Quest
     Original title: Pentacorn Quest
     Longname: Pentacorn Quest [v1.0].rom
@@ -88187,6 +88266,54 @@
     Original Dump: Yes
     Remark: Version 1.10
 
+  - English title: Tower of Damnation
+    Original title: Tower of Damnation
+    Longname: Tower of Damnation [v1.2] [50hz].rom
+    sha1: 2bba3e3298742c3ea9533de6d45c74ce60a23c08
+    Name: TowDaP11.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1 with v-blank at 50hz
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Marcelo Correia
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.20
+
+  - English title: Tower of Damnation
+    Original title: Tower of Damnation
+    Longname: Tower of Damnation [v1.2] [60hz].rom
+    sha1: d4e116853834f3cc96138ec8e9ad9a3403257fb3
+    Name: TowDaN11.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX1 with v-blank at 60hz
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Marcelo Correia
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.20
+
   - English title: Uchu Yohei / The Space Mercenary
     Original title: Uchu Yohei / 宇宙傭兵
     Longname: Uchu Yohei [v1.0].rom
@@ -88196,12 +88323,12 @@
     Language: English
     Country: Spain
     Size: 128kB
-    Rom mapper: None
-    Machine: MSX1 with v-blank at 60hz
+    Rom mapper: Konami8
+    Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -88210,6 +88337,54 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.10
+
+  - English title: Uchu Yohei / The Space Mercenary
+    Original title: Uchu Yohei / 宇宙傭兵
+    Longname: Uchu Yohei [v1.2].rom
+    sha1: 010d18021bcabdbfbb1edb693527531627b7e9e2
+    Name: UchuYo10.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 128kB
+    Rom mapper: Konami8
+    Machine: MSX1 with v-blank at 60hz
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: FranChesstein (José Javier Franco Benítez)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.20
+
+  - English title: Uchu Yohei / The Space Mercenary
+    Original title: Uchu Yohei / 宇宙傭兵
+    Longname: Uchu Yohei [v1.3].rom
+    sha1: f6792d2f3b130e0beb9bc77e5355b9e254da543a
+    Name: UchuYo10.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 128kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: FranChesstein (José Javier Franco Benítez)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.30
 
 ##
 ### Game Roms from Netherlands ###
@@ -99001,10 +99176,10 @@
     Longname: Donpan [a].rom
     sha1: 8f545627ba0467858c0310ac2d52d16c5bd7c56b
     Name: DonpanA.ROM
-    Genre: 16kB
+    Genre: Action
     Language: English
     Country: Japan
-    Size: Action
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 32kB
@@ -99214,7 +99389,7 @@
 
   - English title: Saurusland
     Original title: ザウルスランド
-    Longname: Saurusland [Without keyclick].rom
+    Longname: Saurusland [without keyclick].rom
     sha1: 8bf79bcc577ed0cf2f2d125d72718471f5fcae71
     Name: SaurusKf.ROM
     Genre: Action
@@ -102217,7 +102392,7 @@
     Longname: Come On Picot [MSX support fix] (Eaglesoft).rom
     sha1: c101a62ab235be7992ecb4e686b25afa2bec2885
     Name: ESComMsf.ROM
-    Genre: 32kB
+    Genre: 
     Language: English
     Country: Netherlands
     Size: 32kB
@@ -102550,7 +102725,7 @@
 
   - English title: Mazes Unlimited
     Original title: Mazes Unlimited
-    Longname: Mazes Unlimited [Without keyclick].rom
+    Longname: Mazes Unlimited [without keyclick].rom
     sha1: 21dc32a3de9e60ba7d8ca74679fd994720cd5f2e
     Name: MazesUKf.ROM
     Genre: Maze
@@ -106679,7 +106854,7 @@
 
   - English title: Maze Max
     Original title: Maze Max
-    Longname: Maze Max (F) [Without keyclick].rom
+    Longname: Maze Max (F) [without keyclick].rom
     sha1: cc2a81484e22f4284a1d5d73419ff75b143dd7b4
     Name: MazeMaKf.ROM
     Genre: Maze
@@ -106703,7 +106878,7 @@
 
   - English title: Maze Max
     Original title: Maze Max
-    Longname: Maze Max (F) [Without keyclick & Cursor keys].rom
+    Longname: Maze Max (F) [without keyclick & Cursor keys].rom
     sha1: 05c45880db83947de2f1782b27b6231b0aa17415
     Name: MazeMaCk.ROM
     Genre: Maze
@@ -107071,7 +107246,7 @@
 
   - English title: Formula 1 Simulator
     Original title: Formula 1 Simulator
-    Longname: Formula 1 Simulator [Without keyclick].rom
+    Longname: Formula 1 Simulator [without keyclick].rom
     sha1: 68a9941a863e194b7785cd966c8d11c9a03cb8ad
     Name: F1SimuKf.ROM
     Genre: Racing
@@ -109039,7 +109214,7 @@
 
   - English title: Splash
     Original title: Splash
-    Longname: Splash [Without keyclick].rom
+    Longname: Splash [without keyclick].rom
     sha1: c596ec0b3cf1c868f559f18b5dae94c0bc75298e
     Name: SplashKf.ROM
     Genre: Platform
@@ -110984,7 +111159,7 @@
 
   - English title: Cytoplasm
     Original title: Cytoplasm
-    Longname: Cytoplasm [Without keyclick] (I).rom
+    Longname: Cytoplasm [without keyclick] (I).rom
     sha1: 5a2fde97179931884316e71fa12368c1887545e1
     Name: CytoplKf.ROM
     Genre: Dungeon Crawlers
@@ -112926,7 +113101,7 @@
     Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
@@ -113072,7 +113247,7 @@
 
   - English title: Astro Blaster
     Original title: Astro Blaster
-    Longname: Astro Blaster [Without keyclick].rom
+    Longname: Astro Blaster [without keyclick].rom
     sha1: 44b10f8948ba3de203ead23646334913b73e7368
     Name: AstroBKf.ROM
     Genre: Shoot'em up (without scrolling)
@@ -114003,10 +114178,10 @@
     Longname: Les Flics [a].rom
     sha1: d745bc68f6f28abedbaea99d8819952731a8d9b0
     Name: LesFlicA.ROM
-    Genre: 64kB
+    Genre: Action
     Language: English
     Country: UK
-    Size: Action
+    Size: 64kB
     Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 32kB
@@ -116352,7 +116527,7 @@
 
   - English title: Star Trek - Strategic Operations Simulator
     Original title: Star Trek - Strategic Operations Simulator
-    Longname: Star Trek Strategic Operations Simulator [Without keyclick].rom
+    Longname: Star Trek Strategic Operations Simulator [without keyclick].rom
     sha1: 16ed445d150e1523597b076b1b8862f787157215
     Name: StarTreA.ROM
     Genre: Space Combat Simulation
@@ -116438,7 +116613,7 @@
     Genre: Database
     Language: English
     Country: Netherlands
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: kB
