@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 14-03-2023 by gdx
+    MSX Roms Database version 19-03-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -8650,6 +8650,30 @@
     Release: 1989 (original)
     Original Dump: No
     Remark: 
+
+  - English title: Eat Blue! Classic
+    Original title: Eat Blue! Classic
+    Longname: Eat Blue! Classic.rom
+    sha1: bb232a8a58ae8bb14ad7ae1264ef64797a9bd5b4
+    Name: EatBlueC.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1 with internationnal font 
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Paxanga
+    Developer: Paxanga
+    Release: 1995
+    Original Dump: No
+    Remark: Converted to ROM by gdx.
 
   - English title: Fire Trap
     Original title: Fire Trap
@@ -66788,7 +66812,6 @@
   Folder name: ~/Japan/Toshiba
 
   Files:
-
   - English title: A.E.
     Original title: エー・イー
     Longname: A.E..rom
@@ -79316,7 +79339,7 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2005
     Original Dump: Yes
     Remark: 
@@ -79340,7 +79363,7 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2005
     Original Dump: Yes
     Remark: 
@@ -79412,7 +79435,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2005
     Original Dump: Yes
     Remark: 
@@ -79436,7 +79459,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2005
     Original Dump: Yes
     Remark: 
@@ -79995,7 +80018,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80019,7 +80042,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80043,7 +80066,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80067,7 +80090,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80283,7 +80306,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80307,7 +80330,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: No
     Remark: Version with VDP timing fixed by gdx.
@@ -80331,7 +80354,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: Yes
     Remark: 
@@ -80355,7 +80378,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 2006
     Original Dump: No
     Remark: Version with VDP timing fixed by gdx.
@@ -82237,7 +82260,7 @@
     Sound: PSG
     Player number: 1
     Signature: MSXdev
-    Publisher: Oscar Toledo Gutierrez
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
     Developer: Nanochess (Óscar Toledo Gutierrez)
     Release: 2011
     Original Dump: Yes
@@ -88336,13 +88359,13 @@
     Developer: FranChesstein (José Javier Franco Benítez)
     Release: 2023
     Original Dump: Yes
-    Remark: Version 1.10
+    Remark: Version 1.00
 
   - English title: Uchu Yohei / The Space Mercenary
     Original title: Uchu Yohei / 宇宙傭兵
     Longname: Uchu Yohei [v1.2].rom
     sha1: 010d18021bcabdbfbb1edb693527531627b7e9e2
-    Name: UchuYo10.ROM
+    Name: UchuYo12.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -88366,7 +88389,7 @@
     Original title: Uchu Yohei / 宇宙傭兵
     Longname: Uchu Yohei [v1.3].rom
     sha1: f6792d2f3b130e0beb9bc77e5355b9e254da543a
-    Name: UchuYo10.ROM
+    Name: UchuYo13.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -88385,6 +88408,30 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.30
+
+  - English title: Uchu Yohei / The Space Mercenary
+    Original title: Uchu Yohei / 宇宙傭兵
+    Longname: Uchu Yohei [v1.4].rom
+    sha1: e2639154703bf40431052d966d3d67db835213b4
+    Name: UchuYo14.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 128kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: FranChesstein (José Javier Franco Benítez)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.40
 
 ##
 ### Game Roms from Netherlands ###
@@ -89139,62 +89186,6 @@
     Player number: 1
     Signature: No
     Publisher: Platty Soft
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Game Roms from Netherlands: UltraNarwhal ##
-#
-
-- Folder longname: ~/Roms from UK/UltraNarwhal
-  Folder name: ~/UK/UNarwhal
-
-  Files:
-  - English title: 
-    Original title: 
-    Longname: Duckstroma [v1.00].rom
-    sha1: 76f560d4438a32f6042f25fa4e1fd2cb89ccaf01
-    Name: Ducks100.ROM
-    Genre: 
-    Language: English
-    Country: Netherlands
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: UltraNarwhal
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Duckstroma [v1.02].rom
-    sha1: cb24250769363914ed747d6b394a52459085acff
-    Name: Ducks102.ROM
-    Genre: 
-    Language: English
-    Country: Netherlands
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: UltraNarwhal
     Developer: 
     Release: 
     Original Dump: 
@@ -91040,29 +91031,6 @@
   Folder name: ~/Spain/Dioniso
 
   Files:
-  - English title: Zero and The Castle of Infinite Sadness
-    Original title: 
-    Longname: Zero and The Castle of Infinite Sadness [48K].rom
-    sha1: b61b66e14574b683f75807a6aa18b7868cd628d8
-    Name: Z&TCOIS.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Dioniso
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
 
 #
 ## Game Roms from Spain or Mexico: DTenso  ##
@@ -92112,41 +92080,41 @@
 
   Files:
   - English title: Danger
-    Original title: 
+    Original title: Danger
     Longname: Danger.rom
     sha1: 504c045ecc439b3ee57ca8276781e09f85eaf105
     Name: Danger.ROM
-    Genre: 
+    Genre: Rescue
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Kotai
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Kotai
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
   - English title: Jorge's Adventure
-    Original title: 
-    Longname: Jorge's Adventure.rom
+    Original title: Jorge's Adventure
+    Longname: Jorge's Adventure (S).rom
     sha1: d6d3ad28f4943e448c32763adc0d6c5e6f6785b9
     Name: JorAdv.ROM
-    Genre: 
+    Genre: Platform (horizontal scrolling)
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 64kB
+    Rom mapper: KonamiSCC
+    Machine: MSX1 with international font
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -92154,70 +92122,70 @@
     Player number: 1
     Signature: No
     Publisher: Kotai
-    Developer: 
-    Release: 
+    Developer: Kotai
+    Release: 1989
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: Panou 2 [128K RAM].rom
+  - English title: Panou 2
+    Original title: Panou 2
+    Longname: Panou 2 (S) [128K RAM].rom
     sha1: b7b884a9581d5e20f99686e3484da530628b8b07
     Name: Panou2.ROM
-    Genre: 
-    Language: English
+    Genre: Adventure
+    Language: Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Size: 256kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 64kB
     Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Control: Keyboard / joystick
+    Sound: -
     Player number: 1
     Signature: No
     Publisher: Kotai
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Kotai
+    Release: 2011
+    Original Dump: Yes
     Remark: 
 
   - English title: Trail 2
-    Original title: 
+    Original title: Trail 2
     Longname: Trail 2.rom
     sha1: 0cfda8f657cd4d06fd9ea5df78db0e97bbf3fffe
     Name: Trail2.ROM
-    Genre: 
+    Genre: Bike cross racing
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 128kB
+    Rom mapper: KonamiSCC
+    Machine: MSX1
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Kotai
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Kotai
+    Release: 2012
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
-    Original title: 
-    Longname: Trogloditas.rom
+  - English title: Troglodytes
+    Original title: Trogloditas
+    Longname: Trogloditasv (S).rom
     sha1: 220e9cbb52811f87e3651fbc7ee44c1922286a85
     Name: Troglodi.ROM
-    Genre: 
-    Language: English
+    Genre: Action
+    Language: Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
+    Size: 64kB
+    Rom mapper: KonamiSCC
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
     Data saving: None
@@ -92226,9 +92194,9 @@
     Player number: 1
     Signature: No
     Publisher: Kotai
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Kotai
+    Release: 1989
+    Original Dump: Yes
     Remark: 
 
 #
@@ -92240,122 +92208,122 @@
 
   Files:
   - English title: Bomb Jack
-    Original title: 
+    Original title: Bomb Jack
     Longname: Bomb Jack [MSX2].rom
     sha1: 5c904e7d202d9df2ff2ef9c8300f00d207670e82
     Name: BombJaX2.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Kralizec
-    Developer: 
-    Release: 
+    Publisher: Kralizec, MSX Cartridge Shop
+    Developer: Kralizec
+    Release: 2004
     Original Dump: 
     Remark: 
 
   - English title: Bomb Jack
-    Original title: 
+    Original title: Bomb Jack
     Longname: Bomb Jack [MSX2] [a].rom
     sha1: aacdfbd5eda687377e66df2e376bd28679fbc160
     Name: BombJX2A.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Kralizec
-    Developer: 
-    Release: 
+    Publisher: Kralizec, MSX Cartridge Shop
+    Developer: Kralizec
+    Release: 2004
     Original Dump: 
     Remark: 
 
   - English title: Bomb Jack
-    Original title: 
+    Original title: Bomb Jack
     Longname: Bomb Jack [MSX2] [MSX support fix].rom
     sha1: 6ca9f56cef15277adcff3f0cafdc59f5eb042fa2
     Name: BomX2Msf.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Kralizec
-    Developer: 
-    Release: 
+    Publisher: Kralizec, MSX Cartridge Shop
+    Developer: Kralizec
+    Release: 2004
     Original Dump: No
     Remark: MSX support improved by gdx.
-
-  - English title: Kralizec Tetris
-    Original title: Kralizec Tetris
-    Longname: Kralizec Tetris [a].rom
-    sha1: 1fbf5640df41fe48c7d64ffc51e33b57b41fd7e1
-    Name: KTetrisA.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Kralizec
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
 
   - English title: Kralizec Tetris
     Original title: Kralizec Tetris
     Longname: Kralizec Tetris.rom
     sha1: 864824c2ef01945b7fccb3ec3399347b714d6aac
     Name: KTetris.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (against each other)
     Signature: No
     Publisher: Kralizec
-    Developer: 
-    Release: 
+    Developer: Ramones (Programmer), Sutchan (gfx)
+    Release: 2005
+    Original Dump: 
+    Remark: 
+
+  - English title: Kralizec Tetris
+    Original title: Kralizec Tetris
+    Longname: Kralizec Tetris [a].rom
+    sha1: 1fbf5640df41fe48c7d64ffc51e33b57b41fd7e1
+    Name: KTetrisA.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (against each other)
+    Signature: No
+    Publisher: Kralizec
+    Developer: Ramones (Programmer), Sutchan (gfx)
+    Release: 2005
     Original Dump: 
     Remark: 
 
@@ -92368,7 +92336,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -92379,8 +92347,160 @@
     Signature: No
     Publisher: MSX Cartridge Shop
     Developer: Kralizec
-    Release: 2009
+    Release: 2012
     Original Dump: Yes
+    Remark: 
+
+#
+## Game Roms from Spain or Mexico: Mapax ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Mapax
+  Folder name: ~/Spain/Mapax
+
+  Files:
+  - English title: Mr. Balloon
+    Original title: Mr. Balloon
+    Longname: Mr. Balloon.rom
+    sha1: 1a1d4f63751c3d4d208638eb37f48b3c1657f8c8
+    Name: MBalloon.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: Mapax
+    Release: 2014
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX in a Row!
+    Original title: MSX in a Row!
+    Longname: MSX in a Row! [V9990].rom
+    sha1: 864274ddfd098abf3605ad8dc08006e7617d43ad
+    Name: MSXINROW.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 4096kB
+    Rom mapper: None
+    Machine: MSX1 + V9990
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG & MSX-MUSIC / MSX-AUDIO
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: Mapax
+    Release: 2019
+    Original Dump: 
+    Remark: 
+
+  - English title: Wild Puzzle
+    Original title: Wild Puzzle
+    Longname: Wild Puzzle.rom
+    sha1: 48b3e0acf9029d2b83e850b75696e61e0a50a7ac
+    Name: WildPuzz.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 1024kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: PAC
+    Release: 2017-01
+    Original Dump: 
+    Remark: 
+
+  - English title: Wild Puzzle
+    Original title: Wild Puzzle
+    Longname: Wild Puzzle [a].rom
+    sha1: de5ab36ed1c91d94dd08cd74a3e2bc2eb90da3d6
+    Name: WildPuzA.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 1024kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: PAC
+    Release: 2017-01
+    Original Dump: 
+    Remark: 
+
+  - English title: Wild Puzzle
+    Original title: Wild Puzzle
+    Longname: Wild Puzzle [a2].rom
+    sha1: 718b1cdecc61ec28ce4e739793852b9a863863ad
+    Name: WildPuA2.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 1024kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: PAC
+    Release: 2017-01
+    Original Dump: 
+    Remark: 
+
+  - English title: Wild Puzzle
+    Original title: Wild Puzzle
+    Longname: Wild Puzzle [MEGA16 fix].rom
+    sha1: 72cd40a0e4c7779d0ee542bffcdff538cf874b71
+    Name: WildPM16.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Size: 1024kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: PAC
+    Release: 2017-01
+    Original Dump: No
     Remark: 
 
 #
@@ -92396,23 +92516,23 @@
     Longname: Cardwork Orange.rom
     sha1: 5688dc926f87e3cf71050caced90cab29f82af60
     Name: Cardwork.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 512kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Various
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: Cardwork Orange
@@ -92420,142 +92540,190 @@
     Longname: Cardwork Orange [KonamiSCC mapper].rom
     sha1: a16bd8734335da47a7cef553af918f1c3d4a380d
     Name: CardwoKS.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Various
+    Release: 2010
+    Original Dump: No
     Remark: 
 
-  - English title: 
+  - English title: Casio GPM-Compilation Volume 1
     Original title: Casio GPM-Compilation Volumen 1
     Longname: Casio GPM-Compilation Volumen 1.rom
     sha1: ef9c51bd3e8cb6f531a8210f97843e48f368aae4
     Name: CasioGP1.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 512kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
+    Developer: Casio
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
+  - English title: Casio GPM-Compilation Volume 1
     Original title: Casio GPM-Compilation Volumen 1
     Longname: Casio GPM-Compilation Volumen 1 [KonamiSCC mapper].rom
     sha1: 873f5ad35242256b02ed559878d91a5d2a641903
     Name: Casio1KS.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
+    Developer: Casio
     Release: 
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
-  - English title: 
+  - English title: Casio GPM-Compilation Volume 2
     Original title: Casio GPM-Compilation Volumen 2
     Longname: Casio GPM-Compilation Volumen 2.rom
     sha1: 0845717c7a42ceb3b07d28553b099985615f0510
     Name: CasioGP2.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 512kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
+    Developer: Casio
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
+  - English title: Casio GPM-Compilation Volume 2
     Original title: Casio GPM-Compilation Volumen 2
     Longname: Casio GPM-Compilation Volumen 2 [KonamiSCC mapper].rom
     sha1: 5b9a76d4c6eea0fa61544afa5b8c7dcece5608c6
     Name: Casio2KS.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
+    Developer: Casio
     Release: 
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
   - English title: INK - Exxon Surfing
-    Original title: 
+    Original title: INK - Exxon Surfing
     Longname: INK Exxon Surfing.rom
     sha1: df505aecddb20171cafd06351e0b7d208365e708
     Name: INKExxon.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
     Machine: MSX1, MSX2
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
+    Developer: Ink Team
+    Release: 2006
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Konami Compilation Volume 1
+    Original title: Konami Compilation Volume 1
+    Longname: Konami Compilation Volume 1.rom
+    sha1: 7ca8f0ca8901773fd69bc08eea8a27ac37d6cb3e
+    Name: KCV1.ROM
+    Genre: Compilation
+    Language: English
+    Country: Spain
+    Size: 512kB
+    Rom mapper: Matra compilation
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: Matra Computer Automations
+    Developer: Konami
+    Release: 2010
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Konami Compilation Volume 1
+    Original title: Konami Compilation Volume 1
+    Longname: Konami Compilation Volume 1 [KonamiSCC mapper].rom
+    sha1: ce7773ab10eabacb1e04941776d43781d17824f7
+    Name: KCV1-KS.ROM
+    Genre: Compilation
+    Language: English
+    Country: Spain
+    Size: 512kB
+    Rom mapper: KonamiSCC
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: Matra Computer Automations
+    Developer: Konami
+    Release: 2010
     Original Dump: 
     Remark: 
 
@@ -92564,13 +92732,13 @@
     Longname: Konami Compilation Volume 1 [trimmed].rom
     sha1: 115970209d5b89bdfece9cd941c93feb8faf6b12
     Name: KCV1trmd.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 488kB
+    Rom mapper: Matra compilation
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -92578,105 +92746,57 @@
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Konami Compilation Volume 1
-    Original title: 
-    Longname: Konami Compilation Volume 1.rom
-    sha1: 7ca8f0ca8901773fd69bc08eea8a27ac37d6cb3e
-    Name: KCV1.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Konami Compilation Volume 1
-    Original title: 
-    Longname: Konami Compilation Volume 1 [KonamiSCC mapper].rom
-    sha1: ce7773ab10eabacb1e04941776d43781d17824f7
-    Name: KCV1-KS.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Konami
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: Konami Compilation Volume 2
-    Original title: 
+    Original title: Konami Compilation Volume 2
     Longname: Konami Compilation Volume 2.rom
     sha1: 61a67b5684b60f11faf92eec9fe392401616a64b
     Name: KCV2.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 512kB
+    Rom mapper: Matra compilation
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Konami
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: Konami Compilation Volume 2
-    Original title: 
+    Original title: Konami Compilation Volume 2
     Longname: Konami Compilation Volume 2 [KonamiSCC mapper].rom
     sha1: aabecccc5112e247ad8b1f5464faf0927e81fd9d
     Name: KCV2-KS.ROM
-    Genre: 
+    Genre: Compilation
     Language: English
     Country: Spain
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
     Machine: MSX
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Konami
+    Release: 2010
+    Original Dump: No
     Remark: 
 
   - English title: Mag the Magician
@@ -92684,71 +92804,71 @@
     Longname: Mag the Magician (Bytemaniacos).rom
     sha1: ce2568c7dbe0495c78299632cf771743114dd36e
     Name: Mag.ROM
-    Genre: 
+    Genre: Role playing
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
     Developer: Bytemaniacos
-    Release: 
-    Original Dump: 
+    Release: 2019
+    Original Dump: Yes
     Remark: 
 
   - English title: Phantomas Saga - Infinity
-    Original title: 
+    Original title: Phantomas Saga - Infinity
     Longname: Phantomas Saga Infinity.rom
     sha1: e59d739ecd56a11ecf4020430585ea4cc61b02a6
     Name: Phantoma.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
+    Developer: NA.Th.An (program & Gfx), Beyker and Wyz (music)
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Prisoner of war
-    Original title: 
+    Original title: Prisionero de Guerra
     Longname: Prisoner of war.rom
     sha1: f07f68e873689e1d7083e21b805b8a5b174f50d2
     Name: Prisoner.ROM
-    Genre: 
+    Genre: Role playing
     Language: English
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Unepic fran
+    Release: 2018
+    Original Dump: Yes
     Remark: 
 
   - English title: Tales of Popolon
@@ -92764,8 +92884,8 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -92775,381 +92895,29 @@
     Original Dump: Yes
     Remark: 
 
-#
-## Game Roms from Spain or Mexico: Mapax ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/Mapax
-  Folder name: ~/Spain/Mapax
-
-  Files:
-  - English title: Avalon RPG OST Moonsound Edition
-    Original title: 
-    Longname: Avalon RPG OST Moonsound Edition [OPL4].rom
-    sha1: 2cc42a70c24ae5003945cca829cc3fb9ee870d21
-    Name: Avalon.ROM
-    Genre: 
+  - English title: Zero and The Castle of Infinite Sadness
+    Original title: Zero and The Castle of Infinite Sadness
+    Longname: Zero and The Castle of Infinite Sadness [48K].rom
+    sha1: b61b66e14574b683f75807a6aa18b7868cd628d8
+    Name: Z&TCOIS.ROM
+    Genre: Maze
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Matra Computer Automations, Dioniso
+    Developer: Dioniso Lobotomyware Software
+    Release: 2017
+    Original Dump: Yes
     Remark: 
-
-  - English title: Mr. Balloon
-    Original title: 
-    Longname: Mr. Balloon.rom
-    sha1: 1a1d4f63751c3d4d208638eb37f48b3c1657f8c8
-    Name: MBalloon.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: MSX in a Row!
-    Original title: 
-    Longname: MSX in a Row! [V9990].rom
-    sha1: 864274ddfd098abf3605ad8dc08006e7617d43ad
-    Name: MSXINROW.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Wild Puzzle
-    Original title: 
-    Longname: Wild Puzzle.rom
-    sha1: 48b3e0acf9029d2b83e850b75696e61e0a50a7ac
-    Name: WildPuzz.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Wild Puzzle
-    Original title: 
-    Longname: Wild Puzzle [a].rom
-    sha1: de5ab36ed1c91d94dd08cd74a3e2bc2eb90da3d6
-    Name: WildPuzA.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Wild Puzzle
-    Original title: 
-    Longname: Wild Puzzle [a2].rom
-    sha1: 718b1cdecc61ec28ce4e739793852b9a863863ad
-    Name: WildPuA2.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Wild Puzzle
-    Original title: 
-    Longname: Wild Puzzle [MEGA16 fix].rom
-    sha1: 72cd40a0e4c7779d0ee542bffcdff538cf874b71
-    Name: WildPM16.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mapax
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Game Roms from Spain or Mexico: Micromancers ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/Micromancers
-  Folder name: ~/Spain/Microman
-
-  Files:
-  - English title: Children of the Night
-    Original title: 
-    Longname: Children of the Night.rom
-    sha1: eb12bce5e11ab7da7d21235113471bd0c0ce33d0
-    Name: ChildNig.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Multiverse
-    Original title: Multiverse
-    Longname: Multiverse.rom
-    sha1: fab29d8d36c793b4ae86942bb2e6458a93b74222
-    Name: Multiver.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Multiverse
-    Original title: Multiverse
-    Longname: Multiverse [FM-Towns joypad].rom
-    sha1: fdc70efdab1938df1fbd7db615ff67155291a22c
-    Name: MultiFMT.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Multiverse
-    Original title: Multiverse
-    Longname: Multiverse [overdumped].rom
-    sha1: 962008e97aa8b114cef69d494238e293e2df55ef
-    Name: Multiver Overdumped.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Suite Macabre
-    Original title: Suite Macabre
-    Longname: Suite Macabre [copy protected].rom
-    sha1: 26addbdbee04afae123142b35e46c52a33c63113
-    Name: SuiteMac.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Suite Macabre
-    Original title: Suite Macabre
-    Longname: Suite Macabre [cracked].rom
-    sha1: 14d0574d5f8de458cbdc5d406d1c4f39b9f543a0
-    Name: SuiteMKd.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: Version with anti-copy protection removed.
-
-  - English title: Suite Macabre
-    Original title: Suite Macabre
-    Longname: Suite Macabre [cracked-a].rom
-    sha1: 1164a3bc63dc9929121026dc5a97faf65d6aa64f
-    Name: SuiteKdA.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Suite Macabre
-    Original title: Suite Macabre
-    Longname: Suite Macabre [cracked] [KonamiSCC mapper].rom
-    sha1: 0536721dd6bdf1993a3dc87eec031158163617b2
-    Name: SuitKdKS.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: Version with anti-copy protection removed.
 
 #
 ## Game Roms from Spain or Mexico: Microbyte ##
@@ -93164,22 +92932,22 @@
     Longname: Dip-Dip (S).rom
     sha1: 65f89c813a1d57a8f8a04e81682202f759ee6980
     Name: Dip-Dip.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Microbyte
-    Developer: 
-    Release: 
+    Developer: Indescomp
+    Release: 1985
     Original Dump: 
     Remark: 
 
@@ -93188,24 +92956,224 @@
     Longname: Dip-Dip (S) [PSG ports fix].rom
     sha1: 067c90e90b8910de615d481aeabe145269a9920f
     Name: Dip-DiPf.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Microbyte
-    Developer: 
+    Developer: Indescomp
+    Release: 1985
+    Original Dump: 
+    Remark: PSG I/O ports fix by GDX.
+
+#
+## Game Roms from Spain or Mexico: Micromancers ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Micromancers
+  Folder name: ~/Spain/Microman
+
+  Files:
+  - English title: Children of the Night
+    Original title: Children of the Night
+    Longname: Children of the Night.rom
+    sha1: eb12bce5e11ab7da7d21235113471bd0c0ce33d0
+    Name: ChildNig.ROM
+    Genre: Adventure, action
+    Language: English
+    Country: Spain
+    Size: 256kB
+    Rom mapper: KonamiSCC + SRAM
+    Machine: MSX
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: Internal SRAM / Password
+    Control: Keyboard / Role playing
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Micromancers
+    Developer: Hikaru Games
+    Release: 2019
+    Original Dump: 
+    Remark: 
+
+  - English title: Multiverse
+    Original title: Multiverse
+    Longname: Multiverse.rom
+    sha1: fab29d8d36c793b4ae86942bb2e6458a93b74222
+    Name: Multiver.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hikaru Games, Micromancers
+    Developer: Hikaru Games
     Release: 
     Original Dump: 
     Remark: 
+
+  - English title: Multiverse
+    Original title: Multiverse
+    Longname: Multiverse [FM-Towns joypad].rom
+    sha1: fdc70efdab1938df1fbd7db615ff67155291a22c
+    Name: MultiFMT.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick / FM-Towns joypad
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hikaru Games, Micromancers
+    Developer: Hikaru Games
+    Release: 2019
+    Original Dump: 
+    Remark: 
+
+  - English title: Multiverse
+    Original title: Multiverse
+    Longname: Multiverse [overdumped].rom
+    sha1: 962008e97aa8b114cef69d494238e293e2df55ef
+    Name: Multiver Overdumped.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: Platform
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hikaru Games, Micromancers
+    Developer: Hikaru Games
+    Release: 2019
+    Original Dump: 
+    Remark: 
+
+  - English title: Suite Macabre
+    Original title: Suite Macabre
+    Longname: Suite Macabre [copy protected].rom
+    sha1: 26addbdbee04afae123142b35e46c52a33c63113
+    Name: SuiteMac.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 256kB
+    Rom mapper: Konami8 with copy protection system
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Micromancers
+    Developer: Maltanto
+    Release: 2020
+    Original Dump: 
+    Remark: 
+
+  - English title: Suite Macabre
+    Original title: Suite Macabre
+    Longname: Suite Macabre [cracked].rom
+    sha1: 14d0574d5f8de458cbdc5d406d1c4f39b9f543a0
+    Name: SuiteMKd.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 256kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Micromancers
+    Developer: Maltanto
+    Release: 2020
+    Original Dump: 
+    Remark: Version with anti-copy protection removed.
+
+  - English title: Suite Macabre
+    Original title: Suite Macabre
+    Longname: Suite Macabre [cracked-a].rom
+    sha1: 1164a3bc63dc9929121026dc5a97faf65d6aa64f
+    Name: SuiteKdA.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 256kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Micromancers
+    Developer: Maltanto
+    Release: 2020
+    Original Dump: 
+    Remark: 
+
+  - English title: Suite Macabre
+    Original title: Suite Macabre
+    Longname: Suite Macabre [cracked] [KonamiSCC mapper].rom
+    sha1: 0536721dd6bdf1993a3dc87eec031158163617b2
+    Name: SuitKdKS.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 256kB
+    Rom mapper: KonamiSCC
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Micromancers
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: Version with anti-copy protection removed.
 
 #
 ## Game Roms from Spain or Mexico: MSX Cartridge Shop ##
@@ -93229,7 +93197,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -93253,7 +93221,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -93268,70 +93236,70 @@
     Longname: Cold Blood.rom
     sha1: 8cde922a3c189889096970fb6e8a1670fcc4e8ed
     Name: ColdBloo.ROM
-    Genre: 
+    Genre: Cold Blood
     Language: English
     Country: Spain
     Size: 
     Rom mapper: None
     Machine: MSX
-    RAM: kB
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
+    Developer: Paxanga
     Release: 
     Original Dump: 
     Remark: 
 
   - English title: Gauntlet
-    Original title: 
+    Original title: Gauntlet
     Longname: Gauntlet [MSX2].rom
     sha1: d42ffc085351fd7d7b13af77d2fcaa911bf5cccd
     Name: Gauntlet.ROM
-    Genre: 
+    Genre: Dungeon Crawlers
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
+    Size: 192kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Control: Keyboard / joystick
+    Sound: External PSG (I/O ports #10-#13)
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
+    Developer: AAMSX
+    Release: 2013
     Original Dump: 
     Remark: 
 
   - English title: Gauntlet
-    Original title: 
-    Longname: Gauntlet [MSX2-PSG ports fix].rom
+    Original title: Gauntlet
+    Longname: Gauntlet [MSX2] [PSG ports fix].rom
     sha1: 8e6d40900d69a1d3a6ed24162f7cec39ff71fa31
     Name: GauntlPf.ROM
-    Genre: 
+    Genre: Dungeon Crawlers
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
+    Size: 192kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
+    Developer: AAMSX
+    Release: 2013
     Original Dump: 
     Remark: 
 
@@ -93340,7 +93308,7 @@
     Longname: Hose Diogo Martinez The Bussas Quest.rom
     sha1: ece128e71c14cacde1c58f61c51a86d986789c3e
     Name: HoseDiog.ROM
-    Genre: 
+    Genre: Typing
     Language: English
     Country: Spain
     Size: 
@@ -93360,99 +93328,99 @@
     Remark: 
 
   - English title: Nogalious
-    Original title: 
-    Longname: Nogalious (LUEGOLU3GO Studio).rom
+    Original title: Nogalious
+    Longname: Nogalious (LuegoLu3go Studio).rom
     sha1: 6096d5a8c269c8db39820a54868cdd2c993ff94c
     Name: Nogaliou.ROM
-    Genre: 
-    Language: English
+    Genre: Platform
+    Language: English / French / Germain / Spanish
     Country: Spain
-    Size: 
+    Size: 512kB
     Rom mapper: None
     Machine: MSX
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: LuegoLu3go
+    Release: 2018
+    Original Dump: Yes
     Remark: 
 
   - English title: Nogalious
-    Original title: 
-    Longname: Nogalious [a] (LUEGOLU3GO Studio).rom
+    Original title: Nogalious
+    Longname: Nogalious [a] (LuegoLu3go Studio).rom
     sha1: 2888824e73e9322243396c8cc57510bf0f049bc8
     Name: NogalioA.ROM
-    Genre: 
-    Language: English
+    Genre: Platform
+    Language: English / French / Germain / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
+    Size: 512kB
+    Rom mapper: ASCII8
     Machine: MSX
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: LuegoLu3go
+    Release: 2018
+    Original Dump: Yes
     Remark: 
 
   - English title: Nogalious
-    Original title: 
-    Longname: Nogalious [a2] (LUEGOLU3GO Studio).rom
+    Original title: Nogalious
+    Longname: Nogalious [a2] (LuegoLu3go Studio).rom
     sha1: 678be67c55ba0f0bc7eeb4b53b79a0c4d6597f72
     Name: NogaliA2.ROM
-    Genre: 
-    Language: English
+    Genre: Platform
+    Language: English / French / Germain / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 512kB
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
+    Developer: LuegoLu3go
+    Release: 2018
     Original Dump: 
     Remark: 
 
   - English title: Perfect Fit
-    Original title: 
+    Original title: Perfect Fit
     Longname: Perfect Fit.rom
     sha1: 7ec25356abf3720806b2b97cbabdc1f19ed698f8
     Name: PerfectF.ROM
-    Genre: 
+    Genre: Puazzle
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Data saving: Password, Tape
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Paxanga
+    Release: 2008
+    Original Dump: Yes
     Remark: 
 
   - English title: The Goonies 'R' Good Enough
@@ -93464,7 +93432,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -93488,7 +93456,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -93512,7 +93480,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -93536,7 +93504,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -93560,7 +93528,7 @@
     Language: English
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
     VRAM: 64kB
@@ -93576,28 +93544,139 @@
     Remark: Version with anti-copy protection removed by Slotman.
 
   - English title: Who dares wins
-    Original title: 
+    Original title: Who dares wins
     Longname: Who dares wins [MSX2] (Retroforce).rom
     sha1: 4ebd62ae6a43846de266c193b92c962e464e4a6f
     Name: WhoDarX2.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
+    Size: 256kB
+    Rom mapper: KonamiSCC
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and SCC
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: MSX Cartridge Shop
+    Developer: Retroforce
+    Release: 2016
+    Original Dump: Yes
+    Remark: 
+
+#
+## Game Roms from Spain or Mexico: Nanochess (Oscar Toledo Gutierrez) ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Nanochess (Oscar Toledo Gutierrez)
+  Folder name: ~/Spain/Nanoches
+
+  Files:
+  - English title: Karateka 2
+    Original title: Karateka 2
+    Longname: Karateka 2.rom
+    sha1: 312097c8a645de71a241c4d3c5f59cc9149f30bc
+    Name: Karate2.ROM
+    Genre: Fighting
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: 8kB
+    VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: MSX Cartridge Shop
-    Developer: 
-    Release: 
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2021
     Original Dump: 
     Remark: 
+
+  - English title: Princess Quest
+    Original title: Princess Quest
+    Longname: Princess Quest.rom
+    sha1: 405db36a0b57fa4871a7991ebe72695793d3b7c9
+    Name: Princess.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Matra Computer Automations, Bitewise, Óscar Toledo Gutiérrez
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2012-06-01
+    Original Dump: Yes
+    Remark: 
+
+  - English title: z80rogue
+    Original title: z80rogue
+    Longname: z80rogue.rom
+    sha1: 2c00b7e214e9bbaa5c6e3df31c4ebb5a56375067
+    Name: z80rogue.ROM
+    Genre: Dungeon Crawlers
+    Language: English
+    Country: Spain
+    Size: 8kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2019-09
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Zombie Skull Prologue
+    Original title: Zombie Calavera Prologue
+    Longname: Zombie Calavera Prologue.rom
+    sha1: c3c2a134928f69c721bb2d2773d9372f5d8b23e2
+    Name: ZombieCP.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 32kb
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2021-2
+    Original Dump: 
+    Remark: 
+
+#
+## Game Roms from Spain or Mexico: Nerlaska Studio ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Nerlaska Studio
+  Folder name: ~/Spain/Nerlaska
 
 #
 ## Game Roms from Spain or Mexico: Nitrofurano ##
@@ -93619,23 +93698,23 @@
     Longname: Crazy Factory [digital edition v1.3].rom
     sha1: 8d8c539ae2a427e0e6f5862837af65cb33e94559
     Name: CrazyFac.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Oniric Factory
+    Developer: Oniric Factory
+    Release: 2020-11
+    Original Dump: Yes
     Remark: 
 
   - English title: Grey Wolf
@@ -93643,136 +93722,23 @@
     Longname: Grey Wolf.rom
     sha1: 7ebc54affd5794422cb23cd9823e6af337ad01a7
     Name: GreyWolf.ROM
-    Genre: 
+    Genre: Shoot'em up (First person scrolling)
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: kB
-    VRAM: 16kB
+    Size: 256kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG and MSX-Music
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Game Roms from Spain or Mexico: Nerlaska Studio ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/Nerlaska Studio
-  Folder name: ~/Spain/Nerlaska
-
-  Files:
-
-#
-## Game Roms from Spain or Mexico: Nanochess (Oscar Toledo Gutierrez) ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/Nanochess (Oscar Toledo Gutierrez)
-  Folder name: ~/Spain/Nanoches
-
-  Files:
-  - English title: 
-    Original title: 
-    Longname: Karateka 2.rom
-    sha1: 312097c8a645de71a241c4d3c5f59cc9149f30bc
-    Name: Karate2.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Oscar Toledo Gutierrez
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Princess Quest
-    Original title: 
-    Longname: Princess Quest.rom
-    sha1: 405db36a0b57fa4871a7991ebe72695793d3b7c9
-    Name: Princess.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Oscar Toledo Gutierrez
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: z80rogue
-    Original title: 
-    Longname: z80rogue.rom
-    sha1: 2c00b7e214e9bbaa5c6e3df31c4ebb5a56375067
-    Name: z80rogue.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Oscar Toledo Gutierrez
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: 
-    Longname: Zombie Calavera Prologue.rom
-    sha1: c3c2a134928f69c721bb2d2773d9372f5d8b23e2
-    Name: ZombieCP.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Oscar Toledo Gutierrez
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Oniric Factory
+    Developer: Oniric Factory
+    Release: 2017
+    Original Dump: Yes
     Remark: 
 
 #
@@ -93783,30 +93749,36 @@
   Folder name: ~/Spain/Paxanga
 
   Files:
-
   - English title: Pengo Free Version
-    Original title: 
+    Original title: Pengo Free Version
     Longname: Pengo Free Version.rom
     sha1: efd0e4d8df8951be7fa1c129beb50e55999ce099
     Name: PengoFV.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Size: 128kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Paxanga Soft
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Paxanga Soft
+    Release: 2012
+    Original Dump: Yes
     Remark: 
+
+#
+## Game Roms from Spain or Mexico: Pentacour ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Pentacour
+  Folder name: ~/Spain/Pentacou
 
 #
 ## Game Roms from Spain or Mexico: Physical Dreams ##
@@ -94238,7 +94210,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -94262,7 +94234,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -94286,7 +94258,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -94310,7 +94282,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -94321,13 +94293,6 @@
     Remark: 
 
 #
-## Game Roms from Spain or Mexico: Pentacour ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/Pentacour
-  Folder name: ~/Spain/Pentacou
-
-#
 ## Game Roms from Spain or Mexico: Relevo Videogames ##
 #
 
@@ -94336,65 +94301,65 @@
 
   Files:
   - English title: Azzurro 8bit Jam
-    Original title: 
+    Original title: Azzurro 8bit Jam
     Longname: Azzurro 8bit Jam (S) [v1.0].rom
     sha1: e7ac2fb16598e3e446a7d1c9708f10cf4c332a77
     Name: AzzurS10.ROM
-    Genre: 
+    Genre: Action
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: Relevo Videogames
+    Release: 2011
+    Original Dump: Yes
+    Remark: Version 1.0.
 
   - English title: Azzurro 8bit Jam
-    Original title: 
+    Original title: Azzurro 8bit Jam
     Longname: Azzurro 8bit Jam (S) [v1.1].rom
     sha1: 3f29328cfac7e39db6fb4f9270e7d590e0ca312c
     Name: AzzurS11.ROM
-    Genre: 
+    Genre: Action
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: Relevo Videogames
+    Release: 2011
+    Original Dump: Yes
+    Remark: Version 1.1.
 
-  - English title: 
-    Original title: Esta en el Pantano
+  - English title: He's in the swamp
+    Original title: Está en el Pantano
     Longname: Esta en el Pantano (S).rom
     sha1: f1550e958a0664f5966568e2677c3a041ba940d5
     Name: EstaPanS.ROM
-    Genre: 
+    Genre: Text adventure
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -94402,81 +94367,81 @@
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
+    Developer: Relevo Videogames
+    Release: 2009
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: Esta en la Caja
+  - English title: It's In The Safe
+    Original title: Está en la Caja
     Longname: Esta en la Caja (S) [v1.0].rom
     sha1: 76b7fd1aed062d3ee5dbad6a94fb81c3e753e9f6
     Name: EstaSV10.ROM
-    Genre: 
+    Genre: Text adventure
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
-    Sound: PSG
+    Sound: None
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Relevo Videogames
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
+  - English title: It's In The Safe
     Original title: Esta en la Caja
     Longname: Esta en la Caja (S) [v1.1].rom
     sha1: 2e41133411cf9e4e9f6af42bb61eaf93b9ed5712
     Name: EstaSV11.ROM
-    Genre: 
+    Genre: Text adventure
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
-    Sound: PSG
+    Sound: None
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Relevo Videogames
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: Invasion of the Zombie Monsters
-    Original title: 
+    Original title: Invasion of the Zombie Monsters
     Longname: Invasion of the Zombie Monsters.rom
     sha1: bf2452f9932cbce5986f72eb04d4c1ecec045b7f
     Name: InvasiZM.ROM
-    Genre: 
+    Genre: Platform (horizontal scrolling)
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Relevo Videogames
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94484,23 +94449,23 @@
     Longname: La Corona Encantada [r1].rom
     sha1: 97b8ef65d86ec425d5901fce80d33a3d731e50e1
     Name: LaCoroR1.ROM
-    Genre: 
+    Genre: Platform
     Language: English
-    Country: Spain
-    Size: 
+    Country: Spain 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94508,23 +94473,23 @@
     Longname: La Corona Encantada [r2].rom
     sha1: d76a904dd88f7360fe79000c374f40a69b801325
     Name: LaCoroR2.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94532,23 +94497,23 @@
     Longname: La Corona Encantada (S) [r1].rom
     sha1: 761071622b60384ec38e964fa2b2ee12d3d0b2c9
     Name: LaCorSR1.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94556,23 +94521,23 @@
     Longname: La Corona Encantada (S) [r2].rom
     sha1: 03ae0eebbbf80f8e51c5892a74aa2b4f287a9319
     Name: LaCorSR2.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94580,23 +94545,23 @@
     Longname: La Corona Encantada (E-S) [final-a].rom
     sha1: b5bb76d666dda2c3ad93f2ece44be72f5d0f61e3
     Name: LaCoronA.ROM
-    Genre: 
+    Genre: Platform
     Language: English / Spanish
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
   - English title: The Enchanted Crown
@@ -94604,23 +94569,23 @@
     Longname: La Corona Encantada (E-S) [final].rom
     sha1: 75a59677275602e9a2b314fc077411b23754308f
     Name: LaCoroFV.ROM
-    Genre: 
+    Genre: Platform
     Language: English / Spanish
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Relevo Videogames
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RELEVO Videogames, Karoshi Coporation
+    Release: 2010
+    Original Dump: Yes
     Remark: 
 
 #
@@ -94632,340 +94597,340 @@
 
   Files:
   - English title: Alien 8 Remake
-    Original title: 
+    Original title: Alien 8 Remake
     Longname: Alien 8 Remake [MSX2].rom
     sha1: 4a3069426214aeecac1a57632a9978cbfb2acc21
     Name: Alien8R.ROM
-    Genre: 
+    Genre: Role playing (3D isometric)
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Manuel Pazos 
+    Release: 2008
+    Original Dump: Yes
     Remark: 
 
   - English title: Genesis - Dawn of a New Day
-    Original title: 
-    Longname: Genesis Dawn of a New Day [a].rom
-    sha1: 025ba6d1021eadf0c4ff1e189389b31adb08f6fe
-    Name: GenesisA.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Genesis - Dawn of a New Day
-    Original title: 
+    Original title: Genesis - Dawn of a New Day
     Longname: Genesis Dawn of a New Day.rom
     sha1: ff79f5f9c29041083c2359f85dd75b02fe07bfc6
     Name: GenesisD.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Spain
-    Size: 
+    Size: 128kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
     Developer: 
-    Release: 
+    Release: 2012-05
+    Original Dump: 
+    Remark: 
+
+  - English title: Genesis - Dawn of a New Day
+    Original title: Genesis - Dawn of a New Day
+    Longname: Genesis Dawn of a New Day [a].rom
+    sha1: 025ba6d1021eadf0c4ff1e189389b31adb08f6fe
+    Name: GenesisA.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Spain
+    Size: 128kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: 
+    Release: 2012-06
     Original Dump: 
     Remark: 
 
   - English title: Gommy Medieval Defender deluxe
-    Original title: 
+    Original title: Gommy Medieval Defender deluxe
     Longname: Gommy Medieval Defender deluxe.rom
     sha1: f9eb4335d482508fa822d103b95017aaf59ca724
     Name: GommyMDD.ROM
-    Genre: 
+    Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
+    Publisher: RetroWorks
     Developer: Dimension Z and RetroWorks
-    Release: 
+    Release: 2013
     Original Dump: 
     Remark: 
 
   - English title: Knight Lore Remake
-    Original title: 
+    Original title: Knight Lore Remake
     Longname: Knight Lore Remake.rom
     sha1: d4a188a7ee514c18dc65f3c6dea7668b6cedc374
     Name: KnightLR.ROM
     Genre: Role playing (3D isometric)
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
+    Developer: Manuel Pazos & LordFred
+    Release: 2012-02-01
     Original Dump: 
     Remark: 
 
   - English title: Knight Lore Remake
-    Original title: 
+    Original title: Knight Lore Remake
     Longname: Knight Lore Remake [a].rom
     sha1: d9f9037d1d68a2c663828684184d435e1df62604
     Name: KnghtLRA.ROM
     Genre: Role playing (3D isometric)
     Language: English
     Country: Spain
-    Size: 
+    Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
+    Developer: Manuel Pazos & LordFred
+    Release: 2012-02-01
     Original Dump: 
     Remark: 
 
-  - English title: Mutants from the deep
-    Original title: 
-    Longname: Mutants from the deep.rom
-    sha1: 39d97c18296aa5b7ec481adb7d4fcf8ff93b7141
-    Name: Mutants.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
+  - English title: The Abbey of Crime
     Original title: La Abadia Del Crimen
     Longname: La Abadia Del Crimen (S) [MSX2].rom
     sha1: e6d47b7b08090583d43b90100419d58069cdb518
     Name: LaAbadX2.ROM
-    Genre: 
+    Genre: Role playing
     Language: Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
+    Size: 256kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Manuel Pazos (programming), Daniel Celemín (graphics) and David Cañadas (music).
+    Release: 2009
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
+  - English title: Brunhilda's loves
     Original title: Los amores de Brunilda
     Longname: Los amores de Brunilda [v1.0].rom
     sha1: 6d45d269058616873b12c477b72d254b14e8963f
     Name: RWBrV100.ROM
-    Genre: 
-    Language: English
+    Genre: 1248kB
+    Language: Basque / Catalan / English / Galician / Italian / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Size: Role playing (3D isometric)
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Flash ROM, Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG / PSG and SCC
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: RetroWorks and Fernando Manuel García from bitvision
+    Release: 2019
+    Original Dump: Yes
     Remark: 
 
-  - English title: 
+  - English title: Brunhilda's loves
     Original title: Los amores de Brunilda
     Longname: Los amores de Brunilda [v1.01].rom
     sha1: fe239a9d71352f4b45e6df64a38341544c197cfb
     Name: RWBrV101.ROM
-    Genre: 
+    Genre: Role playing (3D isometric)
+    Language: Basque / Catalan / English / Galician / Italian / Spanish
+    Country: Spain
+    Size: 1248kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Flash ROM, Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG / PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: RetroWorks and Fernando Manuel García from bitvision
+    Release: 2019
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Mutants from the deep
+    Original title: Mutants from the deep
+    Longname: Mutants from the deep.rom
+    sha1: 39d97c18296aa5b7ec481adb7d4fcf8ff93b7141
+    Name: Mutants.ROM
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Spain
-    Size: 
+    Size: 64kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Locomalito (program), Gryzor87 (Music & sound)
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
   - English title: The sword of IANNA
-    Original title: 
+    Original title: The sword of IANNA
     Longname: The sword of IANNA (E-S) [v1.0].rom
     sha1: 1f3fb7c72c49ffb1c6dd43a6f8b2d1f5eed99bbc
     Name: IANNA100.ROM
-    Genre: 
+    Genre: Platform
     Language: English / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Size: 720kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: Yes
+    Remark: Version 1.0. Free for the digital version, 40 euro for the cartridge.
 
   - English title: The sword of IANNA
-    Original title: 
+    Original title: The sword of IANNA
     Longname: The sword of IANNA (E-S) [v1.1].rom
     sha1: cab6baae17b522851241c8b373d8328e274ec05f
     Name: IANNA110.ROM
-    Genre: 
-    Language: English
+    Genre: Platform
+    Language: English / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Size: 720kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: Yes
+    Remark: Version 1.1. Free for the digital version, 40 euro for the cartridge.
 
   - English title: The sword of IANNA
-    Original title: 
+    Original title: The sword of IANNA
     Longname: The sword of IANNA (E-F) [v1.2].rom
     sha1: 1463f1e0216ad9f944bb1da748a01034da445cef
     Name: IANNA12F.ROM
-    Genre: 
+    Genre: Platform
     Language: English / French
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Size: 720kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: Yes
+    Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
 
   - English title: The sword of IANNA
-    Original title: 
+    Original title: The sword of IANNA
     Longname: The sword of IANNA (E-S) [v1.2].rom
     sha1: 82cf4caa78571a750403e592e3ac87c249ac4604
     Name: IANNA120.ROM
-    Genre: 
+    Genre: Platform
     Language: English / Spanish
     Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Size: 720kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: RetroWorks
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: Yes
+    Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
 
 #
 ## Game Roms from Spain or Mexico: Roolando ##
@@ -94983,7 +94948,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95007,7 +94972,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95039,7 +95004,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95063,7 +95028,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95087,7 +95052,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95111,7 +95076,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95135,7 +95100,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95159,7 +95124,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95175,30 +95140,6 @@
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: Mil Caras
-    Longname: Mil Caras (S).rom
-    sha1: 7c50d00a0d7b8c3474ed492465a92622ca160151
-    Name: MilCaraS.ROM
-    Genre: 
-    Language: Spanish
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
   - English title: Bugaboo
     Original title: La Pulga
     Longname: La Pulga (Bugaboo).rom
@@ -95207,7 +95148,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95231,7 +95172,31 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sony
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: 
+    Original title: Mil Caras
+    Longname: Mil Caras (S).rom
+    sha1: 7c50d00a0d7b8c3474ed492465a92622ca160151
+    Name: MilCaraS.ROM
+    Genre: 
+    Language: Spanish
+    Country: Spain
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95255,7 +95220,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95279,7 +95244,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95303,7 +95268,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -95327,7 +95292,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -95351,7 +95316,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95390,7 +95355,7 @@
     Genre: Puzzle
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -95414,13 +95379,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95438,13 +95403,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95462,13 +95427,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95486,7 +95451,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -95510,13 +95475,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95534,13 +95499,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95554,22 +95519,22 @@
 ## Game Roms from Spain or Mexico: Yermani Soft (German Gomez Herrera) ##
 #
 
-- Folder longname: ~/Roms from Spain or Mexico/Yermani Soft (German Gomez Herrera)
+- Folder longname: ~/Roms from Spain or Mexico/Yermani Soft
   Folder name: ~/Spain/Yermani
 
   Files:
-  - English title: 
-    Original title: 
+  - English title: Bank
+    Original title: Bank
     Longname: Bank (S).rom
-    sha1: f0fee046198a076e664811f4e3a788d5f0b47183
+    sha1: 4a69601c68f625086f228a3d570085bbf50dc43a
     Name: Bank.ROM
-    Genre: 
+    Genre: Shooting
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 4kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95577,23 +95542,47 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2008
+    Original Dump: 
+    Remark: 
+
+  - English title: Bank
+    Original title: Bank
+    Longname: Bank (S) [a].rom
+    sha1: f0fee046198a076e664811f4e3a788d5f0b47183
+    Name: Bank-A.ROM
+    Genre: Shooting
+    Language: Spanish
+    Country: Spain
+    Size: 376kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
     Original Dump: 
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: Brik
+    Original title: Brik
     Longname: Brik (S).rom
     sha1: 58e7d25fbf439f708f6380ca8e5a24a3ed7a9c11
     Name: Brik.ROM
-    Genre: 
+    Genre: Brick breaker
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 4kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95601,201 +95590,153 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 208
     Original Dump: 
-    Remark: 
+    Remark: Basic program converted to ROM by GDX
 
-  - English title: 
-    Original title: 
+  - English title: Brik
+    Original title: Brik
     Longname: Brik [a] (S).rom
     sha1: c1219e0735d31f1c41995795e58b04b97bf1b71a
     Name: Brik-A.ROM
-    Genre: 
+    Genre: Brick breaker
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 4kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
+    Publisher: MSX-BASIC 25th anniversary contest
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2008
     Original Dump: 
-    Remark: 
+    Remark: Basic program converted to ROM by GDX.
 
   - English title: Drive
-    Original title: 
+    Original title: Drive
     Longname: Drive (S) (Yermani Soft).rom
     sha1: af4c5fcc3c945643d8ece465faf8b1efe660f1e1
     Name: Drive.ROM
-    Genre: 
+    Genre: Racing
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 4kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Publisher: MSX-BASIC 25th anniversary contest
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
     Original Dump: 
-    Remark: 
+    Remark: Basic program converted to ROM by GDX.
 
   - English title: Drive
-    Original title: 
+    Original title: Drive
     Longname: Drive [a] (S) (Yermani Soft).rom
     sha1: 52a9173b22c8a72376003764d73e07579dc2015d
     Name: Drive.ROM
-    Genre: 
+    Genre: Racing
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 4kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Publisher: MSX-BASIC 25th anniversary contest
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: House
-    Original title: Una Casa Alucinante
-    Longname: Una Casa Alucinante - House.rom
-    sha1: 7d410dcd64854568d3a548b29fe6e894e2b7b913
-    Name: House.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: House
-    Original title: Una Casa Alucinante
-    Longname: Una Casa Alucinante - House [a].rom
-    sha1: b5bcbe2dfeaf7cc156c0d8bbf4fdcbe97b2007d4
-    Name: House-A.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Basic program converted to ROM by GDX.
 
   - English title: Nice Soccer World Cup
-    Original title: 
+    Original title: Nice Soccer World Cup
     Longname: Nice Soccer World Cup (S).rom
     sha1: 50c8a1f1298b48cd3e325a859ea68d5739d87a01
     Name: NiceSWCS.ROM
     Genre: Football / Soccer
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
+    Publisher: MSX Basic Challenge
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2010
     Original Dump: 
     Remark: 
 
   - English title: Night Pursuit
-    Original title: 
+    Original title: Night Pursuit
     Longname: Night Pursuit.rom
     sha1: cab996c6abc011b8c2abf3f3a7628437dd40deff
     Name: PURSUITE.ROM
-    Genre: 
+    Genre: Shoot'em up (First person scrolling)
     Language: English
     Country: Spain
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
-    Original Dump: 
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2008-06
+    Original Dump: Yes
     Remark: 
 
   - English title: Night Pursuit
-    Original title: 
+    Original title: Night Pursuit
     Longname: Night Pursuit (S).rom
     sha1: 873bebca9668f0ebde02742af9ebdcb993c6791b
     Name: PURSUIT.ROM
-    Genre: 
+    Genre: Shoot'em up (First person scrolling)
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 16kB without mirror
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
-    Release: 
-    Original Dump: 
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2008-06
+    Original Dump: Yes
     Remark: 
 
   - English title: Police Force II
@@ -95806,7 +95747,7 @@
     Genre: 
     Language: English
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95817,7 +95758,7 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
     Original Dump: 
     Remark: 
@@ -95830,7 +95771,7 @@
     Genre: 
     Language: Spanish
     Country: Spain
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95841,7 +95782,7 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
     Original Dump: 
     Remark: 
@@ -95854,7 +95795,7 @@
     Genre: Car racing
     Language: English
     Country: Spain
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -95865,7 +95806,55 @@
     Player number: 1
     Signature: No
     Publisher: Yermani Soft
-    Developer: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 2008
+    Original Dump: 
+    Remark: 
+
+  - English title: House
+    Original title: Una Casa Alucinante
+    Longname: Una Casa Alucinante - House.rom
+    sha1: 7d410dcd64854568d3a548b29fe6e894e2b7b913
+    Name: House.ROM
+    Genre: Obstacle avoiding
+    Language: English
+    Country: Spain
+    Size: 4kB without mirror
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: House
+    Original title: Una Casa Alucinante
+    Longname: Una Casa Alucinante - House [a].rom
+    sha1: b5bcbe2dfeaf7cc156c0d8bbf4fdcbe97b2007d4
+    Name: House-A.ROM
+    Genre: Obstacle avoiding
+    Language: English
+    Country: Spain
+    Size: 376kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Yermani Soft
+    Developer: Yermani Soft (German Gomez Herrera)
     Release: 
     Original Dump: 
     Remark: 
@@ -95879,27 +95868,27 @@
 
   Files:
   - English title: Photon
-    Original title: 
+    Original title: Photon
     Longname: Photon (Ola Andersson).rom
     sha1: c10d2a3dc77816cfb5b5d4b983323284f4a4aef5
     Name: Photon.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Sweden
-    Size: 
+    Size: 8kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Ola Andersson
+    Developer: Ola Andersson
+    Release: 2008
+    Original Dump: Yes
     Remark: 
 
 ##
@@ -95910,59 +95899,11 @@
   Folder name: ~/Taiwan
 
   Files:
-  - English title: Rally-X
-    Original title: 
-    Longname: Rally-X (DahJee).rom
-    sha1: 0c1957a5faae5254c69f3331e79d87499dd7cf48
-    Name: RallyX-T.ROM
-    Genre: Maze (smooth multidirectional scrolling)
-    Language: English
-    Country: Taiwan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: DahJee
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Road Fighter
-    Original title: 
-    Longname: Road Fighter (Unknown Publisher).rom
-    sha1: 2755f74019dc94559fd0c2248e2ecb7f48879b90
-    Name: RoadFigT.ROM
-    Genre: Car racing
-    Language: English
-    Country: Taiwan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
   - English title: Magical Kid Wiz
     Original title: 
-    Longname: Magical Kid Wiz (Unknown Publisher).rom
+    Longname: Magical Kid Wiz (TW).rom
     sha1: fd24b501046cf811b04386129be0362a1eabf6b3
-    Name: MagiKW-T.ROM
+    Name: MKWiz-TW.ROM
     Genre: Platform
     Language: English
     Country: Taiwan
@@ -95990,18 +95931,66 @@
     Genre: Ping-Pong
     Language: English
     Country: Taiwan
-    Size: 
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (against each other)
+    Signature: No
+    Publisher: Aaronix
+    Developer: Konami
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Rally-X
+    Original title: 
+    Longname: Rally-X (DahJee).rom
+    sha1: 0c1957a5faae5254c69f3331e79d87499dd7cf48
+    Name: RallyX-T.ROM
+    Genre: Maze (smooth multidirectional scrolling)
+    Language: English
+    Country: Taiwan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: DahJee
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Road Fighter
+    Original title: 
+    Longname: Road Fighter (TW).rom
+    sha1: 2755f74019dc94559fd0c2248e2ecb7f48879b90
+    Name: RoadFiTW.ROM
+    Genre: Car racing
+    Language: English
+    Country: Taiwan
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
     VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
+    Data saving: Game Master 2 (floppy disk)
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Aaronix
-    Developer: Konami
+    Publisher: 
+    Developer: 
     Release: 
     Original Dump: 
     Remark: 
@@ -96015,75 +96004,99 @@
 
   Files:
   - English title: Deep Core Raider
-    Original title: 
+    Original title: Deep Core Raider
     Longname: Deep Core Raider [v1.1] (Paul Jenkinson).rom
     sha1: f6cf7936ee1c6ad70de4254ecc9de72c0ea4c6c2
     Name: DeepCR11.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Paul Jenkinson
     Developer: Paul Jenkinson
-    Release: 
-    Original Dump: 
+    Release: 2016
+    Original Dump: Yes
     Remark: 
 
   - English title: Foggy's Quest
-    Original title: 
+    Original title: Foggy's Quest
     Longname: Foggy's Quest (Jonathan Caudlwell).rom
     sha1: 1cb45a85fea2f0888abe9036009c2c616ad6da16
     Name: Foggy.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Jonathan Caudlwell
     Developer: Jonathan Caudlwell
-    Release: 
+    Release: 2019
     Original Dump: 
     Remark: 
 
   - English title: Foggy's Quest
-    Original title: 
+    Original title: Foggy's Quest
     Longname: Foggy's Quest [a] (Jonathan Caudlwell).rom
     sha1: f827f100098dcc6a0da01f210d36a10ff10ed780
     Name: Foggy-A.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Jonathan Caudlwell
     Developer: Jonathan Caudlwell
-    Release: 
+    Release: 2019
     Original Dump: 
+    Remark: 
+
+  - English title: Green Beret
+    Original title: Green Beret
+    Longname: Green Beret (Konami).rom
+    sha1: 3ea788262557f578b25e4e36e61c1cf9fb1155d1
+    Name: GrnBeret.ROM
+    Genre: Action (horizontal scrolling)
+    Language: English
+    Country: UK
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami (UK)
+    Release: 
+    Original Dump: Yes
     Remark: 
 
 #
@@ -96094,28 +96107,28 @@
   Folder name: ~/UK/Aetherby
 
   Files:
-  - English title: Hell
+  - English title: Inferno / Hell
     Original title: Inferno
     Longname: Inferno.rom
     sha1: b47f6feaaf1c14d144d237782c414cc1ad98ae81
     Name: Inferno.ROM
-    Genre: 
+    Genre: Platform (like Rastan Saga)
     Language: English
     Country: UK
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Size: 512kB
+    Rom mapper: ASCII8
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Aetherbyte
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Aetherbyte
+    Release: 2017
+    Original Dump: Yes
     Remark: 
 
 #
@@ -96127,20 +96140,20 @@
 
   Files:
   - English title: Backgammon
-    Original title: 
+    Original title: Backgammon
     Longname: Backgammon (Electric Software).rom
     sha1: 363b5a8c94cdb63a7ee72b9d25f7b5053cab319a
     Name: ESBackga.ROM
-    Genre: 
+    Genre: 32kB
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -96151,17 +96164,17 @@
     Remark: 
 
   - English title: Le Mans 2
-    Original title: 
+    Original title: Le Mans 2
     Longname: Le Mans 2.rom
     sha1: f69541b86c2b396cdce765c2dec498e11232b3c9
     Name: LeMans2.ROM
-    Genre: 
+    Genre: Racing
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -96175,17 +96188,17 @@
     Remark: 
 
   - English title: The Wreck
-    Original title: 
+    Original title: The Wreck
     Longname: The Wreck.rom
     sha1: 58e335c943d2647c3ff1e689069d9fa5e1c7ff6e
     Name: TheWreck.ROM
-    Genre: 
+    Genre: 3D maze
     Language: English
     Country: UK
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -96199,38 +96212,6 @@
     Remark: 
 
 #
-## Game Roms from UK: Konami ##
-#
-
-- Folder longname: ~/Roms from UK/Konami
-  Folder name: ~/UK/Konami
-
-  Files:
-  - English title: Green Beret
-    Original title: 
-    Longname: Green Beret.rom
-    sha1: 3ea788262557f578b25e4e36e61c1cf9fb1155d1
-    Name: GreenBer.ROM
-    Genre: 
-    Language: English
-    Country: UK
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Konami
-    Developer: Konami (UK)
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
 ## Game Roms from UK: SubLOGIC ##
 #
 
@@ -96238,7 +96219,6 @@
   Folder name: ~/UK/SubLOGIC
 
   Files:
-
   - English title: Flight Simulator With Torpedo Attack
     Original title: Flight Simulator With Torpedo Attack
     Longname: Flight Simulator With Torpedo Attack.rom
@@ -96247,8 +96227,8 @@
     Genre: Flight Simulation
     Language: English
     Country: UK
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB (16kB)
     VRAM: 64kB
@@ -96271,8 +96251,8 @@
     Genre: Flight Simulation
     Language: English
     Country: UK
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB (16kB)
     VRAM: 64kB
@@ -96285,6 +96265,62 @@
     Developer: SubLOGIC
     Release: 1988 (original)
     Original Dump: No
+    Remark: 
+
+#
+## Game Roms from U.K.: UltraNarwhal ##
+#
+
+- Folder longname: ~/Roms from UK/UltraNarwhal
+  Folder name: ~/UK/UNarwhal
+
+  Files:
+  - English title: Duckstroma
+    Original title: Duckstroma
+    Longname: Duckstroma [v1.00].rom
+    sha1: 76f560d4438a32f6042f25fa4e1fd2cb89ccaf01
+    Name: Ducks100.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: UltraNarwhal
+    Developer: UltraNarwhal
+    Release: 2020
+    Original Dump: 
+    Remark: 
+
+  - English title: Duckstroma
+    Original title: Duckstroma
+    Longname: Duckstroma [v1.02].rom
+    sha1: cb24250769363914ed747d6b394a52459085acff
+    Name: Ducks102.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: UltraNarwhal
+    Developer: UltraNarwhal
+    Release: 2020
+    Original Dump: 
     Remark: 
 
 ##
@@ -96303,8 +96339,8 @@
     Genre: 
     Language: English
     Country: US
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: KonamiSCC
     Machine: MSX
     RAM: kB
     VRAM: 16kB
@@ -96327,7 +96363,7 @@
     Genre: 
     Language: English
     Country: US
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -96351,7 +96387,7 @@
     Genre: 
     Language: English
     Country: US
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -96368,11 +96404,11 @@
     Remark: 
 
 #
-## Game Roms from USA: Damage X ##
+## Game Roms from USA: DamageX ##
 #
 
-- Folder longname: ~/Roms from USA/Damage X
-  Folder name: ~/USA/Damage_X
+- Folder longname: ~/Roms from USA/DamageX
+  Folder name: ~/USA/DamageX
 
   Files:
   - English title: Mecha Taisen on planet Oldskool Plus
@@ -96383,7 +96419,7 @@
     Genre: 
     Language: English
     Country: US
-    Size: 
+    Size: 48kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -96393,11 +96429,11 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Damage X
+    Publisher: DamageX
     Developer: 
-    Release: 
+    Release: 2010
     Original Dump: 
-    Remark: 
+    Remark: Mecha Taisen On Planet Oldskool Plus improves and fixes bugs of the MSXdev 06 entry Mecha Taisen on Planet Oldskool.
 
 #
 ## Game Roms from USA: Spectravideo ##
@@ -96415,7 +96451,7 @@
     Genre: 
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -96439,7 +96475,7 @@
     Genre: 
     Language: English
     Country: US
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: kB
@@ -96463,7 +96499,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -96492,16 +96528,40 @@
     Longname: Bomb Jack [MSX1].rom
     sha1: cef76580a01cc8e16704590d0d884d7eeadaa3a8
     Name: BombJaX1.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hap
+    Developer: Sega
+    Release: 
+    Original Dump: 
+    Remark: Converted by Hap
+
+  - English title: Champion Billiards
+    Original title: チャンピオンビリヤード
+    Longname: Champion Billiards.rom
+    sha1: ee4cea6057884916a2f67b5a09a9af591af04c85
+    Name: CBilliar.ROM
+    Genre: Billiards
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -96513,64 +96573,64 @@
 
   - English title: Championship Lode Runner
     Original title: チャンピオンシップロードランナー
-    Longname: Championship Lode Runner.rom
+    Longname: Championship Lode Runner [JP].rom
     sha1: 8c6e84cf1bc59cdf44c337f99fb817f914d271f7
     Name: CLR-JP.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sega Enterprises (original)
-    Developer: Compile, Broderbund Sotware
+    Developer: Sega
     Release: 
     Original Dump: 
     Remark: 
 
   - English title: Championship Lode Runner
     Original title: チャンピオンシップロードランナー
-    Longname: Championship Lode Runner [a].rom
+    Longname: Championship Lode Runner [JP-a].rom
     sha1: 4e346a1aa99446296849719c7943176b071db823
     Name: CLR-JPA.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 48kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sega Enterprises (original)
-    Developer: Compile, Broderbund Sotware
+    Developer: Sega
     Release: 
     Original Dump: 
     Remark: 
 
   - English title: Championship Lode Runner
     Original title: チャンピオンシップロードランナー
-    Longname: Championship Lode Runner [ASCII16 mapper].rom
+    Longname: Championship Lode Runner [JP] [ASCII16 mapper].rom
     sha1: 8207b2788b8d55f1af303572cd2b20be62e85b1c
     Name: CLRJA16A.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: ASCII16
+    Size: 48kB
+    Rom mapper: ASCII16 with mirrors
     Machine: MSX1
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -96591,10 +96651,10 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: ASCII16
+    Size: 48kB
+    Rom mapper: ASCII16 with mirrors
     Machine: MSX1
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -96605,53 +96665,29 @@
     Developer: Compile, Broderbund Sotware
     Release: 
     Original Dump: 
-    Remark: 
+    Remark: Converted by gdx
 
   - English title: Dr. Hello
     Original title: 닥터 헬로
     Longname: Dr. Hello.rom
     sha1: f5bb3c6d41245271faa3c3f54e3948787e181a5e
     Name: Dr_Hello.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: 64kB
+    Rom mapper: KonamiSCC
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
+    Publisher: SiS Co. (Converted version released by The MSX Files) 
     Developer: SIS Co.
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Champion Billiards
-    Original title: チャンピオンビリヤード
-    Longname: Champion Billiards.rom
-    sha1: ee4cea6057884916a2f67b5a09a9af591af04c85
-    Name: CBilliar.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Release: 2008
     Original Dump: 
     Remark: 
 
@@ -96660,16 +96696,16 @@
     Longname: Orguss.rom
     sha1: 9a1f1935825f22a55b0b4179c611e4a436094f04
     Name: Orguss.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -96677,28 +96713,28 @@
     Developer: 
     Release: 
     Original Dump: 
-    Remark: 
+    Remark: Port by The MSX Files
 
   - English title: Mikie High School Graffiti
     Original title: コナミの新入社員とおるくん
     Longname: ShinNyuuShaIn Tooru-kun - Mikie High School Graffiti.rom
     sha1: aeeb8ddbd385bc3aba5009676e5192d32beecf15
     Name: TooruKun.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: 
-    Developer: 
+    Developer: Sega
     Release: 
     Original Dump: 
     Remark: 
@@ -96711,21 +96747,21 @@
     Genre: Motorbike racing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Hap
+    Developer: Sega, converted by Hap
+    Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Converted by Hap
 
 ##
 ### Tape Converted to ROM (Games) ###
@@ -119258,7 +119294,7 @@
     Longname: Bomb Jack.sg
     sha1: 7859b9ee5614c595cb57a832ef7a8f1ab473b45b
     Name: BombJaJP.SG
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
     Size: 32kB
@@ -119282,7 +119318,7 @@
     Longname: Bomb Jack [KR].sg
     sha1: 835d0ea1c0cf1723ae95ba60ea0a929780ebaf71
     Name: BombJJPE.SG
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Korea
     Size: 32kB
@@ -119306,7 +119342,7 @@
     Longname: Bomb Jack [KR-a].sg
     sha1: b6b36a0280344214bdb8d9184244e21e9fb7371f
     Name: BombJKRK.SG
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Korea
     Size: 32kB
@@ -119330,7 +119366,7 @@
     Longname: Bomb Jack [TW].sg
     sha1: ac94ddc1839dcd2ade443da0e8667e643b11f3e7
     Name: BombJTWC.SG
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Taiwan
     Size: 32kB
@@ -119354,7 +119390,7 @@
     Longname: Bomb Jack [TW-a] (Super man).sg
     sha1: 8d7b786283e5b42e34432ecf1b3744eae00575de
     Name: BombJTWE.SG
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Taiwan
     Size: 32kB
@@ -124434,6 +124470,30 @@
     Publisher: 
     Developer: 
     Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Avalon RPG OST Moonsound Edition
+    Original title: Avalon RPG OST Moonsound Edition
+    Longname: Avalon RPG OST Moonsound Edition [OPL4].rom
+    sha1: 2cc42a70c24ae5003945cca829cc3fb9ee870d21
+    Name: Avalon.ROM
+    Genre: Music
+    Language: English
+    Country: Spain
+    Size: 512kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: OPL4
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: Jeroen & Bowie Derwort (music)
+    Release: 2019
     Original Dump: Yes
     Remark: 
 
