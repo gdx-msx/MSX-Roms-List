@@ -40396,8 +40396,8 @@
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: -
-    Player number: -
+    Sound: None
+    Player number: None
     Signature: No
     Publisher: Bifi
     Developer: Bifi
@@ -40420,8 +40420,8 @@
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: -
-    Player number: -
+    Sound: None
+    Player number: None
     Signature: No
     Publisher: Bifi
     Developer: Bifi
@@ -92382,7 +92382,7 @@
     VRAM: 64kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: -
+    Sound: None
     Player number: 1
     Signature: No
     Publisher: Kotai
@@ -100896,7 +100896,7 @@
     Remark: 
 
   - English title: Snatcho's Game Over - Part 1 & 2
-    Original title:Snatcho's Game Over - Parte 1 y 2
+    Original title: Snatcho's Game Over - Parte 1 y 2
     Longname: Game Over (S).rom
     sha1: 9fb00fcb38567aa03e8f3d93735a210b954e192b
     Name: GameOver.ROM
