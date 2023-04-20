@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 18-04-2023 by gdx
+    MSX Roms Database version 20-04-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -7796,7 +7796,7 @@
     Language: English
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -8981,7 +8981,7 @@
     Country: Japan
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
@@ -13261,7 +13261,7 @@
     Country: 
     Size: 8kB
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
@@ -14059,7 +14059,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -14731,7 +14731,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -14779,7 +14779,7 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -14803,7 +14803,7 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -14875,11 +14875,11 @@
     Language: English
     Country: Korea
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: Zemina8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -15115,7 +15115,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15363,7 +15363,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15387,7 +15387,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15411,7 +15411,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15435,7 +15435,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15459,7 +15459,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -15482,8 +15482,8 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English / Japanese
     Country: Japan
-    Size: 64kB
-    Rom mapper: None
+    Size: 256kB
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -15507,7 +15507,7 @@
     Language: English / Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -15531,7 +15531,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -15555,7 +15555,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -16275,7 +16275,7 @@
     Language: English / Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -16683,7 +16683,7 @@
     Language: English / Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -17331,7 +17331,7 @@
     Language: English / Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -21975,13 +21975,13 @@
     Longname: Arno Dash [v1.0].rom
     sha1: cef6040cf49737498e3ff9b228696b3f60a7ffcc
     Name: ArnoDash.ROM
-    Genre: 
+    Genre: Action (like Boulder Dash)
     Language: English
     Country: Australia
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -21989,9 +21989,9 @@
     Player number: 1
     Signature: No
     Publisher: Under4Mhz
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Under4Mhz
+    Release: 2021
+    Original Dump: Yes
     Remark: 
 
   - English title: Pegged
@@ -22004,17 +22004,17 @@
     Country: Australia
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Under4Mhz
-    Developer: 
-    Release: 
+    Developer: Under4Mhz
+    Release: 2021 
     Original Dump: 
     Remark: 
 
@@ -22029,16 +22029,16 @@
     Size: 14286 bytes
     Rom mapper: None
     Machine: MSX
-    RAM: kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Under4Mhz
-    Developer: 
-    Release: 
+    Developer: Under4Mhz
+    Release: 2021
     Original Dump: 
     Remark: 
 
@@ -22052,8 +22052,8 @@
     Country: Australia
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -22061,8 +22061,8 @@
     Player number: 1
     Signature: No
     Publisher: Under4Mhz
-    Developer: 
-    Release: 
+    Developer: Under4Mhz
+    Release: 2021
     Original Dump: No
     Remark: 
 
@@ -22071,13 +22071,13 @@
     Longname: Vexed [v1.0].rom
     sha1: 0b3cd906ff0cffd1d3edb6997abcb72bb305fcfa
     Name: Vexed.ROM
-    Genre: 
+    Genre: Puzzle
     Language: English
     Country: Australia
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -27172,7 +27172,7 @@
     Language: Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -27196,7 +27196,7 @@
     Language: Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -27220,7 +27220,7 @@
     Language: Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -27244,7 +27244,7 @@
     Language: Japanese
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -27268,7 +27268,7 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -29652,12 +29652,12 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -29676,12 +29676,12 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -29700,12 +29700,12 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -39106,7 +39106,7 @@
     Language: English
     Country: Japan
     Size: 70kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39123,14 +39123,14 @@
 
   - English title: Star Force EX
     Original title: スターフォース
-    Longname: Star Force EX [v0.1 trimmed].rom
+    Longname: Star Force EX [v0.1] [size fix].rom
     sha1: 080e9b7c8c6dcf283387a3399b635fa56b85afdb
     Name: STForcX1 Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39354,7 +39354,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -39367,7 +39367,7 @@
     Developer: Humming Bird Soft
     Release: 1988
     Original Dump: Yes
-    Remark: 
+    Remark: Long to start!
 
   - English title: Fire Ball
     Original title: ファイアボール
@@ -39391,7 +39391,7 @@
     Developer: Humming Bird Soft
     Release: 1988
     Original Dump: No
-    Remark: 
+    Remark: Long to start!
 
   - English title: Fire Ball
     Original title: ファイアボール
@@ -39415,7 +39415,7 @@
     Developer: Humming Bird Soft
     Release: 1988
     Original Dump: No
-    Remark: 
+    Remark: This version has been optimised by gdx. The game start begins between 49 and 17 seconds  earlier according to used MSX. The game play are a little faster too.
 
   - English title: Fire Ball
     Original title: ファイアボール
@@ -39426,7 +39426,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -39439,7 +39439,7 @@
     Developer: Humming Bird Soft
     Release: 1988
     Original Dump: No
-    Remark: 
+    Remark: This version has been optimised by gdx. The game start begins between 49 and 17 seconds earlier according to used MSX. The game play are a little faster too.
 
   - English title: Rick and Mick's Adventure
     Original title: りっくとみっくの大冒険
@@ -39450,7 +39450,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45290,7 +45290,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45314,7 +45314,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45338,7 +45338,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45362,7 +45362,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45386,7 +45386,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45410,7 +45410,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45434,7 +45434,7 @@
     Language: Japanese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45458,7 +45458,7 @@
     Language: Portuguese
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45482,7 +45482,7 @@
     Language: Spanish
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45506,7 +45506,7 @@
     Language: Spanish
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45978,7 +45978,7 @@
     Remark: 
 
   - English title: Game Master 2
-    Original title: Konami no Shin 10bai Tanoshimu Cartridge
+    Original title: コナミの新１０倍カートリッジ
     Longname: Konami no Shin 10bai Tanoshimu Cartridge - Game Master II (E-J).rom
     sha1: 5c00f9e3a48411e08fac89b1dfdd2a6e95853919
     Name: GameMas2.ROM
@@ -45986,11 +45986,11 @@
     Language: English / Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Game Master 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: SRAM, Floppy disk
     Control: Keyboard
     Sound: PSG
     Player number: 
@@ -46010,11 +46010,11 @@
     Language: English / Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Game Master 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: SRAM, Floppy disk
     Control: Keyboard
     Sound: PSG
     Player number: 
@@ -46038,7 +46038,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: SRAM, Floppy disk
     Control: Keyboard
     Sound: PSG
     Player number: 
@@ -48218,7 +48218,7 @@
     Language: English
     Country: Japan
     Size: 142kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -48242,7 +48242,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -48266,7 +48266,7 @@
     Language: English
     Country: Japan
     Size: 144kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -48290,7 +48290,7 @@
     Language: English
     Country: Japan
     Size: 264kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -48314,7 +48314,7 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -51889,13 +51889,13 @@
     Genre: Platform (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -51913,13 +51913,13 @@
     Genre: Platform (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -52434,7 +52434,7 @@
     Language: English
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -52458,7 +52458,7 @@
     Language: English
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -52482,7 +52482,7 @@
     Language: English
     Country: Japan
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -52698,7 +52698,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -57729,7 +57729,7 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -59633,7 +59633,7 @@
     Language: Japanese
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -60593,7 +60593,7 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -63192,9 +63192,9 @@
     Genre: Shogi (Japanese chess)
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX1
+    Machine: MSX1 with Japanese font
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
@@ -63215,9 +63215,9 @@
     Name: EnglisC1.ROM
     Genre: Educatif
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -65313,11 +65313,11 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -65337,11 +65337,11 @@
     Language: English
     Country: Japan
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -65365,7 +65365,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -65389,7 +65389,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -68696,12 +68696,12 @@
     Language: English
     Country: Japan
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -68725,7 +68725,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -68749,7 +68749,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -74500,7 +74500,7 @@
     Remark: 
 
   - English title: Alien 2 - Aliens
-    Original title: 
+    Original title: 에이리언 2
     Longname: Alien 2 Aliens (Zemina) [ASCII16 mapper].rom
     sha1: 9b04d06fa77c4f0757be28eb758b9710769e9759
     Name: ZAli2A16.ROM
@@ -74517,14 +74517,14 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Zemina / Saehan Sangsa
+    Publisher: Daewoo, Softbank and Zemina
     Developer: 
     Release: 
     Original Dump: 
     Remark: 
 
   - English title: Alien 2 - Aliens
-    Original title: 
+    Original title: 에이리언 2
     Longname: Alien 2 Aliens (Zemina).rom
     sha1: 92a0ca682a367cbc1c6c5f96f8b84619a43e9f12
     Name: ZAlien2.ROM
@@ -74541,7 +74541,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Zemina / Saehan Sangsa
+    Publisher: Daewoo, Softbank and Zemina
     Developer: 
     Release: 
     Original Dump: 
@@ -74604,7 +74604,7 @@
     Language: Japanese
     Country: Korea
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: Zemina8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -74788,7 +74788,7 @@
     Remark: 
 
   - English title: Cyborg-Z
-    Original title: 
+    Original title: 사이보그 Z
     Longname: Cyborg-Z (Zemina).rom
     sha1: c2e661e9b68a78e5a5fae5ae297b5d964d82491e
     Name: ZCyborgZ.ROM
@@ -74796,12 +74796,12 @@
     Language: English
     Country: Korea
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
     Signature: No
@@ -74964,7 +74964,7 @@
     Language: Japanese
     Country: Korea
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -75181,8 +75181,8 @@
     Country: Korea
     Size: 64kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -75492,7 +75492,7 @@
     Language: English
     Country: Korea
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -75796,21 +75796,21 @@
     Remark: 
 
   - English title: Salamander
-    Original title: 
+    Original title: 사라만다
     Longname: Salamander (E-J) (Zemina).rom
     sha1: d30c17109fa1c4a81e39dca57b79464b0aa0b7c2
     Name: ZSalaman.ROM
     Genre: Shoot'em up (horizontal/vertical scrolling)
     Language: English / Japanese
     Country: Korea
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
     Control: Keyboard / joystick(s)
-    Sound: PSG
+    Sound: PSG + SCC
     Player number: 1 or 2 (alternately or at the same time)
     Signature: No
     Publisher: Zemina / Saehan Sangsa
@@ -75820,26 +75820,26 @@
     Remark: 
 
   - English title: Nemesis 3 - The Eve of Destruction
-    Original title: 
+    Original title: 사라만다 II
     Longname: Salamander II - Nemesis 3 The Eve of Destruction.rom
     sha1: 5692e41b3a4c5e767cf290fd6c24942d0fd7b2e3
     Name: ZSalama2.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Korea
-    Size: 128kB
-    Rom mapper: None
+    Size: 256kB
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
     Control: Keyboard
-    Sound: PSG
+    Sound: PSG + SCC
     Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Zemina / Saehan Sangsa
     Developer: Konami
-    Release: 
+    Release: 1991
     Original Dump: 
     Remark: 
 
@@ -76212,11 +76212,11 @@
     Language: English
     Country: Korea
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: Konami8 / Zemina8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -76236,11 +76236,11 @@
     Language: English
     Country: Korea
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: Konami8 / Zemina8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -76264,7 +76264,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -77653,14 +77653,14 @@
 
   - English title: Dragon Slayer Jr. - Romancia
     Original title: 
-    Longname: Dragon Slayer Jr. Romancia [MSX1] [Zemina16 fixed].rom
-    sha1: 32ede086e6da0ca9859ea2db326bb325900ca17f
-    Name: KRomX1FX.ROM
+    Longname: Dragon Slayer Jr. Romancia [MSX1] [Zemina16 mapper].rom
+    sha1: a52c37c1f16ba13d3f39bb5403c82c0187cbff51
+    Name: KRoX1Z16.ROM
     Genre: 
     Language: English
     Country: Korea
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Zemina16
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -77677,9 +77677,9 @@
 
   - English title: Dragon Slayer Jr. - Romancia
     Original title: 
-    Longname: Dragon Slayer Jr. Romancia [MSX1] [Zemina16 mapper].rom
-    sha1: a52c37c1f16ba13d3f39bb5403c82c0187cbff51
-    Name: KRoX1Z16.ROM
+    Longname: Dragon Slayer Jr. Romancia [MSX1] [Zemina16 fixed].rom
+    sha1: 32ede086e6da0ca9859ea2db326bb325900ca17f
+    Name: KRomX1FX.ROM
     Genre: 
     Language: English
     Country: Korea
@@ -86854,7 +86854,7 @@
     Language: English
     Country: Italy
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -87046,7 +87046,7 @@
     Language: English
     Country: Finland
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -87070,7 +87070,7 @@
     Language: English
     Country: Finland
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -87094,7 +87094,7 @@
     Language: English
     Country: Finland
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -87630,7 +87630,7 @@
     Language: English
     Country: France
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -87654,7 +87654,7 @@
     Language: English
     Country: France
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -88703,18 +88703,18 @@
     Country: Netherlands
     Size: 2048kB
     Rom mapper: ASCII8
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG + MSX-Music and/or MSX-Audio
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Team DEVA
+    Developer: Team DEVA
+    Release: 2020
+    Original Dump: No
     Remark: 
 
   - English title: Angelic Warrior DEVA
@@ -88726,19 +88726,19 @@
     Language: English
     Country: Netherlands
     Size: 2048kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
     Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Control: Keyboard / joystick
+    Sound: PSG + MSX-Music and/or MSX-Audio
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Team DEVA
+    Developer: Team DEVA
+    Release: 2020
+    Original Dump: No
     Remark: 
 
   - English title: Angelic Warrior DEVA
@@ -88750,19 +88750,19 @@
     Language: English
     Country: Netherlands
     Size: 2048kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
+    Data saving: Internal SRAM
+    Control: Keyboard / joystick
+    Sound: PSG + MSX-Music and/or MSX-Audio
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Team DEVA
+    Developer: Team DEVA
+    Release: 2020
+    Original Dump: Yes
     Remark: 
 
   - English title: Angelic Warrior DEVA
@@ -88774,19 +88774,19 @@
     Language: English
     Country: Netherlands
     Size: 2048kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG + MSX-Music and/or MSX-Audio
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Team DEVA
+    Developer: Team DEVA
+    Release: 2020
+    Original Dump: No
     Remark: 
 
   - English title: Break It
@@ -88886,27 +88886,27 @@
     Remark: 
 
   - English title: Pointless Fighting
-    Original title: 
+    Original title: Pointless Fighting
     Longname: Pointless Fighting (Baka-Yo! SoftCorp).rom
     sha1: f026d150f97a1c9a13a5d5ce3e2621f7214b9dbb
     Name: PntlssFi.ROM
-    Genre: 
+    Genre: Fighting
     Language: English
     Country: Netherlands
     Size: 2048kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: TNI
+    Developer: Baka-Yo! Softcorp
+    Release: 2014
+    Original Dump: Yes
     Remark: 
 
   - English title: Space Walk
@@ -90423,126 +90423,6 @@
     Signature: No
     Publisher: theNestruo
     Developer: theNestruo & Wonder
-    Release: 2020
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stupid Martians
-    Original title: Stupid Martians
-    Longname: Stupid Martians [v1.00] (Visualedu).rom
-    sha1: d9bfb05feb12954d353bc657dd88a325186e47f8
-    Name: Stupi100.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Spain
-    Size: 64kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Visualedu
-    Developer: Visualedu
-    Release: 2020
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stupid Martians
-    Original title: Stupid Martians
-    Longname: Stupid Martians [v1.02] (Visualedu).rom
-    sha1: 5024f8ad3564d38eec01b74eaccb71bccd6485ba
-    Name: Stupi102.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Spain
-    Size: 64kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Visualedu
-    Developer: Visualedu
-    Release: 2020
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stupid Martians
-    Original title: Stupid Martians
-    Longname: Stupid Martians [v1.02 with debug log] (Visualedu).rom
-    sha1: e4ab923c0e6b8c14322449e2e4428e39f26ea54f
-    Name: Stup102D.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Spain
-    Size: 64kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Visualedu
-    Developer: Visualedu
-    Release: 2020
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stupid Martians
-    Original title: Stupid Martians
-    Longname: Stupid Martians [v1.10] (Visualedu).rom
-    sha1: dd1efb52a8b4b1ed3f3b321fad44e6a23d7eae76
-    Name: Stup110.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Spain
-    Size: 64kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Visualedu
-    Developer: Visualedu
-    Release: 2020
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stupid Martians
-    Original title: Stupid Martians
-    Longname: Stupid Martians [v1.20] (Visualedu).rom
-    sha1: 76c93dd53958309e180fa5cdb3812a44d6538967
-    Name: Stup120.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Spain
-    Size: 64kB
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Visualedu
-    Developer: Visualedu
     Release: 2020
     Original Dump: Yes
     Remark: 
@@ -93016,7 +92896,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
@@ -93492,7 +93372,7 @@
     Language: English / French / Germain / Spanish
     Country: Spain
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX
     RAM: 16kB
     VRAM: 16kB
@@ -94357,7 +94237,7 @@
     Longname: Zorrico.rom
     sha1: 588a8ac2b5cd0a4870c3987539a8c3d44b06b549
     Name: ZorricEX.ROM
-    Genre: 
+    Genre: Role playing
     Language: English
     Country: Spain
     Size: 48kB
@@ -94785,7 +94665,7 @@
     Language: English
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -94809,7 +94689,7 @@
     Language: English
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -94834,8 +94714,8 @@
     Country: Spain
     Size: 48kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -94844,7 +94724,7 @@
     Signature: No
     Publisher: RetroWorks
     Developer: Dimension Z and RetroWorks
-    Release: 2013
+    Release: 2014
     Original Dump: 
     Remark: 
 
@@ -95089,10 +94969,10 @@
     Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
 
 #
-## Game Roms from Spain or Mexico: Roolando ##
+## Game Roms from Spain or Mexico: Roolando (Angel Colaso) ##
 #
 
-- Folder longname: ~/Roms from Spain or Mexico/Roolando
+- Folder longname: ~/Roms from Spain or Mexico/Roolando (Angel Colaso)
   Folder name: ~/Spain/Roolando
 
   Files:
@@ -95101,13 +94981,13 @@
     Longname: La Reliquia - The Relic (S).rom
     sha1: 7266000fc4d0906a1f30c63a8b0e8aad7483cb08
     Name: ReliquiS.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95115,8 +94995,8 @@
     Player number: 1
     Signature: No
     Publisher: Roolando
-    Developer: 
-    Release: 
+    Developer: Roolando
+    Release: 2020
     Original Dump: 
     Remark: 
 
@@ -95125,13 +95005,13 @@
     Longname: The Relic - La Reliquia.rom
     sha1: 630ad0f21b083f893ae63af52ecdd86ddf8c0c6e
     Name: TheRelic.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95139,8 +95019,8 @@
     Player number: 1
     Signature: No
     Publisher: Roolando
-    Developer: 
-    Release: 
+    Developer: Roolandoo
+    Release: 2020
     Original Dump: 
     Remark: 
 
@@ -95153,116 +95033,116 @@
 
   Files:
   - English title: 3D Water Driver
-    Original title: 
+    Original title: 3D Water Driver
     Longname: 3D Water Driver.rom
     sha1: 28aaf59dadb425c1ef6fca860439f4e42e1737b8
     Name: 3DWaterD.ROM
-    Genre: 
+    Genre: Boat racing
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Apollo Technica
+    Release: 1984
     Original Dump: 
     Remark: 
 
   - English title: 3D Water Driver
-    Original title: 
+    Original title: 3D Water Driver
     Longname: 3D Water Driver [PSG ports fix].rom
     sha1: 6ae19b9a69da7d54cfeda2ef2a540e90f4b97f93
     Name: 3DWatrPf.ROM
-    Genre: 
+    Genre: Boat racing
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Apollo Technica
+    Release: 1984
     Original Dump: 
     Remark: 
 
   - English title: Boing Boing
-    Original title: 
+    Original title: Boing Boing - Busca la fracción
     Longname: Boing Boing (S).rom
     sha1: d7e2a4f78b3e240309c6367ac9dd9c9aeb95e3ee
     Name: BoingBoS.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
     Size: 8kB
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Gang Man
-    Original title: 
-    Longname: Gang Man (Sony).rom
-    sha1: a1882aca5977150fc61d05488e341a387e2489fc
-    Name: GangMan.ROM
-    Genre: 
-    Language: English
-    Country: Spain
-    Size: 16kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Idealogic
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: Fighting Rider
-    Original title: 
+    Original title: Fighting Rider
     Longname: Fighting Rider.rom
     sha1: 099c04bc72a43f129bec9f906e3ba6283cc87231
     Name: FightRid.ROM
-    Genre: 
+    Genre: Bike racing
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sony Spain
+    Developer: Nippon Columbia
+    Release: 1985
+    Original Dump: 
+    Remark: Also released on tape by Colpax. 
+
+  - English title: Gang Man
+    Original title: Gang Man
+    Longname: Gang Man (Sony).rom
+    sha1: a1882aca5977150fc61d05488e341a387e2489fc
+    Name: GangMan.ROM
+    Genre: Action
+    Language: English
+    Country: Spain
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -95277,18 +95157,18 @@
     Longname: Hockey Sobre Hielo - Slapshot.rom
     sha1: 267cf960ff29fc700094eebf2728bbe0c0383fe5
     Name: HockeySH.ROM
-    Genre: 
+    Genre: Ice hockey
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (against each other)
     Signature: No
     Publisher: Sony Spain
     Developer: Indescomp
@@ -95296,18 +95176,18 @@
     Original Dump: 
     Remark: 
 
-  - English title: Bugaboo
+  - English title: Booga-Boo (The Flea)
     Original title: La Pulga
-    Longname: La Pulga (Bugaboo).rom
+    Longname: La Pulga - Booga-Boo.rom
     sha1: 7ca0ca4b9ca9715fe65427ca47c634103e1f7ca3
     Name: La_Pulga.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95315,23 +95195,23 @@
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Indescomp
+    Release: 1985
     Original Dump: 
     Remark: 
 
-  - English title: Bugaboo
+  - English title: Booga-Boo (The Flea)
     Original title: La Pulga
-    Longname: La Pulga (Bugaboo) [Stack fix].rom
+    Longname: La Pulga - Booga-Boo [Stack fix].rom
     sha1: 31b7005f26f291d215cd02d9f85c132f07de28a4
     Name: LaPulgSf.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95339,23 +95219,23 @@
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Indescomp
+    Release: 1985
     Original Dump: 
     Remark: 
 
-  - English title: 
+  - English title: Make-a-Face
     Original title: Mil Caras
     Longname: Mil Caras (S).rom
     sha1: 7c50d00a0d7b8c3474ed492465a92622ca160151
     Name: MilCaraS.ROM
-    Genre: 
+    Genre: Kids
     Language: Spanish
     Country: Spain
     Size: 8kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -95363,65 +95243,65 @@
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Spinnaker Software
+    Release: 1985
     Original Dump: 
     Remark: 
 
-  - English title: Super Tripper
-    Original title: 
-    Longname: Super Tripper (S) [a].rom
-    sha1: 1a5295a337e5b969c939644cb5ad55b84a6ad31d
-    Name: STrippSA.ROM
-    Genre: 
-    Language: Spanish
-    Country: Spain
-    Size: 32kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Super Tripper
-    Original title: 
-    Longname: Super Tripper (S).rom
+  - English title: SuperTripper
+    Original title: SuperTripper
+    Longname: SuperTripper (S).rom
     sha1: 47e020f168357f0ca9d26f03b9bd8952b4a9b9ee
     Name: STrippeS.ROM
-    Genre: 
+    Genre: Platform
     Language: Spanish
     Country: Spain
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
+    Developer: Indescomp
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: SuperTripper
+    Original title: SuperTripper
+    Longname: SuperTripper (S) [a].rom
+    sha1: 1a5295a337e5b969c939644cb5ad55b84a6ad31d
+    Name: STrippSA.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sony
+    Developer: Indescomp
+    Release: 1985
     Original Dump: 
     Remark: 
 
   - English title: Sweet Acorn
-    Original title: 
+    Original title: Sweet Acorn
     Longname: Sweet Acorn.rom
     sha1: 221c76d6ac483fb1f11c87d37b9617f1e1d7bc6d
     Name: SweetAco.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Spain
     Size: 16kB
@@ -95441,11 +95321,11 @@
     Remark: 
 
   - English title: Sweet Acorn
-    Original title: 
+    Original title: Sweet Acorn
     Longname: Sweet Acorn [a].rom
     sha1: c8015d4453efb9f78005f6c8481cbce9d99f6cc5
     Name: SweetAcA.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Spain
     Size: 16kB
@@ -95465,27 +95345,27 @@
     Remark: 
 
   - English title: Wrangler
-    Original title: 
+    Original title: Wrangler
     Longname: Wrangler (S).rom
     sha1: 76209c36bec7ca971c6db2e3bbce267147e4a361
     Name: WrangleS.ROM
-    Genre: 
+    Genre: Shoot'em up (horizontal scrolling)
     Language: Spanish
     Country: Spain
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Indescomp
+    Release: 1985
+    Original Dump: Yes
     Remark: 
 
 #
@@ -95494,6 +95374,181 @@
 
 - Folder longname: ~/Roms from Spain or Mexico/Tortilla Sunrise
   Folder name: ~/Spain/Tortilla
+
+#
+## Game Roms from Spain or Mexico: Visualedu ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Visualedu
+  Folder name: ~/Spain/Visualdu
+
+  - English title: Sacred Valley
+    Original title: Sacred Valley
+    Longname: Sacred Valley [v1.1].rom
+    sha1: 05f0da88482d448faeea25ed0b206f5027c03e32
+    Name: Sacred11.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu (Developer), Bitcaffe (Music & Fx)
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Sacred Valley
+    Original title: Sacred Valley
+    Longname: Sacred Valley (S) [v1.1].rom
+    sha1: 03a15ad434a43f3be9a69e6b8e4d6f209c73a6ba
+    Name: Sacrd11S.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu (Developer), Bitcaffe (Music & Fx)
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stupid Martians
+    Original title: Stupid Martians
+    Longname: Stupid Martians [v1.00].rom
+    sha1: d9bfb05feb12954d353bc657dd88a325186e47f8
+    Name: Stupi100.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stupid Martians
+    Original title: Stupid Martians
+    Longname: Stupid Martians [v1.02].rom
+    sha1: 5024f8ad3564d38eec01b74eaccb71bccd6485ba
+    Name: Stupi102.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stupid Martians
+    Original title: Stupid Martians
+    Longname: Stupid Martians [v1.02 with debug log].rom
+    sha1: e4ab923c0e6b8c14322449e2e4428e39f26ea54f
+    Name: Stup102D.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stupid Martians
+    Original title: Stupid Martians
+    Longname: Stupid Martians [v1.10].rom
+    sha1: dd1efb52a8b4b1ed3f3b321fad44e6a23d7eae76
+    Name: Stup110.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stupid Martians
+    Original title: Stupid Martians
+    Longname: Stupid Martians [v1.20].rom
+    sha1: 76c93dd53958309e180fa5cdb3812a44d6538967
+    Name: Stup120.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Spain
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Visualedu
+    Developer: Visualedu
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
 
 #
 ## Game Roms from Spain or Mexico: Walther Miller ##
@@ -97708,7 +97763,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -97732,7 +97787,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -98612,7 +98667,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -99972,7 +100027,7 @@
     Language: Spanish
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -100220,7 +100275,7 @@
     Language: Spanish
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -100244,7 +100299,7 @@
     Language: Spanish
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -100268,7 +100323,7 @@
     Language: Spanish
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -103140,12 +103195,12 @@
     Language: English
     Country: Netherlands
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / Keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -103747,8 +103802,8 @@
     Original Dump: No
     Remark: 
 
-  - English title: Barbarian - II The Dungeon of Drax
-    Original title: Barbarian - II The Dungeon of Drax
+  - English title: Barbarian II - The Dungeon of Drax
+    Original title: Barbarian II - The Dungeon of Drax
     Longname: Barbarian II The Dungeon of Drax.rom
     sha1: 30baaadb5b6bfee401391dfee91f85885dcdd234
     Name: Barbari2.ROM
@@ -103756,7 +103811,7 @@
     Language: English
     Country: Spain
     Size: 256kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -104621,7 +104676,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 64kB in the same primary slot
     VRAM: 16kB
@@ -104645,7 +104700,7 @@
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -104669,7 +104724,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -106741,7 +106796,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -106813,7 +106868,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -107101,7 +107156,7 @@
     Language: French
     Country: France
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -107111,7 +107166,7 @@
     Player number: 1
     Signature: No
     Publisher: Loriciels
-    Developer: 
+    Developer: Loriciels
     Release: 1988 (tape)
     Original Dump: No
     Remark: 
@@ -107205,7 +107260,7 @@
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -107229,7 +107284,7 @@
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -107469,7 +107524,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -107513,11 +107568,11 @@
     Longname: Milk Race 1987.rom
     sha1: 849f7d762d32e99e55f0939b562dc8d0cb69bbb7
     Name: MRac1987.ROM
-    Genre: Motorbike racing
+    Genre: Bike racing
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -107541,7 +107596,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -107877,7 +107932,7 @@
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -109438,14 +109493,14 @@
   Files:
   - English title: Dynamite Dan
     Original title: Dynamite Dan
-    Longname: Dynamite Dan [a].rom
+    Longname: Dynamite Dan.rom
     sha1: ec8e6ba440e9be5531aee098bc808b43f91a1f4a
     Name: DynamitA.ROM
     Genre: Platform
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -109469,7 +109524,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -109493,7 +109548,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -110366,7 +110421,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -110694,7 +110749,7 @@
     Language: English
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII8
     Machine: MSX1
     RAM: 64kB in the slot 3 / 3-0
     VRAM: 16kB
@@ -111021,7 +111076,7 @@
     Genre: Brick Breaker
     Language: English
     Country: UK
-    Size: 64kB
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 32kB
@@ -112150,7 +112205,7 @@
     Language: English
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -113782,7 +113837,7 @@
     Language: English
     Country: Netherlands
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -113806,7 +113861,7 @@
     Language: English
     Country: Netherlands
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -113830,7 +113885,7 @@
     Language: English
     Country: Netherlands
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -114246,7 +114301,7 @@
     Language: English
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: Konami8
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -114270,7 +114325,7 @@
     Language: English
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -114294,7 +114349,7 @@
     Language: English
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -114446,11 +114501,11 @@
     Language: French
     Country: UK
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: KonamiSCC
+    Data saving: None
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
@@ -114470,12 +114525,12 @@
     Language: French
     Country: UK
     Size: 64kB
-    Rom mapper: KonamiSCC / keyboard and joystick
+    Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -116038,7 +116093,7 @@
     Language: English
     Country: UK
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
@@ -116070,7 +116125,7 @@
     Language: English
     Country: Spain
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -116294,7 +116349,7 @@
     Language: Spanish
     Country: Spain
     Size: 128kB
-    Rom mapper: None
+    Rom mapper: ASCII16
     Machine: MSX1
     RAM: 64kB in the same primary slot
     VRAM: 16kB
@@ -117124,7 +117179,7 @@
     Name: Dr_CopyJ.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117244,7 +117299,7 @@
     Name: Eibunpo1.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117292,7 +117347,7 @@
     Name: NinjaCop.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117316,7 +117371,7 @@
     Name: NinjaCop Overdumped.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117340,7 +117395,7 @@
     Name: Ekakiku.ROM
     Genre: Picture drawing
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117364,7 +117419,7 @@
     Name: HomeCalc.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117388,7 +117443,7 @@
     Name: Joytelop.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117436,7 +117491,7 @@
     Name: EiwaJitn.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117580,7 +117635,7 @@
     Name: MusicHar.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117604,7 +117659,7 @@
     Name: NihonShi.ROM
     Genre: Educational
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX1
@@ -117628,7 +117683,7 @@
     Name: PSakkyok.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117748,7 +117803,7 @@
     Name: SMoni110.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117772,7 +117827,7 @@
     Name: SMoni120.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117892,7 +117947,7 @@
     Name: TL-NGA2.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117916,7 +117971,7 @@
     Name: TL-NGA2A.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -117940,7 +117995,7 @@
     Name: The Linkss.ROM
     Genre: 
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -118365,14 +118420,14 @@
     Original Dump: 
     Remark: 
 
-  - English title: Mue - Music Editor
-    Original title: Mue - Music Editor
+  - English title: Music Editor - Mue
+    Original title: ミュージックエディタ "Mue"
     Longname: Mue Music Editor (J).rom
     sha1: 20a2e3d7966916f46eb26cc1aa226ec2d11646f9
     Name: MUE.ROM
-    Genre: 
+    Genre: Music Editor
     Language: Japanese
-    Country: 
+    Country: Japan
     Size: 
     Rom mapper: None
     Machine: MSX
@@ -124303,7 +124358,7 @@
     Language: English
     Country: Brazil
     Size: 64kB
-    Rom mapper: None
+    Rom mapper: Sega mapper
     Machine: SG-1000
     RAM: 1kB + RAM expansion
     VRAM: 16kB
@@ -124494,7 +124549,7 @@
     Language: English
     Country: Brazil
     Size: 512kB
-    Rom mapper: None
+    Rom mapper: 
     Machine: SG-1000
     RAM: 1kB + RAM expansion
     VRAM: 16kB
