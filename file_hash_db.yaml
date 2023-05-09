@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 29-04-2023 by gdx
+    MSX Roms Database version 08-05-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -6305,7 +6305,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -6329,7 +6329,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -6560,7 +6560,7 @@
     Longname: Ladybug [gdx-r2].rom
     sha1: 4e218a6f2aca60d82a22f0a81e81f1619c16c91b
     Name: LadybuR2.ROM
-    Genre: Action
+    Genre: Maze with rotating doors
     Language: English
     Country: USA
     Size: 64kB
@@ -6953,7 +6953,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -7361,7 +7361,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -7385,7 +7385,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -7409,7 +7409,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -7433,7 +7433,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -8133,6 +8133,30 @@
   Files:
   - English title: Aleste 2
     Original title: Aleste 2
+    Longname: Aleste 2 (Jose Angel Morente).rom
+    sha1: df29d62a536ebaaf7a101478574ff3cc44833cd4
+    Name: Alest2v6.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Size: 736kB
+    Rom mapper: ASCII16
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Compile
+    Developer: Compile
+    Release: 1989 (original)
+    Original Dump: No
+    Remark: Converted to ROM by José Ángel Morente.
+
+  - English title: Aleste 2
+    Original title: Aleste 2
     Longname: Aleste 2 [v6] (Ricbit).rom
     sha1: 075eaf508e5d8b4131453bf9c452cfd28f34389e
     Name: Alest2v6.ROM
@@ -8153,7 +8177,7 @@
     Developer: Compile
     Release: 1989 (original)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Ricbit.
 
   - English title: Aleste 2
     Original title: Aleste 2
@@ -8177,7 +8201,7 @@
     Developer: Compile
     Release: 1989 (original)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Ricbit.
 
   - English title: Aleste 2
     Original title: Aleste 2
@@ -8201,7 +8225,7 @@
     Developer: Compile
     Release: 1989 (original)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Ricbit.
 
   - English title: Aleste 2
     Original title: Aleste 2
@@ -8225,7 +8249,7 @@
     Developer: Compile
     Release: 1989 (original)
     Original Dump: No
-    Remark: 
+    Remark: Converted to ROM by Ricbit.
 
   - English title: Beach Ball Men
     Original title: Beach Ball Men
@@ -8905,7 +8929,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -13251,6 +13275,54 @@
     Original Dump: No
     Remark: 
 
+  - English title: Hong Kong
+    Original title: 香港
+    Longname: Hong Kong (MSX-FAN 1988-03).rom
+    sha1: 7da2a0430ed50df6cd442b94d58ab9aa85fa03df
+    Name: HongKong.ROM
+    Genre: Puzzle
+    Language: Japanese
+    Country: Japan
+    Size: 8kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Tai
+    Release: 1988-03
+    Original Dump: 
+    Remark: 
+
+  - English title: Hong Kong
+    Original title: 香港
+    Longname: Hong Kong (MSX-FAN 1988-03) [overdumped].rom
+    sha1: b163b7a4b4f148f8ea1ee73d5ff9ed1e8519c75d
+    Name: HongKong.ROM
+    Genre: Puzzle
+    Language: Japanese
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Tai
+    Release: 1988-03
+    Original Dump: 
+    Remark: 
+
   - English title: Legion
     Original title: Legion
     Longname: Legion (MSX Magazine 1988).rom
@@ -13475,6 +13547,30 @@
     Original Dump: No
     Remark: 
 
+  - English title: Fnick li- Fnick la
+    Original title: フニクリ・フニクラ
+    Longname: Fnick li- Fnick la.rom
+    sha1: da1984ec2c3d5d7f17379c1e03ce6624fd68f44c
+    Name: Fnick_li.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Monthly Login
+    Developer: Klon (Copyright Sony)
+    Release: 1986-10
+    Original Dump: No
+    Remark: 
+
   - English title: Hanggliding Game
     Original title: ハンググライディングゲーム
     Longname: Hanggliding Game.rom
@@ -13570,6 +13666,55 @@
     Release: 1984-01
     Original Dump: No
     Remark: 
+
+  - English title: Vilzam - Cosmic Struggle
+    Original title: ヴィルザム COSMIC STRUGGLE
+    Longname: Vilzam Cosmic Struggle.rom
+    sha1: d34959132366afbae80fdf415324593d1241adb3
+    Name: Vilzam.ROM
+    Genre: Shoot'em up (multidirectional scrolling)
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Monthly Login
+    Developer: Yuichi Toyama
+    Release: 1985-12
+    Original Dump: No
+    Remark: 
+
+  - English title: Vilzam - Cosmic Struggle
+    Original title: ヴィルザム COSMIC STRUGGLE
+    Longname: Vilzam Cosmic Struggle [english fix].rom
+    sha1: d34959132366afbae80fdf415324593d1241adb3
+    Name: VilzamEF.ROM
+    Genre: Shoot'em up (multidirectional scrolling)
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Monthly Login
+    Developer: Yuichi Toyama
+    Release: 1985-12
+    Original Dump: No
+    Remark: 
+
 ##
 ### Games from magazine converted to ROM: Popcom Magazine (JP) ###
 ##
@@ -13768,7 +13913,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -13792,7 +13937,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -14856,7 +15001,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -15296,7 +15441,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -15320,7 +15465,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -24825,7 +24970,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -24849,7 +24994,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -24873,7 +25018,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -27801,7 +27946,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -27825,7 +27970,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -33999,7 +34144,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Keyboard and joystick
+    Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -34023,7 +34168,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35719,7 +35864,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35743,7 +35888,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35767,7 +35912,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35791,7 +35936,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35815,7 +35960,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35863,7 +36008,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35887,7 +36032,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35911,7 +36056,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35935,7 +36080,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -35959,7 +36104,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -36079,7 +36224,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -36127,7 +36272,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -36919,7 +37064,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -36967,7 +37112,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -36991,7 +37136,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37015,7 +37160,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37111,7 +37256,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37135,7 +37280,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37159,7 +37304,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37183,7 +37328,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37207,7 +37352,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37231,7 +37376,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37255,7 +37400,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37279,7 +37424,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37303,7 +37448,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37399,7 +37544,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37423,7 +37568,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -37447,7 +37592,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -38655,7 +38800,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -38679,7 +38824,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -38919,7 +39064,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -38943,7 +39088,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -39267,9 +39412,9 @@
 
   - English title: Star Soldier
     Original title: スターソルジャー
-    Longname: Star Soldier [smooth scrolling-MSX-Music].rom
+    Longname: Star Soldier [smooth scrolling] [MSX-Music] [v0.1].rom
     sha1: c52b08504db2d65980f6c9a3a8ec26c11c7f484b
-    Name: SSoldiSM.ROM
+    Name: SSoldSM1.ROM
     Genre: Shoot'em up (Smooth vertical scrolling)
     Language: English
     Country: Japan
@@ -39280,12 +39425,36 @@
     VRAM: 64kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG, PSG and MSX-Music on MSX turbo R
+    Sound: PSG / PSG and MSX-Music on MSX turbo R
     Player number: 1
     Signature: No
     Publisher: Hudson Soft
     Developer: Hudson Soft, Enhanced by Kaizou Kaikai
     Release: 1986, 2022 (enhanced version)
+    Original Dump: No
+    Remark: 
+
+  - English title: Star Soldier
+    Original title: スターソルジャー
+    Longname: Star Soldier [smooth scrolling] [MSX-Music] [v0.2].rom
+    sha1: bb685ab32c5f493ba69d02fa74c37fcf768f504e
+    Name: SSoldSM2.ROM
+    Genre: Shoot'em up (Smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Size: 128kB
+    Rom mapper: KonamiSCC
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music on MSX turbo R
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft, Enhanced by Kaizou Kaikai
+    Release: 1986, 2023 (enhanced version 0.2)
     Original Dump: No
     Remark: 
 
@@ -40679,7 +40848,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -40703,7 +40872,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42103,7 +42272,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42127,7 +42296,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42175,7 +42344,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42247,7 +42416,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42271,7 +42440,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42295,7 +42464,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -42487,7 +42656,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -43135,7 +43304,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -43159,7 +43328,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -43183,7 +43352,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -43207,7 +43376,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44575,7 +44744,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44599,7 +44768,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44623,7 +44792,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44647,7 +44816,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44671,7 +44840,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44695,7 +44864,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44719,7 +44888,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44743,7 +44912,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44767,7 +44936,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -44791,7 +44960,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -45799,7 +45968,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -45823,7 +45992,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -45847,7 +46016,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -45871,7 +46040,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46423,7 +46592,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46447,7 +46616,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46519,7 +46688,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46543,7 +46712,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -47959,7 +48128,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -47983,7 +48152,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -48007,7 +48176,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -49111,7 +49280,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -49303,7 +49472,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -49327,7 +49496,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -49351,7 +49520,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -54631,7 +54800,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -54655,7 +54824,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -60968,13 +61137,13 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 16kB
+    VRAM: 128kB
     Data saving: PAC SRAM
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG and MSX-Music when present
     Player number: 1
     Signature: No
@@ -60992,13 +61161,13 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: 2kB SRAM in the cartridge
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61016,13 +61185,13 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: 2kB SRAM in the cartridge
-    Control: Keyboard
+    Data saving: 2kB SRAM in the cartridge / password
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61040,13 +61209,13 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: 2kB SRAM in the cartridge
+    Size: 128kB
+    Rom mapper: 2kB SRAM in the cartridge / password
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61064,13 +61233,13 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: 2kB SRAM in the cartridge
+    Size: 128kB
+    Rom mapper: 2kB SRAM in the cartridge / password
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61096,13 +61265,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61120,13 +61289,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61144,13 +61313,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61288,23 +61457,23 @@
     Original Dump: 
     Remark: 
 
-  - English title: Alpha Squadron
-    Original title: アルファスクアドロン
+  - English title: α-Squadron
+    Original title: α-スクアドロン
     Longname: Alpha Squadron.rom
     sha1: 1d81e6cc165b3330b9b3c8b4f4da0417b1ab901e
     Name: ASquadrn.ROM
     Genre: Simulation
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61320,15 +61489,15 @@
     Genre: Simulation
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61344,15 +61513,15 @@
     Genre: Backgammon
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61368,15 +61537,15 @@
     Genre: Backgammon
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61392,13 +61561,13 @@
     Genre: Demolition Derby
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61416,13 +61585,13 @@
     Genre: Demolition Derby
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61440,7 +61609,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -61464,7 +61633,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -61488,13 +61657,13 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61512,67 +61681,19 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
     Developer: 
     Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Computer Chess
-    Original title: コンピューターチェス
-    Longname: Computer Chess (B.U.G. Saporo).rom
-    sha1: 2c0c71c549738d668518db317dd70aecefd4aa72
-    Name: ChessBUG.ROM
-    Genre: Chess
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 1984
-    Original Dump: 
-    Remark: 
-
-  - English title: Computer Chess
-    Original title: コンピューターチェス
-    Longname: Computer Chess (B.U.G. Saporo) [a].rom
-    sha1: c78ecfcba5f9845493addccc7b260c7f2b7cdbe5
-    Name: ChessBUA.ROM
-    Genre: Chess
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -61584,13 +61705,13 @@
     Genre: Shoot'em up and rescue (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61608,13 +61729,13 @@
     Genre: Shoot'em up and rescue (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61632,13 +61753,13 @@
     Genre: Shoot'em up and rescue (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61656,13 +61777,13 @@
     Genre: Shoot'em up and rescue (smooth horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61670,7 +61791,7 @@
     Developer: 
     Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Helicopter control is different from other vesions.
 
   - English title: Coaster Race
     Original title: コースターレース
@@ -61680,13 +61801,13 @@
     Genre: Car racing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61704,13 +61825,13 @@
     Genre: Car racing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61728,13 +61849,13 @@
     Genre: Car racing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61752,7 +61873,7 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -61776,15 +61897,15 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately one against the other)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61800,15 +61921,15 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately one against the other)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -61824,10 +61945,34 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately one against the other)
+    Signature: No
+    Publisher: Sony
+    Developer: 
+    Release: 1983
+    Original Dump: 
+    Remark: 
+
+  - English title: Computer Chess
+    Original title: コンピューターチェス
+    Longname: Computer Chess (B.U.G. Saporo).rom
+    sha1: 2c0c71c549738d668518db317dd70aecefd4aa72
+    Name: ChessBUG.ROM
+    Genre: Chess
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -61836,7 +61981,31 @@
     Signature: No
     Publisher: Sony
     Developer: 
-    Release: 1983
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: Computer Chess
+    Original title: コンピューターチェス
+    Longname: Computer Chess (B.U.G. Saporo) [a].rom
+    sha1: c78ecfcba5f9845493addccc7b260c7f2b7cdbe5
+    Name: ChessBUA.ROM
+    Genre: Chess
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately one against the other)
+    Signature: No
+    Publisher: Sony
+    Developer: 
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -61848,13 +62017,13 @@
     Genre: Othello
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61872,13 +62041,13 @@
     Genre: Othello
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61889,20 +62058,20 @@
     Remark: 
 
   - English title: Computer Pachinko
-    Original title: 
+    Original title: コンピューターパチンコ
     Longname: Computer Pachinko.rom
     sha1: 99d3ef107f2ac4d452b05eb96b922924ef4c5434
     Name: CPachink.ROM
     Genre: Pachinko
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61917,16 +62086,16 @@
     Longname: Cosmo-Explorer.rom
     sha1: 0ac6c061c3897a3989dcd75b4878c850c71e4bb8
     Name: COSMOEXP.ROM
-    Genre: 
+    Genre: Space war
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61941,16 +62110,16 @@
     Longname: Cosmo-Explorer [a].rom
     sha1: b6f8e1431bda1296c2959b10b021b80e0ff2a8a2
     Name: CosmoExA.ROM
-    Genre: 
+    Genre: Space war
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61965,16 +62134,16 @@
     Longname: Cosmo-Explorer [a2].rom
     sha1: da0165caf289aaca658acd4984a31ef6575027b7
     Name: CosmExA2.ROM
-    Genre: 
+    Genre: Space war
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -61992,15 +62161,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62016,15 +62185,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62040,15 +62209,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62064,15 +62233,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62088,15 +62257,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62112,15 +62281,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62136,15 +62305,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62160,15 +62329,15 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Konami
@@ -62181,18 +62350,18 @@
     Longname: Dorodon.rom
     sha1: 3cdef52b2958730b866250bfe7e7b6248e66749a
     Name: Dorodon.ROM
-    Genre: Maze
+    Genre: Maze with rotating doors
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62205,18 +62374,18 @@
     Longname: Dorodon [a].rom
     sha1: 19c610339c0480c3d2d0d1c21e3ccbf2179bb191
     Name: DorodonA.ROM
-    Genre: Maze
+    Genre: Maze with rotating doors
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62229,16 +62398,16 @@
     Longname: Dorodon [Nandemo SCC].rom
     sha1: 88574db5b1fc4bea720bd49794a708d96436c70d
     Name: DorodoNS.ROM
-    Genre: Maze
+    Genre: Maze with rotating doors
     Language: English
     Country: Japan
-    Size: 
+    Size: 24kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1
     Signature: No
@@ -62262,9 +62431,9 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Programmers-3
@@ -62286,9 +62455,9 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Programmers-3
@@ -62304,15 +62473,15 @@
     Genre: Boxing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: Konami8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard or 2 (one against the other)
     Sound: PSG
-    Player number: 1
+    Player number: 1 / joystick(s)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62328,15 +62497,15 @@
     Genre: Boxing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (one against the other)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62448,15 +62617,15 @@
     Genre: Baseball
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (one against the other)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62472,13 +62641,13 @@
     Genre: Mahjong
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -62496,13 +62665,13 @@
     Genre: Mahjong
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -62520,7 +62689,7 @@
     Genre: Mahjong
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -62528,7 +62697,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: 1 to 4 (against each others)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -62544,7 +62713,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62568,7 +62737,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62592,7 +62761,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62616,7 +62785,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62640,7 +62809,7 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62712,13 +62881,13 @@
     Genre: Shogi
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: 8kB SRAM in the cartridge
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -62736,7 +62905,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62760,7 +62929,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62784,7 +62953,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62808,7 +62977,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62832,7 +63001,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62856,7 +63025,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62880,7 +63049,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -62973,18 +63142,18 @@
     Longname: Midnight Brothers.rom
     sha1: 97adcb652bc4baf02d29a9abe5e6547065dec298
     Name: Midnbrot.ROM
-    Genre: 
+    Genre: 3D maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Sony
     Developer: Zap
@@ -62997,18 +63166,18 @@
     Longname: Midnight Brothers [a].rom
     sha1: f1d68b477f3f54c0b6080985954208b0d95c5973
     Name: MidnbroA.ROM
-    Genre: 
+    Genre: 3D maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Sony
     Developer: Zap
@@ -63021,18 +63190,18 @@
     Longname: Midnight Brothers [a2].rom
     sha1: fb7a08237c2d453ed421b9c8bb420c60ffa9f9a9
     Name: MidnbrA2.ROM
-    Genre: 
+    Genre: 3D maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Sony
     Developer: Zap
@@ -63045,21 +63214,21 @@
     Longname: Mouser.rom
     sha1: 1fb861152a9f3f9c2b2dace26d5f1d93ab9b4ad8
     Name: Mouser.ROM
-    Genre: Platform
+    Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
+    Developer: Sony (Copyright UPL Co, Ltd.)
     Release: 1983
     Original Dump: 
     Remark: 
@@ -63069,48 +63238,48 @@
     Longname: Mouser [Joystick fix].rom
     sha1: a334e9aa9a9e4ff8a14362bb359a7608cfd2617a
     Name: MouserJf.ROM
-    Genre: Platform
+    Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
+    Developer: Sony (Copyright UPL Co, Ltd.)
     Release: 1983 (original)
     Original Dump: No
-    Remark: 
+    Remark: Version modified to improve the joystick support.
 
   - English title: Mouser
     Original title: マウザー
     Longname: Mouser [Joystick fix r2].rom
     sha1: 230f0b2b1ae1554f910b7e7c7765c382a42dc7d3
     Name: MouseJf2.ROM
-    Genre: Platform
+    Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Sony
-    Developer: 
+    Developer: Sony (Copyright UPL Co, Ltd.)
     Release: 1983 (original)
     Original Dump: No
-    Remark: 
+    Remark: Version modified to improve the joystick support.
 
   - English title: Mr. Do! vs Unicorns
     Original title: ミスタードゥVSユニコーンズ
@@ -63120,15 +63289,15 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63144,15 +63313,15 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63170,13 +63339,13 @@
     Country: Japan
     Size: 
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63237,16 +63406,16 @@
     Longname: Pay Load (E-J).rom
     sha1: 5f965bbba026134818759d25119d4114599132a8
     Name: PayLoad.ROM
-    Genre: 
+    Genre: Truck delivery man
     Language: English / Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63261,16 +63430,16 @@
     Longname: Pay Load (E-J) [a].rom
     sha1: 0486938b52fbcf30a4fa206e07960a5b866fca61
     Name: PayLoadA.ROM
-    Genre: 
+    Genre: Truck delivery man
     Language: English / Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63285,16 +63454,16 @@
     Longname: Pay Load (E-J) [a2].rom
     sha1: 8706f8fca5b859aa21526ca41e63721274647e7f
     Name: PayLoaA2.ROM
-    Genre: 
+    Genre: Truck delivery man
     Language: English / Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63309,16 +63478,16 @@
     Longname: Pay Load (E-J) [Language choice by TFH].rom
     sha1: a7493bde54de0a4304296ac7395d6919ff9a73bd
     Name: PayLoaLC.ROM
-    Genre: 
+    Genre: Truck delivery man
     Language: English / Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63336,15 +63505,15 @@
     Genre: Baseball
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG, DAC in to the cartridge
-    Player number: 1
+    Player number: 1 or 2 (one against the other)
     Signature: No
     Publisher: Sony
     Developer: Sony
@@ -63360,15 +63529,15 @@
     Genre: Baseball
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (one against the other)
     Signature: No
     Publisher: Sony
     Developer: Sony
@@ -63384,15 +63553,15 @@
     Genre: Shoot'em up (multidirectional scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Brøderbund Software
@@ -63408,15 +63577,15 @@
     Genre: Shoot'em up (multidirectional scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: Brøderbund Software
@@ -63477,18 +63646,18 @@
     Longname: Scion.rom
     sha1: 09fbbd923e0deb82f5e20fa8ce2d842adbf4a646
     Name: Scion.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63501,18 +63670,18 @@
     Longname: Scion [a].rom
     sha1: 33dd59c9bbd2aa19affdab3bc2dd1ff662cbc8b0
     Name: Scion-A.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63525,16 +63694,16 @@
     Longname: Seikima 2 Special Akuma no Gyakushuu (J).rom
     sha1: c74a5a6164536750d6b3ea90e19798ab6fad79d7
     Name: Seikima2.ROM
-    Genre: 
+    Genre: Platform
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63549,16 +63718,16 @@
     Longname: Seikima 2 Special Akuma no Gyakushuu (J) [a].rom
     sha1: 510f6d854f813269f67ee15a4cc2ed77d96d2903
     Name: Seikim2A.ROM
-    Genre: 
+    Genre: Platform
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63576,13 +63745,13 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63600,13 +63769,13 @@
     Genre: Shoot'em up
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63621,10 +63790,10 @@
     Longname: Sparkie (Konami).rom
     sha1: 4b996bddf88605c432f73564922106a63d31f62c
     Name: Sparkie.ROM
-    Genre: 
+    Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63648,7 +63817,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63672,7 +63841,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63696,7 +63865,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63720,7 +63889,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63744,7 +63913,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -63768,13 +63937,13 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63792,13 +63961,13 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63816,13 +63985,13 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63840,15 +64009,15 @@
     Genre: Golf
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: Tape
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Sony
     Developer: 
@@ -63864,15 +64033,15 @@
     Genre: Football / Soccer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (one against the other)
     Signature: No
     Publisher: Sony
     Developer: Takara
@@ -63888,15 +64057,15 @@
     Genre: Tennis
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (one against the other or together)
     Signature: No
     Publisher: Sony
     Developer: Takara
@@ -63912,13 +64081,13 @@
     Genre: Traffic control
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63936,13 +64105,13 @@
     Genre: Traffic control
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63960,13 +64129,13 @@
     Genre: Traffic control
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -63992,7 +64161,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
@@ -64016,7 +64185,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
@@ -64040,7 +64209,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
@@ -64064,7 +64233,7 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -64088,7 +64257,7 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -64109,16 +64278,16 @@
     Longname: King's Knight.rom
     sha1: 122f659250a0ae10ce0be0dde626dd3e384affa7
     Name: KingsKni.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64133,16 +64302,16 @@
     Longname: King's Knight [a].rom
     sha1: a2ca7e6e216f8b450eb8db10a4120f0353275b6b
     Name: KingsKnA.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64157,16 +64326,16 @@
     Longname: King's Knight [a2].rom
     sha1: 46062d3393c49884f84c2dc437ff27854e9d2e49
     Name: KingsKA2.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII16
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64181,16 +64350,16 @@
     Longname: King's Knight [Konami8 mapper].rom
     sha1: 438bbb3367db4938b3d90fa9d2cfb1f08c072bb7
     Name: KingsKA3.ROM
-    Genre: 
+    Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: Konami8
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64213,15 +64382,15 @@
     Longname: Marchen Veil I (J).rom
     sha1: f7dd6841d280cbffa9f0f2da7af3549f23270ddb
     Name: MarchenV.ROM
-    Genre: 
+    Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: ASCII8
     Machine: MSX1 with Japanese font
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard
     Sound: PSG
     Player number: 1
@@ -64344,18 +64513,18 @@
     Genre: Flight Simulation
     Language: English
     Country: Japan
-    Size: 
+    Size: 128kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: System Soft
-    Developer: Microprose
+    Developer: Imre Kovats jr. & L.Szenttornyai (devs), Michael O. Haire (art), L.Szenttornyai (sound)
     Release: 
     Original Dump: 
     Remark: 
@@ -64365,16 +64534,16 @@
     Longname: Bouken Roman Dota.rom
     sha1: b15e73a5ff1ae17ac67f2cebb5862d5e5bd80bc0
     Name: BR-Dota.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64389,16 +64558,16 @@
     Longname: Bouken Roman Dota [a].rom
     sha1: 1ffef57e6c06068b330027294aae173103c8f141
     Name: BR-DotaA.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64413,16 +64582,16 @@
     Longname: Bouken Roman Dota [a2].rom
     sha1: 953ac0569d5e82e1cb6b60412e56534d73e4ca42
     Name: BRDotaA2.ROM
-    Genre: 
+    Genre: Platform
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64437,16 +64606,16 @@
     Longname: F-15 Strike Eagle.rom
     sha1: 39bc111c953bdf25683db7ff4c0bad79b5c49958
     Name: F-15SE.ROM
-    Genre: 
+    Genre: Flight simulator
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64461,16 +64630,16 @@
     Longname: Ogre.rom
     sha1: c9c272ffa69d3e0af5be42e7636b02dc2af6ea8c
     Name: Ogre.ROM
-    Genre: 
+    Genre: Turn-based strategy
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64485,16 +64654,16 @@
     Longname: Ogre [Mouse].rom
     sha1: 8e66731c99f4d041ddcd33088d0ab0d4cae8bf75
     Name: OgreMous.ROM
-    Genre: 
+    Genre: Turn-based strategy
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard and Mouse
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64509,16 +64678,16 @@
     Longname: Ogre [overdumped].rom
     sha1: 82397096d5ef436b99b943c2a52d6eff87694183
     Name: Ogre Overdumped.ROM
-    Genre: 
+    Genre: Turn-based strategy
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: Turn-based strategy
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64533,10 +64702,10 @@
     Longname: Puzzle Panic.rom
     sha1: a36c00f32cad6b603bc5525a741cb09064670f34
     Name: PuzzlePa.ROM
-    Genre: 
+    Genre: Action, Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -64549,7 +64718,7 @@
     Publisher: System Soft
     Developer: System Soft
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Puzzle Panic
@@ -64557,10 +64726,10 @@
     Longname: Puzzle Panic [MSX support fix].rom
     sha1: 3767aa91950e1ecc02b2d768dd2d5cf637fccb92
     Name: PuzzlMsf.ROM
-    Genre: 
+    Genre: Action, Puzzle
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -64584,13 +64753,13 @@
     Genre: Shanghai
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
+    Size: 128kB
+    Rom mapper: ASCII16
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick / mouse
     Sound: PSG
     Player number: 1
     Signature: No
@@ -64616,7 +64785,7 @@
     Genre: Golf
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSXMSX1 with Japanese font
     RAM: 8kB
@@ -64640,7 +64809,7 @@
     Genre: Golf
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1 with Japanese font
     RAM: 8kB
@@ -64664,7 +64833,7 @@
     Genre: Golf
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -64688,7 +64857,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -64712,7 +64881,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
@@ -64736,7 +64905,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
@@ -64760,7 +64929,7 @@
     Genre: Strategy
     Language: English
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 16kB
@@ -64784,7 +64953,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 256kB
     Rom mapper: Zemina8
     Machine: MSX1
     RAM: 16kB
@@ -64808,7 +64977,7 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
@@ -64928,7 +65097,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 8kB
@@ -64952,7 +65121,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 8kB
@@ -64976,7 +65145,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 8kB
@@ -65000,7 +65169,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX1
     RAM: 8kB
@@ -65018,61 +65187,13 @@
 
   - English title: Hydlide 3 - The Space Memories
     Original title: ハイドライド3 - THE SPACE MEMORIES
-    Longname: Hydlide 3 The Space Memories (Translated to Korean by Ultimache) [MSX1].rom
-    sha1: 4c8a180d0cef60b539a1a5c83116046f7abd13f6
-    Name: Hyd3X1KU.ROM
-    Genre: Role playing
-    Language: Korean
-    Country: Japan
-    Size: 
-    Rom mapper: ASCII8
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: PAC SRAM
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: T&E Soft
-    Developer: T&E Soft
-    Release: 1987 (original)
-    Original Dump: No
-    Remark: 
-
-  - English title:  Hydlide 3 - The Space Memories
-    Original title: ハイドライド3 - THE SPACE MEMORIES
-    Longname: Hydlide 3 The Space Memories (Translated to Korean by Yamche) [MSX1].rom
-    sha1: 6fcd2af88270f93758ff424d43fa0b163f5bfc3a
-    Name: Hyd3X1KY.ROM
-    Genre: Role playing
-    Language: Korean
-    Country: Japan
-    Size: 
-    Rom mapper: ASCII8
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: PAC SRAM
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: T&E Soft
-    Developer: T&E Soft
-    Release: 1987 (original)
-    Original Dump: No
-    Remark: 
-
-  - English title: Hydlide 3 - The Space Memories
-    Original title: ハイドライド3 - THE SPACE MEMORIES
     Longname: Hydlide 3 The Space Memories (J) [MSX2].rom
     sha1: f182d4785e3eed00292f7ff4795c9dcc6c990a0a
     Name: Hydli3X2.ROM
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
@@ -65096,7 +65217,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 640kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
@@ -65120,7 +65241,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: KonamiSCC
     Machine: MSX2
     RAM: 64kB
@@ -65144,11 +65265,59 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Size: 
+    Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft
+    Developer: T&E Soft
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Hydlide 3 - The Space Memories
+    Original title: ハイドライド3 - THE SPACE MEMORIES
+    Longname: Hydlide 3 The Space Memories (Translated to Korean by Ultimache) [MSX1].rom
+    sha1: 4c8a180d0cef60b539a1a5c83116046f7abd13f6
+    Name: Hyd3X1KU.ROM
+    Genre: Role playing
+    Language: Korean
+    Country: Japan
+    Size: 512kB
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft
+    Developer: T&E Soft
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title:  Hydlide 3 - The Space Memories
+    Original title: ハイドライド3 - THE SPACE MEMORIES
+    Longname: Hydlide 3 The Space Memories (Translated to Korean by Yamche) [MSX1].rom
+    sha1: 6fcd2af88270f93758ff424d43fa0b163f5bfc3a
+    Name: Hyd3X1KY.ROM
+    Genre: Role playing
+    Language: Korean
+    Country: Japan
+    Size: 512kB
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
     Data saving: PAC SRAM
     Control: Keyboard / joystick
     Sound: PSG
@@ -65168,7 +65337,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 8KB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65182,30 +65351,6 @@
     Developer: T&E Soft
     Release: 1983
     Original Dump: Yes
-    Remark: 
-
-  - English title: Pyramid Warp
-    Original title: ピラミッド・ワープ
-    Longname: Pyramid Warp [overdumped].rom
-    sha1: e35c48aae9aed93a114a28ee90f8f20fced3587b
-    Name: PyramidW Overdumped.ROM
-    Genre: Maze
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: T&E Soft, Toshiba
-    Developer: T&E Soft
-    Release: 1983
-    Original Dump: 
     Remark: 
 
   - English title: Pyramid Warp
@@ -65240,7 +65385,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65264,7 +65409,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65288,7 +65433,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 40kB
     Rom mapper: KonamiSCC
     Machine: MSX1
     RAM: 16kB
@@ -65302,6 +65447,30 @@
     Developer: T&E Soft
     Release: 1983 (original)
     Original Dump: No
+    Remark: 
+
+  - English title: Pyramid Warp
+    Original title: ピラミッド・ワープ
+    Longname: Pyramid Warp [overdumped].rom
+    sha1: e35c48aae9aed93a114a28ee90f8f20fced3587b
+    Name: PyramidW Overdumped.ROM
+    Genre: Maze
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft, Toshiba
+    Developer: T&E Soft
+    Release: 1983
+    Original Dump: 
     Remark: 
 
   - English title: Super Laydock - Mission Striker
@@ -65422,7 +65591,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -65446,7 +65615,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -65470,7 +65639,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -65488,7 +65657,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65512,13 +65681,13 @@
     Genre: Fighting
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -65560,13 +65729,13 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -65592,7 +65761,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65616,7 +65785,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -65640,7 +65809,7 @@
     Genre: Baseball
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
@@ -69937,7 +70106,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -70817,7 +70986,7 @@
     RAM: kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -73305,7 +73474,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -73737,7 +73906,7 @@
     RAM: kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -74441,7 +74610,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -74465,7 +74634,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -74489,7 +74658,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -74513,7 +74682,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -77305,7 +77474,7 @@
     RAM: kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -77809,7 +77978,7 @@
     RAM: 64kB
     VRAM: 64kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -90369,7 +90538,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -97704,7 +97873,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -98720,7 +98889,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -98744,7 +98913,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99504,7 +99673,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99528,7 +99697,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99552,7 +99721,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99576,7 +99745,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99600,7 +99769,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99696,7 +99865,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99720,7 +99889,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99744,7 +99913,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99800,7 +99969,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99824,7 +99993,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99848,7 +100017,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99872,7 +100041,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99896,7 +100065,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99920,7 +100089,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -99944,7 +100113,7 @@
     RAM: 16KB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100448,7 +100617,7 @@
     RAM: 64kB in same primary slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100472,7 +100641,7 @@
     RAM: 64kB in same primary slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100496,7 +100665,7 @@
     RAM: 64kB in same primary slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100520,7 +100689,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100544,7 +100713,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100568,7 +100737,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100592,7 +100761,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100616,7 +100785,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100640,7 +100809,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -100664,7 +100833,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -101072,7 +101241,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -101096,7 +101265,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -102984,7 +103153,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -103832,7 +104001,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104032,7 +104201,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104608,7 +104777,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104632,7 +104801,7 @@
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104777,7 +104946,7 @@
     RAM: 64kB in the same primary slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104801,7 +104970,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -104825,7 +104994,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -107409,7 +107578,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -107433,7 +107602,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -109809,7 +109978,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -109833,7 +110002,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -110450,7 +110619,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -110474,7 +110643,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -110498,7 +110667,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -110522,7 +110691,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -111250,7 +111419,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -111298,7 +111467,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -111322,7 +111491,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -111346,7 +111515,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -111370,7 +111539,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -112778,7 +112947,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -115090,7 +115259,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -115122,7 +115291,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -115146,7 +115315,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -115834,7 +116003,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -115858,7 +116027,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / keyboard and joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -116162,7 +116331,7 @@
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
