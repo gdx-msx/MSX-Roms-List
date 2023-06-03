@@ -71080,12 +71080,12 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
-    Publisher: SiS Co.
+    Publisher: Genius Soft Co.
     Developer: SiS Co.
     Release: 1991
     Original Dump: Yes
@@ -97419,14 +97419,14 @@
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: SiS Co. 
     Developer: SIS Co.
-    Release: 2008
+    Release: 2008 (conversion)
     Original Dump: No
     Remark: SG-1000 converted to MSX-DOS format by SLotman in 2008 and converted to ROM by gdx.
 
