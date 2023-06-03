@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 29-05-2023 by gdx
+    MSX Roms Database version 03-06-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 242 classified bad dumps.
+    Currently there are 244 classified bad dumps.
 
 - Folder longname: ~/Bad Dumps
   Folder name: ~/BadDumps
@@ -1482,6 +1482,30 @@
     Release: 
     Original Dump: No
     Remark: 
+
+  - English title: Ehagaki you Word-Pro
+    Original title: 絵葉書用ワープロ
+    Longname: Ehagaki you Word-Pro (Hitachi) [Bad dump].rom
+    sha1: f625afc51ac52b27a7345d2cf6ff1b4aa39c8e2b
+    Name: BADDUMP243.ROM
+    Genre: Bad dump
+    Language: 
+    Country: 
+    Size: 32kB
+    Rom mapper: 
+    Machine: MSX2
+    RAM: 
+    VRAM: 
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: No
+    Remark: Incomplet dump?
 
   - English title: 
     Original title: 
@@ -3148,6 +3172,30 @@
     Language: 
     Country: 
     Size: 8kB
+    Rom mapper: 
+    Machine: MSX
+    RAM: 
+    VRAM: 
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: 
+    Original title: 
+    Longname: MIDI Macro & Monitor [bad dump].rom
+    sha1: e7c800fa576b3a9554836aa9c5eaa3ae893805d4
+    Name: BADDUMP244.ROM
+    Genre: Bad dump
+    Language: 
+    Country: 
+    Size: 16kB
     Rom mapper: 
     Machine: MSX
     RAM: 
@@ -17604,7 +17652,7 @@
     Longname: 1 2 3 (A) [v1.16].rom
     sha1: 150b249b6402ed89ed03cc7125f9472c931dcb2a
     Name: 123v116.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17628,7 +17676,7 @@
     Longname: 1 2 3 (A) [v1.17].rom
     sha1: a7c116e987f561aaa6199c3018433c431268ca86
     Name: 123v117.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17652,7 +17700,7 @@
     Longname: a b c - Alhuruf Alearabia (a b c - Alphabet in Arabic) (A) [v1.11].rom
     sha1: 148c9a4f316ff73c4e802baadc34bf852492821d
     Name: AlphabeA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17676,7 +17724,7 @@
     Longname: a b c - Alhuruf Alearabia (a b c - Alphabet in Arabic) (A) [v1.13].rom
     sha1: 6898910ed409daee48c8f9f5b20505330d46f714
     Name: AlphArab.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17700,7 +17748,7 @@
     Longname: a b c - Alphabets in English.rom
     sha1: 5bd09e5a9669c58365c87f32a0e9a8e59680d5c9
     Name: AlphEngl.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -17724,7 +17772,7 @@
     Longname: Ajmae W Atrah (Add & Subtract) (A).rom
     sha1: 8f5e7717a506e3314d48ae9ff5e6c6c8a3df72eb
     Name: Add&Subt.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17748,7 +17796,7 @@
     Longname: Ali Baba (A-F-E).rom
     sha1: f9e8cc6e47d5632e3b28500197f8e9187295c52b
     Name: AliBaba.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab, English, French
     Country: Kuwait
     Size: 128kB
@@ -17796,7 +17844,7 @@
     Longname: Alluwghu Alearabi (Begin With The Turtle) (A).rom
     sha1: f2b5b9029575b85f0730914a44e57f94c9313df5
     Name: BWTurtle.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17844,7 +17892,7 @@
     Longname: Alshier Alearabiu (Arab Poets) (A).rom
     sha1: b20e02cbffef692c7aee6281eb36729ee1e928ef
     Name: ArabPoet.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 128kB
@@ -17868,7 +17916,7 @@
     Longname: Altifl Aleajib (Amazing Kid) (A).rom
     sha1: 55cc50740d68d2558351cd8d125821dd1be70a1c
     Name: AMAZIKID.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17892,7 +17940,7 @@
     Longname: Alwatan Alearab (The Arab World) (A).rom
     sha1: 6b4b099fa7a87c5059ebb40da3089d0d61967644
     Name: ArabWorl.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -17916,7 +17964,7 @@
     Longname: Around The Clock (A&E).rom
     sha1: b49a41e57ddde304c9706e9b65bbf63733c14c88
     Name: AroundCl.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -17940,7 +17988,7 @@
     Longname: Around The Clock (A&E) [a].rom
     sha1: fd9eef4ea54e31e9ffb121c079e4b76c990d755c
     Name: AroundCA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -17964,7 +18012,7 @@
     Longname: Boullata (A-E).rom
     sha1: 254208d7ea2f7cc1035cfe7685238ac3ad17e438
     Name: Boullata.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -18204,7 +18252,7 @@
     Longname: Electromatic (A-E) [a].rom
     sha1: 94584ca2e89ab0b249cd52f3a356176a03f9e35f
     Name: ElectroA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English / Japanese
     Country: Kuwait
     Size: 32kB
@@ -18228,7 +18276,7 @@
     Longname: Electromatic (A-E).rom
     sha1: 1dbe5a8e05fd8ed6a2181271e7423610a259b5b7
     Name: ElectroM.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English / Japanese
     Country: Kuwait
     Size: 32kB
@@ -18252,7 +18300,7 @@
     Longname: Equations (A).rom
     sha1: f2ac1ce7584297bb646caec3fe4f0384ed5b072f
     Name: Equation.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18276,7 +18324,7 @@
     Longname: Express (A&E).rom
     sha1: 7758f57e91dd62ddb5c88cdd73dc0fb5ccd4de7f
     Name: EXPRESS.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -18300,7 +18348,7 @@
     Longname: Express (A&E) [a].rom
     sha1: a5dc0aa283072f772ee4b9eb93b0966500dd306b
     Name: ExpressA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -18348,7 +18396,7 @@
     Longname: Fractions 1 (A).rom
     sha1: e930f53bf480aba5d50d97ee7c60aad96c000d33
     Name: Fractio1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18372,7 +18420,7 @@
     Longname: Fractions 2 (A) [v2.03].rom
     sha1: bb3df0a7656249e486accc60f583d3dd41db590b
     Name: Fracti2A.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18396,7 +18444,7 @@
     Longname: Fractions 2 (A) [v2.04].rom
     sha1: b8b277064fe2427f586a6ad32504ec5ce756a574
     Name: Fractio2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18420,7 +18468,7 @@
     Longname: Head & Tail (A&E).rom
     sha1: f4d4d132866707e7f8a97408b093acabb67ef5aa
     Name: Head&Tai.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -18612,7 +18660,7 @@
     Longname: Ibn Sina 1 (A-E).rom
     sha1: f332df804849c7a12f50dbbdbbb37949716b3671
     Name: IbnSina1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -18636,7 +18684,7 @@
     Longname: Ibn Sina 1 (A-E) [a].rom
     sha1: c17b78ae95a17a3d3eb4cd00546f15cbbf4c846e
     Name: IbnSIN1A.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -18660,7 +18708,7 @@
     Longname: Ibn Sina 2 (A-E).rom
     sha1: 630db2516b6f6da16882f507e74fb35455552ea4
     Name: IbnSina2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -18684,7 +18732,7 @@
     Longname: Ibn Sina 2 (A&E) [a].rom
     sha1: 136506ec295af5b3aa0012cf9cf2405be1cbd712
     Name: IbnSin2A.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -18708,7 +18756,7 @@
     Longname: Iistakshif Alkumbiutar (Discover The Computer) (A).rom
     sha1: 39a40c1265cc663eef0d21dea01a9bf52c8c140e
     Name: DiscComp.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18876,7 +18924,7 @@
     Longname: Language Of Numbers (A-E-F).rom
     sha1: fea0a6406b22aa67dfbf6985e18dd7a0a6f071a6
     Name: LangNumb.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English / French
     Country: Kuwait
     Size: 64kB
@@ -18900,7 +18948,7 @@
     Longname: Learn About Basic (A).rom
     sha1: bf3d9433bf32d3af7a7adc0ba77b9690ac754daa
     Name: LABASIC.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18924,7 +18972,7 @@
     Longname: Learn About Basic (A) [a].rom
     sha1: 0cc58a60e35303442abf82f28b7030ac1ae4e538
     Name: LABASICA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -18948,7 +18996,7 @@
     Longname: Let's Count 1 (A).rom
     sha1: 08eb5001bd95ffb7232cdbdffbec7634eb110ad8
     Name: LetsCnt1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 64kB
@@ -18972,7 +19020,7 @@
     Longname: Let's Count 3 (A).rom
     sha1: 73938f51fcb26349aa17e1ae1f1bd43b20ef227b
     Name: LetsCnt3.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 64kB
@@ -18996,7 +19044,7 @@
     Longname: Let's Think (A).rom
     sha1: 99107515d4985c101ed73cf45e27e3405fd62ca4
     Name: LetsThin.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19020,7 +19068,7 @@
     Longname: Magic Touch (A-E).rom
     sha1: b9d5ec448d5de19c62dc09ffe3b257e0cef610d2
     Name: MagicTou.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -19044,7 +19092,7 @@
     Longname: Magic Touch (A-E) [a].rom
     sha1: 951a5310534c16a6923eedf28278c13102b6a19f
     Name: MagicToA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -19068,7 +19116,7 @@
     Longname: Magic Tune (A-E) [a].rom
     sha1: abf5521759369518dd66390491ac0601c28e25bc
     Name: MagicTuA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -19092,7 +19140,7 @@
     Longname: Magic Tune (A-E).rom
     sha1: 44ece0064495f7c90344e42fc14e29341d4e08bb
     Name: MagicTun.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -19116,7 +19164,7 @@
     Longname: Magnetics (A) [a].rom
     sha1: eb374a5e1d3209fa5da24a8fbbe9c4839dd02679
     Name: MAGNETIA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19140,7 +19188,7 @@
     Longname: Magnetics (A).rom
     sha1: 4998d34b559f4a531843cebd2302212658d953f7
     Name: Magnetic.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19212,7 +19260,7 @@
     Longname: Memory (A-E).rom
     sha1: 7f0037069d75a36f1a73b8f7dd286d33f80be6dd
     Name: Memory.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -19236,7 +19284,7 @@
     Longname: Aldhaakira - Memory (A-E) [a].rom
     sha1: 6523381fa5012b45a69af0e351f239c97afd4be7
     Name: MemoryA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English
     Country: Kuwait
     Size: 32kB
@@ -19308,7 +19356,7 @@
     Longname: Multiply & Divide (A).rom
     sha1: 860f5180c9028cbf675d9b1e59b7e7487c59ea0c
     Name: Mult&Div.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19332,7 +19380,7 @@
     Longname: Multiply & Divide (A) [a].rom
     sha1: 20effe093026e9209bd3327114e9ad51676cf807
     Name: Mult&DiA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19356,7 +19404,7 @@
     Longname: Museums and Antiquities (A).rom
     sha1: 0a7bed652592ed6325acd037f1f5bbbd1d31b239
     Name: Landmark.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 128kB
@@ -19380,7 +19428,7 @@
     Longname: My Clock (A).rom
     sha1: d9195b9a24f6e7c5b99eca046908915bfe369d46
     Name: MyClock.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19404,7 +19452,7 @@
     Longname: My Clock (A) [a].rom
     sha1: 11927d62332a3310ad462f2f532ac30533c1fc17
     Name: MyClockA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19476,7 +19524,7 @@
     Longname: Optics (A).rom
     sha1: 3c9301eea142857ee5e9e04d0caebbc5a4245715
     Name: Optics.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19500,7 +19548,7 @@
     Longname: Our Arabic World (A).rom
     sha1: 6918679b2be2d014b60b4025a3877dee9ad5f407
     Name: OurArabi.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19524,7 +19572,7 @@
     Longname: Periodic Table (A) [a].rom
     sha1: 823b638419dc81767a8511db190212607908cece
     Name: PerioTbA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19548,7 +19596,7 @@
     Longname: Periodic Table (A).rom
     sha1: 7033c47a3b20fd04054ef37d209e1545ac053865
     Name: PerioTbl.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19572,7 +19620,7 @@
     Longname: Pictures & Words (A&E).rom
     sha1: 5b25d93259a358f2064adc44f6382c91c9394861
     Name: Pict&Wor.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 128kB
@@ -19596,7 +19644,7 @@
     Longname: Projectiles (A).rom
     sha1: 17bbed846045f3325b1d34c686d35889f9efe157
     Name: Projecti.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19620,7 +19668,7 @@
     Longname: Proverbs (A).rom
     sha1: b186d547c0b79612bffb63dd49c3230f156c2bbe
     Name: Proverbs.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19668,7 +19716,7 @@
     Longname: Rainbow Stories (A).rom
     sha1: 108abde71e59839fb4d1e59c3a0cb2366220030c
     Name: RainbwST.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19692,7 +19740,7 @@
     Longname: Sakhr Lughu (Sakhr Logo) (A&E) [v1.00].rom
     sha1: a2901318f8216ccd2f4d08b0f272e1bf90ab197a
     Name: SakhrLog.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 64kB
@@ -19764,7 +19812,7 @@
     Longname: Sebaweh 1 (A).rom
     sha1: d0cd48404eec5975d0f284c46b3cd710236b87a5
     Name: Sebaweh1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19788,7 +19836,7 @@
     Longname: Sebaweh 2 (A).rom
     sha1: bbabc8ce1e39d4405dee587737e4dea24477c24d
     Name: Sebaweh2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19812,7 +19860,7 @@
     Longname: Secret Word (A&E).rom
     sha1: fdc3cc10b4821ea5169c817fcbd6e99fac464feb
     Name: SecretWo.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab and English
     Country: Kuwait
     Size: 32kB
@@ -19836,7 +19884,7 @@
     Longname: Sets (A-E).rom
     sha1: 7c811f87fc2c61b5622b75ffa37fa43b9f2a1503
     Name: Sets.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arabic / English
     Country: Kuwait
     Size: 32kB
@@ -19860,7 +19908,7 @@
     Longname: Sets (A-E) [a].rom
     sha1: 98f3eec607cae92e01c1310f25d980f2859b88cd
     Name: Sets-A.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: Kuwait
     Size: 32kB
@@ -19884,7 +19932,7 @@
     Longname: Shater Hassan (A).rom
     sha1: a4d4a6fc06739c543ff0767a1006ae2860d9b635
     Name: ShaterHa.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -19908,7 +19956,7 @@
     Longname: Sidq Aw La Tasdaq (Believe Or Not) (A).rom
     sha1: 1071420c786d882187ec277a47d486a92071231f
     Name: BelieveO.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 64kB
@@ -20004,7 +20052,7 @@
     Longname: Space Arithmetic (A-E-J).rom
     sha1: a25f9b813c4488c73c5f54055748b4dbb057c2e9
     Name: SpcArith.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English / Japanese
     Country: Kuwait
     Size: 32kB
@@ -20076,7 +20124,7 @@
     Longname: Tarikh Alearab (Arab History) (A) [v1.23].rom
     sha1: 80a2c10a28307efc765260ff4d422c58b65921fe
     Name: ArabHisA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -20100,7 +20148,7 @@
     Longname: Tarikh Alearab (Arab History) (A).rom
     sha1: 3ce544aaefdb8a916a1639afea774eb75ec4702f
     Name: ArabHist.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -20316,7 +20364,7 @@
     Longname: The Energy (A).rom
     sha1: b153dc92b9ff967cb8829182dfe2ae40c210aefb
     Name: Energy.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -20340,7 +20388,7 @@
     Longname: The Energy (A) [a].rom
     sha1: ad2e1e957ee469d51faa07a99a20dbf00003dacf
     Name: Energy-A.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -20364,7 +20412,7 @@
     Longname: The Zoo (A-E-F).rom
     sha1: ad3d8fc2201a245e352875918e421b42764e4148
     Name: The_Zoo.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab / English / French
     Country: Kuwait
     Size: 128kB
@@ -20700,7 +20748,7 @@
     Longname: Young Explorer (A).rom
     sha1: e4f7a94d0cb43f56f73d54c22364e91434363945
     Name: YoungExp.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 64kB
@@ -21508,7 +21556,7 @@
     Longname: Alhisab (Compte) (A).rom
     sha1: 017d0dac6646331ff4692f2f6b9a513c7a021ce9
     Name: MECompte.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21532,7 +21580,7 @@
     Longname: Alkahraba' (Electricity) (A).rom
     sha1: bfb79527fc1229fd6eafbec797109f22650acd6b
     Name: MEElect.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21580,7 +21628,7 @@
     Longname: Almisaha (Geometry) (A).rom
     sha1: dcfb1e044bf3cfac22077848c0756ea30b5468bc
     Name: MEGeome.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21604,7 +21652,7 @@
     Longname: Master In English Intermediate Second Grade Part 1-2 (A).rom
     sha1: 299936bc4014e949186e513b05b1cf5c99487a6f
     Name: EngS1-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21628,7 +21676,7 @@
     Longname: Master In English Intermediate Second Grade Part 2-2 (A).rom
     sha1: c44f8728ce96429bf28ffe20fc2c1ec794592604
     Name: EngS2-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21652,7 +21700,7 @@
     Longname: Perfect Arabic Grammer For First Preparatory Class Part 1-1 (A).rom
     sha1: 058ecd437a1d633972646f883604cca57e79f0a5
     Name: GramP1-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21676,7 +21724,7 @@
     Longname: Perfect Arabic Grammer For First Preparatory Class Part 1-2 (A).rom
     sha1: dfd09b46fc5716b5b2c96c07c03e9df06dc6d635
     Name: GramP1-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21700,7 +21748,7 @@
     Longname: Perfect Arabic Grammer For Second Preparatory Class Part 1-1 (A).rom
     sha1: 4269b4e9e6cd863bb233ae82999b13b940ed88df
     Name: GramS1-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21724,7 +21772,7 @@
     Longname: Perfect Math For First Preparatory Class Part 1-2 (A).rom
     sha1: 6ddd87bbaee7b22d1715e6a09cdd91e06e2ad2dc
     Name: MathF1-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21748,7 +21796,7 @@
     Longname: Perfect Math For Second Preparatory Class Part 2-1 (A).rom
     sha1: 8b816f328958ba87388aa5a9abbd895f9c48e7ca
     Name: MathS2-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21772,7 +21820,7 @@
     Longname: Perfect Math For Second Preparatory Class Part 2-2 (A).rom
     sha1: d5028fedcc9f990357e222b62c5c0fccc22698a6
     Name: MathS2-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21796,7 +21844,7 @@
     Longname: Perfect Math For Third Preparatory Class Part 3-1 (A).rom
     sha1: 190a24223d1544f61fa627f4d6e27cde48d64196
     Name: MathT3-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21820,7 +21868,7 @@
     Longname: Perfect Math For Third Preparatory Class Part 3-2 (A).rom
     sha1: 36f3efea2f462ef890b4d0c4758092d9fd0d36f5
     Name: MathT3-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21844,7 +21892,7 @@
     Longname: Perfect Science For First Preparatory Class Part 1-1 (A).rom
     sha1: 18b50a5dc9bba07a7bcc9982a21b799289e72859
     Name: Scien1-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21868,7 +21916,7 @@
     Longname: Perfect Science For Second Preparatory Class Part 2-1 (A).rom
     sha1: 000a04fceebba105b6fab2ffe9e09d7b521a63af
     Name: Scien2-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21892,7 +21940,7 @@
     Longname: Perfect Science For Second Preparatory Class Part 2-2 (A).rom
     sha1: 610c043c147bca0ca1a4bebc6f3cf88ec9def9c8
     Name: Scien2-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21916,7 +21964,7 @@
     Longname: Perfect Science For Second Preparatory Class Part 2-3 (A).rom
     sha1: 11adeff026e7223a67709d0bb4264e340e18c920
     Name: Scien2-3.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21940,7 +21988,7 @@
     Longname: Perfect Science For Third Preparatory Class Part 3-1 (A).rom
     sha1: ac42d6a4891109690bcd0235decfc701eef754cb
     Name: Scien3-1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21964,7 +22012,7 @@
     Longname: Perfect Science For Third Preparatory Class Part 3-2 (A).rom
     sha1: ad72beb1ad8841accbbc91d04caec3f325828231
     Name: Scien3-2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -21988,7 +22036,7 @@
     Longname: Aljadwal Aldawriu (Periodic Table) (A).rom
     sha1: 3c3707ba58fd287bc7ac4b485ea65cd7132f2464
     Name: MEPeriod.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -22012,7 +22060,7 @@
     Longname: Physics Hassan Ibn Al-Haytham (A).rom
     sha1: e8ce88ccc904d535a8d7ec3cb48bc684364c1855
     Name: PhysiHBA.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -22036,7 +22084,7 @@
     Longname: Alkumbiutar (The Computer) (A).rom
     sha1: f6ddb513448d10fdb19a921ffb8bc43e7388491d
     Name: TheCompu.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -22060,7 +22108,7 @@
     Longname: Tom & Jerry English (A).rom
     sha1: d2cd548bed4aadd2cacd486481e18fb3568d74b6
     Name: T&JENGLI.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -22084,7 +22132,7 @@
     Longname: Tom & Jerry Math 1 (A).rom
     sha1: 83f35ae22f72544edc345302621563d101a4715a
     Name: T&JMath1.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -22108,7 +22156,7 @@
     Longname: Tom & Jerry Math 2 (A).rom
     sha1: 00d758adee7a07ded4381c823da72ced0eae98c4
     Name: T&JMath2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Arab
     Country: Kuwait
     Size: 32kB
@@ -29976,7 +30024,7 @@
     Longname: Basic Nyuumon I Basic for beginners (J).rom
     sha1: 9f0cbb1191235ecca4985de976a0993744b57930
     Name: BASICNyu.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 32kB
@@ -30000,7 +30048,7 @@
     Longname: Basic Nyuumon II Programming Master (J).rom
     sha1: 01cf858888f5a0d3aee08f42a66c515ab0d06400
     Name: BASICNy2.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 32kB
@@ -30096,7 +30144,7 @@
     Longname: Computer Nyuumon Computer Master (J).rom
     sha1: 1fc9d3b54a617e57fd6ed10f2ce3c01456710e37
     Name: CompNyuu.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 32kB
@@ -36822,7 +36870,7 @@
     Longname: Karamaru Chindouchuu (J).rom
     sha1: 223337db25c942ece732214aba5dd624b574e9c4
     Name: Karamaru.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 16kB
@@ -37110,7 +37158,7 @@
     Longname: Oyoide Tango (J) [overdumped].rom
     sha1: 3f4dd4b459f12306fe36864344af0b35f8c5d3b4
     Name: OyoideTa Overdumped.ROM
-    Genre: Educative
+    Genre: Educational
     Language: Japanese
     Country: Japan
     Size: 16kB
@@ -71019,6 +71067,30 @@
     Original Dump: 
     Remark: 
 
+  - English title: Dr. Hello
+    Original title: 닥터 헬로
+    Longname: Dr. Hello.rom
+    sha1: 872937bc37540b3152e050e3a318a660d8f9d7c9
+    Name: DrHello.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Korea
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: SiS Co.
+    Developer: SiS Co.
+    Release: 1991
+    Original Dump: Yes
+    Remark: 
+
   - English title: Bank Panic
     Original title: 은행 강도
     Longname: Eunhaeng Gangdo - Bank Panic (K).rom
@@ -78084,7 +78156,7 @@
     Language: Korean
     Country: Korea
     Size: 512kB
-    Rom mapper: Specific mapper
+    Rom mapper: Super Game 25 specific
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -95560,6 +95632,30 @@
     Original Dump: 
     Remark: Also released on tape by Colpax. 
 
+  - English title: Farm Kit
+    Original title: Farm Kit
+    Longname: Farm Kit.rom
+    sha1: e6b71484d5ab578fd3695917fce3c1e805a5b536
+    Name: FarmKit.ROM
+    Genre: Kids
+    Language: English
+    Country: Spain
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sony
+    Developer: Joyce Hakkanson Associates
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
   - English title: Gang Man
     Original title: Gang Man
     Longname: Gang Man (Sony).rom
@@ -97312,9 +97408,9 @@
 
   - English title: Dr. Hello
     Original title: 닥터 헬로
-    Longname: Dr. Hello.rom
+    Longname: Dr. Hello [converted by gdx].rom
     sha1: f5bb3c6d41245271faa3c3f54e3948787e181a5e
-    Name: Dr_Hello.ROM
+    Name: DrHellSG.ROM
     Genre: Puzzle
     Language: English
     Country: Japan
@@ -97326,13 +97422,13 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2 (at the same time)
     Signature: No
-    Publisher: SiS Co. (Converted version released by The MSX Files) 
+    Publisher: SiS Co. 
     Developer: SIS Co.
     Release: 2008
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: SG-1000 converted to MSX-DOS format by SLotman in 2008 and converted to ROM by gdx.
 
   - English title: Orguss
     Original title: オーガス
@@ -110649,7 +110745,7 @@
     Longname: Je Compte!.rom
     sha1: 55cb733a88a3b8e4827a093e0722158d86c699cf
     Name: JeCompte.ROM
-    Genre: Educative
+    Genre: Educational
     Language: English
     Country: France
     Size: Action
@@ -117380,7 +117476,7 @@
     Data saving: Floppy disk, Tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aackosoft
     Developer: The Bytebusters
@@ -117395,7 +117491,7 @@
     Name: ASMCocar.ROM
     Genre: Monitor
     Language: English
-    Country: 
+    Country: Brazil
     Size: 16kB
     Rom mapper: None
     Machine: MSX1
@@ -117404,7 +117500,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: MSX Informatica
@@ -117413,175 +117509,271 @@
     Remark: 
 
   - English title: Basic Compiler
-    Original title: Basic Compiler
-    Longname: Basic Compiler.rom
+    Original title: ベーシックコンパイラ
+    Longname: Basic Compiler [v1.0].rom
     sha1: 3060f68327e518f5b65c8ceca9dac35e26288340
     Name: BasicCom.ROM
-    Genre: 
+    Genre: Programming
     Language: English
-    Country: 
+    Country: Japan
     Size: 16kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Heart Soft
+    Developer: Heart Soft
+    Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Use CALL G to compile and CALL B to run it. Compiled code cannot be saved.
 
   - English title: Basic Compiler
-    Original title: Basic Compiler
-    Longname: Basic Compiler [a].rom
+    Original title: ベーシックコンパイラ
+    Longname: Basic Compiler [v1.0 with some texts fixed].rom
     sha1: 5308b2606249aff1b5176ec148fcb63f3a43c34f
-    Name: BasicCoA.ROM
-    Genre: 
+    Name: BasicCtf.ROM
+    Genre: Basic Compiler
     Language: English
-    Country: 
+    Country: Japan
     Size: 16kB
     Rom mapper: None
     Machine: MSX1
-    RAM: kB
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Publisher: Heart Soft
+    Developer: Heart Soft
+    Release: 1985
+    Original Dump: No
+    Remark: Use CALL G to compile and CALL B to run it. Compiled code cannot be saved.
 
   - English title: Cheese
-    Original title: Cheese
+    Original title: チーズ
     Longname: Cheese [Mouse].rom
     sha1: dd5c2d2d5f0947159b7615f647fb8121f3b037a2
     Name: Cheese.ROM
-    Genre: Graohic Editor
+    Genre: Graphic Editor in screen 2
     Language: English
-    Country: 
+    Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Mouse
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: NEOS, Philips Germany, Canon
+    Developer: NEOS
+    Release: 1984
+    Original Dump: Yes
     Remark: 
 
   - English title: Cheese 2
-    Original title: Cheese 2
-    Longname: Cheese 2 [MSX2].rom
+    Original title: チーズ・ツー
+    Longname: Cheese 2.rom
     sha1: 930b4896c1590ebbb74d330447ec36e3feb5cab6
     Name: Cheese2.ROM
-    Genre: 
+    Genre: Graphic editor in screen 7
     Language: English
-    Country: 
+    Country: Japan
     Size: 32kB
     Rom mapper: None
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard
+    VRAM: 128kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard, mouse
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: NEOS, Sanno
+    Developer: NEOS
+    Release: 1985
+    Original Dump: Yes
     Remark: 
 
   - English title: Dr. Copy
     Original title: Dr. Copy
-    Longname: Dr. Copy (E).rom
-    sha1: 3d65748a31e456fc1be8221900afc55b2ec62c34
-    Name: Dr_CopyE.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 16kB
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Dr. Copy
-    Original title: Dr. Copy
-    Longname: Dr. Copy (J).rom
+    Longname: Dr. Copy (J) [v2.0] (Emile).rom
     sha1: 6e6b8cdc55713eabc724f3ec9624e9884254ab33
-    Name: Dr_CopyJ.ROM
-    Genre: 
+    Name: DrCopy2J.ROM
+    Genre: Rom cartridge dumper
     Language: Japanese
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Emile
+    Developer: Ai Tsu
+    Release: 1987
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Dr. Copy
+    Original title: Dr. Copy
+    Longname: Dr. Copy (Translated) [v2.0] (Emile).rom
+    sha1: 3d65748a31e456fc1be8221900afc55b2ec62c34
+    Name: Dr_Copy2.ROM
+    Genre: Rom cartridge dumper
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Emile
+    Developer: Ai Tsu
+    Release: 1987
+    Original Dump: No
+    Remark: 
+
+  - English title: Dr. Copy
+    Original title: Dr. Copy
+    Longname: Dr. Copy (Partialy translated) [v2.0] (Emile).rom
+    sha1: e660e8b0dd031c92d812f9d096b1311f2e234394
+    Name: DrCop2Pt.ROM
+    Genre: Rom cartridge dumper
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Emile
+    Developer: Ai Tsu
+    Release: 1987
+    Original Dump: No
+    Remark: 
+
+  - English title: Junior High School Compulsory - English Grammar - Junior high school 1st year
+    Original title: 中学必修 英文法 中学1年
+    Longname: Chuugaku Hisshuu Eibunpou 1 Nen (J).rom
+    sha1: 20ce189d670c0fe5f2a945d73107df7d83070ff7
+    Name: Eibunpo1.ROM
+    Genre: Educational
+    Language: Japanese with Japanese font
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Stratford Computer Center, Toshiba
+    Developer: Stratford Computer Center
+    Release: 1984
     Original Dump: 
     Remark: 
 
-  - English title: Family Automation Language Community For MSX
-    Original title: Family Automation Language Community For MSX
-    Longname: Family Automation Language Community For MSX.rom
-    sha1: 216243b4bcb9070f9e86c3f04edaaa493e4b459c
-    Name: FALC4MSX.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 32kB
+  - English title: Computer painting
+    Original title: 描きくけコン
+    Longname: Ekaki-kukekon (J).rom
+    sha1: 632ef250c76b222158ba90dfc68b9e004dbafe3a
+    Name: Ekakiku.ROM
+    Genre: Graphic Editor
+    Language: Japanese
+    Country: Japan
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
+    Publisher: Casio
+    Developer: Casio
     Release: 
+    Original Dump: 
+    Remark: Press F1.
+
+  - English title: Fuzix
+    Original title: Fuzix
+    Longname: Fuzix [2017-07-11] [ASCII8 mapper].rom
+    sha1: eeae28cf6d1f0c1c378b2416cfea14d54cdda8be
+    Name: FuzixJ17.ROM
+    Genre: Operating system kernel
+    Language: English
+    Country: Netherlands
+    Size: 64kB
+    Rom mapper: ASCII8
+    Machine: MSX2 with floppy disk drive
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Floppy disk
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Geijoenr
+    Developer: Alan Cox, Geijoenr (MSX port)
+    Release: 2017-07-11
+    Original Dump: 
+    Remark: 
+
+  - English title: Fuzix
+    Original title: Fuzix
+    Longname: Fuzix [2021-07-18] [ASCII8 mapper].rom
+    sha1: e357a5d1eebe4b9f41f692dd10ecd08b06488d2b
+    Name: FuzixJ21.ROM
+    Genre: Operating system kernel
+    Language: English
+    Country: Netherlands
+    Size: 64kB
+    Rom mapper: ASCII8
+    Machine: MSX2 with floppy disk drive
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Floppy disk
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Geijoenr
+    Developer: Alan Cox, Geijoenr (MSX port)
+    Release: 2021-07-18
     Original Dump: 
     Remark: 
 
   - English title: Garakuta
-    Original title: Garakuta
+    Original title: 画楽多
     Longname: Garakuta.rom
     sha1: f4da2be2ee712ba2e7cccf56fcd15483fe0023ed
     Name: Garakuta.ROM
@@ -117596,61 +117788,61 @@
     Data saving: Floppy disk
     Control: Mouse
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Wachi Electronics Co., Ltd.
+    Developer: Southern Create Co., Ltd.
+    Release: 1988
+    Original Dump: Yes
     Remark: 
 
   - English title: GraCo
     Original title: GraCo
-    Longname: GraCo (BiFi Productions & Metal Soft).rom
+    Longname: GraCo (BiFi & Metal Soft).rom
     sha1: 3e0360a4f235522498682a714f523039a5ab6c7c
-    Name: GraCo.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Graphic Master
-    Original title: GraCo
-    Longname: Graphic Master Lab (Redi Universoft).rom
-    sha1: 7eff6f92af861b50a13ee9062915eb3c078a535a
     Name: GraCo.ROM
     Genre: Graphic editor
     Language: English
-    Country: Japanese
+    Country: 
+    Size: 16kB without mirror
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Bifi & Metal Soft (Vampier)
+    Developer: Bifi & Metal Soft (Vampier)
+    Release: 2009
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Graphic Master Lab
+    Original title: Graphic Master Lab
+    Longname: Graphic Master Lab (Redi Universoft).rom
+    sha1: 7eff6f92af861b50a13ee9062915eb3c078a535a
+    Name: GML-RU.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Brazil
     Size: 16kB
     Rom mapper: None
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Floppy disk or tape
-    Control: Keyboard
+    Data saving: Floppy disk, tape
+    Control: Keyboard, track ball, graphic tablet
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: Redi Universoft Info LTDA.
+    Publisher: Redi Universoft Info LTDA.
+    Developer: HAL Laboratory & Sony
     Release: 
-    Original Dump: 
-    Remark: 
+    Original Dump: Yes
+    Remark: Supports the RS-232C to send a picture to another MSX and Print Lab to print a picture.
 
   - English title: GrooveSX Live!
     Original title: GrooveSX Live!
@@ -117659,140 +117851,44 @@
     Name: GrooveSX.ROM
     Genre: 
     Language: English
-    Country: 
+    Country: Spain
     Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Junior high school compulsory - English grammar 1
-    Original title: Chugaku Hisshu - Eibunpou 1
-    Longname: Chugaku Hisshu Eibunpou 1 (J).rom
-    sha1: 20ce189d670c0fe5f2a945d73107df7d83070ff7
-    Name: Eibunpo1.ROM
-    Genre: Educative
-    Language: Japanese with Japanese font
-    Country: Japan
-    Size: 32kB
     Rom mapper: None
     Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Picture
-    Original title: Ekaki-kukekon
-    Longname: Ekaki-kukekon (J).rom
-    sha1: 632ef250c76b222158ba90dfc68b9e004dbafe3a
-    Name: Ekakiku.ROM
-    Genre: Picture drawing
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
     RAM: kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Sound: PSG, second PSG and SCC
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
-    Release: 
+    Release: 2011
     Original Dump: 
-    Remark: 
-
-  - English title: Home Calc
-    Original title: Home Calc
-    Longname: Home Calc (J).rom
-    sha1: f29cac37c5001ddc752ff4a0b9cc51a965906da8
-    Name: HomeCalc.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
+    Remark: Missing ROM!
 
   - English title: Joytelop
-    Original title: Joytelop
+    Original title: ジョイテロップ
     Longname: Joytelop (J).rom
     sha1: 5ceedd2ae401febb79c1f6a64ddef4b2e1790674
     Name: Joytelop.ROM
     Genre: 
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: MSX Designer
-    Original title: MSX Designer
-    Longname: MSX Designer.rom
-    sha1: cb754aed85b3e97a7d3c5894310df7ca18f89f41
-    Name: Designer.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Victor
+    Developer: Victor
+    Release: 1985
     Original Dump: 
     Remark: 
 
@@ -117812,31 +117908,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: MSX Home Office - Spreadsheet
-    Original title: MSX Home Office - Spreadsheet
-    Longname: MSX Home Office Spreadsheet (Philips).rom
-    sha1: 33c62e6f7478be369580a2d985ff57667f13cf84
-    Name: Spreadsh.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117849,10 +117921,10 @@
     Longname: MSX-Logo (N).rom
     sha1: 47663f883f98ab9ddaa0bf0c2831c567919f56f1
     Name: MSX-LogN.ROM
-    Genre: 
+    Genre: Programming
     Language: English
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -117860,7 +117932,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117873,10 +117945,10 @@
     Longname: MSX-Logo (S).rom
     sha1: e45ddc5bf1a1e63756d11fb43fc50276ca35cab0
     Name: MSX-LogS.ROM
-    Genre: 
+    Genre: Programming
     Language: Spanish
     Country: 
-    Size: 
+    Size: 32kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -117884,7 +117956,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117900,7 +117972,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -117908,7 +117980,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117924,7 +117996,7 @@
     Genre: 
     Language: French
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -117932,7 +118004,31 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Multitext
+    Original title: Multitext
+    Longname: Multitext (F) [overdumped].rom
+    sha1: e60baba36be59705f930b32b70fa6ffcffd83cc9
+    Name: Multitex.ROM
+    Genre: 
+    Language: French
+    Country: 
+    Size: 16512 bytes
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117948,7 +118044,7 @@
     Genre: 
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -117956,7 +118052,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -117980,7 +118076,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Stratford Computer Center Corporation
     Developer: Stratford Computer Center Corporation
@@ -118004,7 +118100,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Walther Miller
     Developer: Walther Miller
@@ -118028,7 +118124,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118052,7 +118148,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118068,7 +118164,7 @@
     Genre: 
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118076,12 +118172,36 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
     Release: 
     Original Dump: 
+    Remark: Press SHIFT at boot on MSX with disk.
+
+  - English title: Picture Painter
+    Original title: Picture Painter
+    Longname: Picture Painter (Toshiba).rom
+    sha1: 8605ffcb79fba22091276e1886106af708251917
+    Name: PicPaint.ROM
+    Genre: Graphic Editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB / 32kB with Floppy disk drive 
+    VRAM: 16kB
+    Data saving: Floppy disk drive, tape
+    Control: Keyboard, graphic tablet, joystick
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Canon, Toshiba
+    Developer: Tim Feldman (copyright ASCII & Island Graphics)
+    Release: 1984
+    Original Dump: No
     Remark: 
 
   - English title: PSG MusiWriter
@@ -118092,7 +118212,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118100,7 +118220,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118116,7 +118236,7 @@
     Genre: 
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118124,7 +118244,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118137,10 +118257,10 @@
     Longname: Simple ASM 1.0.rom
     sha1: 4937a8e35072012a980f85ecfc60604d9d900244
     Name: SiASM100.ROM
-    Genre: 
+    Genre: Programming
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118148,7 +118268,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118161,10 +118281,10 @@
     Longname: Super Monitor (J) [v1.1].rom
     sha1: 55f30c8b7118870802d00db860bc1945f18a42c0
     Name: SMoni110.ROM
-    Genre: 
+    Genre: Programming
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118172,7 +118292,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118185,10 +118305,10 @@
     Longname: Super Monitor (J) [v1.2].rom
     sha1: 35f13b5a32c64b21517f0c4009f264067338912e
     Name: SMoni120.ROM
-    Genre: 
+    Genre: Programming
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 8kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118196,7 +118316,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118209,10 +118329,10 @@
     Longname: Super Synth.rom
     sha1: 830efa0b25e1cf34d5f55d08cb80709d0a2c82ec
     Name: SupSynth.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118220,7 +118340,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118233,10 +118353,10 @@
     Longname: Super Synth [a].rom
     sha1: a2f8f8f9f46262342eee0a1df7c6871008a3a189
     Name: SupSyntA.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118244,7 +118364,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118257,18 +118377,18 @@
     Longname: Synthe Saurus [v1.1].rom
     sha1: cf088b4eefe7f426e438dd2fe7a3433140abba52
     Name: SyntheSa.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
+    Size: 64kB
+    Rom mapper: ASCII8
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118281,10 +118401,10 @@
     Longname: The Designer's Pencil.rom
     sha1: 4b4a58a310a1138b95192d7fe0881bbdc45601d4
     Name: TDPencil.ROM
-    Genre: 
+    Genre: Graphic editor
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118292,55 +118412,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: The Links
-    Original title: The Links
-    Longname: The Links (J) [NGA II].rom
-    sha1: 88f3a72513b04459212289797942c4d76f495a05
-    Name: TL-NGA2.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: The Links
-    Original title: The Links
-    Longname: The Links (J) [NGA II-a].rom
-    sha1: 5b20c3e0b9f1f29149039d5246be881a6b0dfdb1
-    Name: TL-NGA2A.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118353,10 +118425,10 @@
     Longname: The Links (J).rom
     sha1: bc76a04970c547b7c080e747d393d13c87e82e7d
     Name: The Links.ROM
-    Genre: 
+    Genre: Network
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118364,7 +118436,55 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: The Links
+    Original title: The Links
+    Longname: The Links (J) [NGA II].rom
+    sha1: 88f3a72513b04459212289797942c4d76f495a05
+    Name: TL-NGA2.ROM
+    Genre: Network
+    Language: Japanese
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: The Links
+    Original title: The Links
+    Longname: The Links (J) [NGA II-a].rom
+    sha1: 5b20c3e0b9f1f29149039d5246be881a6b0dfdb1
+    Name: TL-NGA2A.ROM
+    Genre: Network
+    Language: Japanese
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118377,10 +118497,10 @@
     Longname: Tiny BASIC (Cobinee).rom
     sha1: da614fcf2d00163770df8cfc9964af565f166b26
     Name: TinBasic.ROM
-    Genre: 
+    Genre: Programming
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
     Machine: MSX
     RAM: kB
@@ -118388,10 +118508,10 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
+    Publisher: Cobinee
+    Developer: Cobinee
     Release: 
     Original Dump: 
     Remark: 
@@ -118401,18 +118521,18 @@
     Longname: Zen (E).rom
     sha1: 59679b1ed40416f4c8d65085e5473c621bea6ac4
     Name: Zen.ROM
-    Genre: 
+    Genre: Programming
     Language: English
     Country: 
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
+    Machine: MSX1
     RAM: kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -118444,7 +118564,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118468,7 +118588,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118492,7 +118612,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118516,7 +118636,7 @@
     Data saving: None
     Control: Keyboard
     Sound: None
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118540,7 +118660,7 @@
     Data saving: None
     Control: Keyboard
     Sound: None
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118564,7 +118684,7 @@
     Data saving: None
     Control: Keyboard
     Sound: None
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118588,7 +118708,7 @@
     Data saving: Floppy disk, Quick-disk, tape, SRAM in the cartrige
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118612,7 +118732,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118636,7 +118756,7 @@
     Data saving: Floppy disk
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118660,7 +118780,7 @@
     Data saving: Floppy disk
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Alamiah
     Developer: Al Alamiah
@@ -118692,7 +118812,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Aqsa Barq
     Developer: Al Aqsa Barq
@@ -118716,7 +118836,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Al Aqsa Barq
     Developer: Al Aqsa Barq
@@ -118733,122 +118853,146 @@
 
   Files:
   - English title: MSX-Aid
-    Original title: MSX-Aid
+    Original title: エムエスエックス エイド
     Longname: MSX-Aid.rom
     sha1: d4edb2af4170fd4069960ad61d3f664462bef568
     Name: MSX-Aid.ROM
-    Genre: Programing
+    Genre: Programming
+    Language: Japanese
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Floppy disk
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: ASCII Corporation
+    Developer: Nobuhiko Segi
+    Release: 
+    Original Dump: 
+    Remark: _HELP
+
+  - English title: MSX Basic-Kun
+    Original title: MSXべーしっ君
+    Longname: MSX Basic-Kun.rom
+    sha1: 181bf58da7184e128cd419da3109b93344a543cf
+    Name: BasicKun.ROM
+    Genre: Programming
     Language: English
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: MSX Basic-Kun
-    Original title: MSX Basic-Kun
-    Longname: MSX Basic-Kun.rom
-    sha1: 181bf58da7184e128cd419da3109b93344a543cf
-    Name: BasicKun.ROM
-    Genre: Programing
+    Original title: MSXべーしっ君
+    Longname: MSX Basic-Kun [a].rom
+    sha1: b25b7fda37ba2a02362a45b2acdb2103f9a6e323
+    Name: BasicKuA.ROM
+    Genre: Programming
     Language: English
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: MSX Basic-Kun Plus
-    Original title: MSX Basic-Kun Plus
+    Original title: MSXべーしっ君ぷらす
     Longname: MSX Basic-Kun Plus [v2.0].rom
     sha1: c279c3f41d5368761f9088157b80214d835a548c
     Name: BaKun200.ROM
-    Genre: Programing
+    Genre: Programming
     Language: English
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
+    Release: 1989
     Original Dump: 
     Remark: 
 
   - English title: MSX Basic-Kun Plus
-    Original title: MSX Basic-Kun Plus
+    Original title: MSXべーしっ君ぷらす
     Longname: MSX Basic-Kun Plus [v2.0-a].rom
     sha1: 0b68d6968f2ce736316be64c689573f0a461acf8
     Name: BKun200A.ROM
-    Genre: Programing
+    Genre: Programming
     Language: English
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
+    Release: 1989
     Original Dump: 
     Remark: 
 
   - English title: MSX Basic-Kun Plus
-    Original title: MSX Basic-Kun Plus
+    Original title: MSXべーしっ君ぷらす
     Longname: MSX Basic-Kun Plus [v2.1].rom
     sha1: ebd1f02fa4e5f165d756ab78864f882022ede844
     Name: BaKun201.ROM
-    Genre: Programing
+    Genre: Programming
     Language: English
     Country: Japan
     Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
+    Release: 1989
     Original Dump: 
     Remark: 
 
@@ -118857,52 +119001,52 @@
     Longname: MSX-DOS 2 [v2.20] [KonamiSCC mapper].rom
     sha1: bef1105206d19c19e3e201916b1b4e845e9cb376
     Name: DOS220SC.ROM
-    Genre: 
+    Genre: Disk Operating System
     Language: English
-    Country: 
-    Size: 
+    Country: Japan
+    Size: 64kB
     Rom mapper: KonamiSCC
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 64kB
+    Data saving: Disk
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation
     Release: 
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
   - English title: MSX-Plan
-    Original title: MSX-Plan
-    Longname: MSX-Plan.rom
+    Original title: エムエスエックスプラン
+    Longname: MSX-Plan [v1.00].rom
     sha1: 143868a3cf380a8787f0489d973e018e02b354f9
     Name: MSX-Plan.ROM
-    Genre: 
+    Genre: Spreadsheet
     Language: English
-    Country: 
+    Country: Japan
     Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
+    Machine: MSX1 / MSX2
+    RAM: 16kB
+    VRAM: 16kB / 64kB
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
+    Publisher: ASCII Corporation
     Developer: 
-    Release: 
+    Release: 1986
     Original Dump: 
-    Remark: 
+    Remark: Enter _MSXPLAN to run it.
 
   - English title: Japanese Word processor - MSX-Write
-    Original title: Nihongo Word processor - MSX-Write
-    Longname: Nihongo Word processor MSX-Write (J)
+    Original title: 日本語ワードプロセッサ - MSX-Write
+    Longname: Nihongo Word processor MSX-Write (J).rom
     sha1: 4180544158a57c99162269e33e4f2c77c9fce84e
     Name: MSXWrite.ROM
     Genre: Word processor
@@ -118911,21 +119055,21 @@
     Size: 512kB
     Rom mapper: ASCII8
     Machine: MSX1
-    RAM: 8kB
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: SRAM in the cartridge
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation, NHK Gakuen
+    Developer: ASCII Corporation
+    Release: 1986
     Original Dump: 
-    Remark: 
+    Remark: A standard Kanji-ROM is required when used from a DIY cartridge.
 
   - English title: Japanese Word processor - MSX-Write II
-    Original title: Nihongo Word processor - MSX-Write II
+    Original title: 日本語ワードプロセッサ - MSX-Write II
     Longname: Nihongo Word processor MSX-Write II (J) [MSX2].rom
     sha1: 9afdee40e7b243f99cc50dd1ad710ab0928dd820
     Name: MSXWrit2.ROM
@@ -118936,17 +119080,17 @@
     Rom mapper: ASCII8
     Machine: MSX2
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 128kB
     Data saving: 32kB SRAM in the cartridge
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: ASCII Corporation, Sony
+    Developer: ASCII Corporation
+    Release: 1988
     Original Dump: 
-    Remark: 
+    Remark: Enter _WRITE to run it. A standard Kanji-ROM 1st & 2nd level is required when used from a DIY cartridge.
 
 #
 ## Application Roms: HAL Laboratory ##
@@ -118956,53 +119100,77 @@
   Folder name: ~/Applis/HAL
 
   Files:
-  - English title: Animation Editor - Eddy II
-    Original title: Anime Editor - Eddy II
-    Longname: Anime Editor Eddy II.rom
+  - English title: Graphic Editor - Eddy II
+    Original title: グラフィックエディタ EDDY II
+    Longname: Graphic Editor Eddy II.rom
     sha1: 20f1883c45fc3c39ddf48a7de69b6ef588fac8fb
     Name: Eddy2.ROM
-    Genre: 
+    Genre: Graphic Editor
     Language: English
-    Country: 
-    Size: 
+    Country: Japan
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB or 32kB with Floppy disk drive
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
+    Publisher: HAL Laboratory
     Developer: 
     Release: 
     Original Dump: 
-    Remark: 
+    Remark: Press CTRL key during MSX start up then enter _EDDY2 to execute it.
 
-  - English title: Animation Editor - Eddy II
-    Original title: Anime Editor - Eddy II
-    Longname: Anime Editor Eddy II [a].rom
+  - English title: Graphic Editor - Eddy II
+    Original title: グラフィックエディタ EDDY II
+    Longname: Graphic Editor Eddy II [a].rom
     sha1: 28bf2354cdd70e30b682f40b734029ece44d70bd
     Name: Eddy2A.ROM
-    Genre: 
+    Genre: Graphic Editor
     Language: English
-    Country: 
-    Size: 
+    Country: Japan
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB or 32kB with Floppy disk drive
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
+    Publisher: HAL Laboratory
     Developer: 
-    Release: 
+    Release: 1984
     Original Dump: 
-    Remark: 
+    Remark: Press CTRL key during MSX start up then enter _EDDY2 to execute it.
+
+  - English title: Halnote
+    Original title: Halnote
+    Longname: Halnote (J) [v0.4].rom
+    sha1: 20a2e3d7966916f46eb26cc1aa226ec2d11646f9
+    Name: Halnote.ROM
+    Genre: Operating System
+    Language: Japanese
+    Country: Japan
+    Size: 1024kB
+    Rom mapper: None
+    Machine: Japanese MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: 16kB SRAM in the cartridge
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: HAL Laboratory
+    Developer: 
+    Release: 1987
+    Original Dump: 
+    Remark: ROM that contains the MSX-JE (512kB), Kanji-ROM level 1 & 2 (256kB) and Halnote software (256kB).
 
   - English title: Music Editor - Mue
     Original title: ミュージックエディタ "Mue"
@@ -119012,19 +119180,19 @@
     Genre: Music Editor
     Language: Japanese
     Country: Japan
-    Size: 
+    Size: 16kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Tape
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: HAL Laboratory
+    Developer: K.Ito & S.Iwata
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -119037,195 +119205,195 @@
 
   Files:
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer.rom
     sha1: 2feff37d593683ce1c7dfac33ed3207895e01a03
     Name: Synthesi.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: ShinSeSizer's PCM
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [a].rom
     sha1: 73a40e7d6da2bc8489297fd57b7b93b2aa5a6440
     Name: SynthesA.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: ShinSeSizer's PCM
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
     Original Dump: 
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [Covox].rom
     sha1: d14eb792c0db2dee15826846568655630541bd6c
     Name: SynthesC.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: Covox
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [Covox-a].rom
     sha1: eb0f764466f4670f54f146594e6d8e12f99c6c49
     Name: SyntheCA.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: Covox
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [MSX-Audio].rom
     sha1: d4d45a58bb31ab07595a3e06993f04382e05f532
     Name: SyntheMA.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: MSX-Audio
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [Music Module].rom
     sha1: 11429b42b31e014c313795fa107d156a3c840205
     Name: SyntheMM.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: Music Module
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [Music Module-a].rom
     sha1: 0410da2d802c520aab9438b58b183f87888b212f
     Name: SynthMMA.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: Music Module
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
   - English title: Konami's Synthesizer
-    Original title: ShinSeSizer
+    Original title: 新世SIZER
     Longname: ShinSeSizer - Konami's Synthesizer [Turbo R PCM].rom
     sha1: 557fc12cf71df8e6b671b65f189041c6480627ab
     Name: SyntheTR.ROM
-    Genre: 
+    Genre: Synthesizer
     Language: English
     Country: Japan
-    Size: 
+    Size: 32kB
     Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Machine: MSX1
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
     Sound: turbo R PCM
-    Player number: 1
+    Player number: None
     Signature: No
-    Publisher: ASCII
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Konami, Zemina
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
     Remark: 
 
 #
@@ -119252,7 +119420,7 @@
     Data saving: 
     Control: Keyboard
     Sound: 
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Nippon Electronics (NEOS)
     Developer: Nippon Electronics (NEOS)
@@ -119264,8 +119432,960 @@
 ## Application Roms: National / Panasonic ##
 #
 
-- Folder longname: ~/Application Roms/Panasonic
-  Folder name: ~/Applis/Pansonic
+- Folder longname: ~/Application Roms/National - Panasonic
+  Folder name: ~/Applis/National
+
+  Files:
+  - English title: Home Calc
+    Original title: Home Calc
+    Longname: Home Calc (J).rom
+    sha1: f29cac37c5001ddc752ff4a0b9cc51a965906da8
+    Name: HomeCalc.ROM
+    Genre: Spreadsheet
+    Language: Japanese
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: National
+    Developer: Matsushita Electric Industrial
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: Phrase Conversion Idiom Unit
+    Original title: 文節変換熟語ユニット
+    Longname: MSX Bunsetsu Henkan Jisho (J).rom
+    sha1: 8c7ae1a1720b1dae9af9904e638b868f56d905c2
+    Name: BHJisho.ROM
+    Genre: Word processor
+    Language: Japanese
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1 FS-4000
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG　
+    Player number: None
+    Signature: No
+    Publisher: National
+    Developer: Matsushita Electric Industrial
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+#
+## Application Roms: Philips ##
+#
+
+- Folder longname: ~/Application Roms/Philips
+  Folder name: ~/Applis/Philips
+
+  Files:
+  - English title: MSX Designer
+    Original title: MSX Designer
+    Longname: MSX Designer [1986-06-12].rom
+    sha1: cb754aed85b3e97a7d3c5894310df7ca18f89f41
+    Name: MSXDes06.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Netherlands
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Floppy disk
+    Control: Keyboard, joystick, mouse
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: A.Koene
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: MSX Designer
+    Original title: MSX Designer
+    Longname: MSX Designer [1986-08-13].rom
+    sha1: 5df95d033ae70b107697b69470126ce1b7ae9eb5
+    Name: MSXDes08.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Netherlands
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Floppy disk
+    Control: Keyboard, joystick, mouse
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: A.Koene
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: MSX Designer
+    Original title: MSX Designer
+    Longname: MSX Designer [1986-08-13] [_DESIGNER].rom
+    sha1: e20ca928323ed25eee18ec908e18c32d55bc9ae1
+    Name: MSXDe08A.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Netherlands
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Floppy disk
+    Control: Keyboard, joystick, mouse
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: A.Koene
+    Release: 1986
+    Original Dump: 
+    Remark: Enter _DESIGNER to run it.
+
+  - English title: MSX Home Office - Spreadsheet
+    Original title: MSX Home Office - Spreadsheet
+    Longname: MSX Home Office Spreadsheet (Philips).rom
+    sha1: 33c62e6f7478be369580a2d985ff57667f13cf84
+    Name: MSX-HOS.ROM
+    Genre: Spreadsheet
+    Language: English
+    Country: Netherlands
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: Computer Mates
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: MSX Home Office Spreadsheet
+    Original title: MSX Home Office Spreadsheet
+    Longname: MSX Home Office Spreadsheet [a] (Philips).rom
+    sha1: 5df95d033ae70b107697b69470126ce1b7ae9eb5
+    Name: MSX-HOSA.ROM
+    Genre: Spreadsheet
+    Language: English
+    Country: Netherlands
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: Computer Mates
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+#
+## Application Roms: Sony ##
+#
+
+- Folder longname: ~/Application Roms/Sony
+  Folder name: ~/Applis/Sony
+
+  Files:
+  - English title: FALC - Family Automation Language Community
+    Original title: ファルク
+    Longname: FALC Family Automation Language Community.rom
+    sha1: 216243b4bcb9070f9e86c3f04edaaa493e4b459c
+    Name: FALC.ROM
+    Genre: Spreadsheet
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: Sord Computer Corporation
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: Graphic Master Lab
+    Original title: グラフィックマスターラボ
+    Longname: Graphic Master Lab [JP].rom
+    sha1: 1ee04a1b1165ca7762e6eb2ba47bce917d824b65
+    Name: GML-JP.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard / track ball / graphic tablet
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: HAL Laboratory & Sony
+    Release: 1985
+    Original Dump: 
+    Remark: Supports the RS-232C to send a picture to another MSX and Print Lab to print a picture.
+
+  - English title: Graphic Master Lab
+    Original title: グラフィックマスターラボ
+    Longname: Graphic Master Lab [JP-a].rom
+    sha1: 64e37a5a65d74db75f6d007b33777057a9aa29e7
+    Name: GML-JPA.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard / track ball / graphic tablet
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: HAL Laboratory & Sony
+    Release: 1985
+    Original Dump: 
+    Remark: Supports the RS-232C to send a picture to another MSX and Print Lab to print a picture.
+
+  - English title: Home Writer
+    Original title: パソコンタイプライター
+    Longname: Home Writer.rom
+    sha1: cc06d65a9aba634e3ad75675b960140932506ffe
+    Name: HomeWrit.ROM
+    Genre: Word processor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: Sony
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Music studio G7
+    Original title: ミュージックスタジオG7
+    Longname: Music studio G7.rom
+    sha1: 8c06d9e1e188431c13721af965faa7391140af2e
+    Name: MusicG7.ROM
+    Genre: Music editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: Sony
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: Music studio G7
+    Original title: ミュージックスタジオG7
+    Longname: Music Studio G7 [a].rom
+    sha1: 5fc91f65b8eb025fc6abf2014ba1c941cacea519
+    Name: MusicG7A.ROM
+    Genre: Music editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: Sony
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+#
+## Application Roms: Yamaha ##
+#
+
+- Folder longname: ~/Application Roms/Yamaha
+  Folder name: ~/Applis/Yamaha
+
+  Files:
+  - English title: DX7 Voicing Program
+    Original title: DX7音色プログラム
+    Longname: DX7 Voicing Program.rom
+    sha1: c20def84efe71efdf91df3100919d151b2e7bdc1
+    Name: DX7VoicA.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit + DX7
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: DX7 Voicing Program
+    Original title: DX7音色プログラム
+    Longname: DX7 Voicing Program [a].rom
+    sha1: 20c24130b7a9d50b5cede80f1638b686c2778800
+    Name: DX7Voici.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit + DX7
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
+  - English title: DX7 Voicing Program II
+    Original title: DX7 Voicing Program II
+    Longname: DX7 Voicing Program II.rom
+    sha1: c79626eddf8bc390d64ada99ad6da32dfd52d086
+    Name: DX7Voic2.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit + DX7
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: DX9 Voicing Program
+    Original title: DX9音色プログラム
+    Longname: DX9 Voicing Program.rom
+    sha1: 70b5bcd6c3fb0eab8b500d93a16dfa3f7e6694e8
+    Name: DX9Voici.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit + DX9
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: DX21 Voicing Program
+    Original title: DX21音色プログラム
+    Longname: DX21 Voicing Program.rom
+    sha1: ffbb462cb42c7f497ec82746da0cba032fede613
+    Name: DX21Voic.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard and mouse if present, DX21 keyboard
+    Sound: FM Sound Synthesizer Unit + DX21
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FB-01 Voicing Program
+    Original title: FB-01音色プログラム
+    Longname: FB-01 Voicing Program [v1.00].rom
+    sha1: 43dbcc9536fe61c8172eceeec1481778f7a2b9bd
+    Name: FB01Voic.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: FB-01 SRAM, floppy disk (if SFG-05), tape
+    Control: Keyboard, Music keyboard or MIDI keyboard like DX synthetiser
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Auto Arranger
+    Original title: FMオート・アレンジャー
+    Longname: FM Auto Arranger.rom
+    sha1: 971da55e92167674628a12c443efc43bafcfb6b4
+    Name: FMAutoAr.ROM
+    Genre: Auto arranger
+    Language: English
+    Country: Japan
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Floppy disk (if SFG-05), tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Music Composer
+    Original title: ミュージックコンポーザ
+    Longname: FM Music Composer [v1.01].rom
+    sha1: 39c12004adb3442f2c43aade8a0be420d59eefb1
+    Name: FMMC101.ROM
+    Genre: Music Composer
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Music Composer
+    Original title: ミュージックコンポーザ
+    Longname: FM Music Composer [v1.03].rom
+    sha1: 337087199d58666029f00e08ca82b1917ab58c80
+    Name: FMMC103.ROM
+    Genre: Music Composer
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Music Composer
+    Original title: ミュージックコンポーザ II
+    Longname: FM Music Composer II.rom
+    sha1: e60e2abf907b66f5b275c7b7b710439adae58d37
+    Name: FMMC200.ROM
+    Genre: Music Composer
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha, NHK Gakuen
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Music Macro
+    Original title: FMミュージックマクロ
+    Longname: FM Music Macro.rom
+    sha1: 7c2743df543c0d8a4ba7e42bf7db580b996d102e
+    Name: FMMus100.ROM
+    Genre: Music macro editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Music Macro
+    Original title: FMミュージックマクロ
+    Longname: FM Music Macro II.rom
+    sha1: f5e2e4aacd44739d3a0c1ea4ecb87da385ce89dc
+    Name: FMMus200.ROM
+    Genre: Music macro editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Voicing Program
+    Original title: FM音色プログラム
+    Longname: FM Voicing Program [v1.0].rom
+    sha1: e4c8f3b87d755c21572040c51cec1431ae59a0be
+    Name: FMVoi100.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1983
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Voicing Program
+    Original title: FM音色プログラム
+    Longname: FM Voicing Program [v1.2].rom
+    sha1: 057238307d93a8c2cbb2a296b9dc2f4585315af1
+    Name: FMVoi120.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1983
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Voicing Program II
+    Original title: FM音色プログラム II
+    Longname: FM Voicing Program II [1985-03-17].rom
+    sha1: 2a4b4a4657e3077df8a88f98210b76883d3702b1
+    Name: FMVoi203.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985-03-17
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Voicing Program II
+    Original title: FM音色プログラム II
+    Longname: FM Voicing Program II [1985-08-03].rom
+    sha1: 7b1798561ee1844a7d6432924fbee9b4fc591c19
+    Name: FMVoi208.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard, music keyboard or MIDI keyboard like DX synthetiser
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985-08-03
+    Original Dump: Yes
+    Remark: 
+
+  - English title: FM Voicing Program II
+    Original title: FM音色プログラム II
+    Longname: FM Voicing Program II [1985-12-21].rom
+    sha1: 30747a56f45389be76362f7fc55d673f1bff8312
+    Name: FMVoi212.ROM
+    Genre: Sound editor
+    Language: English
+    Country: Japan
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard, music keyboard or MIDI keyboard like DX synthetiser
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985-12-21
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Graphic Artist
+    Original title: グラフィック・アーティスト
+    Longname: Graphic Artist.rom
+    sha1: 2a6d5512a1b4bfb3e616ded0a825db23bb143fba
+    Name: GrArtist.ROM
+    Genre: Graphic Editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard and mouse
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MIDI Macro & Monitor
+    Original title: MIDIマクロ＆モニタ
+    Longname: MIDI Macro & Monitor [v1.00].rom
+    sha1: 4a5cf6fffaa793eca8583ac8b2ba71bf993cccb4
+    Name: MIDIM&M.ROM
+    Genre: 
+    Language: English
+    Country: Japan
+    Size: 48kB
+    Rom mapper: None
+    Machine: MSX
+    RAM: kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard
+    Sound: Yamaha DX series digital FM synthesizers.
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MIDI Recorder
+    Original title: MIDIレコーダ
+    Longname: MIDI Recorder.rom
+    sha1: 0e24c5c4f16d5f9564d1bcbf29e4187cb6ad9701
+    Name: MIDIRec.ROM
+    Genre: MIDI Recorder
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Data cartridge, floppy disk, tape
+    Control: Keyboard
+    Sound: Yamaha DX series digital FM synthesizers.
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Playcard Program
+    Original title: レイカードプロクラムカートリッジ
+    Longname: Playcard Program.rom
+    sha1: 8161d9b325c708af463c5622bd89ca94754cfdef
+    Name: PCardSys.ROM
+    Genre: Music player
+    Language: English
+    Country: 
+    Size: 16KB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: RX Editor
+    Original title: RX エディタ
+    Longname: RX Editor.rom
+    sha1: e03ec3a6bb6d8b1bc6eab349c7675cb72aa47d57
+    Name: RXEditor.ROM
+    Genre: Music editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: 
+    Remark: Enter _MUSIC to run it.
+
+  - English title: RX Editor
+    Original title: RX エディタ
+    Longname: RX Editor [a].rom
+    sha1: d98ab2e25b738f956b4240a96360b88ab6f72093
+    Name: RXEditoA.ROM
+    Genre: Music editor
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: FM Sound Synthesizer Unit
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1985
+    Original Dump: 
+    Remark: Enter _MUSIC to run it.
+
+  - English title: The Painter
+    Original title: ザ・ペインタ
+    Longname: The Painter [v1.0].rom
+    sha1: d98ab2e25b738f956b4240a96360b88ab6f72093
+    Name: ThePaint.ROM
+    Genre: Graphic editor
+    Language: English
+    Country: Japan
+    Size: 64kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 128kB
+    VRAM: 128kB
+    Data saving: Floppy disk 
+    Control: Keyboard, mouse
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Yamaha
+    Developer: Yamaha
+    Release: 1986
+    Original Dump: Yes
+    Remark: Enter _PAINTER to run it. The resolution of your drawings is 432 x 576 !
+
+##
+### Roms from devices ###
+##
+
+- Folder longname: ~/Roms from devices
+  Folder name: ~/Devices
+
+  Files:
+  - English title: Sensor Kid
+    Original title: センサーキッド
+    Longname: Sensor Kid (J).rom
+    sha1: 794aca3c2136933f1fe6405e56e0ce7fdbb10385
+    Name: SensorKi.ROM
+    Genre: Light, speed, temperature
+    Language: Japanese
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Sony
+    Developer: Dempa Micomsoft Co., LTD
+    Release: 1988-07
+    Original Dump: Yes
+    Remark: 
+
+#
+## Roms from devices: Panasoft (National / Panasonic) ##
+#
+
+- Folder longname: ~/Application Roms/Panasoft
+  Folder name: ~/Applis/Panasoft
 
   Files:
   - English title: FM Pana Amusement Cartridge
@@ -119273,22 +120393,22 @@
     Longname: FM Pana Amusement Cartridge (J).rom
     sha1: fec451b9256570a0e4869355a40329c57f40705f
     Name: FM-PAC.ROM
-    Genre: 
+    Genre: Sound expansion
     Language: Japanese
     Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 64kB
+    Rom mapper: FM-PAC specific
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: PAC SRAM in the cartridge
     Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Sound: MSX-Music
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Panasoft
+    Developer: Panasoft
+    Release: 1984
     Original Dump: 
     Remark: 
 
@@ -119297,48 +120417,72 @@
     Longname: FM Pana Amusement Cartridge (J) [a].rom
     sha1: 9d789166e3caf28e4742fe933d962e99618c633d
     Name: FM-PAC-A.ROM
-    Genre: 
+    Genre: Sound expansion
     Language: Japanese
     Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 64kB
+    Rom mapper: FM-PAC specific
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: PAC SRAM in the cartridge
     Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Sound: MSX-Music
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Panasoft
+    Developer: Panasoft
+    Release: 1984
     Original Dump: 
     Remark: 
 
   - English title: FM Pana Amusement Cartridge
     Original title: FM Pana Amusement Cartridge
-    Longname: FM Pana Amusement Cartridge (Translated).rom
+    Longname: FM Pana Amusement Cartridge (Translated) [v1.00].rom
     sha1: 6996489fcec52934b8beed87643cc33d02ecc301
-    Name: FM-PAC-E.ROM
-    Genre: 
+    Name: FMPACT10.ROM
+    Genre: Sound expansion
     Language: English
     Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
+    Size: 64kB
+    Rom mapper: FM-PAC specific
+    Machine: MSX1
+    RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: PAC SRAM in the cartridge
     Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Sound: MSX-Music
+    Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: No
-    Remark: 
+    Publisher: Panasoft
+    Developer: Panasoft
+    Release: 1984
+    Original Dump: 
+    Remark: Some instrument names are not translated.
+
+  - English title: FM Pana Amusement Cartridge
+    Original title: FM Pana Amusement Cartridge
+    Longname: FM Pana Amusement Cartridge (Translated) [v1.10].rom
+    sha1: 56de471868771d729c7f738f11704445443e771c
+    Name: FMPACT11.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Japan
+    Size: 64kB
+    Rom mapper: FM-PAC specific
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: PAC SRAM in the cartridge
+    Control: Keyboard
+    Sound: MSX-Music
+    Player number: None
+    Signature: No
+    Publisher: Panasoft
+    Developer: Panasoft
+    Release: 1984
+    Original Dump: 
+    Remark: Full translated.
 
   - English title: MSX Audio
     Original title: MSX Audio
@@ -119356,655 +120500,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: 
-    Original title: MSX Bunsetsu Henkan Jisho
-    Longname: MSX Bunsetsu Henkan Jisho (J).rom
-    sha1: 8c7ae1a1720b1dae9af9904e638b868f56d905c2
-    Name: BHJisho.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Application Roms: Sanyo ##
-#
-
-- Folder longname: ~/Application Roms/Sanyo
-  Folder name: ~/Applis/Sanyo
-
-  Files:
-  - English title: Music studio G7
-    Original title: Music studio G7
-    Longname: Music studio G7.rom
-    sha1: 8c06d9e1e188431c13721af965faa7391140af2e
-    Name: MusicG7.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-
-  - English title: Music studio G7
-    Original title: Music studio G7
-    Longname: Music Studio G7 [a].rom
-    sha1: 5fc91f65b8eb025fc6abf2014ba1c941cacea519
-    Name: MusicG7A.ROM
-    Genre: 
-    Language: English
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-    Original Dump: 
-    Remark: 
-
-#
-## Application Roms: Sony ##
-#
-
-- Folder longname: ~/Application Roms/Sony
-  Folder name: ~/Applis/Sony
-
-  Files:
-  - English title: Farm Kit
-    Original title: Farm Kit
-    Longname: Farm Kit.rom
-    sha1: e6b71484d5ab578fd3695917fce3c1e805a5b536
-    Name: FarmKit.ROM
-    Genre: Graphic editor
-    Language: English
-    Country: Spain
-    Size: 
-    Rom mapper: None
-    Machine: MSX1
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Sony
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Home Writer
-    Original title: Home Writer
-    Longname: Home Writer.rom
-    sha1: cc06d65a9aba634e3ad75675b960140932506ffe
-    Name: HomeWrit.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Sensor Kid
-    Original title: Sensor Kid
-    Longname: Sensor Kid (J).rom
-    sha1: 794aca3c2136933f1fe6405e56e0ce7fdbb10385
-    Name: SensorKi.ROM
-    Genre: 
-    Language: Japanese
-    Country: Japan
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-#
-## Application Roms: Yamaha ##
-#
-
-- Folder longname: ~/Application Roms/Yamaha
-  Folder name: ~/Applis/Yamaha
-
-  Files:
-  - English title: DX7 Voicing Program
-    Original title: DX7 Voicing Program
-    Longname: DX7 Voicing Program.rom
-    sha1: 20c24130b7a9d50b5cede80f1638b686c2778800
-    Name: DX7Voici.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: DX7 Voicing Program II
-    Original title: DX7 Voicing Program II
-    Longname: DX7 Voicing Program II.rom
-    sha1: c79626eddf8bc390d64ada99ad6da32dfd52d086
-    Name: DX7Voic2.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: DX7 Voicing Program II
-    Original title: DX7 Voicing Program II
-    Longname: DX7 Voicing Program [a].rom
-    sha1: c20def84efe71efdf91df3100919d151b2e7bdc1
-    Name: DX7VoicA.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: DX9 Voicing Program
-    Original title: DX9 Voicing Program
-    Longname: DX9 Voicing Program.rom
-    sha1: 70b5bcd6c3fb0eab8b500d93a16dfa3f7e6694e8
-    Name: DX9Voici.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: DX21 Voicing Program
-    Original title: DX21 Voicing Program
-    Longname: DX21 Voicing Program.rom
-    sha1: ffbb462cb42c7f497ec82746da0cba032fede613
-    Name: DX21Voic.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FB-01 Voicing Program
-    Original title: FB-01 Voicing Program
-    Longname: FB-01 Voicing Program [v1.00].rom
-    sha1: 43dbcc9536fe61c8172eceeec1481778f7a2b9bd
-    Name: FB01Voic.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Auto Arranger
-    Original title: FM Auto Arranger
-    Longname: FM Auto Arranger.rom
-    sha1: 971da55e92167674628a12c443efc43bafcfb6b4
-    Name: FMAutoAr.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Music Composer
-    Original title: FM Music Composer
-    Longname: FM Music Composer [v1.01].rom
-    sha1: 39c12004adb3442f2c43aade8a0be420d59eefb1
-    Name: FMMC101.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Music Composer
-    Original title: FM Music Composer
-    Longname: FM Music Composer [v1.03].rom
-    sha1: 337087199d58666029f00e08ca82b1917ab58c80
-    Name: FMMC103.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Music Composer
-    Original title: FM Music Composer
-    Longname: FM Music Composer [v2.00].rom
-    sha1: e60e2abf907b66f5b275c7b7b710439adae58d37
-    Name: FMMC200.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Music Macro
-    Original title: FM Music Macro
-    Longname: FM Music Macro [v1.0].rom
-    sha1: 7c2743df543c0d8a4ba7e42bf7db580b996d102e
-    Name: FMMus100.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Music Macro
-    Original title: FM Music Macro
-    Longname: FM Music Macro [v2.0].rom
-    sha1: f5e2e4aacd44739d3a0c1ea4ecb87da385ce89dc
-    Name: FMMus200.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Voicing Program
-    Original title: FM Voicing Program
-    Longname: FM Voicing Program [v1.0].rom
-    sha1: e4c8f3b87d755c21572040c51cec1431ae59a0be
-    Name: FMVoi100.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Voicing Program
-    Original title: FM Voicing Program
-    Longname: FM Voicing Program [v1.2].rom
-    sha1: 057238307d93a8c2cbb2a296b9dc2f4585315af1
-    Name: FMVoi120.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: FM Voicing Program
-    Original title: FM Voicing Program
-    Longname: FM Voicing Program [v2.00].rom
-    sha1: 2a4b4a4657e3077df8a88f98210b76883d3702b1
-    Name: FMVoi200.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Graphic Artist
-    Original title: Graphic Artist
-    Longname: Graphic Artist.rom
-    sha1: 2a6d5512a1b4bfb3e616ded0a825db23bb143fba
-    Name: GrArtist.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: MIDI Macro & Monitor
-    Original title: MIDI Macro & Monitor
-    Longname: MIDI Macro & Monitor [v1.00].rom
-    sha1: 4a5cf6fffaa793eca8583ac8b2ba71bf993cccb4
-    Name: MIDIM&M.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: MIDI Recorder
-    Original title: MIDI Recorder
-    Longname: MIDI Recorder.rom
-    sha1: 0e24c5c4f16d5f9564d1bcbf29e4187cb6ad9701
-    Name: MIDIRec.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: Playcard Program
-    Original title: Playcard Program
-    Longname: Playcard Program.rom
-    sha1: 8161d9b325c708af463c5622bd89ca94754cfdef
-    Name: PCardSys.ROM
-    Genre: Music player
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
-    Remark: 
-
-  - English title: RX Editor
-    Original title: RX Editor
-    Longname: RX Editor.rom
-    sha1: e03ec3a6bb6d8b1bc6eab349c7675cb72aa47d57
-    Name: RXEditor.ROM
-    Genre: 
-    Language: English
-    Country: 
-    Size: 
-    Rom mapper: None
-    Machine: MSX
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -120036,7 +120532,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -120060,7 +120556,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -120084,7 +120580,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120108,7 +120604,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Under4Mhz
     Developer: Under4Mhz
@@ -120132,7 +120628,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120156,7 +120652,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120180,7 +120676,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Zemina
     Developer: Zemina
@@ -120204,7 +120700,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega (Arcade version by Tehkan)
@@ -120228,7 +120724,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega (Arcade version by Tehkan)
@@ -120252,7 +120748,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Gameboy
     Developer: Sega (Copyright Tehkan)
@@ -120276,7 +120772,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega (Arcade version by Tehkan)
@@ -120300,7 +120796,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Super man (Chāorén)
     Developer: Sega (Arcade version by Tehkan)
@@ -120324,7 +120820,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises / Gremlin (US)
     Developer: Sega
@@ -120348,7 +120844,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120372,7 +120868,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120396,7 +120892,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120420,7 +120916,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120444,7 +120940,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -120468,7 +120964,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -120492,7 +120988,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -120516,7 +121012,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120540,7 +121036,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120564,7 +121060,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120588,7 +121084,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120612,7 +121108,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120636,7 +121132,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120660,7 +121156,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120684,7 +121180,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120708,7 +121204,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120732,7 +121228,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120756,7 +121252,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120780,7 +121276,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120804,7 +121300,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120828,7 +121324,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120852,7 +121348,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120876,7 +121372,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120900,7 +121396,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120924,7 +121420,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -120948,7 +121444,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120972,7 +121468,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -120996,7 +121492,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121020,7 +121516,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121044,7 +121540,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121068,7 +121564,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121092,7 +121588,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121116,7 +121612,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121140,7 +121636,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121164,7 +121660,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121188,7 +121684,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121212,7 +121708,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121236,7 +121732,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121260,7 +121756,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121284,7 +121780,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121308,7 +121804,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121332,7 +121828,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aik Beng
     Developer: Sega
@@ -121356,7 +121852,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121380,7 +121876,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121404,7 +121900,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121428,7 +121924,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Jin Kwang
     Developer: Sega
@@ -121452,7 +121948,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121476,7 +121972,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121500,7 +121996,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121524,7 +122020,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121548,7 +122044,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121572,7 +122068,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121596,7 +122092,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121620,7 +122116,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121644,7 +122140,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121668,7 +122164,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121692,7 +122188,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121716,7 +122212,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121740,7 +122236,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -121764,7 +122260,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121788,7 +122284,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121812,7 +122308,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121836,7 +122332,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121860,7 +122356,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121884,7 +122380,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121908,7 +122404,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -121932,7 +122428,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121956,7 +122452,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -121980,7 +122476,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122004,7 +122500,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122028,7 +122524,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122052,7 +122548,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega and Konami
@@ -122076,7 +122572,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega and Konami
@@ -122100,7 +122596,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: 
     Developer: Sega and Konami
@@ -122124,7 +122620,7 @@
     Data saving: None
     Control: Joypad(s)
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Aaronix
     Developer: Sega and Konami
@@ -122148,7 +122644,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122172,7 +122668,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122196,7 +122692,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122220,7 +122716,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122244,7 +122740,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122268,7 +122764,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122292,7 +122788,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122316,7 +122812,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122340,7 +122836,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122364,7 +122860,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122388,7 +122884,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122412,7 +122908,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122436,7 +122932,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122460,7 +122956,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122484,7 +122980,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122508,7 +123004,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122532,7 +123028,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122556,7 +123052,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122580,7 +123076,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -122604,7 +123100,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -122628,7 +123124,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Tsukada Original
@@ -122652,7 +123148,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122676,7 +123172,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122700,7 +123196,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122724,7 +123220,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122748,7 +123244,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122772,7 +123268,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122796,7 +123292,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122820,7 +123316,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122844,7 +123340,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -122868,7 +123364,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega (Arcade version by Activision)
@@ -122892,7 +123388,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega (Arcade version by Activision)
@@ -122916,7 +123412,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega (Arcade version by Activision)
@@ -122940,7 +123436,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega (Arcade version by Activision)
@@ -122964,7 +123460,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -122988,7 +123484,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123012,7 +123508,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123036,7 +123532,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123060,7 +123556,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123084,7 +123580,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123108,7 +123604,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123132,7 +123628,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123156,7 +123652,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123180,7 +123676,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123204,7 +123700,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123228,7 +123724,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123252,7 +123748,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Tsukada Original
@@ -123276,7 +123772,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123300,7 +123796,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123324,7 +123820,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123348,7 +123844,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123372,7 +123868,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123396,7 +123892,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123420,7 +123916,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123444,7 +123940,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123468,7 +123964,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123492,7 +123988,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123516,7 +124012,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Daewoo
     Developer: Sega
@@ -123540,7 +124036,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Samsung
     Developer: Sega
@@ -123564,7 +124060,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Daewoo
     Developer: Sega
@@ -123588,7 +124084,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123612,7 +124108,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123636,7 +124132,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123660,7 +124156,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123684,7 +124180,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123708,7 +124204,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Tsukada Original
     Developer: Tsukada Original
@@ -123732,7 +124228,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123756,7 +124252,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123780,7 +124276,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123804,7 +124300,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123828,7 +124324,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123852,7 +124348,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123876,7 +124372,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123900,7 +124396,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123924,7 +124420,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123948,7 +124444,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -123972,7 +124468,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -123996,7 +124492,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124020,7 +124516,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124044,7 +124540,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124068,7 +124564,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124092,7 +124588,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124116,7 +124612,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124140,7 +124636,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124164,7 +124660,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124188,7 +124684,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124212,7 +124708,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124236,7 +124732,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124260,7 +124756,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124284,7 +124780,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega Enterprises
     Developer: Sega
@@ -124308,7 +124804,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124340,7 +124836,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Paulo Silva
     Developer: Paulo Silva
@@ -124364,7 +124860,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Paulo Silva
     Developer: Paulo Silva
@@ -124388,7 +124884,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Maechiko
     Developer: Maechiko
@@ -124413,7 +124909,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Rick SKRBina
     Developer: Rick SKRBina
@@ -124437,7 +124933,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Under4mhz
     Developer: Under4mhz
@@ -124461,7 +124957,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Under4mhz
     Developer: Under4mhz
@@ -124485,7 +124981,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Under4mhz
     Developer: Under4mhz
@@ -124517,7 +125013,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Hi-Com
     Developer: Sony (Licensed by ICM)
@@ -124541,7 +125037,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: Sega
@@ -124565,7 +125061,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: DahJee
     Developer: Sega
@@ -124589,7 +125085,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Clover
     Developer: Clover
@@ -124613,7 +125109,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: Aaronix
     Developer: Sega
@@ -124637,7 +125133,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: 
     Developer: Konami
@@ -124661,7 +125157,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489 on SG-1000 or PSG on MSX
-    Player number: 1 or 2 (alternately)
+    Player number: None or 2 (alternately)
     Signature: No
     Publisher: 
     Developer: Konami
@@ -124685,7 +125181,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Genius
     Developer: SIS Co.
@@ -124709,7 +125205,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Hi-Com
     Developer: Programmers-3
@@ -124733,7 +125229,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124757,7 +125253,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Zemina
     Developer: Zemina
@@ -124781,7 +125277,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Sega
     Publisher: R.Bittencourt
@@ -124805,7 +125301,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124829,7 +125325,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124853,7 +125349,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124877,7 +125373,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124901,7 +125397,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124925,7 +125421,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124949,7 +125445,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124973,7 +125469,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -124997,7 +125493,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -125021,7 +125517,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Hi-Com
     Developer: 
@@ -125045,7 +125541,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Prosoft
     Developer: Prosoft
@@ -125069,7 +125565,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aaronix
     Developer: Konami
@@ -125093,7 +125589,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Jumbo
     Developer: Konami
@@ -125117,7 +125613,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Maechiko
     Developer: Maechiko
@@ -125140,7 +125636,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: R.Bittencourt
     Developer: R.Bittencourt
@@ -125212,7 +125708,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Screen Soft
     Developer: YMSoft
@@ -125236,7 +125732,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Zemina
     Developer: Zemina
@@ -125260,7 +125756,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -125284,7 +125780,7 @@
     Data saving: None
     Control: Joypad
     Sound: SN76489
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Zemina
     Developer: Zemina
@@ -125316,7 +125812,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 
     Developer: 
@@ -125340,7 +125836,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125364,7 +125860,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125388,7 +125884,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125412,7 +125908,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125436,7 +125932,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125460,7 +125956,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: 303bcn
     Developer: mvac7 (aOrante)
@@ -125484,7 +125980,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Taylor
     Developer: 
@@ -125508,7 +126004,7 @@
     Data saving: None
     Control: None
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: CBSFox
     Developer: CBSFox (Marcos Daniel Blanco)
@@ -125532,7 +126028,7 @@
     Data saving: None
     Control: None
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: CBSFox
     Developer: CBSFox (Marcos Daniel Blanco)
@@ -125556,7 +126052,7 @@
     Data saving: None
     Control: None
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: CBSFox
     Developer: CBSFox (Marcos Daniel Blanco)
@@ -125580,7 +126076,7 @@
     Data saving: None
     Control: None
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: CBSFox
     Developer: CBSFox (Marcos Daniel Blanco)
@@ -125724,7 +126220,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: XL2S Entertainment
     Developer: XL2S Entertainment
@@ -125748,7 +126244,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Siudym
     Developer: Siudym
@@ -125772,7 +126268,7 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Repro-Factory
     Developer: MSX-AREA (Armando Perez Abad)
@@ -125844,7 +126340,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: MSX Cartridge Shop
     Developer: Paxanga Software
@@ -125868,7 +126364,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: MSX Cartridge Shop
     Developer: Paxanga Software
@@ -125892,7 +126388,7 @@
     Data saving: None
     Control: Keyboard
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: MSX Cartridge Shop
     Developer: Paxanga Software
@@ -125916,7 +126412,7 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aoineko
     Developer: Aoineko
@@ -125940,7 +126436,7 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aoineko
     Developer: Aoineko
@@ -125964,7 +126460,7 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: None
     Signature: No
     Publisher: Aoineko
     Developer: Aoineko
