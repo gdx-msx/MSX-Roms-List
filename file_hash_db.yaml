@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 03-06-2023 by gdx
+    MSX Roms Database version 04-06-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -22430,7 +22430,7 @@
     Size: 736kB
     Rom mapper: KonamiSCC
     Machine: MSX1 with MSX-Basic-Kun
-    RAM: 32kB RAM
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / keyboard and joystick
@@ -22442,6 +22442,30 @@
     Release: 2022-11-19
     Original Dump: Yes
     Remark: Press the CTRL key during the MSX startup.
+
+  - English title: Pastfinder
+    Original title: Galax
+    Longname: Galax - Pastfinder (Gradiente).rom
+    sha1: d7c9eab6bc9ec939c747dbb5edb43ddb0c0e90d6
+    Name: Galax.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Brazil
+    Size: 16kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Gradiente
+    Developer: David Lubar (Activision)
+    Release: 
+    Original Dump: Yes
+    Remark: 
 
   - English title: MuhonMourn 3
     Original title: MuhonMourn 3
@@ -23215,6 +23239,30 @@
     Signature: No
     Publisher: Sharp-Epcom
     Developer: Tony NGO, Uriah Barnett (MSX port)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Zaxxon
+    Original title: Zaxxon
+    Longname: Zaxxon (Sharp-Epcom).rom
+    sha1: 93b8ad5ff40be8e50506e28dbd3927771e2d7f2f
+    Name: SEZaxxon.ROM
+    Genre: Shoot'em up (pseudo 3D scrolling)
+    Language: English
+    Country: Brazil, Portugal
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Sega, Epcom (MSX port)
     Release: 
     Original Dump: 
     Remark: 
@@ -25656,7 +25704,31 @@
     Publisher: ASCII Corporation
     Developer: Isao Yoshida and Keisuke Iwakura
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Castle Excellent
+    Original title: キャッスルエクセレント
+    Longname: Castle Excellent [a3].rom
+    sha1: 34711e434d4895dec989904bb536ba7cfa1f3607
+    Name: CASTEXA3.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: ASCII Corporation
+    Developer: Isao Yoshida and Keisuke Iwakura
+    Release: 1986
+    Original Dump: Yes
     Remark: 
 
   - English title: Castle Excellent
@@ -29292,11 +29364,11 @@
     Remark: 
 
 #
-## Game Roms from Japan: Bit^2 ##
+## Game Roms from Japan: Bit² ##
 #
 
-- Folder longname: ~/Roms From Japan/Bit^2
-  Folder name: ~/Japan/Bit^2
+- Folder longname: ~/Roms From Japan/Bit²
+  Folder name: ~/Japan/Bit²
 
   Files:
   - English title: Famicle Parodic
@@ -29317,7 +29389,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: 
@@ -29341,7 +29413,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: 
@@ -29365,7 +29437,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: No
@@ -29389,7 +29461,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: No
@@ -29413,7 +29485,7 @@
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: 
@@ -29437,7 +29509,7 @@
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: 
@@ -29461,7 +29533,7 @@
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
-    Publisher: Bit^2
+    Publisher: Bit²
     Developer: 
     Release: 1988
     Original Dump: No
@@ -60256,6 +60328,30 @@
     Original Dump: 
     Remark: 
 
+  - English title: Othello
+    Original title: オセロ
+    Longname: Othello [a] (Ponyca).rom
+    sha1: 7e51ba178740264c968cb06046c532d848ef0fe6
+    Name: POthellA.ROM
+    Genre: Othello
+    Language: English
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (one against the other)
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Pony Canyon (Ponyca)
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
   - English title: Out run
     Original title: アウトラン
     Longname: Out run.rom
@@ -60597,6 +60693,30 @@
     Longname: Tanigawa Kouji no Shougi Shinan (J).rom
     sha1: 1c4de8d4a1cbf5aa2bcf7816a1e55ee4584f59fb
     Name: TKShougi.ROM
+    Genre: Shogi (Japanese chess)
+    Language: Japanese
+    Country: Japan
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Pony Canyon (Ponyca)
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: Koji Tanigawa's Shogi Instruction
+    Original title: 谷川浩司の将棋指南
+    Longname: Tanigawa Kouji no Shougi Shinan [a] (J).rom
+    sha1: 8bf068725bd79f96ec10a78aac7ec30049358c0f
+    Name: TKShougA.ROM
     Genre: Shogi (Japanese chess)
     Language: Japanese
     Country: Japan
@@ -65339,7 +65459,7 @@
   - English title: Pyramid Warp
     Original title: ピラミッド・ワープ
     Longname: Pyramid Warp.rom
-    sha1: 1ad2178c27874704b395ab250200d9acb7d3de9c
+    sha1: 0e63032a21ea4e42b67df98a24c2c30c6d88c319
     Name: PyramidW.ROM
     Genre: Maze
     Language: English
@@ -65359,6 +65479,30 @@
     Release: 1983
     Original Dump: Yes
     Remark: 
+
+  - English title: Pyramid Warp
+    Original title: ピラミッド・ワープ
+    Longname: Pyramid Warp [PSG ports fix].rom
+    sha1: 1ad2178c27874704b395ab250200d9acb7d3de9c
+    Name: PyramiPf.ROM
+    Genre: Maze
+    Language: English
+    Country: Japan
+    Size: 8kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft, Toshiba
+    Developer: T&E Soft
+    Release: 1983
+    Original Dump: 
+    Remark: PSG ports fixed version.
 
   - English title: Pyramid Warp
     Original title: ピラミッド・ワープ
@@ -69819,6 +69963,30 @@
     Original Dump: 
     Remark: 
 
+  - English title: Knightmare
+    Original title: 마성선설
+    Longname: Maseong Jeonseol - Knightmare.rom
+    sha1: 3c27d2873203c6b634543737c1b5f27d0e0334a1
+    Name: MaseongJ.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Korea
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Game Master 2 (floppy disk)
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Clover Soft
+    Developer: Konami
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
   - English title: MSX Soccer
     Original title: 축구
     Longname: MSX Soccer (Clover).rom
@@ -70782,7 +70950,7 @@
     Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Gabo system
-    Developer: 
+    Developer: Nippon Dexter
     Release: 
     Original Dump: 
     Remark: 
@@ -72518,8 +72686,8 @@
   - English title: Tetris II
     Original title: 테트리스 II
     Longname: Tetris II (Prosoft).rom
-    sha1: 93b9420a4b0590b43163c02b43d7fbfd51fe9a92
-    Name: TetrisII.ROM
+    sha1: 1ec5774544ef2a087d09abae511638cfcb3e43d3
+    Name: Tetris2.ROM
     Genre: Tetris
     Language: English
     Country: Korea
@@ -72534,8 +72702,32 @@
     Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Prosoft
-    Developer: 
-    Release: 
+    Developer: Prosoft
+    Release: 1989
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Tetris II
+    Original title: 테트리스 II
+    Longname: Tetris II [a] (Prosoft).rom
+    sha1: 93b9420a4b0590b43163c02b43d7fbfd51fe9a92
+    Name: Tetris2A.ROM
+    Genre: Tetris
+    Language: English
+    Country: Korea
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Prosoft
+    Developer: Prosoft
+    Release: 1989
     Original Dump: 
     Remark: 
 
@@ -96738,6 +96930,62 @@
 ### Game Roms from UK ###
 ##
 
+- Folder longname: ~/Game Roms from Thailand
+  Folder name: ~/Thailand
+
+  Files:
+  - English title: City Connection
+    Original title: City Connection
+    Longname: City Connection (Aquarius).rom
+    sha1: fbcb0507cc1a42ec1ebdb75e66d3459bd17f2bfc
+    Name: CityCoTH.ROM
+    Genre: Platform
+    Language: English
+    Country: Thailand
+    Size: 32kB
+    Rom mapper: None
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Aquarius
+    Developer: Nippon Dexter
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: The Fairy Land Story
+    Original title: The Fairy Land Story
+    Longname: The Fairy Land Story [Konami8 mapper] (Aquarius).rom
+    sha1: 857d80464b578d9ee9bc609e1a99a776cd4cea3c
+    Name: FairyLTH.ROM
+    Genre: Platform
+    Language: English
+    Country: Thailand
+    Size: 128kB
+    Rom mapper: Konami8
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Aquarius
+    Developer: GAmu (Hot-B)
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+##
+### Game Roms from UK ###
+##
+
 - Folder longname: ~/Game Roms from UK
   Folder name: ~/UK
 
@@ -118373,26 +118621,50 @@
     Remark: 
 
   - English title: Synthe Saurus
-    Original title: Synthe Saurus
+    Original title: シンセサウルス
     Longname: Synthe Saurus [v1.1].rom
     sha1: cf088b4eefe7f426e438dd2fe7a3433140abba52
-    Name: SyntheSa.ROM
+    Name: Synthe11.ROM
     Genre: Synthesizer
     Language: English
-    Country: 
+    Country: Japan
     Size: 64kB
     Rom mapper: ASCII8
     Machine: MSX1
-    RAM: kB
+    RAM: 32kB
     VRAM: 16kB
-    Data saving: Tape
-    Control: Keyboard
-    Sound: PSG
+    Data saving: Floppy disk, PAC SRAM, Tape
+    Control: Keyboard / keyboard and mouse / keyboard and joystick
+    Sound: MSX-Music
     Player number: None
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
+    Publisher: Bit²
+    Developer: Bit²
+    Release: 1988
+    Original Dump: 
+    Remark: 
+
+  - English title: Synthe Saurus
+    Original title: シンセサウルス
+    Longname: Synthe Saurus [a] [v1.1].rom
+    sha1: 11c4df13f097f75195a5033c424d3d05011e432a
+    Name: Synth11A.ROM
+    Genre: Synthesizer
+    Language: English
+    Country: Japan
+    Size: 64kB
+    Rom mapper: ASCII8
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: Floppy disk, PAC SRAM, Tape
+    Control: Keyboard / keyboard and mouse / keyboard and joystick
+    Sound: MSX-Music
+    Player number: None
+    Signature: No
+    Publisher: Bit²
+    Developer: Bit²
+    Release: 1988
     Original Dump: 
     Remark: 
 
