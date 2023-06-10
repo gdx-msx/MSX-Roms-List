@@ -1052,7 +1052,7 @@
     Genre: Programming
     Language: Arab
     Country: Kuwait
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -1075,7 +1075,7 @@
     Genre: Programming
     Language: Arab
     Country: Kuwait
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -1098,7 +1098,7 @@
     Genre: Programming
     Language: Arab
     Country: Kuwait
-    Type: 64kB Rom
+    Type: 32kB Rom (4000h-BFFFh) + 32kB (Arabic Sakhr Basic v1.11)
     Machine: Arabic MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -1111,7 +1111,7 @@
     Developer: Al Alamiah
     Release: 1986
     Original Dump: 
-    Remark: Contents the Arabic Sakhr Basic v1.10 + v1.11.
+    Remark: 
 
   - English title: Holy Quran
     Original title: القرآن الكريم
@@ -1313,7 +1313,7 @@
     Genre: Programming
     Language: Arab
     Country: Koweit
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
     Machine: Arabic MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -8418,6 +8418,29 @@
     Language: English
     Country: 
     Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: 3D maze test
+    Original title: 3D maze test
+    Longname: 3D maze test [SCC] [overdumped].rom
+    sha1: 5907d7afe25eff65d5fb3178cd2fc2f4efdcadfd
+    Name: 3DmazTST.ROM
+    Genre: Demo
+    Language: English
+    Country: 
+    Type: 256kB Rom with KonamiSCC mapper + 256kB filled with 0FFh execpt the last byte that is 01h.
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -16512,7 +16535,7 @@
     Genre: Puzzle
     Language: Japanese
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 16kB filled with 0FFh + 8kB Rom (4000h-BFFFh) + 8kB filled with 0FFh
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -39637,7 +39660,7 @@
 
   - English title: Space Maze Attack
     Original title: スペースメイズアタック
-    Longname: Space Maze Attack [MSX1 Only].rom
+    Longname: Space Maze Attack [MSX1 only].rom
     sha1: 93bf6725a3c1b7071064a01884e1b6e8c6f8b579
     Name: SpaceMX1.ROM
     Genre: Shoot'em up (smooth multidirectional scrolling)
@@ -39660,13 +39683,13 @@
 
   - English title: Space Maze Attack
     Original title: スペースメイズアタック
-    Longname: Space Maze Attack [MSX1 Only-Overdumped].rom
+    Longname: Space Maze Attack [MSX1 only] [overdumped].rom
     sha1: fbbd9a77004f9bdbcfc292f85c32106faa18cfa6
     Name: SpaceMX1 Overdumped.ROM
     Genre: Shoot'em up (smooth multidirectional scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB of useless data
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -42622,7 +42645,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: Rom with R-Type mapper
+    Type: 384kB Rom with R-Type mapper + 128kB useless data
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -42645,7 +42668,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: Rom with R-Type mapper
+    Type: 384kB Rom with R-Type mapper + 128kB useless data
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -73554,7 +73577,7 @@
     Genre: Billiards
     Language: English
     Country: Korea
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + the same 8kB Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -74368,7 +74391,7 @@
     Genre: Bomb fighting
     Language: English
     Country: Korea
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8Kb of usless data
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -77160,7 +77183,7 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Korea
-    Type: 128kB ROM with mapper Konami8
+    Type: 128kB ROM with Konami8 mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -77758,7 +77781,7 @@
     Genre: Billiards
     Language: English
     Country: Korea
-    Type: 128kB Rom with ASCII8 mapper
+    Type: 64kB Rom with ASCII8 mapper + 64kB of useless data
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
