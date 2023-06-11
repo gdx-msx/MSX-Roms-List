@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 10-06-2023 by gdx
+    MSX Roms Database version 11-06-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -783,29 +783,6 @@
     Original Dump: 
     Remark: 
 
-  - English title: Psychedelia
-    Original title: Psychedelia
-    Longname: Psychedelia.rom
-    sha1: fae437072234c65bca174db9aefd2107a53c358a
-    Name: Psychede.ROM
-    Genre: Visual effects
-    Language: English
-    Country: Germany
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: None
-    Signature: No
-    Publisher: Aackosoft (tape), Llamasoft (tape)
-    Developer: Jeff Minter (original), Simon Freeman (MSX port)
-    Release: 1984 (tape)
-    Original Dump: No
-    Remark: Tape converted to Rom.
-
   - English title: Simple ASM
     Original title: Simple ASM
     Longname: Simple ASM [v1.0].rom
@@ -827,7 +804,7 @@
     Developer: Coral Corporation
     Release: 1984
     Original Dump: 
-    Remark: 
+    Remark: Type CALL START or CALL EDT.
 
   - English title: Super Monitor
     Original title: スーパー・モニター
@@ -5801,16 +5778,16 @@
     Original Dump: No
     Remark: 
 
-  - English title: 
-    Original title: 
+  - English title: MIDI Macro & Monitor
+    Original title: MIDIマクロ＆モニタ
     Longname: MIDI Macro & Monitor [bad dump].rom
     sha1: e7c800fa576b3a9554836aa9c5eaa3ae893805d4
     Name: BADDUMP244.ROM
     Genre: Bad dump
     Language: 
     Country: 
-    Type: 16kB file
-    Machine: MSX
+    Type: 32kB file
+    Machine: MSX1
     RAM: 
     VRAM: 
     Data saving: None
@@ -5822,7 +5799,7 @@
     Developer: 
     Release: 
     Original Dump: No
-    Remark: 
+    Remark: First 16kB (0000h-3FFFh) are missing.
 
   - English title: 
     Original title: 
@@ -22406,7 +22383,7 @@
     Genre: Strategy (like Pico Pico)
     Language: Arab
     Country: Kuwait
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -25463,7 +25440,7 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Brazil, Portugal
-    Type: 
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -26212,7 +26189,7 @@
     Genre: Puzzle
     Language: English
     Country: France
-    Type: 
+    Type: 8kB Rom (8000h-9FFFh without mirror) + 8kB filled with 0ffh
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -27532,7 +27509,7 @@
     Genre: Car racing
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -27555,7 +27532,7 @@
     Genre: Car racing
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -27601,7 +27578,7 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -27670,7 +27647,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -27734,12 +27711,12 @@
   - English title: Super Drinker
     Original title: Super Drinker
     Longname: Super Drinker [overdumped].rom
-    sha1: 82c68a93d01f103af4fe9f9205184ffd1a36a90f
+    sha1: 68a3969538be9e4ecee23626bd08762b1f8666c0
     Name: SDrinker Overdumped.ROM
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (4000h-7FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -29058,7 +29035,7 @@
     Genre: Card (Koi-Koi)
     Language: Japanese
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -29334,7 +29311,7 @@
     Genre: Maze (smooth multidirectional scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34289,7 +34266,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -34358,7 +34335,7 @@
     Genre: Maze
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34427,7 +34404,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (8000h-9FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34450,7 +34427,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34542,7 +34519,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (8000h-BFFFh)
+    Type: 8kB Rom (8000h-9FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34565,7 +34542,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -34634,7 +34611,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -35745,7 +35722,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -35768,7 +35745,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -37295,7 +37272,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Type: 128kB Rom with ASCII16 mapper
+    Type: Rom with ASCII16 mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -38258,12 +38235,12 @@
   - English title: Balance
     Original title: バラン数
     Longname: Balan-Suu - Balance [a] [overdumped].rom
-    sha1: 28323e06a402747a1e131dc30ce031a339f6c947
+    sha1: 134a6faf1592978608b55269aea101d5fad68760
     Name: BalanceA Overdumped.ROM
     Genre: Action, Educative
     Language: English
     Country: Japan
-    Type: 16kB Rom (8000h-BFFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38280,13 +38257,13 @@
 
   - English title: Balance
     Original title: バラン数
-    Longname: Balan-Suu - Balance [a2] [overdumped].rom
-    sha1: 134a6faf1592978608b55269aea101d5fad68760
+    Longname: Balan-Suu - Balance [a2 overdumped].rom
+    sha1: 28323e06a402747a1e131dc30ce031a339f6c947
     Name: BalanceA Overdumped.ROM
     Genre: Action, Educative
     Language: English
     Country: Japan
-    Type: 16kB Rom (8000h-BFFFh)
+    Type: 8kB Rom (8000h-9FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38372,59 +38349,36 @@
 
   - English title: Butamaru Pants
     Original title: ぶた丸パンツ
-    Longname: Butamaru Pants [a2].rom
-    sha1: b755d7db109cd0a9392accd1c83e6d995a8a04d6
-    Name: BUTAMAA2.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick(s)
-    Sound: PSG
-    Player number: 1 or 2 (alternately)
-    Signature: No
-    Publisher: HAL Laboratory, Toshiba
-    Developer: HAL Laboratory
-    Release: 1983
-    Original Dump: 
-    Remark: 
-
-  - English title: Butamaru Pants
-    Original title: ぶた丸パンツ
-    Longname: Butamaru Pants [a2 overdumped].rom
-    sha1: e6a1d90a7a8b4e4b8a8e1afb3d971866931b986d
-    Name: BUTAMAA2 Overdumped.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick(s)
-    Sound: PSG
-    Player number: 1 or 2 (alternately)
-    Signature: No
-    Publisher: HAL Laboratory, Toshiba
-    Developer: HAL Laboratory
-    Release: 1983
-    Original Dump: 
-    Remark: 
-
-  - English title: Butamaru Pants
-    Original title: ぶた丸パンツ
     Longname: Butamaru Pants [overdumped].rom
     sha1: 2f7ff0438f1a8d80292c9e1cb8d77a92c600b505
     Name: Butamaru Overdumped.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: HAL Laboratory, Toshiba
+    Developer: HAL Laboratory
+    Release: 1983
+    Original Dump: 
+    Remark: 
+
+  - English title: Butamaru Pants
+    Original title: ぶた丸パンツ
+    Longname: Butamaru Pants [overdumped 2].rom
+    sha1: e6a1d90a7a8b4e4b8a8e1afb3d971866931b986d
+    Name: BUTAMAA2 Overdumped.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38585,7 +38539,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38792,7 +38746,7 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38838,7 +38792,7 @@
     Genre: Boxing
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -38861,7 +38815,7 @@
     Genre: Boxing
     Language: English
     Country: Japan
-    Type: 
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39436,7 +39390,7 @@
     Genre: Educational
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (8000h-9FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39505,7 +39459,7 @@
     Genre: Puzzle
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39712,7 +39666,7 @@
     Genre: Shoot'em up (smooth multidirectional scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39827,7 +39781,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39850,7 +39804,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39896,7 +39850,7 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (8000h-9FFFh without mirror) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39965,7 +39919,7 @@
     Genre: Snake
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -39988,7 +39942,7 @@
     Genre: Snake
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -40080,7 +40034,7 @@
     Genre: Mahjong
     Language: Japanese
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -40633,7 +40587,7 @@
     Genre: Golf
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -44732,7 +44686,7 @@
     Genre: Obstacle avoiding
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -46618,7 +46572,7 @@
     Genre: Action (First person scrolling)
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (4000h-7FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -48504,7 +48458,7 @@
     Genre: Billiards
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB filled with 0ffh
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -50597,7 +50551,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB filled with 0FFh
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -50620,7 +50574,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -50689,7 +50643,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB filled with 0FFh
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -53113,7 +53067,7 @@
     Genre: Shoot'em up (First person scrolling)
     Language: English
     Country: Japan
-    Type: 
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -53136,7 +53090,7 @@
     Genre: Shoot'em up (First person scrolling)
     Language: English
     Country: Japan
-    Type: 
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -53274,7 +53228,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 128kB Rom with ASCII8 mapper
+    Type: 64kB Rom with ASCII8 mapper + 64kB filled with 0FFh
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -53466,7 +53420,7 @@
     Genre: Shogi (Japanese chess)
     Language: Japanese
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 16kB Rom (8000h-BFFFh) x 2 
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -54778,7 +54732,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -54801,7 +54755,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -55100,7 +55054,7 @@
     Genre: Golf
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: Rom
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -55353,7 +55307,7 @@
     Genre: Tank battle
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB useless data
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -55376,7 +55330,7 @@
     Genre: Tank battle
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB useless data
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -55399,7 +55353,7 @@
     Genre: Tank battle
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) x 2
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -55445,7 +55399,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -55457,7 +55411,30 @@
     Publisher: Namcot
     Developer: Namcot
     Release: 1984
-    Original Dump: Yes
+    Original Dump: 
+    Remark: 
+
+  - English title: Warp & Warp
+    Original title: ワープ＆ワープ
+    Longname: Warp & Warp [a].rom
+    sha1: c00d7a778a1c442ce9bb50fe9f6ff07d86c0b57f
+    Name: Warp&WaA.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Namcot
+    Developer: Namcot
+    Release: 1984
+    Original Dump: 
     Remark: 
 
   - English title: Warp & Warp
@@ -55491,7 +55468,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + 8kB of the alternate version 
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -97390,7 +97367,7 @@
     Developer: Compile, Broderbund Sotware
     Release: 
     Original Dump: 
-    Remark: Converted by gdx
+    Remark: Converted by gdx.
 
   - English title: Dr. Hello
     Original title: 닥터 헬로
@@ -97436,7 +97413,7 @@
     Developer: 
     Release: 
     Original Dump: 
-    Remark: Port by The MSX Files
+    Remark: Port by The MSX Files.
 
   - English title: Mikie High School Graffiti
     Original title: コナミの新入社員とおるくん
@@ -97687,21 +97664,21 @@
     Name: Psychede.ROM
     Genre: Psychedelic animation
     Language: English
-    Country: Netherlands
+    Country: Germany
     Type: 8kB Rom (4000h-5FFFh)
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Keyboard and joystick
+    Control: Keyboard
     Sound: None
     Player number: 1
     Signature: No
-    Publisher: Aackosoft
-    Developer: Llamasoft
+    Publisher: Aackosoft (tape), Llamasoft (tape)
+    Developer: Jeff Minter (original), Simon Freeman (MSX port)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Tape converted to Rom.
 
   - English title: Psychedelia
     Original title: Psychedelia
@@ -97710,21 +97687,44 @@
     Name: PsychedA.ROM
     Genre: Psychedelic animation
     Language: English
-    Country: Netherlands
+    Country: Germany
     Type: 8kB Rom (4000h-5FFFh)
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Keyboard and joystick
+    Control: Keyboard
     Sound: None
     Player number: 1
     Signature: No
-    Publisher: Aackosoft
-    Developer: Llamasoft
+    Publisher: Aackosoft (tape), Llamasoft (tape)
+    Developer: Jeff Minter (original), Simon Freeman (MSX port)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Tape converted to Rom.
+
+  - English title: Psychedelia
+    Original title: Psychedelia
+    Longname: Psychedelia [a2].rom
+    sha1: fae437072234c65bca174db9aefd2107a53c358a
+    Name: Psychede.ROM
+    Genre: Visual effects
+    Language: English
+    Country: Germany
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Aackosoft (tape), Llamasoft (tape)
+    Developer: Jeff Minter (original), Simon Freeman (MSX port)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Tape converted to Rom by N.G.
 
   - English title: Psychedelia
     Original title: Psychedelia
@@ -116677,7 +116677,7 @@
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
-    RAM: kB
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
