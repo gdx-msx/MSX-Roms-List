@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 15-06-2023 by gdx
+    MSX Roms Database version 30-06-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -93,6 +93,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Bank Street Writer
+    Original title: Bank Street Writer
+    Longname: Bank Street Writer (Toshiba).rom
+    sha1: 223661138586a1b024d6dba5e5fa67d6b7685884
+    Name: BSWriter.ROM
+    Genre: Word processor
+    Language: English
+    Country: UK
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Toshiba
+    Developer: Brøderbund Software
+    Release: 1985 (UK), 1986 (Japan)
+    Original Dump: 
+    Remark: "Japanese title is 英文ワードプロセッサ"
+
   - English title: Basic Compiler
     Original title: ベーシックコンパイラ
     Longname: Basic Compiler [v1.0].rom
@@ -139,6 +162,29 @@
     Original Dump: No
     Remark: Use CALL G to compile and CALL B to run it. Compiled code cannot be saved.
 
+  - English title: Cheat Master
+    Original title: Cheat Master
+    Longname: Cheat Master (MSX-Engine).rom
+    sha1: 80ada0241ded833e249c498d01b0bb54179e6643
+    Name: CheatMas.ROM
+    Genre: Cheat
+    Language: English
+    Country: Netherlands
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1 with floppy disk drive
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: MSX-Engine
+    Developer: MSX-Engine
+    Release: 1992
+    Original Dump: 
+    Remark: Press Space key at first. Doesn't work on several MSXs.
+
   - English title: Cheese
     Original title: チーズ
     Longname: Cheese [Mouse].rom
@@ -183,6 +229,29 @@
     Developer: NEOS
     Release: 1985
     Original Dump: Yes
+    Remark: 
+
+  - English title: Junior High School Compulsory - English Grammar - Junior high school 1st year
+    Original title: 中学必修 英文法 中学1年
+    Longname: Chuugaku Hisshuu Eibunpou 1 Nen (J).rom
+    sha1: 20ce189d670c0fe5f2a945d73107df7d83070ff7
+    Name: Eibunpo1.ROM
+    Genre: Educational
+    Language: Japanese with Japanese font
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Stratford Computer Center, Toshiba
+    Developer: Stratford Computer Center
+    Release: 1984
+    Original Dump: 
     Remark: 
 
   - English title: Dr. Copy
@@ -254,32 +323,9 @@
     Original Dump: No
     Remark: 
 
-  - English title: Junior High School Compulsory - English Grammar - Junior high school 1st year
-    Original title: 中学必修 英文法 中学1年
-    Longname: Chuugaku Hisshuu Eibunpou 1 Nen (J).rom
-    sha1: 20ce189d670c0fe5f2a945d73107df7d83070ff7
-    Name: Eibunpo1.ROM
-    Genre: Educational
-    Language: Japanese with Japanese font
-    Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: None
-    Signature: No
-    Publisher: Stratford Computer Center, Toshiba
-    Developer: Stratford Computer Center
-    Release: 1984
-    Original Dump: 
-    Remark: 
-
   - English title: Computer painting
     Original title: 描きくけコン
-    Longname: Ekaki-kukekon (J).rom
+    Longname: Ekaki-kukekon (J) (Casio).rom
     sha1: 632ef250c76b222158ba90dfc68b9e004dbafe3a
     Name: Ekakiku.ROM
     Genre: Graphic Editor
@@ -296,7 +342,7 @@
     Signature: No
     Publisher: Casio
     Developer: Casio
-    Release: 
+    Release: 1985
     Original Dump: 
     Remark: Press F1.
 
@@ -437,6 +483,121 @@
     Release: 2011
     Original Dump: 
     Remark: Missing ROM!
+
+  - English title: Hot-ASM
+    Original title: Hot-ASM
+    Longname: Hot-ASM [v1.0] (Epcom).rom
+    sha1: 7f189caa1f0c30760707e05c13bc50c3fb3ac441
+    Name: HotAsm10.ROM
+    Genre: Programming (Assembler)
+    Language: English
+    Country: Brazil
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Epcom
+    Developer: 
+    Release: 1985
+    Original Dump: 
+    Remark: Enter _START or ?EDT.
+
+  - English title: Hot-Logo
+    Original title: Hot-Logo
+    Longname: Hot-Logo [v1.1] (Epcom).rom
+    sha1: abb5cd4c8bdde234cadb0e10b794be3249dc51a5
+    Name: HotLog11.ROM
+    Genre: Programming
+    Language: Portuguese
+    Country: Brazil
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Epcom
+    Developer: 
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: Hot-Logo
+    Original title: Hot-Logo
+    Longname: Hot-Logo [v1.2] (Epcom).rom
+    sha1: a99796b45c92ca6b18e685130ae3eea43946cf2b
+    Name: HotLog12.ROM
+    Genre: Programming
+    Language: Portuguese
+    Country: Brazil
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Epcom
+    Developer: 
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: Hot-Plan
+    Original title: Hot-Plan
+    Longname: Hot-Plan [v1.2] (Epcom).rom
+    sha1: a99796b45c92ca6b18e685130ae3eea43946cf2b
+    Name: Hot-Plan.ROM
+    Genre: 
+    Language: Portuguese
+    Country: Brazil
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Epcom
+    Developer: 
+    Release: 1986
+    Original Dump: 
+    Remark: Enter _HOTPLAN.
+
+  - English title: JoyGold
+    Original title: JoyGold
+    Longname: JoyGold [v1.3] (Cube MSX).rom
+    sha1: 3f5ba3629eeb8a6e32d6f135eb4da13d8360ee1c
+    Name: JoyGold.ROM
+    Genre: Joystick tester
+    Language: English
+    Country: Brazil
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joysticks
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Cube MSX
+    Developer: Mario Cavalcanti
+    Release: 2020
+    Original Dump: Yes
+    Remark: 
 
   - English title: Joytelop
     Original title: ジョイテロップ
@@ -1017,7 +1178,7 @@
 ## Application Roms: Al Alamiah ##
 #
 
-- Folder longname: ~/Applications/Al Alamiah
+- Folder longname: ~/Application Roms/Al Alamiah
   Folder name: ~/Applis/Alamiah
 
   Files:
@@ -1596,6 +1757,29 @@
     Release: 1984
     Original Dump: 
     Remark: Press CTRL key during MSX start up then enter _EDDY2 to execute it.
+
+  - English title: Graphic Editor - Eddy II
+    Original title: グラフィックエディタ EDDY II
+    Longname: Graphic Editor Eddy II [enhanced v1.1].rom
+    sha1: 137795bd7c7a67f361d3def88fc9fca94c03f91f
+    Name: Eddy2E11.ROM
+    Genre: Graphic Editor
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1, MSX2 for mouse support
+    RAM: 16kB or 32kB with Floppy disk drive
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: HAL Laboratory (original), patch by FRS
+    Developer: 
+    Release: 1984 (original), 2019 (enhancement patch)
+    Original Dump: 
+    Remark: Press CTRL key during MSX start up then enter _EDDY2 to execute it. Enhanced by FRS.
 
   - English title: Halnote
     Original title: Halnote
@@ -12195,8 +12379,31 @@
   - English title: Breaker
     Original title: Breaker
     Longname: Breaker (Philips).rom
-    sha1: 504392d705e4ce112812985ce6bca63e76a706e0
+    sha1: b121da5db0da5ca3ac76ea38f5c93c9deca158e1
     Name: Breaker.ROM
+    Genre: Block breaker
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick / mouse
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Philips
+    Developer: Radarsoft
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version patched to not force the vblank frequency to 50Hz.
+
+  - English title: Breaker
+    Original title: Breaker
+    Longname: Breaker [50Hz] (Philips).rom
+    sha1: 504392d705e4ce112812985ce6bca63e76a706e0
+    Name: Breakr50.ROM
     Genre: Block breaker
     Language: English
     Country: Netherlands
@@ -12970,7 +13177,7 @@
 
   - English title: Ago Board
     Original title: Ago Board
-    Longname: Ago Board (J) [SCC] [trimmed].rom
+    Longname: Ago Board (J) [SCC trimmed].rom
     sha1: a4aecb6f3b8d6221260247ff7bc838c07dbb4899
     Name: AgoBoSCC Trimmed.ROM
     Genre: 
@@ -27088,6 +27295,75 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Tenebra
+    Original title: Tenebra
+    Longname: Tenebra [r1] (Haplo).rom
+    sha1: 212482fde7618d7d308e2bb057f20308990fe537
+    Name: TenebrR1.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Germany
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Haplo (on itch.io)
+    Developer: Haplo
+    Release: 2023-06-09
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Tenebra
+    Original title: Tenebra
+    Longname: Tenebra [r2] (Haplo).rom
+    sha1: e920bce6e3196a9daf89f7e4a742cae055f0e072
+    Name: TenebrR2.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Germany
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Haplo (on itch.io)
+    Developer: Haplo
+    Release: 2023-06-09
+    Original Dump: Yes
+    Remark: Joystick bug fixed.
+
+  - English title: Tenebra
+    Original title: Tenebra
+    Longname: Tenebra [r3] (Haplo).rom
+    sha1: 1883cc92b97d6a3acbcb8acbc962a574e3e3db22
+    Name: TenebrR3.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Germany
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Haplo (on itch.io)
+    Developer: Haplo
+    Release: 2023-06-09
+    Original Dump: Yes
+    Remark: Key click fixed.
+
 ##
 ### Game Roms from Hong-Kong ###
 ##
@@ -35386,9 +35662,9 @@
 
   - English title: B.C.'s Quest For Tires II - Grog's Revenge
     Original title: グロッグス・リベンジ
-    Longname: B.C.'s Quest for Tires II Grog's Revenge [A2 full fixed].rom
+    Longname: B.C.'s Quest for Tires II Grog's Revenge [full fixed].rom
     sha1: a522fbe71f28cc6dee4550e2314d414fa237c18a
-    Name: BCQF2A2F.ROM
+    Name: GrogsRFF.ROM
     Genre: Action
     Language: English
     Country: Japan
@@ -39395,7 +39671,7 @@
     Longname: Oyoide Tango (J).rom
     sha1: 41ba54c945104915ccc8d465930445c905d839e4
     Name: OyoideTa.ROM
-    Genre: Action, Educative
+    Genre: Typing training
     Language: Japanese
     Country: Japan
     Type: 8kB Rom (8000h-9FFFh)
@@ -39418,7 +39694,7 @@
     Longname: Oyoide Tango (J) [Font fix].rom
     sha1: 29f63fd716847ef7a1ab9291675d8d7a7325ff4d
     Name: OyoideFf.ROM
-    Genre: Action, Educative
+    Genre: Typing training
     Language: Japanese
     Country: Japan
     Type: 16kB Rom (8000h-BFFFh)
@@ -39441,7 +39717,7 @@
     Longname: Oyoide Tango (J) [overdumped].rom
     sha1: 3f4dd4b459f12306fe36864344af0b35f8c5d3b4
     Name: OyoideTa Overdumped.ROM
-    Genre: Educational
+    Genre: Typing training
     Language: Japanese
     Country: Japan
     Type: 8kB Rom (8000h-9FFFh) + the same 8kB Rom
@@ -41588,9 +41864,9 @@
 
   - English title: Star Soldier
     Original title: スターソルジャー
-    Longname: Star Soldier [smooth scrolling].rom
+    Longname: Star Soldier [smooth scroll v0.0].rom
     sha1: 8c66663d7d8c7474ca320c4de8e1541f25ee2577
-    Name: SSoldiSS.ROM
+    Name: SSoldSS0.ROM
     Genre: Shoot'em up (Smooth vertical scrolling)
     Language: English
     Country: Japan
@@ -41605,15 +41881,15 @@
     Signature: No
     Publisher: Hudson Soft
     Developer: Hudson Soft, Enhanced by Kaizou Kaikai
-    Release: 1986, 2022 (enhanced version)
+    Release: 1986, 2022 (enhanced version 0.0)
     Original Dump: No
     Remark: 
 
   - English title: Star Soldier
     Original title: スターソルジャー
-    Longname: Star Soldier [smooth scrolling] [MSX-Music] [v0.1].rom
+    Longname: Star Soldier Star Soldier [smooth scroll v0.1] [MSX-Music].rom
     sha1: c52b08504db2d65980f6c9a3a8ec26c11c7f484b
-    Name: SSoldSM1.ROM
+    Name: SSoldSS1.ROM
     Genre: Shoot'em up (Smooth vertical scrolling)
     Language: English
     Country: Japan
@@ -41634,9 +41910,9 @@
 
   - English title: Star Soldier
     Original title: スターソルジャー
-    Longname: Star Soldier [smooth scrolling] [MSX-Music] [v0.2].rom
+    Longname: Star Soldier [smooth scroll v0.2] [MSX-Music].rom
     sha1: bb685ab32c5f493ba69d02fa74c37fcf768f504e
-    Name: SSoldSM2.ROM
+    Name: SSoldSS2.ROM
     Genre: Shoot'em up (Smooth vertical scrolling)
     Language: English
     Country: Japan
@@ -41652,6 +41928,29 @@
     Publisher: Hudson Soft
     Developer: Hudson Soft, Enhanced by Kaizou Kaikai
     Release: 1986, 2023 (enhanced version 0.2)
+    Original Dump: No
+    Remark: 
+
+  - English title: Star Soldier
+    Original title: スターソルジャー
+    Longname: Star Soldier [smooth scroll v0.3] [MSX-Music].rom
+    sha1: d24d853a90d8bdacec1fa8f43c938e1f366513ca
+    Name: SSoldSS3.ROM
+    Genre: Shoot'em up (Smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music on MSX turbo R
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft, Enhanced by Kaizou Kaikai
+    Release: 1986, 2023 (enhanced version 0.3)
     Original Dump: No
     Remark: 
 
@@ -60098,7 +60397,7 @@
     Longname: C-So!.rom
     sha1: 8b4853737f7f4006ca4291f481cfdfcf66e2ce34
     Name: C-So!.ROM
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -60114,14 +60413,14 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Anti-copy protection!
 
   - English title: C-So!
     Original title: シーソー
     Longname: C-So! [a].rom
     sha1: b9ac3ac15b49eaabcb640cc6b48f4706e0f18246
     Name: C-So!-A.ROM
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -60137,14 +60436,14 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Version with anti-copy protection removed.
 
   - English title: C-So!
     Original title: シーソー
     Longname: C-So! [a2].rom
     sha1: cd69ce70747bc0deebba9fd307a07f5dfb926cc3
     Name: C-So!A2.ROM
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -60160,14 +60459,14 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Anti-copy protection!
 
   - English title: C-So!
     Original title: シーソー
     Longname: C-So! [a2-overdumped].rom
     sha1: 22183520d99924a4185c5572a3cf948f4f0f04b5
     Name: C-So!A2 Overdumped.ROM
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh) + the same 16kB Rom
@@ -60183,7 +60482,7 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: 
+    Remark: Anti-copy protection!
 
   - English title: Challenge Derby
     Original title: チャレンジダービー
@@ -67682,9 +67981,9 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Telenet Japan
+    Publisher: Telenet Japan, patch by Kaizou Kaikai
     Developer: Telenet Japan
-    Release: 1986 (original)
+    Release: 1986 (original), 2021 (patch)
     Original Dump: No
     Remark: 
 
@@ -67705,9 +68004,9 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Telenet Japan
+    Publisher: Telenet Japan, patch by Kaizou Kaikai
     Developer: Telenet Japan
-    Release: 1986 (original)
+    Release: 1986 (original), 2022-01 (patch)
     Original Dump: No
     Remark: 
 
@@ -67728,9 +68027,9 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Telenet Japan
+    Publisher: Telenet Japan, patch by Kaizou Kaikai
     Developer: Telenet Japan
-    Release: 1986 (original)
+    Release: 1986 (original), 2021 (patch)
     Original Dump: No
     Remark: 
 
@@ -67751,9 +68050,9 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Telenet Japan
+    Publisher: Telenet Japan, patch by Kaizou Kaikai
     Developer: Telenet Japan
-    Release: 1986 (original)
+    Release: 1986 (original), 2022-01 (patch)
     Original Dump: No
     Remark: 
 
@@ -70231,6 +70530,33 @@
 ### Game Roms from Korea ###
 ##
 
+- Folder longname: ~/Roms from Korea/
+  Folder name: ~/Korea/
+
+  Files:
+  - English title: Tetris
+    Original title: Tetris
+    Longname: Tetris (Saeron System).rom
+    sha1: e602530053ce301d8093c41aaf8538747ca31504
+    Name: Tetris.ROM
+    Genre: Platform
+    Language: English
+    Country: Korea
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Saeron System
+    Developer: Saeron System
+    Release: 1991
+    Original Dump: Yes
+    Remark: 
+
 #
 ## Game Roms from Korea: Aproman ##
 #
@@ -70267,7 +70593,7 @@
     Longname: C-So! (Aproman).rom
     sha1: a84e89769160ea86bcd0e9a0ad2421e17eb1deaa
     Name: AC-So!.ROM
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Korea
     Type: 16kB Rom (4000h-7FFFh)
@@ -75346,7 +75672,7 @@
     Signature: No
     Publisher: Topia
     Developer: Sierra On Line
-    Release: 
+    Release: 1986
     Original Dump: 
     Remark: 
 
@@ -75369,7 +75695,30 @@
     Signature: No
     Publisher: Topia
     Developer: Sierra On Line
-    Release: 
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: B.C.'s Quest for Tires II - Grog's Revenge
+    Original title: 원시인 2
+    Longname: B.C.'s Quest for Tires II Grog's Revenge [fixed] (Topia).rom
+    sha1: a0e991c0d97e6db263e640e3b333986560c307d4
+    Name: TGrogsRF.ROM
+    Genre: Action
+    Language: English
+    Country: Korea
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (separately)
+    Signature: No
+    Publisher: Topia
+    Developer: Sierra On Line
+    Release: 1986
     Original Dump: 
     Remark: 
 
@@ -80637,7 +80986,7 @@
 
   - English title: The Cure
     Original title: The Cure
-    Longname: The Cure [a].rom
+    Longname: The Cure [MSX support fix].rom
     sha1: d9fb474c028febd25f8635e4f1413731f12907cb
     Name: TheCureA.ROM
     Genre: Platform
@@ -80656,7 +81005,7 @@
     Developer: XL2S Entertainment
     Release: 2005 (Original)
     Original Dump: No
-    Remark: 
+    Remark: Access to the VDP fixed by gdx.
 
   - English title: The Mansion
     Original title: The Mansion
@@ -81705,7 +82054,7 @@
     Longname: Word Invaders (SapphiRe Soft).rom
     sha1: da1f207466a88b347e995a6ed7d960c7cec5aa8d
     Name: WordInva.ROM
-    Genre: Typing
+    Genre: Typing training
     Language: English
     Country: Spain
     Type: 8kB Rom (4000h-5FFFh)
@@ -82225,7 +82574,7 @@
     Longname: Hose Diogo Martinez The Bussas Quest [MSXDev].rom
     sha1: 21e44cc5957b65b24c34d2c42b39879cacd82ff9
     Name: HoseDiMD.ROM
-    Genre: Typing
+    Genre: Typing training
     Language: English
     Country: Spain
     Type: 16kB Rom (4000h-7FFFh)
@@ -84380,7 +84729,7 @@
 
   - English title: Uridium
     Original title: Uridium
-    Longname: Uridium [final-a].rom
+    Longname: Uridium [final-fixed].rom
     sha1: 13bd33550d2d32ec36d387b68e256db87f279025
     Name: UridiumA.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -89189,6 +89538,29 @@
     Original Dump: Yes
     Remark: This version is very buggy.
 
+  - English title: Martian War
+    Original title: Martian War
+    Longname: Martian War [v1.1].rom
+    sha1: b241d6eba5b62e105af6667cc013159867dcbdf9
+    Name: Marti110.ROM
+    Genre: Air defense
+    Language: English
+    Country: Italy
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fausto Pracek
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
   - English title: Pearl Rain
     Original title: Pearl Rain
     Longname: Pearl Rain [v1.0].rom
@@ -89308,7 +89680,7 @@
     Original title: Tower of Damnation
     Longname: Tower of Damnation [v1.2] [50hz].rom
     sha1: 2bba3e3298742c3ea9533de6d45c74ce60a23c08
-    Name: TowDaP11.ROM
+    Name: TowDaP12.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -89331,7 +89703,7 @@
     Original title: Tower of Damnation
     Longname: Tower of Damnation [v1.2] [60hz].rom
     sha1: d4e116853834f3cc96138ec8e9ad9a3403257fb3
-    Name: TowDaN11.ROM
+    Name: TowDaN12.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -89349,6 +89721,52 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.20
+
+  - English title: Tower of Damnation
+    Original title: Tower of Damnation
+    Longname: Tower of Damnation [v1.3] [50hz].rom
+    sha1: 47b1aee6d7ceb91bfc770614e9580b81b74cf460
+    Name: TowDaP13.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1 with v-blank at 50hz
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Marcelo Correia
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.30
+
+  - English title: Tower of Damnation
+    Original title: Tower of Damnation
+    Longname: Tower of Damnation [v1.3] [60hz].rom
+    sha1: 3782dba06b79183588a8808615a595e70b1ddaf0
+    Name: TowDaN13.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1 with v-blank at 60hz
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Marcelo Correia
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.30
 
   - English title: Uchu Yohei / The Space Mercenary
     Original title: Uchu Yohei / 宇宙傭兵
@@ -89441,6 +89859,29 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.40
+
+  - English title: Uchu Yohei / The Space Mercenary
+    Original title: Uchu Yohei / 宇宙傭兵
+    Longname: Uchu Yohei [v1.6].rom
+    sha1: dccd26054bb55cc4c4099da11ccaef57a292f7fa
+    Name: UchuYo16.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: FranChesstein (José Javier Franco Benítez)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.60
 
 ##
 ### Game Roms from Netherlands ###
@@ -91099,6 +91540,29 @@
     Publisher: Sony
     Developer: Idealogic, Spinnaker
     Release: 1985
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Minimagos
+    Original title: Minimagos
+    Longname: Minimagos (Unepic_fran).rom
+    sha1: aa1ee6e3a47872691f3e8520783c015f343a944f
+    Name: Minimago.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Type: 24kB Rom (4000h-9FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Unepic_fran (aka Fran games)
+    Developer: Unepic_fran (aka Fran games)
+    Release: 2017
     Original Dump: Yes
     Remark: 
 
@@ -92887,7 +93351,7 @@
     Language: English
     Country: Spain
     Type: 32kB Rom (4000h~BFFFh)
-    Machine: MSX1 with internal V9938
+    Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
@@ -92899,7 +93363,7 @@
     Developer: Karoshi Corporation
     Release: 2003
     Original Dump: Yes
-    Remark: 
+    Remark: Version with VDP access timing fixed by gdx. (Playable on real MSX1.)
 
 #
 ## Game Roms from Spain or Mexico: Kotai ##
@@ -93664,7 +94128,7 @@
     Player number: 1
     Signature: No
     Publisher: Matra Computer Automations
-    Developer: Unepic fran
+    Developer: Unepic_fran (aka Fran games)
     Release: 2018
     Original Dump: Yes
     Remark: 
@@ -94089,7 +94553,7 @@
     Longname: Hose Diogo Martinez The Bussas Quest.rom
     sha1: ece128e71c14cacde1c58f61c51a86d986789c3e
     Name: HoseDiog.ROM
-    Genre: Typing
+    Genre: Typing training
     Language: English
     Country: Spain
     Type: 16kB Rom (4000h-7FFFh)
@@ -117455,7 +117919,7 @@
     Longname: C So!.sg
     sha1: d45a230b3cbf2d2dcfe7b94691fc7f1a5d747625
     Name: C_So!-JP.SG
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Japan
     Type: 32kB Rom (0000h-7FFFh)
@@ -117478,7 +117942,7 @@
     Longname: C So! [TW].sg
     sha1: 7101c42289815d7e0d04b523f8f0e833f2f089b3
     Name: C_So!-TW.SG
-    Genre: Maze
+    Genre: Platform
     Language: English
     Country: Taiwan
     Type: 32kB Rom (0000h-7FFFh)
