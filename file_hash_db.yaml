@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 30-06-2023 by gdx
+    MSX Roms Database version 02-07-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -9495,6 +9495,29 @@
     Publisher: Siudym
     Developer: Siudym
     Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Prince Of Persis
+    Original title: Prince Of Persis
+    Longname: Prince Of Persis - Technical demo [v1.0] (Under4Mhz).rom
+    sha1: b1e3a1a3ef3c5072e165a0840a7fdca8419a3226
+    Name: POP-Demo.ROM
+    Genre: Playable demo
+    Language: English
+    Country: Australia
+    Type: 256kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Under4Mhz
+    Developer: Under4Mhz
+    Release: 2023
     Original Dump: Yes
     Remark: 
 
@@ -97912,7 +97935,7 @@
 
   - English title: Champion Billiards
     Original title: チャンピオンビリヤード
-    Longname: Champion Billiards.rom
+    Longname: Champion Billiards (Tracy Lewis).rom
     sha1: ee4cea6057884916a2f67b5a09a9af591af04c85
     Name: CBilliar.ROM
     Genre: Billiards
@@ -97927,10 +97950,10 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: 
-    Developer: 
-    Release: 
-    Original Dump: 
+    Publisher: Tracy Lewis (on itch.io)
+    Developer: Tracy Lewis (aka Mastropiero)
+    Release: 2020
+    Original Dump: Yes
     Remark: 
 
   - English title: Championship Lode Runner
@@ -117175,6 +117198,29 @@
     Developer: 
     Release: 1987
     Original Dump: No
+    Remark: 
+
+  - English title: Spellbound
+    Original title: Spellbound
+    Longname: Spellbound (Tracy Lewis).rom
+    sha1: 804eeea2dc192655c5017ffac05c7444a1891f1e
+    Name: Spellbnd.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Tracy Lewis (on itch.io)
+    Developer: Tracy Lewis (aka Mastropiero)
+    Release: 2023
+    Original Dump: Yes
     Remark: 
 
   - English title: The Adventures of Moron van der Slut - Escape from Castro Castro
