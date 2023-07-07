@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 02-07-2023 by gdx
+    MSX Roms Database version 07-07-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -1646,7 +1646,7 @@
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1 / MSX2
     RAM: 16kB
-    VRAM: 16kB / 64kB
+    VRAM: 16kB, 64kB
     Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
@@ -8865,7 +8865,7 @@
     Type: 128kB Rom with Konami8 mapper
     Machine: MSX1 / MSX2
     RAM: 64kB
-    VRAM: 16kB / 128kB
+    VRAM: 16kB, 128kB
     Data saving: None
     Control: None
     Sound: PSG
@@ -8888,7 +8888,7 @@
     Type: 128kB Rom with Konami8 mapper
     Machine: MSX1 / MSX2
     RAM: 64kB
-    VRAM: 16kB / 128kB
+    VRAM: 16kB, 128kB
     Data saving: None
     Control: None
     Sound: PSG
@@ -8911,7 +8911,7 @@
     Type: 128kB Rom with Konami8 mapper
     Machine: MSX1 / MSX2
     RAM: 64kB
-    VRAM: 16kB / 128kB
+    VRAM: 16kB, 128kB
     Data saving: None
     Control: None
     Sound: PSG
@@ -8934,7 +8934,7 @@
     Type: 128kB Rom with Konami8 mapper
     Machine: MSX1 / MSX2
     RAM: 64kB
-    VRAM: 16kB / 128kB
+    VRAM: 16kB, 128kB
     Data saving: None
     Control: None
     Sound: PSG
@@ -8957,7 +8957,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1 / MSX2
     RAM: 64kB
-    VRAM: 16kB / 128kB
+    VRAM: 16kB, 128kB
     Data saving: None
     Control: None
     Sound: SCC
@@ -56805,12 +56805,12 @@
     Player number: 1
     Signature: No
     Publisher: Nidecom Soft
-    Developer: Taito Corporation
+    Developer: Taito Corporation, Nidecom Soft (MSX port)
     Release: 1985
     Original Dump: 
     Remark: 
 
-  - English title: Super Pierrot
+  - English title: Super Pierrot / Mr.Do! Run Run
     Original title: スーパーピエロ
     Longname: Super Pierrot.rom
     sha1: 0d2f86dbb70f4b4a4e4dc1bc95df232f48856037
@@ -56818,40 +56818,109 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 128kB Rom with SuperPierrot mapper
-    Machine: MSX1 / MSX2
-    RAM: 8kB / 64kB
-    VRAM: 16kB / 64kB
+    Type: 128kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
     Publisher: Nidecom Soft
-    Developer: Nidecom Soft  (Copyright Universal)
+    Developer: Universal (original), Nidecom Soft  (MSX port)
     Release: 1987
     Original Dump: Yes
     Remark: 
 
-  - English title: Super Pierrot
+  - English title: Super Pierrot / Mr.Do! Run Run
     Original title: スーパーピエロ
-    Longname: Super Pierrot [ASCII16].rom
+    Longname: Super Pierrot [ASCII8 mapper].rom
+    sha1: 4f3ce0f98ffd2d663b116eff224e421856bd4403
+    Name: SPierrA8.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Nidecom Soft
+    Developer: Universal (original), Nidecom Soft  (MSX port)
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: ASCII8 mapper convertion by bsittler. PSG ports fix by gdx.
+
+  - English title: Super Pierrot / Mr.Do! Run Run
+    Original title: スーパーピエロ
+    Longname: Super Pierrot [KonamiSCC mapper].rom
+    sha1: 2c9cebe995a25bb6a3039e5bb09628d5d8de1c1b
+    Name: SPierrKS.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Nidecom Soft
+    Developer: Universal (original), Nidecom Soft  (MSX port)
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: KonamiSCC mapper convertion by bsittler. PSG ports fix by gdx.
+
+  - English title: Super Pierrot / Mr.Do! Run Run
+    Original title: スーパーピエロ
+    Longname: Super Pierrot [PSG ports fix].rom
+    sha1: 8c4d65ec7e255df5d520abee4b024a4d861d92bb
+    Name: SPierrPf.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Nidecom Soft
+    Developer: Universal (original), Nidecom Soft  (MSX port)
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: PSG ports fix by gdx.
+
+  - English title: Super Pierrot / Mr.Do! Run Run
+    Original title: スーパーピエロ
+    Longname: Super Pierrot [with segment reseted on page 2].rom
     sha1: feaa75bbe0b9906c981ad6b9aba3823856033477
     Name: SPierMsi.ROM
     Genre: Action
     Language: English
     Country: Japan
     Type: 128kB Rom with ASCII16 mapper
-    Machine: MSX1 / MSX2
-    RAM: 8kB / 64kB
-    VRAM: 16kB / 64kB
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Nidecom (original)
-    Developer: Nidecom Soft  (Copyright Universal)
+    Publisher: Nidecom Soft
+    Developer: Universal (original), Nidecom Soft  (MSX port)
     Release: 1987 (original)
     Original Dump: No
     Remark: 
@@ -76383,9 +76452,9 @@
     Language: English
     Country: Korea
     Type: 128kB Rom with Zemina8 mapper
-    Machine: MSXMSX2
-    RAM: 64kB (16kB)
-    VRAM: 64kB
+    Machine: MSX1, MSX2
+    RAM: 16kB
+    VRAM: 16kB, 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
@@ -93655,7 +93724,7 @@
     Developer: Kralizec
     Release: 2012
     Original Dump: Yes
-    Remark: 
+    Remark: Graphics change depending the MSX generation.
 
 #
 ## Game Roms from Spain or Mexico: Mapax ##
@@ -93960,7 +94029,7 @@
     Type: 48kB Rom (0000h-BFFFh)
     Machine: MSX1, MSX2
     RAM: 16kB
-    VRAM: 16kB
+    VRAM: 16kB, 64kB
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
@@ -93970,7 +94039,7 @@
     Developer: Ink Team
     Release: 2006
     Original Dump: Yes
-    Remark: 
+    Remark: Graphics change on MSX2.
 
   - English title: Konami Compilation Volume 1
     Original title: Konami Compilation Volume 1
@@ -94697,7 +94766,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / keyboard and joystick
     Sound: External PSG, SCC and MSX turbo R PCM when present
@@ -94707,7 +94776,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: Yes
-    Remark: Copy protected.
+    Remark: Copy protected. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -94720,7 +94789,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: External PSG, SCC and MSX turbo R PCM when present
@@ -94730,7 +94799,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: Yes
-    Remark: Copy protected.
+    Remark: Copy protected. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -94743,7 +94812,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG, SCC and MSX turbo R PCM when present
@@ -94753,7 +94822,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed.
+    Remark: Version with anti-copy protection removed. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -94766,7 +94835,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG and SCC
@@ -94776,7 +94845,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed by Slotman.
+    Remark: Version with anti-copy protection removed by Slotman. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -94789,7 +94858,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB
+    VRAM: 16kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG, SCC and MSX turbo R PCM when present
@@ -94799,7 +94868,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed by Slotman.
+    Remark: Version with anti-copy protection removed by Slotman. Graphics change depending the MSX generation.
 
   - English title: Who dares wins
     Original title: Who dares wins
@@ -97626,9 +97695,9 @@
     Language: English
     Country: UK
     Type: 128kB Rom with ASCII8 mapper
-    Machine: MSX2
-    RAM: 64kB (16kB)
-    VRAM: 64kB
+    Machine: MSX1, MSX2
+    RAM: 16kB
+    VRAM: 16kB, 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
@@ -97638,7 +97707,7 @@
     Developer: SubLOGIC
     Release: 1988
     Original Dump: Yes
-    Remark: Also sold in Japan with "フライトシミュレーター 魚雷攻撃" as title.
+    Remark: Graphics are more colored on MSX2. Also sold in Japan with "フライトシミュレーター 魚雷攻撃" as title.
 
   - English title: Flight Simulator With Torpedo Attack
     Original title: Flight Simulator With Torpedo Attack
@@ -97649,9 +97718,9 @@
     Language: English
     Country: UK
     Type: 128kB Rom with ASCII8 mapper
-    Machine: MSX2
-    RAM: 64kB (16kB)
-    VRAM: 64kB
+    Machine: MSX1, MSX2
+    RAM: 16kB
+    VRAM: 16kB, 64kB
     Data saving: None
     Control: Keyboard
     Sound: PSG
@@ -97661,7 +97730,7 @@
     Developer: SubLOGIC
     Release: 1988 (original)
     Original Dump: No
-    Remark: 
+    Remark: Graphics are more colored on MSX2. Also sold in Japan with "フライトシミュレーター 魚雷攻撃" as title.
 
 #
 ## Game Roms from U.K.: UltraNarwhal ##
