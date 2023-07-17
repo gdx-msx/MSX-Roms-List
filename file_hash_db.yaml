@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 07-07-2023 by gdx
+    MSX Roms Database version 17-07-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -12606,6 +12606,29 @@
     Original Dump: No
     Remark: Also called Meteor Storm by mistake.
 
+  - English title: Roboy
+    Original title: Roboy
+    Longname: Roboy.rom
+    sha1: 9003686be2f61e034b5857453dcad6aec5cb8dec
+    Name: Roboy.ROM
+    Genre: Shooting (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Methodic Solutions (floppy disk)
+    Developer: Double Brain!
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
   - English title: Roller Ball
     Original title: ローラーボール
     Longname: Roller Ball [from Hal Game Collection vol.2].rom
@@ -18544,6 +18567,29 @@
     Release: 1987-07 (original)
     Original Dump: No
     Remark: 
+
+  - English title: Super Laydock - Mission Striker
+    Original title: 
+    Longname: Super Laydock Mission Striker [Invincible].rom
+    sha1: 5eef8b37fe4429378879db1d707f5bb5de4ad281
+    Name: ZSLaydND.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Korea
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Zemina / Saehan Sangsa
+    Developer: T&E Soft
+    Release: 1987-07 (original), 2023 (patch)
+    Original Dump: No
+    Remark: No damage patch by Uniskie.
 
   - English title: Good Places In Heaven
     Original title: 
@@ -42854,6 +42900,121 @@
 
   - English title: R-Type
     Original title: R-TYPE
+    Longname: R-Type [ASCII8 mapper].rom
+    sha1: 5a0313133114a617b131167f331ccd794d2fb80d
+    Name: R-TypeA8.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 336kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original), 2023 (patch)
+    Original Dump: No
+    Remark: Patch by bsittler. MSX-Music works if an FM-PAC in inserted in the slot 2 only.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [ASCII16 mapper].rom
+    sha1: d79a9ce20e544de33019cee0e001468b50475250
+    Name: R-TypA16.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 336kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original), 2023 (patch)
+    Original Dump: No
+    Remark: Patch by bsittler. MSX-Music works if an FM-PAC in inserted in the slot 2 only.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [ASCII16 mapper-a].rom
+    sha1: 3c93e037ff401549c23787ced3bf3376d42aa9e3
+    Name: RTypA16A.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 336kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original), 2023 (patch)
+    Original Dump: No
+    Remark: Patch by Jipe. MSX-Music works if an FM-PAC in inserted in the slot 2 only.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [KonamiSCC mapper].rom
+    sha1: d910bc60583eb33ca9a8af1af59a830b255a3891
+    Name: R-TypeSM.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 336kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original), 2023 (patch)
+    Original Dump: No
+    Remark: Patch by bsittler. MSX-Music works if an FM-PAC in inserted in the slot 2 only.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [KonamiSCC mapper-a].rom
+    sha1: 8ae81d9c0f0c26abf1dd8bbf253cbc625578bb97
+    Name: RTypeSMA.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 336kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original), 2023 (patch)
+    Original Dump: No
+    Remark: Patch by Jipe. MSX-Music works if an FM-PAC in inserted in the slot 2 only.
+
+  - English title: R-Type
+    Original title: R-TYPE
     Longname: R-Type [MSX-Music fix].rom
     sha1: 96c84bfc2756313a6a2e1d09319f4aa85e815127
     Name: R-TypFMf.ROM
@@ -42871,7 +43032,7 @@
     Signature: No
     Publisher: Irem
     Developer: Irem
-    Release: 1988
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
@@ -42894,15 +43055,15 @@
     Signature: No
     Publisher: Irem
     Developer: Irem
-    Release: 1988
-    Original Dump: 
+    Release: 1988 (original)
+    Original Dump: No
     Remark: 
 
   - English title: R-Type
     Original title: R-TYPE
     Longname: R-Type [MSX-Music Fix-ASCII8 mapper].rom
     sha1: e796d475b24fdf704acab8b9a5526f86324f85d8
-    Name: R-Type8.ROM
+    Name: RTypeMf8.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
@@ -42917,15 +43078,38 @@
     Signature: No
     Publisher: Irem
     Developer: Irem
-    Release: 1988
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
   - English title: R-Type
     Original title: R-TYPE
+    Longname: R-Type [MSX-Music Fix-ASCII8 mapper-a].rom
+    sha1: bb823de2c623d3e6087b4e5ec318d3c2dc8e30e3
+    Name: RTypMf8A.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 304kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
+
+  - English title: R-Type
+    Original title: R-TYPE
     Longname: R-Type [MSX-Music Fix-ASCII16 mapper].rom
     sha1: 3776f140273802860c3ce437187f15987f7b7c68
-    Name: R-Type16.ROM
+    Name: RTypMf16.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
@@ -42940,19 +43124,19 @@
     Signature: No
     Publisher: Irem
     Developer: Irem
-    Release: 1988
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
 
   - English title: R-Type
     Original title: R-TYPE
-    Longname: R-Type [MSX-Music Fix-Konami8 mapper].rom
-    sha1: b64267985c0f51f4153e16aafeb5d6704195a78a
-    Name: R-TypeK4.ROM
+    Longname: R-Type [MSX-Music Fix-ASCII16 mapper-a].rom
+    sha1: 4162bb2f7b15e1a8ec4b276389d843fbd5bafdc4
+    Name: RTyMf16A.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 512kB Rom with Konami8 mapper
+    Type: 304kB Rom with ASCII16 mapper
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
@@ -42963,9 +43147,124 @@
     Signature: No
     Publisher: Irem
     Developer: Irem
-    Release: 1988
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [MSX-Music Fix-KonamiSCC mapper].rom
+    sha1: b64267985c0f51f4153e16aafeb5d6704195a78a
+    Name: RTypMfSM.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
     Original Dump: No
     Remark: 
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [MSX-Music Fix-KonamiSCC mapper-a].rom
+    sha1: adab804a181d3e4ff8b0a4e79855ef4be3e956a9
+    Name: RTyMfSMA.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 304kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [PSG only-ASCII8 mapper].rom
+    sha1: 1dfadc5e8815a43672fe09c02cee016b3b141ec2
+    Name: RTypePA8.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 304kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [PSG only-ASCII16 mapper].rom
+    sha1: a3c374a827c4de58df5652f276320cec45ef5913
+    Name: RTypPA16.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 304kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
+
+  - English title: R-Type
+    Original title: R-TYPE
+    Longname: R-Type [PSG only-KonamiSCC mapper].rom
+    sha1: bfffa643ec7ca266c4023eca2fdcd18d3befaf13
+    Name: RTypePKS.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 304kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Patch by bsittler.
 
   - English title: R-Type
     Original title: R-TYPE
@@ -42988,7 +43287,7 @@
     Developer: Irem
     Release: 1988
     Original Dump: 
-    Remark: 
+    Remark: MSX-Music works if an FM-PAC in inserted in the slot 2 only.
 
   - English title: R-Type
     Original title: R-TYPE
@@ -43011,7 +43310,7 @@
     Developer: Irem
     Release: 1988
     Original Dump: 
-    Remark: 
+    Remark: MSX-Music works if an FM-PAC in inserted in the slot 2 only.
 
   - English title: R-Type launcher
     Original title: R-Type launcher
@@ -43271,6 +43570,29 @@
     Longname: Super Lode Runner [KonamiSCC mapper].rom
     sha1: f858b764ab211263950bf826f15fe8e81a0421cd
     Name: SLRunnKS.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Floppy disk, Tape
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1987
+    Original Dump: No
+    Remark: 
+
+  - English title: Super Lode Runner
+    Original title: スーパーロードランナー
+    Longname: Super Lode Runner [KonamiSCC mapper-a].rom
+    sha1: 9c9546321bdd94981fd15ec8adf7f5fdf7b68ec6
+    Name: SLRunKSA.ROM
     Genre: Action
     Language: English
     Country: Japan
@@ -89653,6 +89975,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Mine Command
+    Original title: Mine Command
+    Longname: Mine Command [v1.0].rom
+    sha1: eb3b2fb324c2e69c055e40857a046f2f695d3cb3
+    Name: MineC100.ROM
+    Genre: Action
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fred Rique
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00
+
   - English title: Pearl Rain
     Original title: Pearl Rain
     Longname: Pearl Rain [v1.0].rom
@@ -92430,13 +92775,13 @@
   Files:
   - English title: Bat Man MSX2 remake
     Original title: Bat Man MSX2 remake
-    Longname: Bat Man MSX2 remake [FlashRom & external PSG].rom
+    Longname: Bat Man MSX2 remake (E-S) [FlashRom & external PSG].rom
     sha1: ae93613cc672d7d8468383bb714fd4dc96655b2d
     Name: BatmaX2O.ROM
     Genre: Role playing
     Language: English / Spanish
     Country: Spain
-    Type: 1024kB Rom with KonamiSCC mapper
+    Type: 1024kB FlashRom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -92446,16 +92791,39 @@
     Player number: 1
     Signature: No
     Publisher: FX Software
-    Developer: FX Software
+    Developer: AAMSX, FX Software
     Release: 2014
     Original Dump: Yes
+    Remark: Press the F2 key to save the state game. Press the F4 to load.
+
+  - English title: Bat Man MSX2 remake
+    Original title: Bat Man MSX2 remake
+    Longname: Bat Man MSX2 remake (E-S) [free version-nosave].rom
+    sha1: 428fe64e121b1067b8100b298ecfa384990b5429
+    Name: BatX2FNS.ROM
+    Genre: Role playing
+    Language: English / Spanish
+    Country: Spain
+    Type: 1024kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: FX Software
+    Developer: AAMSX, FX Software
+    Release: 2014
+    Original Dump: No
     Remark: 
 
   - English title: Bat Man MSX2 remake
     Original title: Bat Man MSX2 remake
-    Longname: Bat Man MSX2 remake [nosave].rom
+    Longname: Bat Man MSX2 remake (E-S) [nosave].rom
     sha1: 4f856775b2a8611e47c58d92c89a3aa88845d102
-    Name: BatmaX2O.ROM
+    Name: BatmX2NS.ROM
     Genre: Role playing
     Language: English / Spanish
     Country: Spain
@@ -92482,7 +92850,7 @@
     Genre: Role playing
     Language: English / Spanish
     Country: Spain
-    Type: 1024kB Rom with KonamiSCC mapper
+    Type: 1024kB FlashRom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -92495,7 +92863,7 @@
     Developer: FX Software
     Release: 2016
     Original Dump: 
-    Remark: 
+    Remark: Press the F2 key to save the state game. Press the F4 to load.
 
   - English title: Head Over Heals MSX2 remake
     Original title: Head Over Heals MSX2 remake
@@ -97443,6 +97811,52 @@
     Signature: No
     Publisher: Aquarius
     Developer: Nippon Dexter
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Shout Match
+    Original title: Shout Match
+    Longname: Shout Match (Aquarius).rom
+    sha1: 46eb444271d7f56af994a9d8f4ae11a7fe037b82
+    Name: AqShoutM.ROM
+    Genre: Action
+    Language: English
+    Country: Thailand
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Aquarius
+    Developer: Fun Project
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Swing-Man
+    Original title: Swing-Man
+    Longname: Swing-Man (Aquarius).rom
+    sha1: cfaaf8d367c71f93b42bde4ef6ae2dfc11cc2e67
+    Name: SwingMan.ROM
+    Genre: Action
+    Language: English
+    Country: Thailand
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Aquarius
+    Developer: Compile
     Release: 
     Original Dump: Yes
     Remark: 
@@ -102909,7 +103323,30 @@
     Original title: Zaxxon
     Longname: Zaxxon (P).rom
     sha1: 57034994710a9d744c768493679b78ca06b9dc8d
-    Name: ZaxxonPT.ROM
+    Name: ZaxxonP.ROM
+    Genre: Shoot'em up (pseudo 3D scrolling)
+    Language: Portuguese
+    Country: Brazil
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Disprosoft
+    Developer: Sega
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Zaxxon
+    Original title: Zaxxon
+    Longname: Zaxxon (P) [a].rom
+    sha1: dde8e54aa8c3f9e99fb9bc0ceb226db9a7de9ea8
+    Name: ZaxxonPA.ROM
     Genre: Shoot'em up (pseudo 3D scrolling)
     Language: Portuguese
     Country: Brazil
