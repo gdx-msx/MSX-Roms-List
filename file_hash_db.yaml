@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 17-07-2023 by gdx
+    MSX Roms Database version 03-08-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 244 classified bad dumps.
+    Currently there are 247 classified bad dumps.
 
 ##
 ### Application Roms ###
@@ -345,6 +345,29 @@
     Release: 1985
     Original Dump: 
     Remark: Press F1.
+
+  - English title: FM MusiWriter
+    Original title: FM ミュージライター
+    Longname: FM MusiWriter (Avic Soft).rom
+    sha1: 07299eb581da7d1d19cde35d39b16b3112e6a424
+    Name: FM_MW.ROM
+    Genre: Music editor
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard, mouse
+    Sound: FM Sound Synthesizer Unit (SFG-01 / SFG-05)
+    Player number: None
+    Signature: No
+    Publisher: Avic Soft
+    Developer: Rittor Music / MCS
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
 
   - English title: Fuzix
     Original title: Fuzix
@@ -922,8 +945,8 @@
     Remark: 
 
   - English title: PSG MusiWriter
-    Original title: PSGミュージライター
-    Longname: PSG MusiWriter.rom
+    Original title: PSG ミュージライター
+    Longname: PSG MusiWriter (Avic Soft).rom
     sha1: fc4c05ca47c94df877bed2e02307bd6307f738a6
     Name: MusiWrit.ROM
     Genre: Music Writer
@@ -938,8 +961,8 @@
     Sound: PSG
     Player number: None
     Signature: No
-    Publisher: Rittor Music
-    Developer: AViC Soft
+    Publisher: Rittor Music / MCS
+    Developer: Avic Soft
     Release: 1984
     Original Dump: 
     Remark: 
@@ -1703,6 +1726,175 @@
     Release: 1988
     Original Dump: 
     Remark: Enter _WRITE to run it. A standard Kanji-ROM 1st & 2nd level is required when used from a DIY cartridge.
+
+#
+## Application Roms: César Rincón ##
+#
+
+- Folder longname: ~/Application Roms/Cesar Rincon
+  Folder name: ~/Applis/Rincon
+
+  Files:
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v0.9.0-a].rom
+    sha1: 6e94c746a432898534f249bf78de84adcac9699e
+    Name: MSXDi090.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-04-08
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.0.0].rom
+    sha1: c4fd277e12e25c0e27b201983ce4ca7374dfef76
+    Name: MSXDi100.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-04-10
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.1.0].rom
+    sha1: 31353d6a1867e372a770922bd34cd098453a2e8c
+    Name: MSXDi110.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 24kB Rom (4000h-9FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-04-15
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.1.4].rom
+    sha1: 9147bc232c900f68062dfd89066e64bad3a475b4
+    Name: MSXDi114.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 24kB Rom (4000h-9FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-04-20
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.1.6].rom
+    sha1: 85924e7ed0144080a03829fcd54ac0c9b69641de
+    Name: MSXDi116.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 24kB Rom (4000h-9FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-04-25
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.1.8].rom
+    sha1: e3259714ff33855155440d15c7d76c1daa6cffa3
+    Name: MSXDi118.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-05-01
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX Diagnostics
+    Original title: MSX Diagnostics
+    Longname: MSX Diagnostics [v1.2.0].rom
+    sha1: da2ce818758a18d497c03f3967b000aea60d3186
+    Name: MSXDi120.ROM
+    Genre: Systen info
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: César Rincón
+    Developer: César Rincón
+    Release: 2020-07-24
+    Original Dump: Yes
+    Remark: 
 
 #
 ## Application Roms: HAL Laboratory ##
@@ -4450,6 +4642,52 @@
     Original Dump: No
     Remark: 
 
+  - English title: Ewoks and the Dandelion Warriors
+    Original title: Ewoks and the Dandelion Warriors
+    Longname: Ewoks and the Dandelion Warriors (S) [Bad dump].rom
+    sha1: e8437b5372f29193e99db30d1a75993ebed93c61
+    Name: BADDUMP246.ROM
+    Genre: Bad dump
+    Language: Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Walther Miller
+    Developer: Walther Miller
+    Release: 
+    Original Dump: No
+    Remark: The music and game is very buggy.
+
+  - English title: Ewoks and the Dandelion Warriors
+    Original title: Ewoks and the Dandelion Warriors
+    Longname: Ewoks and the Dandelion Warriors (S) [Bad dump 2].rom
+    sha1: 5cbb450a32b246af1a917ce69df8c1545561eace
+    Name: BADDUMP247.ROM
+    Genre: Bad dump
+    Language: Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 
+    Signature: No
+    Publisher: Walther Miller
+    Developer: Walther Miller
+    Release: 
+    Original Dump: No
+    Remark: The music and game is very buggy.
+
   - English title: 
     Original title: 
     Longname: Exerion II Zorni [a].gz
@@ -4597,6 +4835,29 @@
     Language: 
     Country: 
     Type: 32kB file
+    Machine: MSX
+    RAM: 
+    VRAM: 
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: 
+    Original title: 
+    Longname: FM Pana Amusement Cartridge (J) [Bad dump].rom
+    sha1: 2dc4517ebd5a061f9b5aa6b449cc4d4a2073540c
+    Name: BADDUMP244.ROM
+    Genre: Bad dump
+    Language: 
+    Country: 
+    Type: 16kB file
     Machine: MSX
     RAM: 
     VRAM: 
@@ -12323,14 +12584,14 @@
     Remark: 
 
   - English title: Poyo Poyo Life
-    Original title: Poyo Poyo Life
+    Original title: ぽよぽよ らいふ
     Longname: Poyo Poyo Life.rom
     sha1: f3cf0e4d88ccfd6720fff8feed8e6a3caada83a0
     Name: PoyoLife.ROM
     Genre: Board
     Language: English
     Country: Japan
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 64kB Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -12346,14 +12607,14 @@
     Remark: 
 
   - English title: Poyo Poyo Life 2
-    Original title: Poyo Poyo Life 2
+    Original title: ぽよぽよ らいふ 2
     Longname: Poyo Poyo Life 2.rom
     sha1: 6630158b46f96756d1a90d2df909c4dcc4bca6c7
     Name: PoyoLif2.ROM
     Genre: Board
     Language: English
     Country: Japan
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -12700,7 +12961,7 @@
 
   - English title: The Lost Mines
     Original title: The Lost Mines
-    Longname: The Lost Mines [Extended version] (Cesar Rincon).rom
+    Longname: The Lost Mines [Extended version] (César Rincón).rom
     sha1: f2dfc7e0c3ae05214ee56362eef6a8bfd599f4db
     Name: LostMiEx.ROM
     Genre: Maze
@@ -12718,6 +12979,29 @@
     Publisher: Nightfox & Co.
     Developer: César Rincón
     Release: 2015 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Time Bomb
+    Original title: Time Bomb
+    Longname: Time Bomb (Methodic Solutions).rom
+    sha1: c88629f1ab4fd84abea81587310a1504ce65eac7
+    Name: TimeBomb.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Methodic Solutions
+    Developer: Double Brain!
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -31726,6 +32010,52 @@
     Original Dump: 
     Remark: 
 
+  - English title: The Castle
+    Original title: ザ・キャッスル
+    Longname: The Castle [saving to disk v1.0 trimmed].rom
+    sha1: 924efaf45f7adf25d1d7d89847a3ebe648fa7fc2
+    Name: TheCaS2D.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 40kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation, modified by Armando Perez Abad
+    Release: 1986 (original), 2016 (patch)
+    Original Dump: No
+    Remark: The game will crash if there is NOT disk to save / load.
+
+  - English title: The Castle
+    Original title: ザ・キャッスル
+    Longname: The Castle (J) [saving to disk v1.0 trimmed].rom
+    sha1: 8d106196843d946e02c964a52c68570b0efd5977
+    Name: TheCJS2D.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 40kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: ASCII Corporation
+    Developer: ASCII Corporation, modified by Armando Perez Abad
+    Release: 1986 (original), 2016 (patch)
+    Original Dump: No
+    Remark: The game will crash if there is NOT disk to save / load.
+
   - English title: Thunder Ball
     Original title: THUNDER BALL
     Longname: Thunder Ball.rom
@@ -35542,7 +35872,7 @@
     Longname: Guardic.rom
     sha1: 67baaaa870ad4a08f55ec1c67dbeabc97b6f18a0
     Name: Guardic.ROM
-    Genre:Shoot'em up
+    Genre: Shoot'em up
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -39574,6 +39904,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: The Roving Planet Styllus
+    Original title: 機動惑星 スティルス
+    Longname: Kidou Wakusei Stills - The Roving Planet Styllus [saving to disk v1.0 trimmed].rom
+    sha1: ba24f6eee69a8a3661e4a64c013b720d512fc0e2
+    Name: MobilS2D.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 40kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: HAL Laboratory
+    Developer: HAL Laboratory, modified by Armando Perez Abad
+    Release: 1986 (original), 2016 (patch)
+    Original Dump: No
+    Remark: The game will crash if there is NOT disk to save / load.
+
   - English title: Eggerland 2
     Original title: 迷宮神話
     Longname: Meikyuu Shinwa - Eggerland 2 (J).rom
@@ -41614,6 +41967,29 @@
     Longname: Pooyan (Konami).rom
     sha1: 692a55393e8eef0800a612c01456e9cecd9c1418
     Name: Pooyan.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Konami (original), Hudson Soft (MSX port)
+    Release: 1985
+    Original Dump: 
+    Remark: 
+
+  - English title: Pooyan
+    Original title: コナミのプーヤン
+    Longname: Pooyan (Konami) [header fix].rom
+    sha1: 2aa11fa0ee0dc50d2f5ca49c1421e16103da69bd
+    Name: PooyanHF.ROM
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
@@ -56582,6 +56958,29 @@
 
   - English title: Bubble Bobble
     Original title: Bubble Bobble
+    Longname: Bubble Bobble [Sprites fixed-SCC mapper].rom
+    sha1: c6456fc561c7f745a9721c5db701b5b45805901d
+    Name: BubbSFSM.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with SCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Taito (original)
+    Developer: Taito Corporation
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Bubble Bobble
+    Original title: Bubble Bobble
     Longname: Bubble Bobble (Translated to Spanish).rom
     sha1: f6f08f7793a703507cba56b5779150b259607cd5
     Name: BubbleBS.ROM
@@ -58070,13 +58469,13 @@
 
   - English title: Skygaldo
     Original title: スカイギャルド
-    Longname: Skygaldo (Magical Zoo).rom
+    Longname: Skygaldo [v1.0] (Magical Zoo).rom
     sha1: 136d838cc1297940d96cd8e27aea9f9e3c7088a6
     Name: Skygaldo.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 32kB Rom (4000h-BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -58087,19 +58486,19 @@
     Signature: No
     Publisher: Magical Zoo
     Developer: Magical Zoo
-    Release: 1986
+    Release: 1986-05
     Original Dump: 
     Remark: 
 
   - English title: Skygaldo
     Original title: スカイギャルド
-    Longname: Skygaldo [a] (Magical Zoo).rom
+    Longname: Skygaldo [v1.0-a] (Magical Zoo).rom
     sha1: 72845ccc50f714562ddb87f978c99b4076aa120a
     Name: SkygaldA.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 32kB Rom (4000h-BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -58110,8 +58509,31 @@
     Signature: No
     Publisher: Magical Zoo
     Developer: Magical Zoo
-    Release: 1986
+    Release: 1986-05
     Original Dump: 
+    Remark: 
+
+  - English title: Skygaldo
+    Original title: スカイギャルド
+    Longname: Skygaldo [v2.0] (Magical Zoo).rom
+    sha1: bdfc16da84999e596efe750cb7ef5d79218e0433
+    Name: SkygalV2.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh without mirror)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Magical Zoo
+    Developer: Magical Zoo
+    Release: 1986-06
+    Original Dump: Yes
     Remark: 
 
   - English title: Tetris
@@ -66499,9 +66921,9 @@
 
   - English title: Dota
     Original title: 冒険浪漫
-    Longname: Bouken Roman Dota [a].rom
+    Longname: Bouken Roman Dota [MSX support fix].rom
     sha1: 1ffef57e6c06068b330027294aae173103c8f141
-    Name: BR-DotaA.ROM
+    Name: BRDotaMF.ROM
     Genre: Platform
     Language: English
     Country: Japan
@@ -66522,9 +66944,9 @@
 
   - English title: Dota
     Original title: 冒険浪漫
-    Longname: Bouken Roman Dota [a2].rom
+    Longname: Bouken Roman Dota [MSX support fix-a].rom
     sha1: 953ac0569d5e82e1cb6b60412e56534d73e4ca42
-    Name: BRDotaA2.ROM
+    Name: BRDotMFA.ROM
     Genre: Platform
     Language: English
     Country: Japan
@@ -66542,6 +66964,29 @@
     Release: 1986
     Original Dump: 
     Remark: 
+
+  - English title: Dota
+    Original title: 冒険浪漫
+    Longname: Bouken Roman Dota [MSX support and sound fix].rom
+    sha1: b3c507cb6c6c0fa5ae6cc49add988cf7cf89be4f
+    Name: BRDotaFX.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: System Soft
+    Developer: System Soft
+    Release: 1986
+    Original Dump: 
+    Remark: Sound fix by FX, MSX support fix by DrWh0. 
 
   - English title: F-15 Strike Eagle
     Original title: F-15ストライクイーグル
@@ -74985,7 +75430,7 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Korea
-    Type: 32kB Rom (4000h-BFFFh)
+    Type: 32kB Rom (4000h-BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -89586,7 +90031,7 @@
     Country: Netherlands
     Type: 256kB Rom with ASCII8 mapper
     Machine: MSX1
-    RAM: 32kB
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -92564,10 +93009,10 @@
     Remark: 
 
 #
-## Game Roms from Spain or Mexico: Cesar Rincon ##
+## Game Roms from Spain or Mexico: César Rincón ##
 #
 
-- Folder longname: ~/Roms from Spain or Mexico/Cesar Rincon
+- Folder longname: ~/Roms from Spain or Mexico/César Rincón
   Folder name: ~/Spain/Rincon
 
   Files:
@@ -92588,8 +93033,8 @@
     Sound: PSG
     Player number: 1 or 2 (against each other)
     Signature: No
-    Publisher: Cesar Rincon
-    Developer: Cesar Rincon
+    Publisher: César Rincón
+    Developer: César Rincón
     Release: 2015
     Original Dump: 
     Remark: 
@@ -93080,9 +93525,9 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Activisioncase
-    Original title: Activisioncase
-    Longname: Activisioncase [fixed].rom
+  - English title: Activision Gamecase
+    Original title: Activision Gamecase
+    Longname: Activision Gamecase [fixed].rom
     sha1: 3460ef57fecae3e65d41dee28cdd8f25bdab540e
     Name: ActiGCFX.ROM
     Genre: Compilation
@@ -93101,7 +93546,30 @@
     Developer: Activision (games), Jam (compilation)
     Release: 
     Original Dump: No
-    Remark: 
+    Remark: Master of The Lamps fixed by gdx.
+
+  - English title: Activision Gamecase
+    Original title: Activision Gamecase
+    Longname: Activision Gamecase [fixed r2].rom
+    sha1: be3a6ad7919f7bb693a542a166a5ca64b9ba0317
+    Name: AcGCFXR2.ROM
+    Genre: Compilation
+    Language: English
+    Country: Spain
+    Type: 512kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Jam (compilation)
+    Developer: Activision (games), Jam (compilation)
+    Release: 
+    Original Dump: No
+    Remark: Master of The Lamps fixed by gdx and FX.
 
   - English title: ASCII GameCase Vol 1
     Original title: ASCII GameCase Vol 1
@@ -93964,7 +94432,7 @@
     Genre: Platform
     Language: English
     Country: Spain
-    Type: 64kB Rom
+    Type: 64kB Rom (0000h-FFFFh)
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -96993,6 +97461,7 @@
 - Folder longname: ~/Roms from Spain or Mexico/Visualedu
   Folder name: ~/Spain/Visualdu
 
+  Files:
   - English title: Sacred Valley
     Original title: Sacred Valley
     Longname: Sacred Valley [v1.1].rom
@@ -97280,7 +97749,7 @@
   - English title: Ewoks and the Dandelion Warriors
     Original title: Ewoks and the Dandelion Warriors
     Longname: Ewoks and the Dandelion Warriors (S).rom
-    sha1: e8437b5372f29193e99db30d1a75993ebed93c61
+    sha1: cefafeaff939863468c0819a4f431504eead78dc
     Name: EwoksDWS.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
@@ -97302,9 +97771,9 @@
 
   - English title: Ewoks and the Dandelion Warriors
     Original title: Ewoks and the Dandelion Warriors
-    Longname: Ewoks and the Dandelion Warriors (S) [MSX support fix].rom
-    sha1: 5cbb450a32b246af1a917ce69df8c1545561eace
-    Name: EwokSMsf.ROM
+    Longname: Ewoks and the Dandelion Warriors (S) [bug fix].rom
+    sha1: 83eb36cd2ef71d37b0797751ba5634f7080bd64b
+    Name: EwokSMBF.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: Spanish
     Country: Spain
@@ -97321,7 +97790,7 @@
     Developer: Walther Miller
     Release: 1987
     Original Dump: No
-    Remark: MSX support improved by gdx.
+    Remark: MSX support improved by FX.
 
 #
 ## Game Roms from Spain or Mexico: Yermani Soft (German Gomez Herrera) ##
@@ -97654,7 +98123,7 @@
     Remark: 
 
 ##
-### Roms from Sweden ###
+### Game Roms from Sweden ###
 ##
 
 - Folder longname: ~/Roms from Sweden
@@ -97685,7 +98154,7 @@
     Remark: 
 
 ##
-### Roms from Taiwan ###
+### Game Roms from Taiwan ###
 ##
 
 - Folder longname: ~/Roms from Taiwan
@@ -97828,7 +98297,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick and shouter if present
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -97843,7 +98312,7 @@
     Longname: Swing-Man (Aquarius).rom
     sha1: cfaaf8d367c71f93b42bde4ef6ae2dfc11cc2e67
     Name: SwingMan.ROM
-    Genre: Action
+    Genre: Word game
     Language: English
     Country: Thailand
     Type: 16kB Rom (4000h-7FFFh)
@@ -99199,7 +99668,30 @@
     Original title: Master of The Lamps
     Longname: Master of The Lamps.rom
     sha1: 80a27a377dfab9f0ccc0b77b6125f792892bbce2
-    Name: MasterOf.ROM
+    Name: MotL.ROM
+    Genre: Action
+    Language: English
+    Country: US
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Activision
+    Developer: Activision
+    Release: 
+    Original Dump: No
+    Remark: Version with a graphic bug in the final screen because the byte 54h has been replaced by 2Ah at 3078h probably due to a reading error from the tape.
+
+  - English title: Master of The Lamps
+    Original title: Master of The Lamps
+    Longname: Master of The Lamps [fixed].rom
+    sha1: 3c84c5f0b139ad4d1b4c20c4cff5a4c64f4269b1
+    Name: MotL-Fx.ROM
     Genre: Action
     Language: English
     Country: US
@@ -99216,7 +99708,7 @@
     Developer: Activision
     Release: 1985 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Graphic bug in the final screen fixed by FX.
 
   - English title: Master of the Lamps
     Original title: Master of the Lamps
@@ -99239,7 +99731,7 @@
     Developer: Activision
     Release: 1985 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Version with a graphic bug in the final screen because the byte 54h has been replaced by 2Ah at 3078h probably due to a reading error from the tape.
 
   - English title: Master of the Lamps
     Original title: Master of the Lamps
@@ -99262,7 +99754,7 @@
     Developer: Activision
     Release: 1985 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Version with a graphic bug in the final screen because the byte 54h has been replaced by 2Ah at 3078h probably due to a reading error from the tape.
 
   - English title: River Raid
     Original title: River Raid
@@ -109293,6 +109785,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Void Runner
+    Original title: Void Runner
+    Longname: Void Runner [fix by FX].rom
+    sha1: c8c7cc28c26e69b47b88456e8618331bf4419c65
+    Name: VoidRuFX.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: UK
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Mastertronic Added Dimension
+    Developer: Mastertronic Ltd.
+    Release: 1987 (tape)
+    Original Dump: No
+    Remark: 
+
 #
 ## Tape Converted to ROM: MagicalZoo (Japan) ##
 #
@@ -117852,6 +118367,190 @@
   Folder name: ~/Devices
 
   Files:
+  - English title: MSX-Audio for HX-MU900
+    Original title: MSX-Audio for HX-MU900
+    Longname: MSX-Audio for HX-MU900 [v1.3].rom
+    sha1: f32b29dcd7b4e3a1a869dde52508a712513bd788
+    Name: MU90013.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2011-10
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for NMS-1205
+    Original title: MSX-Audio for NMS-1205
+    Longname: MSX-Audio for NMS-1205 [v1.3].rom
+    sha1: 3b02e5f45603df2c180f9c07d59b2ccc5a87bd0a
+    Name: MAMNS13.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2011-10
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for OPL3 mono
+    Original title: MSX-Audio for OPL3 mono
+    Longname: MSX-Audio for OPL3 mono [v1.3].rom
+    sha1: b344b5b7988f459354a2db49d7d339ceeee7d864
+    Name: OPL3M13.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2011-10
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for OPL3 stereo
+    Original title: MSX-Audio for OPL3 stereo
+    Longname: MSX-Audio for OPL3 stereo [v1.3].rom
+    sha1: 9c924cc79b17cfe468fc7c969868be86ccbe9d46
+    Name: OPL3S13.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2011-10
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for HX-MU900
+    Original title: MSX-Audio for HX-MU900
+    Longname: MSX-Audio for HX-MU900 [v1.3b].rom
+    sha1: e1884b6b9f11ab330b5cdb541db09fc680717605
+    Name: MU90013b.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2019-05
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for NMS-1205
+    Original title: MSX-Audio for NMS-1205
+    Longname: MSX-Audio for NMS-1205 [v1.3b].rom
+    sha1: 7f2b5e2e783451e591df688d9568bfad98a98ce9
+    Name: MAMNS13b.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2019-05
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for OPL3 mono
+    Original title: MSX-Audio for OPL3 mono
+    Longname: MSX-Audio for OPL3 mono [v1.3b].rom
+    sha1: f70458cb9fc14045223b164fb11d272a5fe8737f
+    Name: OPL3M13b.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2019-05
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX-Audio for OPL3 stereo
+    Original title: MSX-Audio for OPL3 stereo
+    Longname: MSX-Audio for OPL3 stereo [v1.3b].rom
+    sha1: 494f8704ac139e468e5646ba42980e84e88cf72b
+    Name: OPL3S13b.ROM
+    Genre: Sound expansion
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: FRS
+    Developer: FRS
+    Release: 2019-05
+    Original Dump: Yes
+    Remark: 
+
   - English title: Sensor Kid
     Original title: センサーキッド
     Longname: Sensor Kid (J).rom
@@ -118013,6 +118712,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Videotext
+    Original title: Videotexto
+    Longname: Videotexto [v1.1] (Datagame).rom
+    sha1: 08524fbea56885120124fbeeb6e47bc07aea4c30
+    Name: MSXVTXDG.ROM
+    Genre: Modem & Videotext Bios
+    Language: English
+    Country: Brazil
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Datagame Eletrônica Ltda
+    Developer: Datagame Eletrônica Ltda
+    Release: 1993
+    Original Dump: Yes
+    Remark: Based on the Digital Design DDX Modem. Enter CALL VTX in MSX-Basic to run it.
+
 #
 ## Roms from devices: Panasoft (National / Panasonic) ##
 #
@@ -118111,11 +118833,11 @@
     Developer: Panasoft (Panasonic)
     Release: 1984
     Original Dump: 
-    Remark: Full translated.
+    Remark: Fully translated.
 
   - English title: MSX-Audio
     Original title: MSX-Audio
-    Longname: MSX-Audio (J) [FS-CA1].rom
+    Longname: MSX-Audio for FS-CA1 (J).rom
     sha1: 930eae7057af1652abae794072b296a59decd61b
     Name: MSXAudio.ROM
     Genre: Sound expansion
@@ -118138,7 +118860,7 @@
 
   - English title: MSX-Audio
     Original title: MSX-Audio
-    Longname: MSX-Audio (J) [a] [FS-CA1].rom
+    Longname: MSX-Audio for FS-CA1 (J) [a].rom
     sha1: 4061c461fa9ff21a6c0e46b3a71607e332d80ba3
     Name: MSXAudiA.ROM
     Genre: Sound expansion
@@ -118158,6 +118880,39 @@
     Release: 
     Original Dump: 
     Remark: 
+
+
+##
+### Roms from MSX computers (machines)
+##
+
+- Folder longname: ~/Roms from MSX computers (machines)
+  Folder name: ~/machines
+
+  Files:
+  - English title: 
+    Original title: 
+    Longname: .rom
+    sha1: 
+    Name: .ROM
+    Genre: 
+    Language: 
+    Country: 
+    Type: 
+    Machine: MSX
+    RAM: 
+    VRAM: kB
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
 
 ##
 ### Sega SG-1000 Game Roms ###
