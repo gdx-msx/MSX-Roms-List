@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 03-08-2023 by gdx
+    MSX Roms Database version 23-08-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 247 classified bad dumps.
+    Currently there are 248 classified bad dumps.
 
 ##
 ### Application Roms ###
@@ -49,7 +49,7 @@
   Files:
   - English title: Aacko Presto
     Original title: Aacko Presto
-    Longname: Aacko Presto (The Bytebusters).rom
+    Longname: Aacko Presto [2.4] (The Bytebusters).rom
     sha1: e9c35caa8544f81d927cb610e850085e5d81ceca
     Name: AackoPre.ROM
     Genre: Database
@@ -115,6 +115,52 @@
     Release: 1985 (UK), 1986 (Japan)
     Original Dump: 
     Remark: "Japanese title is 英文ワードプロセッサ"
+
+  - English title: Barq Basic
+    Original title: Barq Basic
+    Longname: Barq Basic (A) [v1.00].rom
+    sha1: f6ae6e9f42a2d2328a3464d3168517c189f3de10
+    Name: BarBASIC.ROM
+    Genre: Programming
+    Language: Arab
+    Country: Koweit
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: Arabic MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Al Aqsa Barq
+    Developer: Al Aqsa Barq
+    Release: 1986
+    Original Dump: 
+    Remark: 
+
+  - English title: Barq Basic
+    Original title: Barq Basic
+    Longname: Barq Basic (A) [v1.00-overdumped].rom
+    sha1: f9f3e2e6222e1cdb0784bf041e4a01146aab736a
+    Name: BarBASIC Overdumped.ROM
+    Genre: Programming
+    Language: Arab
+    Country: Koweit
+    Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
+    Machine: Arabic MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Al Aqsa Barq
+    Developer: Al Aqsa Barq
+    Release: 1986
+    Original Dump: 
+    Remark: 
 
   - English title: Basic Compiler
     Original title: ベーシックコンパイラ
@@ -1434,60 +1480,6 @@
     Release: 1987
     Original Dump: 
     Remark: Enter 'CALL SWP' to run it.
-
-#
-## Application Roms: Al Aqsa Barq ##
-#
-
-- Folder longname: ~/Application Roms/Al Aqsa Barq
-  Folder name: ~/Applis/Barq
-
-  Files:
-  - English title: Barq Basic
-    Original title: Barq Basic
-    Longname: Barq Basic (A) [v1.00].rom
-    sha1: f6ae6e9f42a2d2328a3464d3168517c189f3de10
-    Name: BarBASIC.ROM
-    Genre: Programming
-    Language: Arab
-    Country: Koweit
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: Arabic MSX1
-    RAM: 64kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: None
-    Signature: No
-    Publisher: Al Aqsa Barq
-    Developer: Al Aqsa Barq
-    Release: 1986
-    Original Dump: 
-    Remark: 
-
-  - English title: Barq Basic
-    Original title: Barq Basic
-    Longname: Barq Basic (A) [v1.00-overdumped].rom
-    sha1: f9f3e2e6222e1cdb0784bf041e4a01146aab736a
-    Name: BarBASIC Overdumped.ROM
-    Genre: Programming
-    Language: Arab
-    Country: Koweit
-    Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
-    Machine: Arabic MSX1
-    RAM: 64kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: None
-    Signature: No
-    Publisher: Al Aqsa Barq
-    Developer: Al Aqsa Barq
-    Release: 1986
-    Original Dump: 
-    Remark: 
 
 #
 ## Application Roms: ASCII ##
@@ -5885,6 +5877,29 @@
     Release: 
     Original Dump: No
     Remark: No SCC sound on real hardware.
+
+  - English title: King Kong 2 - The Legend Resurrected
+    Original title: キングコング2 甦る伝説
+    Longname: King Kong 2 Yomigaeru Densetsu (J) [KonamiSCC mapper-Bad dump].rom
+    sha1: a5963fa6c95fbe34482862b0f7221b7766e3a194
+    Name: BadDump247.ROM
+    Genre: Action
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: 
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: The conversion to KonamiSCC mapper is bad.
 
   - English title: 
     Original title: 
@@ -46110,7 +46125,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46133,7 +46148,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46156,7 +46171,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46179,7 +46194,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46198,11 +46213,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46221,11 +46236,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46244,11 +46259,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46267,11 +46282,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46290,11 +46305,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -46313,11 +46328,11 @@
     Language: English / Japanese
     Country: Japan
     Type: 384kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
-    Control: Keyboard / joystick
+    Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -48055,7 +48070,7 @@
   - English title: King Kong 2 - The Legend Resurrected
     Original title: キングコング2 甦る伝説
     Longname: King Kong 2 Yomigaeru Densetsu (J) [KonamiSCC mapper].rom
-    sha1: a5963fa6c95fbe34482862b0f7221b7766e3a194
+    sha1: 5d0382fe860b26858752cb22e4eecc87f60403e7
     Name: KingK2KS.ROM
     Genre: Action
     Language: Japanese
@@ -50661,7 +50676,7 @@
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
-    RAM: 8kB
+    RAM: 8kB / 16kB for disk support
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
     Control: Keyboard / joystick
@@ -50684,7 +50699,7 @@
     Country: Japan
     Type: 128kB Rom with ASCII8 mapper
     Machine: MSX1
-    RAM: 8kB
+    RAM: 8kB / 16kB for disk support
     VRAM: 16kB
     Data saving: Game Master 2 (SRAM / floppy disk)
     Control: Keyboard / joystick
@@ -50706,7 +50721,7 @@
     Language: English
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
-    Machine: MSX1
+    Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
     Data saving: Game Master 2 (SRAM / floppy disk)
@@ -50729,8 +50744,8 @@
     Language: Japanese
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 8kB
+    Machine: MSX2
+    RAM: 64kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -53199,7 +53214,7 @@
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
-    RAM: 8kB
+    RAM: 8kB / 16kB for disk support
     VRAM: 16kB
     Data saving: Game Master 2 (floppy disk)
     Control: JoySNES
@@ -60226,7 +60241,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Activision
+    Developer: David Rolfe, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -60249,7 +60264,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Activision
+    Developer: David Rolfe, Activision (MSX port)
     Release: 1984 (original)
     Original Dump: No
     Remark: 
@@ -60272,7 +60287,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Activision
+    Developer: David Rolfe, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -60433,7 +60448,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Garry Kitchen (Activision)
+    Developer: Garry Kitchen, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -60456,7 +60471,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Garry Kitchen (Activision)
+    Developer: Garry Kitchen, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -60479,7 +60494,7 @@
     Player number: 1
     Signature: No
     Publisher: Ponyca
-    Developer: Garry Kitchen (Activision)
+    Developer: Garry Kitchen, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -60778,7 +60793,7 @@
     Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Ponyca
-    Developer: Carol Shaw (Activision)
+    Developer: Carol Shaw, Activision (MSX port)
     Release: 1984
     Original Dump: Yes
     Remark: 
@@ -60801,7 +60816,7 @@
     Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Ponyca
-    Developer: Carol Shaw (Activision)
+    Developer: Carol Shaw, Activision (MSX port)
     Release: 1984
     Original Dump: 
     Remark: 
@@ -88449,6 +88464,30 @@
     Original Dump: Yes
     Remark: 
 
+  Files:
+  - English title: Heart Stealer 2
+    Original title: Heart Stealer 2
+    Longname: Heart Stealer 2 [v1.0] (Timmy).rom
+    sha1: 2a57cc0f5610ca55f5bfb6994033adddc38d9203
+    Name: HStealer.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Timmy
+    Release: 2021
+    Original Dump: Yes
+    Remark: 
+
   - English title: Tortilla Sunrise
     Original title: Conexion Tortilla
     Longname: Conexion Tortilla - Tortilla Sunrise (S) [v1.1].rom
@@ -90374,6 +90413,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Global Ordnance
+    Original title: Global Ordnance
+    Longname: Global Ordnance [v1.0].rom
+    sha1: f0c78ee74815c4114732278ffad7a8a2a258535c
+    Name: Globa100.ROM
+    Genre: Text adventure
+    Language: English
+    Country: Brazil
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fred Rique
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+    
   - English title: Martian War
     Original title: Martian War
     Longname: Martian War [v1.0].rom
@@ -91684,30 +91746,6 @@
     Publisher: Timmy
     Developer: Timmy
     Release: 2015-08-02
-    Original Dump: Yes
-    Remark: 
-
-  Files:
-  - English title: Heart Stealer 2
-    Original title: Heart Stealer 2
-    Longname: Heart Stealer 2 [v1.0].rom
-    sha1: 2a57cc0f5610ca55f5bfb6994033adddc38d9203
-    Name: HStealer.ROM
-    Genre: Platform
-    Language: English
-    Country: Netherlands
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Timmy
-    Developer: Timmy
-    Release: 2021
     Original Dump: Yes
     Remark: 
 
@@ -94556,7 +94594,7 @@
     Sound: PSG, SCC and MSX turbo R PCM when present
     Player number: 1
     Signature: No
-    Publisher: MSX Cartridge Shop
+    Publisher: Kralizec, MSX Cartridge Shop
     Developer: Kralizec
     Release: 2012
     Original Dump: Yes
@@ -95498,6 +95536,29 @@
     Release: 2008
     Original Dump: Yes
     Remark: 
+
+  - English title: Moskow 2024 - The Olympic Megashock
+    Original title: Moskow 2024 - The Olympic Megashock
+    Longname: Moskow 2024 The Olympic Megashock (LuegoLu3go Studio).rom
+    sha1: 
+    Name: Mosk2024.ROM
+    Genre: Sport
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately or at the same time)
+    Signature: No
+    Publisher: Matra Computer Automations
+    Developer: Matra Computer Automations
+    Release: 2000
+    Original Dump: Yes
+    Remark: Missing Rom.
 
   - English title: Nogalious
     Original title: Nogalious
@@ -97015,7 +97076,7 @@
     Developer: RELEVO Videogames
     Release: 2017
     Original Dump: Yes
-    Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
+    Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge. Version translated by Piccolo.
 
   - English title: The sword of IANNA
     Original title: The sword of IANNA
@@ -99521,7 +99582,7 @@
     Player number: 1
     Signature: No
     Publisher: Activision
-    Developer: Activision
+    Developer: David Rolfe, Activision (MSX port)
     Release: 1984 (tape)
     Original Dump: No
     Remark: 
@@ -99659,7 +99720,7 @@
     Player number: 1
     Signature: No
     Publisher: Activision
-    Developer: Activision
+    Developer: Garry Kitchen, Activision (MSX port)
     Release: 1984 (tape)
     Original Dump: No
     Remark: 
@@ -99774,7 +99835,7 @@
     Player number: 1 or 2 (alternately)
     Signature: No
     Publisher: Activision
-    Developer: Activision
+    Developer: Carol Shaw, Activision (MSX port)
     Release: 1985 (tape)
     Original Dump: No
     Remark: 
@@ -112812,6 +112873,29 @@
     Longname: Arkanoid (Imagine) [a].rom
     sha1: 5002ba598469b34af25bff5011ccc70ed3723b0d
     Name: IArkanoA.ROM
+    Genre: Brick Breaker
+    Language: English
+    Country: UK
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Imagine
+    Developer: Nidecom Soft (Copyright Taito)
+    Release: 1987 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Arkanoid
+    Original title: Arkanoid
+    Longname: Arkanoid (Imagine) [a2].rom
+    sha1: d692211b0e2af1662044b5fc403b37bcb6847a7f
+    Name: IArkanA2.ROM
     Genre: Brick Breaker
     Language: English
     Country: UK
