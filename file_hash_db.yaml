@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 23-08-2023 by gdx
+    MSX Roms Database version 25-08-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -25613,7 +25613,7 @@
     Longname: Arno Dash [v1.0].rom
     sha1: cef6040cf49737498e3ff9b228696b3f60a7ffcc
     Name: ArnoDash.ROM
-    Genre: Action (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: Australia
     Type: 32kB Rom (4000h-BFFFh)
@@ -26059,7 +26059,7 @@
     Developer: Konami
     Release: 
     Original Dump: 
-    Remark: 
+    Remark: Anti-piracy protection.
 
   - English title: Knightmare
     Original title: Pesadelo
@@ -26082,7 +26082,7 @@
     Developer: Konami
     Release: 
     Original Dump: 
-    Remark: Anti-piracy protection has been removed on this version.
+    Remark: Anti-piracy protection has been removed from this version.
 
   - English title: Knightmare
     Original title: Pesadelo
@@ -27594,6 +27594,75 @@
   Folder name: ~/Germany
 
   Files:
+  - English title: Boulder Dash 3
+    Original title: Boulder Dash 3
+    Longname: Boulder Dash 3 (Calixto).rom
+    sha1: 3491927e968f449f5b5605832b87e6acafe2d97c
+    Name: BD3.ROM
+    Genre: Action, maze
+    Language: English
+    Country: Germany
+    Type: 32kB (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Calixto
+    Developer: Calixto
+    Release: 2023
+    Original Dump: Yes
+    Remark: Boulder Dash 3 is Champion Boulder Dash modified with stages from Boulder Dash for C64 by Calixto.
+
+  - English title: Boulder Dash 3
+    Original title: Boulder Dash 3
+    Longname: Boulder Dash 3 [MSX support fix] (Calixto).rom
+    sha1: 145452712a6f54aa3c77bd88d55f98a01fb51bdd
+    Name: BD3-MSF.ROM
+    Genre: Action, maze
+    Language: English
+    Country: Germany
+    Type: 32kB (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Calixto
+    Developer: Calixto
+    Release: 2023
+    Original Dump: Yes
+    Remark: MSX support fix by Jipe
+
+  - English title: Boulder Dash 11
+    Original title: Boulder Dash 11
+    Longname: Boulder Dash 11 (Calixto).rom
+    sha1: 7a328480e3419b04b58c93f3669dc4c73e0bfd43
+    Name: BD11.ROM
+    Genre: Action, maze
+    Language: English
+    Country: Germany
+    Type: 32kB (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Calixto
+    Developer: Calixto
+    Release: 2023
+    Original Dump: Yes
+    Remark: Boulder Dash 11 is Champion Boulder Dash modified with stages from Boulder Dash 4 for C64 and more by Calixto.
+
   - English title: DICED - Tournament
     Original title: DICED - Tournament
     Longname: DICED - Tournament [v1.01].rom
@@ -36125,7 +36194,7 @@
     Longname: Champion Boulder Dash [Dump by Lemon Grass Team].rom
     sha1: 52206eb683f2c7386f10f07cc6bc80db48ea89fa
     Name: CBDashA.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -36148,7 +36217,7 @@
     Longname: Champion Boulder Dash [MSX support fix].rom
     sha1: 87fdad9c7d2d2c54e0b2e7484bf4f79ce7397bcc
     Name: CBDasMsf.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -36171,7 +36240,7 @@
     Longname: Champion Boulder Dash [MSX support fix-a].rom
     sha1: 5f0b43b6ac1af661bde563704e5a51cd6d707c8f
     Name: CBDaMsfA.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -50988,7 +51057,7 @@
     Original Dump: 
     Remark: 
 
-  - English title: Q-Bert
+  - English title: Q*Bert
     Original title: Qバート
     Longname: Q-Bert.rom
     sha1: 531a7f736d86095d791d6d0f267be66eef07949c
@@ -51009,9 +51078,9 @@
     Developer: Konami
     Release: 1987
     Original Dump: 
-    Remark: 
+    Remark: Anti-piracy protection.
 
-  - English title: Q-Bert
+  - English title: Q*Bert
     Original title: Qバート
     Longname: Q-Bert [a].rom
     sha1: 2e16a588246743c9b901afdbf1ba094a0b1c8b5d
@@ -51032,9 +51101,9 @@
     Developer: Konami
     Release: 1987
     Original Dump: 
-    Remark: 
+    Remark: Anti-piracy protection has been removed from this version.
 
-  - English title: Q-Bert
+  - English title: Q*Bert
     Original title: Qバート
     Longname: Q-Bert [a2].rom
     sha1: bf7f19be5a82c48c65126f9ca8ff6df4e2324d4a
@@ -51055,7 +51124,7 @@
     Developer: Konami
     Release: 1987
     Original Dump: 
-    Remark: 
+    Remark: Anti-piracy protection has been removed from this version.
 
   - English title: Quarth
     Original title: クォース
@@ -81235,7 +81304,7 @@
     Longname: Stratos (S) [v1].rom
     sha1: de505f32041800ecae382772a8f5adf2e397124b
     Name: StratoV1.ROM
-    Genre: Maze (Like Boulder Dash)
+    Genre: Action, maze (Like Boulder Dash)
     Language: Spanish
     Country: Spain
     Type: 8kB Rom (4000h-5FFFh)
@@ -93136,7 +93205,7 @@
     Longname: Stratos (S) [v2].rom
     sha1: e37e2468faf0e6bf3e38b3cf7e611c846e45c5e9
     Name: StratoV2.ROM
-    Genre: Maze (Like Boulder Dash)
+    Genre: Action, maze (Like Boulder Dash)
     Language: Spanish
     Country: Spain
     Type: 16kB Rom (4000h-7FFFh)
@@ -100545,7 +100614,7 @@
     Longname: Survivors.rom
     sha1: b3018835b9772301852f8ac844b2567dfd02d8a1
     Name: Survivor.ROM
-    Genre: Naze (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: US
     Type: 16kB Rom (4000h-7FFFh)
@@ -100568,7 +100637,7 @@
     Longname: Survivors [a].rom
     sha1: 72311b33ab4928815e735438f4f8534406fd5cc9
     Name: SurvivoA.ROM
-    Genre: Naze (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: US
     Type: 16kB Rom (4000h-7FFFh)
@@ -101859,7 +101928,7 @@
     Longname: Boulder Dash.rom
     sha1: 6097fb7194b64148287e654870c98eb0e2b33850
     Name: Boulder1.ROM
-    Genre: Action
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -101882,7 +101951,7 @@
     Longname: Boulder Dash [a].rom
     sha1: 28b25f82e6c35161b4955efa107b472acbb84f70
     Name: Boulde1A.ROM
-    RAM: Action
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (8000h-BFFFh)
@@ -101905,7 +101974,7 @@
     Longname: Boulder Dash [a2].rom
     sha1: dae75b692112e06f5be8f00e71e0776f75010475
     Name: Bould1A2.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -101928,7 +101997,7 @@
     Longname: Boulder Dash [Dump by Lemon Grass Team].rom
     sha1: 14fae375b81c86f71e872adca792c23aafac66a0
     Name: BDash.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -101946,12 +102015,12 @@
     Original Dump: 
     Remark: 
 
-  - English title: Boulder Dash II
-    Original title: Boulder Dash II
+  - English title: Boulder Dash II - Rockford's Revenge
+    Original title: Boulder Dash II - Rockford's Revenge
     Longname: Boulder Dash II Rockford's Revenge [MSX1 Only].rom
     sha1: bd13e3d81aa075365feecbee7c52b1baae98ea33
     Name: Bould2X1.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -101969,12 +102038,12 @@
     Original Dump: No
     Remark: 
 
-  - English title: Boulder Dash II
-    Original title: Boulder Dash II
+  - English title: Boulder Dash II - Rockford's Revenge
+    Original title: Boulder Dash II - Rockford's Revenge
     Longname: Boulder Dash II Rockford's Revenge [a].rom
     sha1: cfc53f6569fd45472c082de6c608446cccb74700
     Name: Boulde2A.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -101992,12 +102061,12 @@
     Original Dump: No
     Remark: 
 
-  - English title: Boulder Dash II
-    Original title: Boulder Dash II
+  - English title: Boulder Dash II - Rockford's Revenge
+    Original title: Boulder Dash II - Rockford's Revenge
     Longname: Boulder Dash II Rockford's Revenge [a2].rom
     sha1: c018aa71a7c20842aa6f42a2c1a58dad7f81bfd3
     Name: Bould2A2.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -102015,12 +102084,12 @@
     Original Dump: No
     Remark: 
 
-  - English title: Boulder Dash II
-    Original title: Boulder Dash II
+  - English title: Boulder Dash II - Rockford's Revenge
+    Original title: Boulder Dash II - Rockford's Revenge
     Longname: Boulder Dash II Rockford's Revenge.rom
     sha1: d28201ca9b7d062d37c62bc4d6212f2a0d3e1cb4
     Name: Boulder2.ROM
-    Genre: Maze
+    Genre: Action, maze
     Language: English
     Country: UK
     Type: 16kB Rom (4000h-7FFFh)
@@ -115221,7 +115290,7 @@
     Longname: Blow Up!.rom
     sha1: 445a9744035218b70041a3eae70b4bd3460da031
     Name: BlowUp!.ROM
-    Genre: Action (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: Netherlands
     Type: 64kB Rom with ASCII16 mapper
@@ -115244,7 +115313,7 @@
     Longname: Blow Up! [a].rom
     sha1: 5053675bfc3ab2df9e9301a66b18cd88b840c9c5
     Name: BlowUp!A.ROM
-    Genre: Action (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: Netherlands
     Type: 64kB Rom with ASCII16 mapper
@@ -116834,7 +116903,7 @@
     Longname: Icicle Works.rom
     sha1: 1cd32d6f5497d84cecf16118556c7773d57afd43
     Name: IcicleWo.ROM
-    Genre: Action (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: USA
     Type: 64kB Rom with ASCII16 mapper
@@ -116857,7 +116926,7 @@
     Longname: Icicle Works [MSX support fix].rom
     sha1: da20f442b63e5ed2402b7219d2ea21e61827d1b2
     Name: IciclMsf.ROM
-    Genre: Action (like Boulder Dash)
+    Genre: Action, maze (like Boulder Dash)
     Language: English
     Country: USA
     Type: 64kB Rom with ASCII16 mapper
