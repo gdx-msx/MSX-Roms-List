@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 25-08-2023 by gdx
+    MSX Roms Database version 09-09-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -3809,7 +3809,6 @@
     Language: English
     Country: UK
     Type: 32kB file
-
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -3971,7 +3970,6 @@
     Language: English
     Country: UK
     Type: 32kB file
-
     Machine: MSX1
     RAM: 
     VRAM: 16kB
@@ -3995,7 +3993,6 @@
     Language: English
     Country: UK
     Type: 32kB file
-
     Machine: MSX1
     RAM: 
     VRAM: 16kB
@@ -4180,7 +4177,6 @@
     Language: English
     Country: Japan
     Type: 32kB file
-
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -4319,7 +4315,6 @@
     Language: English
     Country: UK
     Type: 32kB file
-
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -4343,7 +4338,6 @@
     Language: English
     Country: UK
     Type: 32kB file
-
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -5080,7 +5074,6 @@
     Language: 
     Country: 
     Type: 32kB file
-
     Machine: MSX
     RAM: 
     VRAM: 
@@ -5656,7 +5649,6 @@
     Language: 
     Country: 
     Type: 32kB file
-
     Machine: MSX
     RAM: 
     VRAM: 
@@ -7520,7 +7512,6 @@
     Language: 
     Country: 
     Type: 32kB file
-
     Machine: 
     RAM: 
     VRAM: 
@@ -11646,7 +11637,7 @@
     Genre: Action
     Language: English
     Country: Spain
-    Type: 64kB Rom with ASCII16 mapper
+    Type: 64kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -21302,6 +21293,98 @@
     Original Dump: 
     Remark: 
 
+  - English title: 30-in-1 Group A
+    Original title: 30-in-1 Group A
+    Longname: 30-in-1 Group A.rom
+    sha1: 5a3c4c7897d28abf0ce955ceab97128827708636
+    Name: 30in1_GA.ROM
+    Genre: Compilation
+    Language: English
+    Country: Kuwait
+    Type: 1024kB ROM with 30 in 1 Group A-B mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: 30-in-1 Group A
+    Original title: 30-in-1 Group A
+    Longname: 30 in 1 Group A [KonamiSCC mapper].rom
+    sha1: 64fc0ce1dc751a294a86fe8f362db7153d2b547d
+    Name: 30in1ASM.ROM
+    Genre: Compilation
+    Language: English
+    Country: Kuwait
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: 30-in-1 Group B
+    Original title: 30-in-1 Group B
+    Longname: 30-in-1 Group B.rom
+    sha1: 216f69fd2bee14a6e205472dafca62302d07cf78
+    Name: 30in1_GB.ROM
+    Genre: Compilation
+    Language: English
+    Country: Kuwait
+    Type: 1024kB ROM with 30 in 1 Group A-B mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: 30-in-1 Group B
+    Original title: 30-in-1 Group B
+    Longname: 30-in-1 Group B [KonamiSCC mapper].rom
+    sha1: 75f479d18563e7a8b91237199b6bfdd30576232d
+    Name: 30in1BSM.ROM
+    Genre: Compilation
+    Language: English
+    Country: Kuwait
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 
+    Original Dump: No
+    Remark: 
+
   - English title: Alphabet in Arabic
     Original title: الحروف العربية - ا ب ت
     Longname: a b c - Alhuruf Alearabia (a b c - Alphabet in Arabic) (A) [v1.11].rom
@@ -21601,6 +21684,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Binary Land
+    Original title: Binary Land
+    Longname: Binary Land (Al Alamiah).rom
+    sha1: 3a126380aacef06f5d65e29e1ee555df48a369aa
+    Name: ABinaryL.ROM
+    Genre: Maze
+    Language: English
+    Country: Kuwait
+    Type: 16kB ROM (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard, joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1987
+    Original Dump: Yes
+    Remark: 
+
   - English title: Boullata
     Original title: بولاتا
     Longname: Boullata (A-E).rom
@@ -21669,6 +21775,29 @@
     Release: 1987
     Original Dump: No
     Remark: Version extrated from the MSX AX-230 firmware and modified to be used in a 32kB ROM.
+
+  - English title: Computer Othello
+    Original title: Computer Othello
+    Longname: Computer Othello (Al Alamiah).rom
+    sha1: 80b9fb01731c1fa1ef0bd595be67d90ee013b3b6
+    Name: ALOthell.ROM
+    Genre: Othello
+    Language: English
+    Country: Kuwait
+    Type: 16kB Rom (0000h-3FFFh) with mirrors
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 
+    Original Dump: Yes
+    Remark: Version extrated from the 30-in-1 Group A ROM.
 
   - English title: Double Face 1
     Original title: ذو الوجهين
@@ -52838,7 +52967,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC] [Enhanced by Victor] [JoySNES].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by V. Martinez] [JoySNES].rom
     sha1: a3dc972f94ae5ed94f1b5c66d723ab46dad5dca1
     Name: GrSCCVJS.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -58691,7 +58820,7 @@
 
   - English title: Tsumego 120
     Original title: 詰碁120
-    Longname: Tumego 120 (J).rom
+    Longname: Tsumego 120 (J).rom
     sha1: bfe8046f8ccc6d6016d7752c04f0654420ef81e7
     Name: Tsume120.ROM
     Genre: Tsumego
@@ -58708,6 +58837,29 @@
     Signature: No
     Publisher: Champion Soft
     Developer: Champion Soft
+    Release: 1987
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Traffic - Near Miss Game
+    Original title: 交通 ヒヤリ・ハット ゲーム
+    Longname: Tsuukou Huyari Hatto Game - Traffic Near Miss Game (J) (Chiyoda Kasai Kaijou Hoken).rom
+    sha1: 5e58bd9cad4a48981dbd85800f5c3c8bd9681482
+    Name: THHG-J.ROM
+    Genre: Tsumego
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Chiyoda Kasai Kaijou Hoken
+    Developer: Chiyoda Kasai Kaijou Hoken
     Release: 1987
     Original Dump: Yes
     Remark: 
@@ -66905,6 +67057,29 @@
 
   - English title: Mr. Ghost / Young Ghost
     Original title: 幽霊君
+    Longname: Yuurei-kun (Young Ghost) - Mr.Ghost (J) [PSG ports fix].rom
+    sha1: 61dfcaae2b2bc9f35579479589c4950767f3b050
+    Name: YuureiPF.ROM
+    Genre: Action
+    Language: Japanese
+    Country: Japan
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: System Sacom
+    Developer: System Sacom
+    Release: 1989
+    Original Dump: No
+    Remark: Title translation is "Young Ghost". PSG ports fix by gdx.
+
+  - English title: Mr. Ghost / Young Ghost
+    Original title: 幽霊君
     Longname: Yuurei-kun - Mr.Ghost (Translated by MSX Translations).rom
     sha1: c0d9b7ca46e4c6a96961a18550ef2c71545ac6a5
     Name: MrGhostE.ROM
@@ -66948,6 +67123,29 @@
     Release: 1989 (original)
     Original Dump: No
     Remark: Title translation is "Young Ghost".
+
+  - English title: Mr. Ghost / Young Ghost
+    Original title: 幽霊君
+    Longname: Yuurei-kun - Mr.Ghost (Translated by MSX Translations) [PSG ports fix].rom
+    sha1: 9f34599e88e02aec715d87a41134e74066119196
+    Name: MrGhoEPf.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: System Sacom
+    Developer: System Sacom
+    Release: 1989 (original)
+    Original Dump: No
+    Remark: Title translation is "Young Ghost". PSG ports fix by gdx.
 
 #
 ## Game Roms from Japan: System Soft ##
@@ -67566,7 +67764,7 @@
 
   - English title: Hydlide 3 - The Space Memories
     Original title: ハイドライド3 - THE SPACE MEMORIES
-    Longname: Hydlide 3 The Space Memories (J) [MSX1-SCC mapper].rom
+    Longname: Hydlide 3 The Space Memories (J) [MSX1-KonamiSCC mapper].rom
     sha1: 207c396e04ff702137edf06de25f42a3ca3fea1f
     Name: Hyd3X1KS.ROM
     Genre: Role playing
@@ -67681,7 +67879,30 @@
 
   - English title: Hydlide 3 - The Space Memories
     Original title: ハイドライド3 - THE SPACE MEMORIES
-    Longname: Hydlide 3 The Space Memories (J) [MSX2-SCC mapper].rom
+    Longname: Hydlide 3 The Space Memories (J) [MSX2-FM voice synthesis enhanced v0.6].rom
+    sha1: 4861a8c5a3c1ac5f3cb1678f92e8f20c2ab7d402
+    Name: Hy32VS06.ROM
+    Genre: Role playing
+    Language: Japanese
+    Country: Japan
+    Type: 768kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft
+    Developer: T&E Soft
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Hydlide 3 - The Space Memories
+    Original title: ハイドライド3 - THE SPACE MEMORIES
+    Longname: Hydlide 3 The Space Memories (J) [MSX2-KonamiSCC mapper].rom
     sha1: caed3cff2c51f1bb2cdbb4e04bf0c5b75ce49232
     Name: Hyd3X2KS.ROM
     Genre: Role playing
@@ -88492,12 +88713,12 @@
     Longname: Bookworm (Z80 ASMer).rom
     sha1: bed185497ca04fd5237c0eb0e475485d74cdc9c8
     Name: Bookworm.ROM
-    Genre: 
+    Genre: Sea cleaning
     Language: English
     Country: Netherlands
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
-    RAM: 8kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard
@@ -90459,6 +90680,52 @@
   Folder name: ~/MSXdev/2023
 
   Files:
+  - English title: Eggy's Maze
+    Original title: Eggy's Maze
+    Longname: Eggy's Maze [v1.3].rom
+    sha1: 2ea8faa80dd73afb4b72fa00a9ad2e4183fc08a4
+    Name: Eggys130.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Jacco Bikker
+    Release: 2023
+    Original Dump: Yes
+    Remark: Hold Graph key during boot to force 50Hz. Game data are saved in the RTC CMOS memory.
+
+  - English title: Eggy's Maze
+    Original title: Eggy's Maze
+    Longname: Eggy's Maze [v1.4].rom
+    sha1: 9fd32d6d46c87f8c04848c02cae155f425f226cf
+    Name: Eggys140.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Jacco Bikker
+    Release: 2023
+    Original Dump: Yes
+    Remark: Hold Graph key during boot to force 50Hz. Game data are saved in the RTC CMOS memory.
+
   - English title: Flubber In The Upside Downworld
     Original title: Flubber In The Upside Downworld
     Longname: Flubber In The Upside Downworld [v1.2].rom
@@ -90642,6 +90909,75 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.10
+
+  - English title: Plastic
+    Original title: Plastic
+    Longname: Plastic [v1.0] (Z80 ASMer).rom
+    sha1: 08ac425cb201433578b60a31617805f762da9e8e
+    Name: Plast100.ROM
+    Genre: Sea cleaning
+    Language: English
+    Country: Netherlands
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Z80 ASMer
+    Release: 2023-08-26
+    Original Dump: Yes
+    Remark: Version 1.00.
+
+  - English title: Super Ory 2 - Enigma
+    Original title: Super Ory 2 - Enigma
+    Longname: Super Ory 2 Enigma [v1.2].rom
+    sha1: a05cd43865b593b9c7a3afe476ec26b1d3488b8f
+    Name: SupOry12.ROM
+    Genre: Adventure
+    Language: English
+    Country: Italy
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Orazio Cacciola and Cristiano Polenta
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+
+  - English title: Super Ory 2 - Enigma
+    Original title: Super Ory 2 - Enigma
+    Longname: Super Ory 2 Enigma (I) [v1.2].rom
+    sha1: 081ed4c6552158b72f2625d741c7d5ffcedf460a
+    Name: SupOr12I.ROM
+    Genre: Adventure
+    Language: Italian
+    Country: Italy
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Orazio Cacciola and Cristiano Polenta
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
 
   - English title: Tower of Damnation
     Original title: Tower of Damnation
@@ -90895,6 +91231,29 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.60
+
+  - English title: Uchu Yohei / The Space Mercenary
+    Original title: Uchu Yohei / 宇宙傭兵
+    Longname: Uchu Yohei [v1.61].rom
+    sha1: 321136fc39efcf7cba0948af77a95e2a2a1b142d
+    Name: UchuY161.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: FranChesstein (José Javier Franco Benítez)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.61
 
 ##
 ### Game Roms from Netherlands ###
@@ -91657,11 +92016,11 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 512kB Flash-Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM
+    Data saving: Flash-Rom
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -91680,11 +92039,11 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 512kB Flash-Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM
+    Data saving: Flash-Rom
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -91707,7 +92066,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM
+    Data saving: Flash-Rom
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -91749,11 +92108,11 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 512kB Flash-Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM
+    Data saving: Flash-Rom
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -91772,11 +92131,11 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
-    Type: 512kB Rom with KonamiSCC mapper
+    Type: 512kB Flash-Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB and SCC
     VRAM: 128kB
-    Data saving: None
+    Data saving: Flash-Rom
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -97021,7 +97380,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM, Password
+    Data saving: Flash-Rom, Password
     Control: Keyboard / keyboard and joystick
     Sound: PSG / PSG and SCC
     Player number: 1
@@ -97044,7 +97403,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: Flash ROM, Password
+    Data saving: Flash-Rom, Password
     Control: Keyboard / keyboard and joystick
     Sound: PSG / PSG and SCC
     Player number: 1
@@ -105393,6 +105752,29 @@
 
   - English title: The Apeman Strikes Again
     Original title: The Apeman Strikes Again
+    Longname: The Apeman Strikes Again [Improved-a].rom
+    sha1: 2acf481d0bdf306f97b791c5178cfd34dd5b9c28
+    Name: ApemSAIA.ROM
+    Genre: platform
+    Language: English
+    Country: Netherlands
+    Type: 64kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Eaglesoft
+    Developer: The Bytebusters
+    Release: 1985 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: The Apeman Strikes Again
+    Original title: The Apeman Strikes Again
     Longname: The Apeman Strikes Again [MSX support fix].rom
     sha1: ace911ff51c28b5d3c36a25dea9d5242577351da
     Name: ApemaMsf.ROM
@@ -108451,7 +108833,7 @@
   Files:
   - English title: Binary Land
     Original title: Binary Land
-    Longname: Binary Land.rom
+    Longname: Binary Land (Kuma Computers).rom
     sha1: ef476e25fb6b7221ca778a379117885450dd36f0
     Name: BinaryLd.ROM
     Genre: Maze
