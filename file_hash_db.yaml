@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 09-09-2023 by gdx
+    MSX Roms Database version 08-10-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 248 classified bad dumps.
+    Currently there are 249 classified bad dumps.
 
 ##
 ### Application Roms ###
@@ -3707,6 +3707,29 @@
     Release: 
     Original Dump: No
     Remark: No SCC sound on real hardware.
+
+  - English title: 
+    Original title: 
+    Longname: Apple Runner (J) (Kazuki Suzuki) [Bad dump].rom
+    sha1: 00547405c3d67d958f8bd27d141fb9fd76ff2a0c
+    Name: BADDUMP248.ROM
+    Genre: Bad dump
+    Language: 
+    Country: 
+    Type: 16kB file
+    Machine: MSX
+    RAM: 
+    VRAM: 
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: 
+    Developer: 
+    Release: 
+    Original Dump: No
+    Remark: 
 
   - English title: 
     Original title: 
@@ -9250,7 +9273,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard
-    Sound: Moonsound compatible
+    Sound: Moonsound compatible (OPL4)
     Player number: None
     Signature: No
     Publisher: Mapax
@@ -17556,11 +17579,11 @@
   Files:
   - English title: Apple Runner
     Original title: Apple Runner
-    Longname: Apple Runner (Kazuki Suzuki).rom
+    Longname: Apple Runner (J) (Kazuki Suzuki).rom
     sha1: 56b036f4864d97fed84ef7bd405497e0e73d6171
     Name: AppleRun.ROM
     Genre: Action
-    Language: English
+    Language: English with some japanese texts
     Country: Japan
     Type: 8kB Rom (8000h~9FFFh without mirror)
     Machine: MSX1
@@ -17575,7 +17598,7 @@
     Developer: Kazuki Suzuki
     Release: 1984-12
     Original Dump: No
-    Remark: 
+    Remark: Press the Shift key during the reset until beep on MSX with disk.
 
   - English title: Dream Runaway
     Original title: Dream Runaway
@@ -25860,9 +25883,9 @@
   Folder name: ~/Belgium
 
   Files:
-  - English title: Super Mario Word
-    Original title: Super Mario Word
-    Longname: Super Mario Word [v1.0] (Noramos).rom
+  - English title: Super Mario World
+    Original title: Super Mario World
+    Longname: Super Mario World [v1.0] (Noramos).rom
     sha1: 7f5a81cdc9bf9722ce205ad22987339a542bc700
     Name: SMB100.ROM
     Genre: Platform
@@ -25883,9 +25906,9 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Super Mario Word
-    Original title: Super Mario Word
-    Longname: Super Mario Word [v1.1] (Noramos).rom
+  - English title: Super Mario World
+    Original title: Super Mario World
+    Longname: Super Mario World [v1.1] (Noramos).rom
     sha1: f80484c8544b33f3dae37527a5606936f781e6fb
     Name: SMB110.ROM
     Genre: Platform
@@ -25896,7 +25919,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, JoyMega
     Sound: PSG, MSX-Music and SCC
     Player number: 1
     Signature: No
@@ -25904,11 +25927,11 @@
     Developer: Noramos
     Release: 
     Original Dump: Yes
-    Remark: 
+    Remark: Press on the worldmap or during gameplay to select the JoyMega.
 
-  - English title: Super Mario Word
-    Original title: Super Mario Word
-    Longname: Super Mario Word [v1.1a] (Noramos).rom
+  - English title: Super Mario World
+    Original title: Super Mario World
+    Longname: Super Mario World [v1.1a] (Noramos).rom
     sha1: 2e801cb7633e8b986bac0dc4c3dab5001807fae0
     Name: SMB110A.ROM
     Genre: Platform
@@ -25919,7 +25942,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard
+    Control: Keyboard, JoyMega
     Sound: PSG, MSX-Music and SCC
     Player number: 1
     Signature: No
@@ -25927,7 +25950,7 @@
     Developer: Noramos
     Release: 
     Original Dump: Yes
-    Remark: 
+    Remark: Press on the worldmap or during gameplay to select the JoyMega.
 
 ##
 ### Game Roms from Brazil or Portugal ###
@@ -32914,7 +32937,7 @@
     Genre: Platform
     Language: English
     Country: Japan
-    Type: 128kB Rom with ASCII8 mapper
+    Type: 256kB Rom with ASCII8 mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -32931,7 +32954,7 @@
 
   - English title: Quinpl
     Original title: クインプル
-    Longname: Quinpl [a].rom
+    Longname: Quinpl [crash fix].rom
     sha1: 33a26e3c43bfc677849d137cfef1aaf281084841
     Name: Quinpl-A.ROM
     Genre: Platform
@@ -32949,8 +32972,8 @@
     Publisher: Bit²
     Developer: 
     Release: 1988
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version patched by gdx to fix the crash when we catch a tile, a heart, a spade or a clover.
 
   - English title: Quinpl
     Original title: クインプル
@@ -32973,7 +32996,7 @@
     Developer: 
     Release: 1988
     Original Dump: No
-    Remark: 
+    Remark: Version translated and patched by gdx to fix the crash when we catch a tile, a heart, a spade or a clover.
 
 #
 ## Game Roms from Japan: Bothtec ##
@@ -39556,7 +39579,7 @@
     VRAM: 16kB
     Data saving: Tape
     Control: Keyboard / keyboard and joystick(s)
-    Sound: PSG and Moonsound compatible
+    Sound: PSG and Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: HAL Laboratory, Takeru (Brother Industries)
@@ -39579,7 +39602,7 @@
     VRAM: 16kB
     Data saving: Tape
     Control: Keyboard / keyboard and joystick(s)
-    Sound: PSG and Moonsound compatible
+    Sound: PSG and Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: HAL Laboratory, Takeru (Brother Industries)
@@ -39600,7 +39623,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Floppy disk / Tape
+    Data saving: Password for games and floppy disk / tape for stage editing.
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -39623,7 +39646,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Floppy disk / Tape
+    Data saving: Password for games and floppy disk / tape for stage editing.
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -39646,9 +39669,9 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Floppy disk / Tape
+    Data saving: Password for game and floppy disk / tape for stage editing.
     Control: Keyboard / joystick
-    Sound: PSG
+    Sound: PSG and SCC sound
     Player number: 1
     Signature: No
     Publisher: HAL Laboratory
@@ -57137,7 +57160,7 @@
     VRAM: 64kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and OPL4
+    Sound: PSG and Moonsound compatible (OPL4)
     Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Taito (original)
@@ -57160,7 +57183,7 @@
     VRAM: 64kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and OPL4
+    Sound: PSG and Moonsound compatible (OPL4)
     Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Taito (original)
@@ -73658,7 +73681,7 @@
 
   - English title: Dr. Hello
     Original title: 닥터 헬로
-    Longname: Dr. Hello.rom
+    Longname: Dr. Hello (Genius Soft Co.).rom
     sha1: 872937bc37540b3152e050e3a318a660d8f9d7c9
     Name: DrHello.ROM
     Genre: Puzzle
@@ -73668,7 +73691,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Password
+    Data saving: Password / joystick(s)
     Control: Keyboard
     Sound: PSG
     Player number: 1 or 2 (at the same time)
@@ -90680,6 +90703,29 @@
   Folder name: ~/MSXdev/2023
 
   Files:
+  - English title: Attack of the Petscii Robots
+    Original title: Attack of the Petscii Robots
+    Longname: Attack of the Petscii Robots [v1.2] [V9990].rom
+    sha1: c17594a976512e5f3eba6f5c4f1c24003fcdad14
+    Name: AOTPR120.ROM
+    Genre: Action, adventure
+    Language: English
+    Country: Netherlands
+    Type: 2048kB Rom with ASCII8 mapper
+    Machine: MSX1 + Graphic9000 compatible
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joySNES
+    Sound: Moonsound compatible (OPL4)
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: David Murray, MSX port by ToriHino from RoboSoft Inc.
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.2
+
   - English title: Eggy's Maze
     Original title: Eggy's Maze
     Longname: Eggy's Maze [v1.3].rom
@@ -90726,6 +90772,52 @@
     Original Dump: Yes
     Remark: Hold Graph key during boot to force 50Hz. Game data are saved in the RTC CMOS memory.
 
+  - English title: Eggy's Maze
+    Original title: Eggy's Maze
+    Longname: Eggy's Maze [v1.5].rom
+    sha1: 10150f21247f259a396777d231e427d4bd6e9b66
+    Name: Eggys150.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Jacco Bikker
+    Release: 2023
+    Original Dump: Yes
+    Remark: Hold Graph key during boot to force 50Hz. Game data are saved in the RTC CMOS memory.
+
+  - English title: Farmer's Yields
+    Original title: Farmer's Yields
+    Longname: Farmer's Yields [v1.0].rom
+    sha1: cb012b1860226a1fb06e01d2a175a466900d404d
+    Name: FarmYiel.ROM
+    Genre: Memory
+    Language: English
+    Country: Brazil
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rio Yamamura / SOFT.R.Y (Soft.ware R.io Y.amamura)
+    Release: 2023-10-02
+    Original Dump: Yes
+    Remark: Version 1.00
+
   - English title: Flubber In The Upside Downworld
     Original title: Flubber In The Upside Downworld
     Longname: Flubber In The Upside Downworld [v1.2].rom
@@ -90771,7 +90863,30 @@
     Release: 2023
     Original Dump: Yes
     Remark: 
-    
+
+  - English title: Last Escape
+    Original title: Last Escape
+    Longname: Last Escape [v1.0].rom
+    sha1: f0c78ee74815c4114732278ffad7a8a2a258535c
+    Name: LastEsc.ROM
+    Genre: Point-and-click adventure
+    Language: English
+    Country: Brazil
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick / mouse
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fred Rique
+    Release: 2023-10-13
+    Original Dump: Yes
+    Remark: 
+
   - English title: Martian War
     Original title: Martian War
     Longname: Martian War [v1.0].rom
@@ -90935,6 +91050,29 @@
 
   - English title: Super Ory 2 - Enigma
     Original title: Super Ory 2 - Enigma
+    Longname: Super Ory 2 Enigma [v1.0].rom
+    sha1: 17d3a4e686f148165f60b2902a6d18e98057faca
+    Name: SupOry10.ROM
+    Genre: Adventure
+    Language: English
+    Country: Italy
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Orazio Cacciola and Cristiano Polenta
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+
+  - English title: Super Ory 2 - Enigma
+    Original title: Super Ory 2 - Enigma
     Longname: Super Ory 2 Enigma [v1.2].rom
     sha1: a05cd43865b593b9c7a3afe476ec26b1d3488b8f
     Name: SupOry12.ROM
@@ -90978,6 +91116,29 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+
+  - English title: The Goblin
+    Original title: The Goblin
+    Longname: The Goblin [v1.0].rom
+    sha1: 9018cdc72267c1584feff941e4331b06f22b73c3
+    Name: TheGob00.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Hicks, MSX port by Mananuk, Music by Mcraymond
+    Release: 2023-08-26
+    Original Dump: Yes
+    Remark: Version 1.00
 
   - English title: Tower of Damnation
     Original title: Tower of Damnation
@@ -91254,6 +91415,75 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.61
+
+  - English title: Vampire Slayer
+    Original title: Vampire Slayer
+    Longname: Vampire Slayer [v1.0].rom
+    sha1: 65fbb7263b3d3251c452229716e2565280902324
+    Name: VSlayer.ROM
+    Genre: Shooting
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Seamsoft (sako_paco)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00
+
+  - English title: Vampire Slayer
+    Original title: Vampire Slayer
+    Longname: Vampire Slayer (P) [v1.0].rom
+    sha1: 72e616678539f8ae1931aca7b590df771d4ebe0a
+    Name: VSlayerP.ROM
+    Genre: Shooting
+    Language: Portuguese
+    Country: Spain
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Seamsoft (sako_paco)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00
+
+  - English title: Vampire Slayer
+    Original title: Vampire Slayer
+    Longname: Vampire Slayer (S) [v1.0].rom
+    sha1: 0a2fd1155a603eed8d84d9518a4f633cf2436e43
+    Name: VSlayerS.ROM
+    Genre: Shooting
+    Language: Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Seamsoft (sako_paco)
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00
 
 ##
 ### Game Roms from Netherlands ###
@@ -91998,7 +92228,6 @@
 
 - Folder longname: ~/Roms from Netherlands/Robosoft
   Folder name: ~/NL/Robosoft
-
 
 #
 ## Game Roms from Netherlands: Sunrise ##
@@ -94420,7 +94649,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible
+    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: Kai Magazine
@@ -94443,7 +94672,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible
+    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: Kai Magazine
@@ -94466,7 +94695,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible
+    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: Kai Magazine
@@ -94489,7 +94718,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible
+    Sound: PSG and MSX-Music / MSX-Audio / Moonsound compatible (OPL4)
     Player number: 1
     Signature: No
     Publisher: Kai Magazine
@@ -99512,6 +99741,190 @@
     Original Dump: No
     Remark: SG-1000 converted to MSX-DOS format by SLotman in 2008 and converted to ROM by gdx.
 
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [ASCII8 mapper].rom
+    sha1: d21465739484226aa90fb8d3eed348a50c686db8
+    Name: 128HaKA8.ROM
+    Genre: Compilation
+    Language: Korean
+    Country: Korea
+    Type: 1024kB ROM with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Joystick(s)
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: ?
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [ASCII16 mapper].rom
+    sha1: c9516be9525e51f9d7597c395fa60b2371c24163
+    Name: 128HKA16.ROM
+    Genre: Compilation
+    Language: Korean
+    Country: Korea
+    Type: 2048kB ROM with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Joystick(s)
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [Keyboard-ASCII16 mapper].rom
+    sha1: decaac111a034aa9bdab103362d44252fde68f26
+    Name: 128KKA16.ROM
+    Genre: Compilation
+    Language: English
+    Country: Korea
+    Type: 1024kB ROM with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [Original].rom
+    sha1: decaac111a034aa9bdab103362d44252fde68f26
+    Name: 128KOA16.ROM
+    Genre: Compilation
+    Language: English
+    Country: Korea
+    Type: 1024kB ROM with ASCII16 mapper
+    Machine: MSX1 / SG-1000 + RAM expansion
+    RAM: 64kB in the same slot (MSX) / 8kB (SG-1000)
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [Mapper fix-ASCII16 mapper].rom
+    sha1: d21465739484226aa90fb8d3eed348a50c686db8
+    Name: 128HaKA8.ROM
+    Genre: Compilation
+    Language: Korean
+    Country: Korea
+    Type: 2048kB ROM with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Joystick(s)
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: ?
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (K) [Mapper fix-trimmed-ASCII16 mapper].rom
+    sha1: c9516be9525e51f9d7597c395fa60b2371c24163
+    Name: 128HKA16.ROM
+    Genre: Compilation
+    Language: Korean
+    Country: Korea
+    Type: 1344kB ROM with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Joystick(s)
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (Translated) [ASCII16 mapper].rom
+    sha1: 88bed4698a803260b4c05af42459e237302b2905
+    Name: 128HaA16.ROM
+    Genre: Compilation
+    Language: English
+    Country: Korea
+    Type: 1024kB ROM with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: Game collection 128 in 1
+    Original title: 게임모음집 128합
+    Longname: Game Mo-eumjip 128 Hap - Game collection 128 in 1 (Translated) [Keyboard-ASCII8 mapper].rom
+    sha1: e8a309cced1cdffe5700bc46b7df5675965b539c
+    Name: 128HaKA8.ROM
+    Genre: Compilation
+    Language: English
+    Country: Korea
+    Type: 1024kB ROM with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: 
+    Developer: Converted by Bsittler.
+    Release: 
+    Original Dump: No
+    Remark: 
+
   - English title: Orguss
     Original title: オーガス
     Longname: Orguss.rom
@@ -99527,7 +99940,7 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG
-    Player number: 1
+    Player number: 1 or 2
     Signature: No
     Publisher: 
     Developer: 
@@ -119416,7 +119829,6 @@
     Original Dump: 
     Remark: 
 
-
 ##
 ### Roms from MSX computers (machines)
 ##
@@ -119425,29 +119837,97 @@
   Folder name: ~/machines
 
   Files:
-  - English title: 
-    Original title: 
-    Longname: .rom
-    sha1: 
-    Name: .ROM
-    Genre: 
+  - English title: Arabic-Rom
+    Original title: Arabic-Rom
+    Longname: Sakhr_ax170_arabic.rom
+    sha1: 0287b2ec897b9196788cd9f10c99e1487d7adbbb
+    Name: ax170_ar.ROM
+    Genre: Arabic Rom
     Language: 
-    Country: 
-    Type: 
-    Machine: MSX
-    RAM: 
-    VRAM: kB
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
     Data saving: None
-    Control: 
-    Sound: 
+    Control: Keyboard
+    Sound: None
     Player number: 
     Signature: No
-    Publisher: 
-    Developer: 
+    Publisher: Sakhr
+    Developer: Al Alamiah
     Release: 
     Original Dump: Yes
     Remark: 
 
+  - English title: Main-Rom
+    Original title: Main-Rom
+    Longname: Sakhr_ax170_bios1.rom
+    sha1: 5e094fca95ab8e91873ee372a3f1239b9a48a48d
+    Name: ax170bios.ROM
+    Genre: Arabic Rom
+    Language: 
+    Country: Kuwait
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: Sakhr
+    Developer: Al Alamiah, ASCII, Sanyo
+    Release: 1986
+    Original Dump: Yes
+    Remark: Uses the Toshiba T6950 or TMS9918 (VDP) and the Toshiba T7937A (MSX engine).
+
+  - English title: Arabic-Rom
+    Original title: Arabic-Rom
+    Longname: Yamaha_ax200_arabic.rom
+    sha1: 7574cc5655805ea316011a8123b064917f06f83c
+    Name: ax200_ar.ROM
+    Genre: Arabic Rom
+    Language: 
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: Yamaha
+    Developer: Al Alamiah
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Main-Rom
+    Original title: Main-Rom
+    Longname: Yamaha_ax200_bios1.rom
+    sha1: 079c018739c37485f3d64ef2145a0267fce6e20e
+    Name: ax200bios.ROM
+    Genre: Arabic Rom
+    Language: 
+    Country: Kuwait
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: Yamaha
+    Developer: Al Alamiah & ASCII
+    Release: 
+    Original Dump: Yes
+    Remark:  Uses the Toshiba V9938 (VDP) and the Yamaha S3527 (MSX engine). Keyboard layout is QWERTY
 
 ##
 ### Sega SG-1000 Game Roms ###
