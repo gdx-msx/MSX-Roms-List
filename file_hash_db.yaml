@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 08-10-2023 by gdx
+    MSX Roms Database version 13-10-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -89644,7 +89644,7 @@
     Name: BallBust.ROM
     Genre: Shooting
     Language: English
-    Country: 
+    Country: USA
     Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 32kB
@@ -90726,6 +90726,29 @@
     Original Dump: Yes
     Remark: Version 1.2
 
+  - English title: Double Rainbow
+    Original title: Double Rainbow
+    Longname: Double Rainbow [v1.1].rom
+    sha1: 0e4ffc476d335bb97a78d3407f909bd214797bd6
+    Name: dblRainb.ROM
+    Genre: Puzzle
+    Language: English
+    Country: USA
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Hakogame
+    Release: 2023-10-12
+    Original Dump: Yes
+    Remark: Version 1.10
+
   - English title: Eggy's Maze
     Original title: Eggy's Maze
     Longname: Eggy's Maze [v1.3].rom
@@ -91121,7 +91144,7 @@
     Original title: The Goblin
     Longname: The Goblin [v1.0].rom
     sha1: 9018cdc72267c1584feff941e4331b06f22b73c3
-    Name: TheGob00.ROM
+    Name: TheGob10.ROM
     Genre: Platform
     Language: English
     Country: Spain
@@ -91139,6 +91162,29 @@
     Release: 2023-08-26
     Original Dump: Yes
     Remark: Version 1.00
+
+  - English title: The Goblin
+    Original title: The Goblin
+    Longname: The Goblin [v1.2].rom
+    sha1: b85cf309a7b0e602a49f4e0d5246a7ad44a79160
+    Name: TheGob12.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Hicks, MSX port by Mananuk, Music by Mcraymond
+    Release: 2023-10-11
+    Original Dump: Yes
+    Remark: Version 1.20
 
   - English title: Tower of Damnation
     Original title: Tower of Damnation
@@ -99402,7 +99448,7 @@
     Name: OpenWide.ROM
     Genre: Dentist
     Language: English
-    Country: US
+    Country: USA
     Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 16kB
@@ -99413,7 +99459,7 @@
     Player number: 1
     Signature: No
     Publisher: Hakogame
-    Developer: 
+    Developer: Hakogame
     Release: 
     Original Dump: 
     Remark: 
