@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 13-10-2023 by gdx
+    MSX Roms Database version 19-10-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -9553,7 +9553,7 @@
     Player number: None
     Signature: No
     Publisher: Aoineko
-    Developer: Aoineko
+    Developer: Pixel Phenix (Aoineko)
     Release: 2022-11-01
     Original Dump: Yes
     Remark: 
@@ -9728,7 +9728,7 @@
     Language: English
     Country: Spain
     Type: 256kB Rom with KonamiSCC mapper
-    Machine: MSX turbo R + Graphic9000 compatible
+    Machine: MSX turbo R + GFX9000 compatible
     RAM: 256kB
     VRAM: 128kB
     Data saving: None
@@ -27500,6 +27500,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: "Codename: Intruder"
+    Original title: "Codename: Intruder"
+    Longname: Intruder.rom
+    sha1: f7039ebd100695d9a40188d7a3117c0fcc11d442
+    Name: Codename Intruder.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: France
+    Type: 512kB Rom with ASCII16 mapper
+    Machine: MSX1 + GFX9000 compatible
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Repro-Factory
+    Developer: 
+    Release: 
+    Original Dump: Yes
+    Remark: Dual screen!
+
   - English title: Gyruss - Arcade
     Original title: Gyruss - Arcade
     Longname: Gyruss - Arcade [SN76486].rom
@@ -27521,29 +27544,6 @@
     Developer: 
     Release: 
     Original Dump: yes
-    Remark: 
-
-  - English title: Intruder
-    Original title: Intruder
-    Longname: Intruder.rom
-    sha1: f7039ebd100695d9a40188d7a3117c0fcc11d442
-    Name: Intruder.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: France
-    Type: 512kB Rom with ASCII16 mapper
-    Machine: MSX1 + Graphic9000 compatible
-    RAM: 64kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Repro-Factory
-    Developer: 
-    Release: 
-    Original Dump: Yes
     Remark: 
 
   - English title: Lock'n Chase - Black Label Edition
@@ -27817,52 +27817,6 @@
 
   - English title: DICED - Tournament
     Original title: DICED - Tournament
-    Longname: DICED - Tournament [v1.01].rom
-    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
-    Name: DICED101.ROM
-    Genre: Dices
-    Language: English
-    Country: Germany
-    Type: 328kB Rom with Konami8 mapper
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: Password
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSXdev
-    Developer: Def Danny (Daniel Simon) & Mi-Chi (Michael Stellmann)
-    Release: 2022
-    Original Dump: Yes
-    Remark: 
-
-  - English title: DICED - Tournament
-    Original title: DICED - Tournament
-    Longname: DICED - Tournament [v1.0].rom
-    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
-    Name: DICED101.ROM
-    Genre: Dices
-    Language: English
-    Country: Germany
-    Type: 328kB Rom with Konami8 mapper
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: Password
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSXdev
-    Developer: Def Danny (Daniel Simon) & Mi-Chi (Michael Stellmann)
-    Release: 2022
-    Original Dump: Yes
-    Remark: 
-
-  - English title: DICED - Tournament
-    Original title: DICED - Tournament
     Longname: DICED - Tournament [v1.12].rom
     sha1: 1632fb300a4cc07f0ead7c33abf1e5b2ad2b4c2a
     Name: DICED112.ROM
@@ -27902,7 +27856,7 @@
     Player number: 1
     Signature: No
     Publisher: Haplo (on itch.io)
-    Developer: Haplo
+    Developer: Haplo (Ali Pouladi)
     Release: 2023-06-09
     Original Dump: Yes
     Remark: 
@@ -27925,7 +27879,7 @@
     Player number: 1
     Signature: No
     Publisher: Haplo (on itch.io)
-    Developer: Haplo
+    Developer: Haplo (Ali Pouladi)
     Release: 2023-06-09
     Original Dump: Yes
     Remark: Joystick bug fixed.
@@ -27948,7 +27902,7 @@
     Player number: 1
     Signature: No
     Publisher: Haplo (on itch.io)
-    Developer: Haplo
+    Developer: Haplo (Ali Pouladi)
     Release: 2023-06-09
     Original Dump: Yes
     Remark: Key click fixed.
@@ -86933,7 +86887,7 @@
     Language: English
     Country: UK
     Type: 4096kB Rom with ASCII16 mapper
-    Machine: MSX1 + Graphic9000 compatible
+    Machine: MSX1 + GFX9000 compatible
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
@@ -89867,6 +89821,52 @@
     Original Dump: Yes
     Remark: Version a little buggy.
 
+  - English title: DICED - Tournament
+    Original title: DICED - Tournament
+    Longname: DICED - Tournament [v1.0].rom
+    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
+    Name: DICED101.ROM
+    Genre: Dices
+    Language: English
+    Country: Germany
+    Type: 328kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Def Danny (Daniel Simon) & Mi-Chi (Michael Stellmann)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: DICED - Tournament
+    Original title: DICED - Tournament
+    Longname: DICED - Tournament [v1.01].rom
+    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
+    Name: DICED101.ROM
+    Genre: Dices
+    Language: English
+    Country: Germany
+    Type: 328kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Def Danny (Daniel Simon) & Mi-Chi (Michael Stellmann)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
   - English title: Lilly's Saga The Stones of Evergreen
     Original title: Lilly's Saga The Stones of Evergreen
     Longname: Lilly's Saga The Stones of Evergreen [v1.0].rom
@@ -90712,7 +90712,7 @@
     Language: English
     Country: Netherlands
     Type: 2048kB Rom with ASCII8 mapper
-    Machine: MSX1 + Graphic9000 compatible
+    Machine: MSX1 + GFX9000 compatible
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
@@ -90725,6 +90725,75 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.2
+
+  - English title: Crawlers
+    Original title: Crawlers
+    Longname: Crawlers [v1.0.7].rom
+    sha1: 9e6594715fcd7cd1451487512a829a2a829ea2e2
+    Name: Crawl107.ROM
+    Genre: Snake
+    Language: English
+    Country: France
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joysticks / NinjaTap + joysticks
+    Sound: None
+    Player number: 1 - 8
+    Signature: No
+    Publisher: MSXdev
+    Developer: Pixel Phenix (Aoineko)
+    Release: 2023-10-11
+    Original Dump: Yes
+    Remark: Version 1.07 (release candidate)
+
+  - English title: Crawlers
+    Original title: Crawlers
+    Longname: Crawlers [v1.0.8].rom
+    sha1: c5d3e8f9a362345e2a73a86c71469bf354a03195
+    Name: Crawl108.ROM
+    Genre: Snake
+    Language: English
+    Country: France
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joysticks / NinjaTap + joysticks
+    Sound: None
+    Player number: 1 - 8
+    Signature: No
+    Publisher: MSXdev
+    Developer: Pixel Phenix (Aoineko)
+    Release: 2023-10-11
+    Original Dump: Yes
+    Remark: Indicated version 1.00 by MSXdev but this is in fact the v1.08
+
+  - English title: Crawlers
+    Original title: Crawlers
+    Longname: Crawlers [v1.1].rom
+    sha1: 39de6e4cccfa304fea8d163fd5881c65a1b91b5b
+    Name: Crawl110.ROM
+    Genre: Snake
+    Language: English
+    Country: France
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joysticks / NinjaTap + joysticks
+    Sound: None
+    Player number: 1 - 8
+    Signature: No
+    Publisher: MSXdev
+    Developer: Pixel Phenix (Aoineko)
+    Release: 2023-10-14
+    Original Dump: Yes
+    Remark: Version 1.10
 
   - English title: Double Rainbow
     Original title: Double Rainbow
@@ -91048,6 +91117,29 @@
     Original Dump: Yes
     Remark: Version 1.10
 
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [v1.0].rom
+    sha1: 08ac425cb201433578b60a31617805f762da9e8e
+    Name: Phenix10.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Casper Croes
+    Release: 2023-10-15
+    Original Dump: Yes
+    Remark: Version 1.00.
+
   - English title: Plastic
     Original title: Plastic
     Longname: Plastic [v1.0] (Z80 ASMer).rom
@@ -91068,6 +91160,29 @@
     Publisher: MSXdev
     Developer: Z80 ASMer
     Release: 2023-08-26
+    Original Dump: Yes
+    Remark: Version 1.00.
+
+  - English title: Snake And Rhino In The Sketch Book
+    Original title: Snake And Rhino In The Sketch Book
+    Longname: Snake And Rhino In The Sketch Book [v1.0].rom
+    sha1: 2fb84bfd3a81c37fee9ff069e6f172edff615cf7
+    Name: SARISB10.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Micha Mulder
+    Release: 2023-10-13
     Original Dump: Yes
     Remark: Version 1.00.
 
@@ -91139,6 +91254,52 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+
+  - English title: Tenebra 2 - A Dark Adventure in 35 Chapters
+    Original title: Tenebra 2 - A Dark Adventure in 35 Chapters
+    Longname: Tenebra 2 [v1.0].rom
+    sha1: fd0cd543e4809ff81388a637192380be255b520e
+    Name: Tenebra2.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Germany
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Haplo (Ali Pouladi)
+    Release: 2023-10-11
+    Original Dump: Yes
+    Remark: Version 1.00
+
+  - English title: Tetpuz
+    Original title: Tetpuz
+    Longname: Tetpuz [v1.0].rom
+    sha1: 9018cdc72267c1584feff941e4331b06f22b73c3
+    Name: Tetpuz.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: PAC SRAM (slot 6)
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Totta (Thomas Lundgren)
+    Release: 2023-10-14
+    Original Dump: Yes
+    Remark: Version 1.00
 
   - English title: The Goblin
     Original title: The Goblin
@@ -91530,6 +91691,29 @@
     Release: 2023
     Original Dump: Yes
     Remark: Version 1.00
+
+  - English title: Xelden Ring
+    Original title: Xelden Ring
+    Longname: Xelden Ring [v1.0].rom
+    sha1: b107b1dc6b8e53affca2ed55f80cd8b840b73f7d
+    Name: Xelden10.ROM
+    Genre: 3D action role playing
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Brain Games
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.00 (unfinished game)
 
 ##
 ### Game Roms from Netherlands ###
@@ -93014,7 +93198,7 @@
     Language: English
     Country: Spain
     Type: 2048kB Rom with KonamiSCC mapper
-    Machine: MSX1 + Graphic9000 compatible
+    Machine: MSX1 + GFX9000 compatible
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -93037,7 +93221,7 @@
     Language: English
     Country: Spain
     Type: 2048kB Rom with KonamiSCC mapper
-    Machine: MSX1 + Graphic9000 compatible
+    Machine: MSX1 + GFX9000 compatible
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -95343,7 +95527,7 @@
     Language: English
     Country: Spain
     Type: 4096kB Rom with ASCII16 mapper
-    Machine: MSX1 + Graphic9000 compatible
+    Machine: MSX1 + GFX9000 compatible
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -95354,6 +95538,29 @@
     Publisher: Mapax
     Developer: Mapax
     Release: 2019
+    Original Dump: 
+    Remark: 
+
+  - English title: MSX in a Row!
+    Original title: MSX in a Row!
+    Longname: MSX in a Row! [a-V9990].rom
+    sha1: 2de642e4e7bd5733bbdaa1daa1afdb2625e1edc4
+    Name: MSXINROA.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 4096kB Rom with ASCII16 mapper
+    Machine: MSX1 + GFX9000 compatible
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG & MSX-MUSIC / MSX-AUDIO
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: Mapax
+    Release: 2020
     Original Dump: 
     Remark: 
 
