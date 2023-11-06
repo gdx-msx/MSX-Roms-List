@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 19-10-2023 by gdx
+    MSX Roms Database version 05-11-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -22765,6 +22765,52 @@
     Original Dump: 
     Remark: 
 
+  - English title: Mac Attack
+    Original title: Mac Attack
+    Longname: Mac Attack (Al Alamiah).rom
+    sha1: 321fc7755965bb0cb4d6422752dbf31c5c4ce6f7
+    Name: ALMacAtt.ROM
+    Genre: Action
+    Language: English
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 1986
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Mac Attack
+    Original title: Mac Attack
+    Longname: Mac Attack [voice sample fix] (Al Alamiah).rom
+    sha1: 31e6523e933a52cc8b209fc41758ae1097e94f6d
+    Name: ALMacVsf.ROM
+    Genre: Action
+    Language: English
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 1986 (original), 2023 (fix)
+    Original Dump: No
+    Remark: Voice sound fix by gdx.
+
   - English title: Magic Touch
     Original title: اللمس السحري
     Longname: Magic Touch (A-E).rom
@@ -23432,6 +23478,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Scentipede
+    Original title: Scentipede
+    Longname: Scentipede (Al Alamiah).rom
+    sha1: 1a1d876db783591f684cd12e2b66b1f14bd0613e
+    Name: AlScenti.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
   - English title: Sea Horse
     Original title: حصان البحر
     Longname: Sea Horse (A-E).rom
@@ -23643,7 +23712,7 @@
     Original title: Skooter
     Longname: Skooter (Al Alamiah).rom
     sha1: a49caeab4b7c7adfcb2806e15a4c74e64ffab475
-    Name: ALSkootr.ROM
+    Name: AlSkootr.ROM
     Genre: Action, puzzle
     Language: English
     Country: Kuwait
@@ -23660,13 +23729,13 @@
     Developer: The Bytebusters
     Release: 1987
     Original Dump: Yes
-    Remark: Version extrated from the MSX AX-230 firmware. Works with some Rom loaders.
+    Remark: Works with some Rom loaders.
 
   - English title: Skooter
     Original title: Skooter
     Longname: Skooter [a] (Al Alamiah).rom
     sha1: cf7cb4650823fba6a4e91e4722b8305916ca9ea8
-    Name: ALSkootA.ROM
+    Name: AlSkootA.ROM
     Genre: Action, puzzle
     Language: English
     Country: Kuwait
@@ -23683,7 +23752,7 @@
     Developer: The Bytebusters
     Release: 1987
     Original Dump: No
-    Remark: Version extrated from the MSX AX-230 firmware and modified to be used in a 32kB ROM.
+    Remark: Version modified to improve the compatibility.
 
   - English title: Snake It
     Original title: Snake It
@@ -58316,14 +58385,37 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: PAC SRAM
     Control: Keyboard / joystick
-    Sound: PSG
+    Sound: PSG / PSG and external PSG compatible MFR SCC+SD
     Player number: 1
     Signature: No
     Publisher: Ochixn
     Developer: Ochixn
     Release: 2022-07-23
+    Original Dump: Yes
+    Remark: 
+
+  - English title: T Game 5
+    Original title: T GAME 5
+    Longname: T Game 5 [231031].rom
+    sha1: 8d4d11de742da9bbfea7c4b4f6029f421e806a21
+    Name: TGame5R2.ROM
+    Genre: Puzzle (like Tetris)
+    Language: English
+    Country: Japan
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and external PSG compatible MFR SCC+SD
+    Player number: 1
+    Signature: No
+    Publisher: Ochixn
+    Developer: Ochixn
+    Release: 2023-10-31
     Original Dump: Yes
     Remark: 
 
@@ -91140,6 +91232,29 @@
     Original Dump: Yes
     Remark: Version 1.00.
 
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [v1.0 KonamiSCC mapper].rom
+    sha1: afe8d1d4095118ea005b4180309a7b34f41a34ff
+    Name: Phen10KS.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Casper Croes
+    Release: 2023-10-15
+    Original Dump: Yes
+    Remark: Version 1.00 patched to work with KonamiSCC mapper.
+
   - English title: Plastic
     Original title: Plastic
     Longname: Plastic [v1.0] (Z80 ASMer).rom
@@ -91198,7 +91313,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -91207,7 +91322,7 @@
     Developer: Orazio Cacciola and Cristiano Polenta
     Release: 2023
     Original Dump: Yes
-    Remark: Version 1.00. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+    Remark: Version 1.00. Press "1" key during MSX turbo R startup to run the game in Z80 mode. Press Shift key during startup to run the game in R800 mode.
 
   - English title: Super Ory 2 - Enigma
     Original title: Super Ory 2 - Enigma
@@ -91221,7 +91336,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -91230,7 +91345,7 @@
     Developer: Orazio Cacciola and Cristiano Polenta
     Release: 2023
     Original Dump: Yes
-    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode. Press Shift key during startup to run the game in R800 mode.
 
   - English title: Super Ory 2 - Enigma
     Original title: Super Ory 2 - Enigma
@@ -91244,7 +91359,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: None
+    Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -91253,7 +91368,7 @@
     Developer: Orazio Cacciola and Cristiano Polenta
     Release: 2023
     Original Dump: Yes
-    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode.
+    Remark: Version 1.20. Press "1" key during MSX turbo R startup to run the game in Z80 mode. Press Shift key during startup to run the game in R800 mode.
 
   - English title: Tenebra 2 - A Dark Adventure in 35 Chapters
     Original title: Tenebra 2 - A Dark Adventure in 35 Chapters
@@ -92481,20 +92596,20 @@
     VRAM: 128kB
     Data saving: Flash-Rom
     Control: Keyboard / joystick
-    Sound: PSG and SCC
+    Sound: External PSG compatible MFR SCC+SD and SCC
     Player number: 1
     Signature: No
     Publisher: Sunrise
     Developer: RenovatiO
     Release: 2007
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Manbow 2
     Original title: Manbow 2
-    Longname: Manbow 2 [v1] [a].rom
+    Longname: Manbow 2 [v1-cracked] (Sunrise).rom
     sha1: e3b9241291b5f19ab239726360258a31e02565a3
-    Name: Manb2v1A.ROM
+    Name: Manb2v1K.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
@@ -92510,14 +92625,14 @@
     Publisher: Sunrise
     Developer: RenovatiO
     Release: 2007
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
   - English title: Manbow 2
     Original title: Manbow 2
-    Longname: Manbow 2 [v1] [a2].rom
+    Longname: Manbow 2 [v1-cracked-a] (Sunrise).rom
     sha1: 00a81872d548a7278b8901608bf12e8f79009bee
-    Name: Man2v1A2.ROM
+    Name: Man2v1K2.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Netherlands
@@ -92533,7 +92648,7 @@
     Publisher: Sunrise
     Developer: RenovatiO
     Release: 2007
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
   - English title: Manbow 2
@@ -92573,7 +92688,7 @@
     VRAM: 128kB
     Data saving: Flash-Rom
     Control: Keyboard / joystick
-    Sound: PSG and SCC
+    Sound: External PSG compatible MFR SCC+SD and SCC
     Player number: 1
     Signature: No
     Publisher: Sunrise
@@ -92596,13 +92711,13 @@
     VRAM: 128kB
     Data saving: Flash-Rom
     Control: Keyboard / joystick
-    Sound: PSG
+    Sound: External PSG compatible MFR SCC+SD and SCC
     Player number: 1
     Signature: No
     Publisher: Sunrise
     Developer: RenovatiO
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
 #
@@ -94157,7 +94272,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: External PSG and SCC
+    Sound: External PSG compatible MFR SCC+SD and SCC
     Player number: 1
     Signature: No
     Publisher: FX Software
@@ -95518,6 +95633,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Mr. Balloon Remake
+    Original title: Mr. Balloon Remake
+    Longname: Mr. Balloon Remake.rom
+    sha1: 3d053f5746fa46ce52ea9043437fdb69ac91e848
+    Name: MBallooR.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Type: 128kB Rom with ASCII16 mapper
+    Machine: MSX1 + GFX9000 compatible
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Mapax
+    Developer: Mapax
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
   - English title: MSX in a Row!
     Original title: MSX in a Row!
     Longname: MSX in a Row! [V9990].rom
@@ -96392,7 +96530,7 @@
     VRAM: 128kB
     Data saving: None
     Control: Keyboard / joystick
-    Sound: External PSG (I/O ports #10-#13)
+    Sound: External PSG compatible MFR SCC+SD
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
@@ -96576,7 +96714,7 @@
     VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / keyboard and joystick
-    Sound: External PSG, SCC and MSX turbo R PCM when present
+    Sound: External PSG compatible MFR SCC+SD, SCC and MSX turbo R PCM when present
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
@@ -96599,7 +96737,7 @@
     VRAM: 64kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
-    Sound: External PSG, SCC and MSX turbo R PCM when present
+    Sound: External PSG compatible MFR SCC+SD, SCC and MSX turbo R PCM when present
     Player number: 1
     Signature: No
     Publisher: MSX Cartridge Shop
