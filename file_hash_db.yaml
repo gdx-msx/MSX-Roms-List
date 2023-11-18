@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 05-11-2023 by gdx
+    MSX Roms Database version 19-11-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -10798,7 +10798,7 @@
     Longname: Pepper II [Muffie-Beta version].rom
     sha1: bf041bc8ce3b5dab7b1f85f623b371b263639aab
     Name: Pepper2B.ROM
-    Genre: Action, Puzzle
+    Genre: Action, Encircling
     Language: English
     Country: USA
     Type: 32kB Rom (4000h-BFFFh)
@@ -10821,7 +10821,7 @@
     Longname: Pepper II [Muffie].rom
     sha1: 479100e82d3f25bbeb9a291163945d2f5bd62f74
     Name: Pepper2M.ROM
-    Genre: Action, Puzzle
+    Genre: Action, Encircling
     Language: English
     Country: USA
     Type: 32kB Rom (4000h-BFFFh)
@@ -10844,7 +10844,7 @@
     Longname: Pepper II [gdx-r1].rom
     sha1: 70e947dfa1d08fe100b5975aa145c3d8a4180f68
     Name: Peppe2R1.ROM
-    Genre: Action, Puzzle
+    Genre: Action, Encircling
     Language: English
     Country: USA
     Type: 64kB Rom with ASCII16 / KonamiSCC mapper
@@ -10867,7 +10867,7 @@
     Longname: Pepper II [gdx-r2].rom
     sha1: 95b311c8e5fd74e72226cca218ef0704f940cd65
     Name: Peppe2R2.ROM
-    Genre: Action, Puzzle
+    Genre: Action, Encircling
     Language: English
     Country: USA
     Type: 64kB Rom with ASCII16 / KonamiSCC mapper
@@ -17328,6 +17328,29 @@
     Publisher: MSX-FAN
     Developer: Naoya Komafune
     Release: 1995-04
+    Original Dump: No
+    Remark: 
+
+  - English title: Switch
+    Original title: Switch
+    Longname: Switch (Jeroen Timmers).rom
+    sha1: a1e453a1d53b2556e1d03f4496f4137b259b1ada
+    Name: Switch.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: None
+    Player number: 1
+    Signature: No
+    Publisher: Computer Magazine 53
+    Developer: Jeroen Timmers
+    Release: 1992-04
     Original Dump: No
     Remark: 
 
@@ -27397,7 +27420,7 @@
     Longname: Tiles of Shalom.rom
     sha1: 43c6a757ce5ec5a221e6c0e922638f688de8fd8b
     Name: TilesSha.ROM
-    Genre: Memorization
+    Genre: Pairs finding
     Language: English
     Country: France
     Type: 16kB Rom (4000h-7FFFh)
@@ -30825,7 +30848,7 @@
     Longname: Pairs.rom
     sha1: 27bc809518fbb6c0d52c949e7cbe81980a801d32
     Name: Pairs.ROM
-    Genre: Puzzle
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom without mirror
@@ -30848,7 +30871,7 @@
     Longname: Pairs [a].rom
     sha1: df13ed647ed4f5a6b04f1710fc1140ea65dc966f
     Name: Pairs-A.ROM
-    Genre: Memorization
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -30871,7 +30894,7 @@
     Longname: Pairs [ASCII16 mapper fix].rom
     sha1: 12dbaa80278d3dc8a7dd50ad83e3dd840d8856fd
     Name: Pair16Kf.ROM
-    Genre: Memorization
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -30894,7 +30917,7 @@
     Longname: Pairs [SHIFT fix].rom
     sha1: 80c82bb4010476a679cb616ac31fc691b8e8a526
     Name: Pairs-Sf.ROM
-    Genre: Memorization
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -30917,7 +30940,7 @@
     Longname: Pairs [Size & SHIFT fix].rom
     sha1: ef176d4a683ed9ca904a70635006c12d7e23180a
     Name: PairsSSf.ROM
-    Genre: Memorization
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -38918,6 +38941,60 @@
     Developer: NISSO Corporation (Compile)
     Release: 1984
     Original Dump: No
+    Remark: 
+
+#
+## Game Roms from Japan: Gigamix ##
+#
+
+- Folder longname: ~/Roms From Gigamix
+  Folder name: ~/Japan/Gigamix
+
+  Files:
+  - English title: Hey Button
+    Original title: へぇボタン
+    Longname: Hey Button [v2.01].rom
+    sha1: 1359993be6758f77e22d015fe07792068fe77ea7
+    Name: HeBut201.ROM
+    Genre: Hey Button
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and SCC / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Gigamix
+    Developer: Gigamix
+    Release: 2023-10-13
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Masquerade award panel
+    Original title: 仮装大賞パネル
+    Longname: Kasou Taishou Panel [v2.02].rom
+    sha1: 5099c3bb32f2c5ee73e717fbb2fc7c1bdb397d96
+    Name: KTP202.ROM
+    Genre: Give a score out of 20
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG, SCC and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Gigamix
+    Developer: Gigamix
+    Release: 2023-08-26
+    Original Dump: Yes
     Remark: 
 
 #
@@ -58424,7 +58501,7 @@
     Longname: Ueumi [211107].rom
     sha1: 9c4a3e701af3057993ff397f02eb46fcda669505
     Name: Ueumi.ROM
-    Genre: Shanghai / Mahjong solitaire
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
@@ -67482,7 +67559,7 @@
     Longname: Shanghai.rom
     sha1: 77d95640c80bc4868d04a913f9dbf4b5f6d877d2
     Name: Shanghai.ROM
-    Genre: Shanghai
+    Genre: Pairs finding
     Language: English
     Country: Japan
     Type: 128kB Rom with ASCII16 mapper
@@ -70430,7 +70507,7 @@
     Longname: Kung-Fu Taikun.rom
     sha1: e817ab7b50674c414b1c1b72530024eb03396a41
     Name: KungFuTK.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -70453,7 +70530,7 @@
     Longname: Kung-Fu Taikun [a].rom
     sha1: 4ac6a17c9c17bf6e9b149b727663496bf1bf35b0
     Name: KungFuTA.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -70476,7 +70553,7 @@
     Longname: Kung-Fu Taikun [overdumped].rom
     sha1: 304ea29469461f1cfa801f62af0bf5045a6882fc
     Name: KungFuTK Overdumped.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh) + 1 byte
@@ -72087,7 +72164,7 @@
     Longname: Son Goku - Kung-Fu Taikun (Boram).rom
     sha1: 7fe4ad9bdda1575a4a56ff0a0417e5a75d8473fa
     Name: BSonGoku.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Korea
     Type: 16kB Rom (4000h-7FFFh)
@@ -72110,7 +72187,7 @@
     Longname: Son Goku - Kung-Fu Taikun [a] (Boram).rom
     sha1: 2dd728d7de1f83c1b60cdf480f1fc6b497bd3cd9
     Name: BSonGokA.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Korea
     Type: 16kB Rom (4000h-7FFFh)
@@ -72133,7 +72210,7 @@
     Longname: Son Goku - Kung-Fu Taikun (Boram) [dumped by Claus].rom
     sha1: 538f4c8567bf5caff65dc034da6cb89f8beeab62
     Name: BSonGoCl.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Korea
     Type: 16kB Rom (4000h-7FFFh)
@@ -76438,7 +76515,7 @@
     Longname: Sonokong - Kung-Fu Taikun (Screen Software).rom
     sha1: f80e7585ca1e8f018cce69803f55af4da01056b7
     Name: SCSonGok.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Korea
     Type: 32kB Rom (4000h-BFFFh)
@@ -80311,7 +80388,7 @@
     Longname: Son Goku - Kung-Fu Taikun (Zemina).rom
     sha1: 8d5fe498a25420de9f428265ebbb1fc2a6c0f2ca
     Name: ZSonGoku.ROM
-    Genre: Action, memorization
+    Genre: Action, pairs finding
     Language: English
     Country: Korea
     Type: 16kB Rom (4000h-7FFFh)
@@ -81946,7 +82023,7 @@
     Longname: Magical Stones [8K].rom
     sha1: 38a3c6659080b38d9a2655e869e9fc0ce3e26c5e
     Name: MStone8K.ROM
-    Genre: Plotting
+    Genre: Puzzle
     Language: English
     Country: Spain
     Type: 8kB Rom (8000h-9FFFh)
@@ -81969,7 +82046,7 @@
     Longname: Magical Stones [16K].rom
     sha1: cb0d355627b8c036931a67666e425d8f9225a180
     Name: MSton16K.ROM
-    Genre: Plotting
+    Genre: Puzzle
     Language: English
     Country: Spain
     Type: 16kB Rom (8000h-BFFFh)
@@ -84392,7 +84469,7 @@
     Genre: Puzzle
     Language: English
     Country: USA
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -84415,7 +84492,7 @@
     Genre: Puzzle
     Language: English
     Country: USA
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -96682,7 +96759,7 @@
     Longname: Perfect Fit.rom
     sha1: 7ec25356abf3720806b2b97cbabdc1f19ed698f8
     Name: PerfectF.ROM
-    Genre: Puazzle
+    Genre: Puzzle
     Language: English
     Country: Spain
     Type: 32kB Rom (4000h-BFFFh)
