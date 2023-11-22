@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 19-11-2023 by gdx
+    MSX Roms Database version 21-11-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -14167,7 +14167,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -14190,7 +14190,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -18387,7 +18387,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19177,7 +19177,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19200,7 +19200,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19223,7 +19223,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19246,7 +19246,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19269,7 +19269,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19292,7 +19292,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19384,7 +19384,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19407,7 +19407,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19430,7 +19430,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19453,7 +19453,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -19476,7 +19476,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -19545,7 +19545,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19568,7 +19568,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19591,7 +19591,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19614,7 +19614,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19637,7 +19637,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19660,7 +19660,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19683,7 +19683,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19706,7 +19706,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19729,7 +19729,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19752,7 +19752,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19775,7 +19775,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19798,7 +19798,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19821,7 +19821,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19844,7 +19844,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -19867,7 +19867,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -20258,7 +20258,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20281,7 +20281,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20304,7 +20304,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20327,7 +20327,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20350,7 +20350,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20373,7 +20373,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20396,7 +20396,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -20419,7 +20419,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20442,7 +20442,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20465,7 +20465,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20488,7 +20488,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20511,7 +20511,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20534,7 +20534,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20557,7 +20557,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -20580,7 +20580,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -20649,7 +20649,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20672,7 +20672,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20741,7 +20741,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20764,7 +20764,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20856,7 +20856,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20879,7 +20879,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -20902,7 +20902,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -20925,7 +20925,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -20994,7 +20994,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21017,7 +21017,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21040,7 +21040,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21063,7 +21063,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21086,7 +21086,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21109,7 +21109,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -21132,7 +21132,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21155,7 +21155,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -21178,7 +21178,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -21201,7 +21201,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21224,7 +21224,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21247,7 +21247,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -21270,7 +21270,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1
@@ -26843,6 +26843,52 @@
   Folder name: ~/Brazil/Epcom
 
   Files:
+  - English title: Marine Battle
+    Original title: Batalha Naval
+    Longname: Batalha Naval - Marine Battle (P).rom
+    sha1: 88bf84655982a51059e53d667ff746997455e270
+    Name: BatalNav.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: Portuguese
+    Country: Brazil, Portugal
+    Type: 16kB Rom (8000h-BFFFh without mirror)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: K. Inaki
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Hyper Sports 1
+    Original title: Hyper Sports 1
+    Longname: Hyper Sports 1 (Sharp Epcom).rom
+    sha1: 4f6c94cee6550b1619813eaacd88af02ebde51dc
+    Name: SEHypSp1.ROM
+    Genre: Sport
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp Epcom
+    Developer: Konami
+    Release: 1984
+    Original Dump: 
+    Remark: 
+
   - English title: Sirius' Squish'em
     Original title: Prédio Assombrado
     Longname: Predio Assombrado - Squish'em (P).rom
@@ -27673,7 +27719,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -30644,7 +30690,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -30654,7 +30700,7 @@
     Player number: 1
     Signature: No
     Publisher: ASCII Corporation
-    Developer: 
+    Developer: K. Inaki
     Release: 1983
     Original Dump: Yes
     Remark: 
@@ -45272,7 +45318,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45295,7 +45341,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45318,7 +45364,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45341,7 +45387,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45364,7 +45410,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45387,7 +45433,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45410,7 +45456,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45433,7 +45479,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45456,7 +45502,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45479,7 +45525,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -45502,7 +45548,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -45525,7 +45571,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -45548,7 +45594,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45571,7 +45617,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45594,7 +45640,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45617,7 +45663,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45640,7 +45686,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45663,7 +45709,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -45686,7 +45732,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -45709,7 +45755,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45732,7 +45778,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45755,7 +45801,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -45778,7 +45824,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45801,7 +45847,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45824,7 +45870,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -45847,7 +45893,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45870,7 +45916,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45893,7 +45939,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -45916,7 +45962,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46054,7 +46100,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46077,7 +46123,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46100,7 +46146,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46123,7 +46169,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -46169,7 +46215,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -46192,7 +46238,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -46698,7 +46744,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46721,7 +46767,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46744,7 +46790,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46767,7 +46813,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -46790,7 +46836,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46813,7 +46859,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46836,7 +46882,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46859,7 +46905,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46882,7 +46928,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46905,7 +46951,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46928,7 +46974,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -46951,7 +46997,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46974,7 +47020,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -46997,7 +47043,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47020,7 +47066,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -47043,7 +47089,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47066,7 +47112,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47089,7 +47135,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47112,7 +47158,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47135,7 +47181,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47158,7 +47204,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -47365,7 +47411,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47388,7 +47434,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47411,7 +47457,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47434,7 +47480,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47457,7 +47503,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47480,7 +47526,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47503,7 +47549,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47526,7 +47572,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47549,7 +47595,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47572,7 +47618,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47595,7 +47641,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47618,7 +47664,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47641,7 +47687,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47664,7 +47710,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47687,7 +47733,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -47710,7 +47756,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -47733,7 +47779,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -47756,7 +47802,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -47779,7 +47825,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -47802,7 +47848,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -47825,7 +47871,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -47848,7 +47894,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -47871,7 +47917,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -47894,7 +47940,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -47917,7 +47963,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -48032,7 +48078,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick (movement only)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48055,7 +48101,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick (movement only)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48078,7 +48124,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48101,7 +48147,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48124,7 +48170,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48147,7 +48193,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48170,7 +48216,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48193,7 +48239,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48216,7 +48262,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48239,7 +48285,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48262,7 +48308,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48285,7 +48331,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -48308,7 +48354,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48331,7 +48377,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48354,7 +48400,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48377,7 +48423,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48400,7 +48446,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48423,7 +48469,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48446,7 +48492,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48469,7 +48515,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48492,7 +48538,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48515,7 +48561,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48538,7 +48584,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48561,7 +48607,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: Dual/Single PSG, SCC
     Player number: 1
@@ -48584,7 +48630,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: Dual/Single PSG, SCC
     Player number: 1
@@ -48607,7 +48653,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: Dual/Single PSG, SCC
     Player number: 1
@@ -48630,7 +48676,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: Dual/Single PSG, SCC
     Player number: 1
@@ -48653,7 +48699,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: Dual/Single PSG, SCC
     Player number: 1
@@ -48676,7 +48722,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48699,7 +48745,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -48722,7 +48768,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -49021,7 +49067,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49044,7 +49090,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49067,7 +49113,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49090,7 +49136,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49113,7 +49159,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49136,7 +49182,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49159,7 +49205,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49182,7 +49228,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49343,7 +49389,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard
     Sound: PSG
     Player number: 1
@@ -49366,7 +49412,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49389,7 +49435,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49412,7 +49458,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49435,7 +49481,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49527,7 +49573,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49550,7 +49596,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49573,7 +49619,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49596,7 +49642,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49619,7 +49665,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49642,7 +49688,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49665,7 +49711,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49688,7 +49734,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49711,7 +49757,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49734,7 +49780,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49757,7 +49803,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49780,7 +49826,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49803,7 +49849,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49826,7 +49872,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -49849,7 +49895,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -49872,7 +49918,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -49895,7 +49941,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49918,7 +49964,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -49941,7 +49987,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -49964,7 +50010,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -49987,7 +50033,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -50010,7 +50056,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50033,7 +50079,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50056,7 +50102,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50102,7 +50148,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50194,7 +50240,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50217,7 +50263,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50240,7 +50286,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50677,7 +50723,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50700,7 +50746,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50723,7 +50769,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50746,7 +50792,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50769,7 +50815,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50792,7 +50838,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50815,7 +50861,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50838,7 +50884,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50861,7 +50907,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -50884,7 +50930,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50907,7 +50953,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50930,7 +50976,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50953,7 +50999,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -50976,7 +51022,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51206,7 +51252,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51229,7 +51275,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51252,7 +51298,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51275,7 +51321,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51298,7 +51344,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51321,7 +51367,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51344,7 +51390,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51367,7 +51413,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51459,7 +51505,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51482,7 +51528,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51505,7 +51551,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51528,7 +51574,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -51551,7 +51597,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -51574,7 +51620,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -51597,7 +51643,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and Dual SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -51620,7 +51666,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -51735,7 +51781,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51758,7 +51804,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -51919,7 +51965,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51942,7 +51988,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51965,7 +52011,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -51988,7 +52034,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52011,7 +52057,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52034,7 +52080,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick / keyboard and joystick(s)
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -52057,7 +52103,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52080,7 +52126,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52103,7 +52149,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52126,7 +52172,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52149,7 +52195,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52172,7 +52218,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52195,7 +52241,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52218,7 +52264,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52241,7 +52287,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -52264,7 +52310,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -52287,7 +52333,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
@@ -52310,7 +52356,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52333,7 +52379,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52356,7 +52402,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick (player movement and fire only)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52379,7 +52425,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick (player movement and fire only)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52402,7 +52448,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick (player movement and fire only)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52425,7 +52471,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -52448,7 +52494,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -52471,7 +52517,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -52494,7 +52540,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -52517,7 +52563,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52540,7 +52586,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52563,7 +52609,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52586,7 +52632,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52678,7 +52724,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52701,7 +52747,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52747,7 +52793,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -52770,7 +52816,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -52793,7 +52839,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -52816,7 +52862,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52839,7 +52885,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -52870,7 +52916,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -52893,7 +52939,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -52916,7 +52962,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -52939,7 +52985,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -52962,7 +53008,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -52985,7 +53031,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53054,7 +53100,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53077,7 +53123,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53100,7 +53146,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53123,7 +53169,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -53146,7 +53192,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -53169,7 +53215,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53192,7 +53238,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53215,7 +53261,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53238,7 +53284,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53261,7 +53307,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1
@@ -53284,7 +53330,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53307,7 +53353,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately)
@@ -53330,7 +53376,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53353,7 +53399,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53376,7 +53422,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53399,7 +53445,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53422,7 +53468,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53445,7 +53491,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Tape, Game Master 2 (floppy disk)
+    Data saving: Tape, Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53537,7 +53583,7 @@
     Machine: MSX1
     RAM: 8kB / 16kB for disk support
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1
@@ -53560,7 +53606,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1
@@ -53583,7 +53629,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1
@@ -53675,7 +53721,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -53698,7 +53744,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -53721,7 +53767,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and SCC
     Player number: 1
@@ -53744,7 +53790,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and Dual SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -53767,7 +53813,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG and Dual SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -53836,7 +53882,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53859,7 +53905,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -53882,7 +53928,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: JoySNES
     Sound: PSG
     Player number: 1
@@ -72570,7 +72616,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -72593,7 +72639,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -73998,7 +74044,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -74190,7 +74236,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -74443,7 +74489,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -74673,7 +74719,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -74696,7 +74742,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -74719,7 +74765,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -74742,7 +74788,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -74857,7 +74903,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -74880,7 +74926,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -76031,7 +76077,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -76384,7 +76430,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -76430,7 +76476,7 @@
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -76453,7 +76499,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -76591,7 +76637,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / Keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -77182,7 +77228,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -77274,7 +77320,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -77811,7 +77857,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately or at the same time)
@@ -78018,7 +78064,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78041,7 +78087,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78064,7 +78110,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78248,7 +78294,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78271,7 +78317,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78294,7 +78340,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78363,7 +78409,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78455,7 +78501,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78524,7 +78570,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78547,7 +78593,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78731,7 +78777,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -78777,7 +78823,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -79222,7 +79268,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -79245,7 +79291,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -79268,7 +79314,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG
     Player number: 1 or 2 (alternately)
@@ -80004,7 +80050,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -80050,7 +80096,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Password, Game Master 2 (floppy disk)
+    Data saving: Password, Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -80280,7 +80326,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick(s)
     Sound: PSG + SCC
     Player number: 1 or 2 (alternately or at the same time)
@@ -81016,7 +81062,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -89327,7 +89373,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -99428,7 +99474,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Game Master 2 (floppy disk)
+    Data saving: Floppy disk (Game Master 2)
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -116005,13 +116051,13 @@
   Files:
   - English title: Amida Kuji
     Original title: あーみだーくじ
-    Longname: Amida.rom
+    Longname: Amida Kuji.rom
     sha1: 57851440420ac87dc52b5a84aecffba7bcac7305
     Name: Amida.ROM
-    Genre: Action (like Amidar)
+    Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -116020,11 +116066,34 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: Ponyca
-    Developer: Ponyca
-    Release: 1983 (tape)
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Yagata Kenta (helped by Sony and Victor)
+    Release: 1983-10 (tape)
     Original Dump: No
     Remark: 
+
+  - English title: Amida Kuji
+    Original title: あーみだーくじ
+    Longname: Amida Kuji [Sound fix].rom
+    sha1: 942ebbf2a88da10779e59c63bc9c99b82329bee4
+    Name: Amida-SF.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (8000h~BFFFh without mirror)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Yagata Kenta (helped by Sony and Victor)
+    Release: 1983-10 (tape), 2023-11 (fixed version)
+    Original Dump: No
+    Remark: Version fixed and converted to Rom by gdx
 
   - English title: Champions - Grand National
     Original title: チャンピオンズ
