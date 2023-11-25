@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 21-11-2023 by gdx
+    MSX Roms Database version 25-11-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -26866,14 +26866,14 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Hyper Sports 1
-    Original title: Hyper Sports 1
-    Longname: Hyper Sports 1 (Sharp Epcom).rom
-    sha1: 4f6c94cee6550b1619813eaacd88af02ebde51dc
-    Name: SEHypSp1.ROM
-    Genre: Sport
+  - English title: Video Hustler
+    Original title: Bilhar
+    Longname: Bilhar - Video Hustler.rom
+    sha1: 110cd874b7e7f93ea9052dddacad9b13dd53f039
+    Name: Bilhar.ROM
+    Genre: Billiards
     Language: English
-    Country: Japan
+    Country: Brazil, Portugal
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
     RAM: 8kB
@@ -26883,11 +26883,172 @@
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
-    Publisher: Sharp Epcom
+    Publisher: Sharp-Epcom
     Developer: Konami
     Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Candoo Ninja
+    Original title: Candoo Ninja
+    Longname: Candoo Ninja (Sharp-Epcom).rom
+    sha1: 1b240f8574b95cf0e2eaee0a9d8f2e84fd28afc1
+    Name: SECandoo.ROM
+    Genre: Action
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Mass Tael
+    Release: 
     Original Dump: 
     Remark: 
+
+  - English title: Hyper Sports 1
+    Original title: Hyper Sports 1
+    Longname: Hyper Sports 1 (Sharp-Epcom).rom
+    sha1: 4f6c94cee6550b1619813eaacd88af02ebde51dc
+    Name: SEHypSp1.ROM
+    Genre: Sport
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Konami
+    Release: 1984
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Monkey Academy
+    Original title: Macaco Acadêmico
+    Longname: Macaco Academico - Monkey Academy.rom
+    sha1: db637f07ab743a6b0fc72da34c4142c76f197053
+    Name: MacacoAc.ROM
+    Genre: Action and calculus
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Konami
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Magical Tree
+    Original title: Magical Tree
+    Longname: Magical Tree (Sharp-Epcom).rom
+    sha1: 7e0d362aa1dda8aef69e9adf4547302eebe5b2d9
+    Name: SEMagica.ROM
+    Genre: Action
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Konami
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Mole
+    Original title: Mole
+    Longname: Mole (P).rom
+    sha1: 32dd13176dde59836a7961d55cdea23fb4f24857
+    Name: Mole-P.ROM
+    Genre: Action
+    Language: Portuguese
+    Country: Brazil, Portugal
+    Type: 16kB Rom (8000h-BFFFh without mirror)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: 
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: The Goonies
+    Original title: O Tesouro Perdido
+    Longname: O Tesouro Perdido - The Goonies.rom
+    sha1: 93574534de258d1846906967db4ca15841092550
+    Name: Goonies.ROM
+    Genre: Platform
+    Language: English
+    Country: Brazil, Portugal
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Konami
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Pairs
+    Original title: Pares
+    Longname: Pares - Pairs.rom
+    sha1: 8940c089df1dcb16ac8c47e0bd669163c2437828
+    Name: Pares.ROM
+    Genre: Pairs finding
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom without mirror
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: ASCII Corporation
+    Release: 
+    Original Dump: Yes
+    Remark: Press [SHIFT] key when booting until beep if a disk drive is present. Press [INS] if you have a Sunrise IDE/CF interface.
 
   - English title: Sirius' Squish'em
     Original title: Prédio Assombrado
@@ -26909,7 +27070,53 @@
     Publisher: Sharp-Epcom
     Developer: Tony NGO, Uriah Barnett (MSX port)
     Release: 
-    Original Dump: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: River Raid
+    Original title: River Raid
+    Longname: River Raid (Sharp-Epcom).rom
+    sha1: 4c6390b855d4fa210020d03b185a9823e3b5f0ba
+    Name: SERiverR.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Brazil, Portugal
+    Type: 16kB Rom (0000h-3FFFh) with mirror
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Carol Shaw, Activision (MSX port)
+    Release: 
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Turboat
+    Original title: Turboat
+    Longname: Turboat (P).rom
+    sha1: 8eeabcd8e867285b010ffe20b7f17943420a366a
+    Name: SETurboa.ROM
+    Genre: Shoot'em up (pseudo 3D scrolling)
+    Language: Portuguese
+    Country: Brazil, Portugal
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Sharp-Epcom
+    Developer: Mass Tael
+    Release: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Zaxxon
@@ -26932,7 +27139,7 @@
     Publisher: Sharp-Epcom
     Developer: Sega, Epcom (MSX port)
     Release: 
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
 ##
@@ -30713,7 +30920,7 @@
     Genre: Action
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh without mirror)
     Machine: MSX1 with Japanese font
     RAM: 8kB
     VRAM: 16kB
@@ -30736,7 +30943,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -30902,7 +31109,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
@@ -30925,7 +31132,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
@@ -30948,7 +31155,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
@@ -30971,7 +31178,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
@@ -30994,7 +31201,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / joystick
+    Control: Keyboard / keyboard and joystick(s)
     Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
@@ -32461,7 +32668,7 @@
     Genre: Shoot'em up (pseudo 3D scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -32471,9 +32678,9 @@
     Player number: 1
     Signature: No
     Publisher: ASCII Corporation
-    Developer: ASCII Corporation
+    Developer: Mass Tael
     Release: 1984
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: TZR Grand Prix Rider
@@ -48079,7 +48286,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Floppy disk (Game Master 2)
-    Control: Keyboard / joystick (movement only)
+    Control: Keyboard / Keyboard and joystick
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -48102,7 +48309,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: Floppy disk (Game Master 2)
-    Control: Keyboard / joystick (movement only)
+    Control: Keyboard / Keyboard and joystick
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
@@ -57957,7 +58164,7 @@
     Developer: Universal (original), Nidecom Soft  (MSX port)
     Release: 1987 (original)
     Original Dump: No
-    Remark: ASCII8 mapper convertion by bsittler. PSG ports fix by gdx.
+    Remark: ASCII8 mapper conversion by bsittler. PSG ports fix by gdx.
 
   - English title: Super Pierrot / Mr.Do! Run Run
     Original title: スーパーピエロ
@@ -57980,7 +58187,7 @@
     Developer: Universal (original), Nidecom Soft  (MSX port)
     Release: 1987 (original)
     Original Dump: No
-    Remark: KonamiSCC mapper convertion by bsittler. PSG ports fix by gdx.
+    Remark: KonamiSCC mapper conversion by bsittler. PSG ports fix by gdx.
 
   - English title: Super Pierrot / Mr.Do! Run Run
     Original title: スーパーピエロ
@@ -102902,6 +103109,29 @@
   Folder name: ~/Tape2Rom/Colpax
 
   Files:
+  - English title: Dial Number
+    Original title: ダイヤルナンバー
+    Longname: Dial Number.rom
+    sha1: 28f298cb5bb91d73c986c0a39f50bed6359a51af
+    Name: DialNumb.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Colpax (Produced by Nippon Columbia)
+    Developer: Naoyuki-Mitani, K. Matsuda, T.Tabeta
+    Release: 1983 (tape), 2023 (Rom conversion)
+    Original Dump: No
+    Remark: Rom conversion & PSG ports fix by gdx.
+
   - English title: Donpan
     Original title: ドンパン
     Longname: Donpan.rom
@@ -103062,6 +103292,29 @@
     Release: 1984
     Original Dump: 
     Remark: 
+
+  - English title: Nick Neaker
+    Original title: ニックニーカー
+    Longname: Nick Neaker.rom
+    sha1: db77df9bf66b41df6020dba44955bf319fa21bc6
+    Name: NickNea.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Colpax (Nippon Columbia)
+    Developer: Colpax (Nippon Columbia)
+    Release: 1983 (tape)
+    Original Dump: No
+    Remark: Tape version converted to ROM by gdx.
 
   - English title: Night Flight
     Original title: ナイトフライト
