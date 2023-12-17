@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 25-11-2023 by gdx
+    MSX Roms Database version 17-12-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -17124,75 +17124,6 @@
     Original Dump: No
     Remark: 
 
-  - English title: Hong Kong
-    Original title: 香港
-    Longname: Hong Kong (MSX-FAN 1988-03).rom
-    sha1: 7da2a0430ed50df6cd442b94d58ab9aa85fa03df
-    Name: HongKong.ROM
-    Genre: Puzzle
-    Language: Japanese
-    Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSX-FAN
-    Developer: Tai
-    Release: 1988-03
-    Original Dump: 
-    Remark: 
-
-  - English title: Hong Kong
-    Original title: 香港
-    Longname: Hong Kong (MSX-FAN 1988-03) [overdumped].rom
-    sha1: b163b7a4b4f148f8ea1ee73d5ff9ed1e8519c75d
-    Name: HongKong Overdumped.ROM
-    Genre: Puzzle
-    Language: Japanese
-    Country: Japan
-    Type: 16kB filled with 0FFh + 8kB Rom (4000h-BFFFh) + 8kB filled with 0FFh
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSX-FAN
-    Developer: Tai
-    Release: 1988-03
-    Original Dump: 
-    Remark: 
-
-  - English title: Hong Kong
-    Original title: 香港
-    Longname: Hong Kong [turbo R fix] (MSX-FAN 1988-03).rom
-    sha1: 3f82bf204b653a68f62c11e5ef3ca88205f0379d
-    Name: HongKoTf.ROM
-    Genre: Puzzle
-    Language: Japanese
-    Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSX-FAN
-    Developer: Tai
-    Release: 1988-03
-    Original Dump: 
-    Remark: 
-
   - English title: Legion
     Original title: Legion
     Longname: Legion (MSX Magazine 1988).rom
@@ -17259,52 +17190,6 @@
     Publisher: 
     Developer: 
     Release: 
-    Original Dump: No
-    Remark: 
-
-  - English title: Sideview Attackers
-    Original title: Sideview Attackers
-    Longname: Sideview Attackers [turbo R] (MSX-FAN 1994-10).rom
-    sha1: a034d59a9f66f996af90e37245de5a475b6db0bd
-    Name: Sideview.ROM
-    Genre: Racing
-    Language: English
-    Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
-    Machine: MSX turbo R
-    RAM: 256kB
-    VRAM: 128kB
-    Data saving: None
-    Control: Keyboard and joystick
-    Sound: PSG
-    Player number: 1 to 3 (at the same time)
-    Signature: No
-    Publisher: MSX-FAN
-    Developer: fanname1729
-    Release: 1994-10
-    Original Dump: No
-    Remark: 
-
-  - English title: Space Force
-    Original title: Space Force
-    Longname: Space Force.rom
-    sha1: 93832accfdd60b9bd97d9fcb4707a38371a9de31
-    Name: SpForcX2.ROM
-    Genre: Shoot'em up (smooth vertical scrolling)
-    Language: English
-    Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
-    Machine: MSX2
-    RAM: 64kB in the same slot
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSX-FAN
-    Developer: Naoya Komafune
-    Release: 1995-04
     Original Dump: No
     Remark: 
 
@@ -17593,6 +17478,221 @@
     Remark: 
 
 ##
+### Games from magazine converted to ROM: MSX-FAN Magazine (JP) ###
+##
+
+- Folder longname: ~/Games from magazine converted to ROM/MSX-FAN Magazine (JP)
+  Folder name: ~/Mag2Rom/MSX-FAN
+
+  Files:
+  - English title: Hong Kong
+    Original title: 香港
+    Longname: Hong Kong (MSX-FAN 1988-03).rom
+    sha1: 7da2a0430ed50df6cd442b94d58ab9aa85fa03df
+    Name: HongKong.ROM
+    Genre: Puzzle
+    Language: Japanese
+    Country: Japan
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Tai
+    Release: 1988-03
+    Original Dump: 
+    Remark: 
+
+  - English title: Hong Kong
+    Original title: 香港
+    Longname: Hong Kong (MSX-FAN 1988-03) [overdumped].rom
+    sha1: b163b7a4b4f148f8ea1ee73d5ff9ed1e8519c75d
+    Name: HongKong Overdumped.ROM
+    Genre: Puzzle
+    Language: Japanese
+    Country: Japan
+    Type: 16kB filled with 0FFh + 8kB Rom (4000h-BFFFh) + 8kB filled with 0FFh
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Tai
+    Release: 1988-03
+    Original Dump: 
+    Remark: 
+
+  - English title: Hong Kong
+    Original title: 香港
+    Longname: Hong Kong [turbo R fix] (MSX-FAN 1988-03).rom
+    sha1: 3f82bf204b653a68f62c11e5ef3ca88205f0379d
+    Name: HongKoTf.ROM
+    Genre: Puzzle
+    Language: Japanese
+    Country: Japan
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Tai
+    Release: 1988-03
+    Original Dump: 
+    Remark: 
+
+  - English title: Ice Man
+    Original title: ICE MAN
+    Longname: Ice Man (MSX-FAN 1991-02).rom
+    sha1: 3f207003b7c8fe295778b75d5d48d98fef54233d
+    Name: IceMan.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Japan
+    Type: 4kB (8000h-8FFFh)
+    Machine: Japanese MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Address
+    Release: 1991-02 (Basic version)
+    Original Dump: No
+    Remark: Version without disk installed.
+
+  - English title: Ice Man
+    Original title: ICE MAN
+    Longname: Ice Man [a] (MSX-FAN 1991-02).rom
+    sha1: e87e6b3e7cee9155ae8f81c71d9e954ff1d3a79e
+    Name: IceMan-A.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Japan
+    Type: 4kB (8000h-8FFFh)
+    Machine: Japanese MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Address
+    Release: 1991-02 (Basic version)
+    Original Dump: No
+    Remark: 
+
+  - English title: Ice Man
+    Original title: ICE MAN
+    Longname: Ice Man [Region fix] (MSX-FAN 1991-02).rom
+    sha1: 8f79fc8070e86fa5e6d958da355734896d114607
+    Name: IceManRF.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Japan
+    Type: 4kB (8000h-8FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Address
+    Release: 1991-02 (Basic version)
+    Original Dump: No
+    Remark: Version without disk installed. Region fix by Bsittler.
+
+  - English title: Ice Man
+    Original title: ICE MAN
+    Longname: Ice Man [Region fix-a] (MSX-FAN 1991-02).rom
+    sha1: a8cea265ccd939cbfd9613abd33cd47e3740f9f6
+    Name: IceMaARF.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Japan
+    Type: 4kB (8000h-8FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Address
+    Release: 1991-02 (Basic version)
+    Original Dump: No
+    Remark: Region fix by Bsittler.
+
+  - English title: Sideview Attackers
+    Original title: Sideview Attackers
+    Longname: Sideview Attackers [turbo R] (MSX-FAN 1994-10).rom
+    sha1: a034d59a9f66f996af90e37245de5a475b6db0bd
+    Name: Sideview.ROM
+    Genre: Racing
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX turbo R
+    RAM: 256kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 to 3 (at the same time)
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: fanname1729
+    Release: 1994-10
+    Original Dump: No
+    Remark: 
+
+  - English title: Space Force
+    Original title: Space Force
+    Longname: Space Force.rom
+    sha1: 93832accfdd60b9bd97d9fcb4707a38371a9de31
+    Name: SpForcX2.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB in the same slot
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSX-FAN
+    Developer: Naoya Komafune
+    Release: 1995-04
+    Original Dump: No
+    Remark: 
+
+##
 ### Games from magazine converted to ROM: Popcom Magazine (JP) ###
 ##
 
@@ -17719,7 +17819,7 @@
     Original title: Super!! Ilevan
     Longname: Super Ilevan (POPCOM 1988-04).rom
     sha1: d60554eb8f4ac42fdf0f725ac878472d5cc0d8e6
-    Name: SupIleva.ROM
+    Name: S-Ilevan.ROM
     Genre: Platform
     Language: English
     Country: Japan
@@ -17735,6 +17835,29 @@
     Publisher: Popcom Soft
     Developer: Koichi Nishida
     Release: 1988-04
+    Original Dump: No
+    Remark: 
+
+  - English title: Super!! Ilevan
+    Original title: Super!! Ilevan
+    Longname: Super Ilevan [Tulip House Rerelease].rom
+    sha1: 95210b13ceb8480ecb88ee9ce4f816b9488d2e74
+    Name: S-IlevTH.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Tulip House
+    Developer: Koichi Nishida
+    Release: 1988-04 (original), 2017 (Tulip House)
     Original Dump: No
     Remark: 
 
@@ -27215,11 +27338,11 @@
   Folder name: ~/France
 
   Files:
-  - English title: Casio The Complete Collection
-    Original title: Casio The Complete Collection
-    Longname: Casio The Complete Collection.rom
+  - English title: Casio - The Complete Game Collection
+    Original title: Casio - The Complete Game Collection
+    Longname: Casio The Complete Game Collection.rom
     sha1: 41fcb2efa35352ff9e34d0d65919bddfe493188e
-    Name: CasioTCC.ROM
+    Name: CasioCGC.ROM
     Genre: Compilation
     Language: English
     Country: France
@@ -27232,9 +27355,9 @@
     Sound: PSG
     Player number: 1 or 2
     Signature: No
-    Publisher: 
+    Publisher: Popolon-fr
     Developer: Casio
-    Release: 
+    Release: 2023
     Original Dump: Yes
     Remark: 
 
@@ -27508,9 +27631,9 @@
     Sound: PSG
     Player number: 1 or 2 (alternately)
     Signature: No
-    Publisher: 
+    Publisher: Popolon-fr
     Developer: Various
-    Release: 
+    Release: 2023
     Original Dump: Yes
     Remark: Press the Down key to open the extra games. Try also F5 if you have 64kB RAM!
 
@@ -27980,6 +28103,29 @@
     Publisher: Repro-Factory
     Developer: BFG Studio
     Release: 2015
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Pitfall Anthology
+    Original title: Pitfall Anthology
+    Longname: Pitfall Anthology.rom
+    sha1: 76525bc6eb09d7f7e6eb3934c16fe95d7480e707
+    Name: PitfalAn.ROM
+    Genre: Compilation (platform)
+    Language: English
+    Country: France
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Repro-Factory
+    Developer: Acticision, compilation by Ericb59
+    Release: 2022
     Original Dump: Yes
     Remark: 
 
@@ -37376,6 +37522,29 @@
     Release: 1985
     Original Dump: No
     Remark: 
+
+  - English title: Volguard
+    Original title: ヴォルガード
+    Longname: Volguard [Anti-copy fix].rom
+    sha1: b334fe8871771230bd74da02f3c76ac13e4eb1e6
+    Name: VolguaPf.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: dB Soft
+    Developer: dB Soft
+    Release: 1985
+    Original Dump: No
+    Remark: This version has been patched by GDX to fix PSG I/O ports and to remove the copy protection.
 
   - English title: Woody Poco
     Original title: うっでいぽこ
@@ -63565,6 +63734,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Skooter
+    Original title: スクーター
+    Longname: Skooter [X-Mas 2023 hack].rom
+    sha1: 0aea243ca616223b8029053d988c8f2b36db2cbb
+    Name: SkooterX.ROM
+    Genre: Action, Puzzle
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: The Bytebusters
+    Release: 1988
+    Original Dump: 
+    Remark: Version with new stages for X-Mas 2023.
+
   - English title: Star Virgin
     Original title: スターヴァージン
     Longname: Star Virgin (J).rom
@@ -89402,7 +89594,7 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev
-    Developer: PlattySoft (Paul)
+    Developer: PlattySoft
     Release: 2021
     Original Dump: Yes
     Remark: 
@@ -92859,7 +93051,7 @@
     Remark: 
 
 #
-## Game Roms from Netherlands: PlattySoft ##
+## Game Roms from Netherlands: PlattySoft (Paul Fortales) ##
 #
 
 - Folder longname: ~/Roms from Netherlands/PlattySoft
@@ -92883,9 +93075,78 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: PlattySoft (Paul)
-    Developer: PlattySoft (Paul)
+    Publisher: PlattySoft
+    Developer: PlattySoft
     Release: 2021
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Shyre
+    Original title: Shyre
+    Longname: Shyre [v1.1].rom
+    sha1: 1a5f3db42427ec164b92202f5f6fdd44263b2569
+    Name: Shyre110.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Ireland
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: PlattySoft
+    Developer: PlattySoft
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Shyre
+    Original title: Shyre
+    Longname: Shyre [v1.2].rom
+    sha1: 95e7f40e029739ab75fb73298b7c2d55f4d7bcd6
+    Name: Shyre120.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Ireland
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: PlattySoft
+    Developer: PlattySoft
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Shyre
+    Original title: Shyre
+    Longname: Shyre [v1.3].rom
+    sha1: 575f4a6d693dba59fa536eca73806786241bc426
+    Name: Shyre130.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Ireland
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: PlattySoft
+    Developer: PlattySoft
+    Release: 2023
     Original Dump: Yes
     Remark: 
 
@@ -92954,9 +93215,32 @@
     Signature: No
     Publisher: Sunrise
     Developer: RenovatiO
-    Release: 2007
+    Release: 2007 (original)
     Original Dump: No
     Remark: 
+
+  - English title: Manbow 2
+    Original title: Manbow 2
+    Longname: Manbow 2 [v1-cracked-without forced 50hz].rom
+    sha1: 80d4e9e3ad8efc0d7fc838c3968a422c936c4168
+    Name: Man2v1KF.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Netherlands
+    Type: 512kB Flash-Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Flash-Rom
+    Control: Keyboard / joystick
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: Sunrise
+    Developer: RenovatiO
+    Release: 2007 (original)
+    Original Dump: No
+    Remark: This version is the v1 modified to use the internal PSG of the MSX and so as not to force the display to 50hz.
 
   - English title: Manbow 2
     Original title: Manbow 2
@@ -92977,7 +93261,7 @@
     Signature: No
     Publisher: Sunrise
     Developer: RenovatiO
-    Release: 2007
+    Release: 2007 (original)
     Original Dump: No
     Remark: 
 
@@ -93000,7 +93284,7 @@
     Signature: No
     Publisher: Sunrise
     Developer: RenovatiO
-    Release: 2007
+    Release: 2007 (original)
     Original Dump: No
     Remark: 
 
@@ -97591,6 +97875,29 @@
 
   - English title: Paco The Bombs Redux
     Original title: Paco El Bombas Redux
+    Longname: Paco El Bombas Redux [r2].rom
+    sha1: 0c39be6006e5cd7f28b25312cac6d19eda4403a6
+    Name: PacoElR2.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 
+    Original Dump: 
+    Remark: 
+
+  - English title: Paco The Bombs Redux
+    Original title: Paco El Bombas Redux
     Longname: Paco El Bombas Redux (I).rom
     sha1: 549a53c976456ba242b6ae5627da226fb9230f20
     Name: PacoEBRI.ROM
@@ -98478,6 +98785,160 @@
     Release: 2017
     Original Dump: Yes
     Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
+
+#
+## Game Roms from Spain or Mexico: RetroHard ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/RetroHard
+  Folder name: ~/Spain/RetroHrd
+
+  Files:
+  - English title: Multicart 31 in 1 Custom
+    Original title: Multicart 31 Jogos Em 1 Custom
+    Longname: Multicart 31 in 1 Volume 2.rom
+    sha1: b841aab97e977e6fd61b840f660ca8e5b54d37d5
+    Name: M31in1C.ROM
+    Genre: Compilation
+    Language: Spanish
+    Country: Spain
+    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Multicart 31 in 1 Custom
+    Original title: Multicart 31 Jogos Em 1 Custom
+    Longname: Multicart 31 in 1 Volume 1.rom
+    sha1: 1d5339204c100d2ba5125b87f11a927305fe9ad9
+    Name: M31in1CS.ROM
+    Genre: Compilation
+    Language: Spanish
+    Country: Spain
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: No
+    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
+
+  - English title: Multicart 31 in 1 Shmups
+    Original title: Multicart 31 Jogos Em 1 Shmups
+    Longname: Multicart 31 in 1 Shmups.rom
+    sha1: 9b737429141719b31035ef986e0932225d0b18e7
+    Name: M31in1S.ROM
+    Genre: Compilation
+    Language: Spanish
+    Country: Spain
+    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Multicart 31 in 1 Shmups
+    Original title: Multicart 31 Jogos Em 1 Shmups
+    Longname: Multicart 31 in 1 Shmups.rom
+    sha1: cd97a1139d65d4ada536c25944b24b5c3ceac839
+    Name: M31in1SS.ROM
+    Genre: Compilation
+    Language: Spanish
+    Country: Spain
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: No
+    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
+
+#
+## Game Roms from Spain or Mexico: Rodrivas78 (Rodrigo Gonzalez) ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/Rodrivas78 (Rodrigo Gonzalez)
+  Folder name: ~/Spain/Rodrivas
+
+  Files:
+  - English title: Laser Mazer
+    Original title: Laser Mazer
+    Longname: Laser Mazer.rom
+    sha1: 1c3e137dac31610a414a20f153a98c57895af904
+    Name: LaserMaz.ROM
+    Genre: Puzzle
+    Language: Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Rodrivas78
+    Developer: Rodrivas78 (Game concept/design and programming) and Praduca (Technical advisor and writing)
+    Release: 2023
+    Original Dump: No
+    Remark: Converted to Rom by gdx.
+
+  - English title: Laser Mazer
+    Original title: Laser Mazer
+    Longname: Laser Mazer [a].rom
+    sha1: 6e926df7f3f5b5f36305ecdcac3af279c079c31e
+    Name: LaserMzA.ROM
+    Genre: Puzzle
+    Language: Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Rodrivas78
+    Developer: Rodrivas78 (Game concept/design and programming) and Praduca (Technical advisor and writing)
+    Release: 2023
+    Original Dump: No
+    Remark: Converted to Rom by gdx. (common method)
 
 #
 ## Game Roms from Spain or Mexico: Roolando (Angel Colaso) ##
@@ -119370,7 +119831,7 @@
   Files:
   - English title: The A-Team
     Original title: El Equipo A
-    Longname: El Equipo A (S).rom
+    Longname: El Equipo A (S) [ASCII16 mapper].rom
     sha1: f884b58b048a515d16eaee80ec8b4e46156ef6d5
     Name: ElEquipo.ROM
     Genre: Shoot'em up (First person sight)
@@ -119390,6 +119851,29 @@
     Release: 1988 (tape)
     Original Dump: No
     Remark: Selection is only possible when the music ends.
+
+  - English title: Legend
+    Original title: Legend
+    Longname: Legend (S) [ASCII16 mapper] (Zafiro).rom
+    sha1: 7917af555fc7b1ec43e66391d0fa7a59491a4e5a
+    Name: Legend.ROM
+    Genre: Adventure
+    Language: English
+    Country: Spain
+    Type: 512kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Zafiro
+    Developer: FX Software
+    Release: 
+    Original Dump: No
+    Remark: 
 
 #
 ## Tape Converted to ROM: Zigurat (Spain) ##
