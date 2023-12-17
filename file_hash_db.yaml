@@ -17838,29 +17838,6 @@
     Original Dump: No
     Remark: 
 
-  - English title: Super!! Ilevan
-    Original title: Super!! Ilevan
-    Longname: Super Ilevan [Tulip House Rerelease].rom
-    sha1: 95210b13ceb8480ecb88ee9ce4f816b9488d2e74
-    Name: S-IlevTH.ROM
-    Genre: Platform
-    Language: English
-    Country: Japan
-    Type: 32kB Rom (4000h-BFFFh)
-    Machine: MSX1
-    RAM: 32kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Tulip House
-    Developer: Koichi Nishida
-    Release: 1988-04 (original), 2017 (Tulip House)
-    Original Dump: No
-    Remark: 
-
 ##
 ### Games from The Links Converted to ROM ###
 ##
@@ -59040,6 +59017,29 @@
     Release: 1988
     Original Dump: Yes
     Remark: 
+
+  - English title: Ilevan
+    Original title: ILEVAN
+    Longname: Ilevan (Tulip House).rom
+    sha1: 95210b13ceb8480ecb88ee9ce4f816b9488d2e74
+    Name: Ilevan.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Tulip House
+    Developer: Koichi Nishida
+    Release: 2017
+    Original Dump: Yes
+    Remark: Re-release of Super Ilevan in cartridge.
 
   - English title: Mars II
     Original title: マースII
