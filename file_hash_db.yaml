@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 17-12-2023 by gdx
+    MSX Roms Database version 18-12-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -26936,6 +26936,106 @@
     Remark: 
 
 #
+## Game Roms from Brazil or Portugal: RetroHard ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/RetroHard
+  Folder name: ~/Spain/RetroHrd
+
+  Files:
+  - English title: Multicart 31 in 1 Custom
+    Original title: Multicart 31 Jogos Em 1 Custom
+    Longname: Multicart 31 in 1 Volume 2.rom
+    sha1: b841aab97e977e6fd61b840f660ca8e5b54d37d5
+    Name: M31in1C.ROM
+    Genre: Compilation
+    Language: English
+    Country: Brazil
+    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Multicart 31 in 1 Custom
+    Original title: Multicart 31 Jogos Em 1 Custom
+    Longname: Multicart 31 in 1 Volume 1.rom
+    sha1: 1d5339204c100d2ba5125b87f11a927305fe9ad9
+    Name: M31in1CS.ROM
+    Genre: Compilation
+    Language: English
+    Country: Brazil
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: No
+    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
+
+  - English title: Multicart 31 in 1 Shmups
+    Original title: Multicart 31 Jogos Em 1 Shmups
+    Longname: Multicart 31 in 1 Shmups.rom
+    sha1: 9b737429141719b31035ef986e0932225d0b18e7
+    Name: M31in1S.ROM
+    Genre: Compilation
+    Language: English
+    Country: Brazil
+    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Multicart 31 in 1 Shmups
+    Original title: Multicart 31 Jogos Em 1 Shmups
+    Longname: Multicart 31 in 1 Shmups.rom
+    sha1: cd97a1139d65d4ada536c25944b24b5c3ceac839
+    Name: M31in1SS.ROM
+    Genre: Compilation
+    Language: English
+    Country: Brazil
+    Type: 1024kB ROM with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: RetroHard
+    Developer: Shumps
+    Release: 2023
+    Original Dump: No
+    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
+
+#
 ## Game Roms from Brazil or Portugal: Sharp-Epcom ##
 #
 
@@ -27627,7 +27727,7 @@
     Longname: Cross Bomber.rom
     sha1: b47a944b6ece4d3b58d949e94ce8fa20381dcf48
     Name: CBomber.ROM
-    Genre: Shoot'em up (without scrolling)
+    Genre: Shooting (like scrolling)
     Language: English
     Country: France (Antibes)
     Type: 16kB Rom (4000h-7FFFh)
@@ -98785,106 +98885,6 @@
     Release: 2017
     Original Dump: Yes
     Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
-
-#
-## Game Roms from Spain or Mexico: RetroHard ##
-#
-
-- Folder longname: ~/Roms from Spain or Mexico/RetroHard
-  Folder name: ~/Spain/RetroHrd
-
-  Files:
-  - English title: Multicart 31 in 1 Custom
-    Original title: Multicart 31 Jogos Em 1 Custom
-    Longname: Multicart 31 in 1 Volume 2.rom
-    sha1: b841aab97e977e6fd61b840f660ca8e5b54d37d5
-    Name: M31in1C.ROM
-    Genre: Compilation
-    Language: Spanish
-    Country: Spain
-    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard and joystick
-    Sound: PSG
-    Player number: 1 or 2
-    Signature: No
-    Publisher: RetroHard
-    Developer: Shumps
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Multicart 31 in 1 Custom
-    Original title: Multicart 31 Jogos Em 1 Custom
-    Longname: Multicart 31 in 1 Volume 1.rom
-    sha1: 1d5339204c100d2ba5125b87f11a927305fe9ad9
-    Name: M31in1CS.ROM
-    Genre: Compilation
-    Language: Spanish
-    Country: Spain
-    Type: 1024kB ROM with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard and joystick
-    Sound: PSG
-    Player number: 1 or 2
-    Signature: No
-    Publisher: RetroHard
-    Developer: Shumps
-    Release: 2023
-    Original Dump: No
-    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
-
-  - English title: Multicart 31 in 1 Shmups
-    Original title: Multicart 31 Jogos Em 1 Shmups
-    Longname: Multicart 31 in 1 Shmups.rom
-    sha1: 9b737429141719b31035ef986e0932225d0b18e7
-    Name: M31in1S.ROM
-    Genre: Compilation
-    Language: Spanish
-    Country: Spain
-    Type: 1024kB ROM with Multicart32 mapper (I/O port #94)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard and joystick
-    Sound: PSG
-    Player number: 1 or 2
-    Signature: No
-    Publisher: RetroHard
-    Developer: Shumps
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Multicart 31 in 1 Shmups
-    Original title: Multicart 31 Jogos Em 1 Shmups
-    Longname: Multicart 31 in 1 Shmups.rom
-    sha1: cd97a1139d65d4ada536c25944b24b5c3ceac839
-    Name: M31in1SS.ROM
-    Genre: Compilation
-    Language: Spanish
-    Country: Spain
-    Type: 1024kB ROM with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard and joystick
-    Sound: PSG
-    Player number: 1 or 2
-    Signature: No
-    Publisher: RetroHard
-    Developer: Shumps
-    Release: 2023
-    Original Dump: No
-    Remark: Version modified to use the KonamiSCC mapper and joystick in the menu.
 
 #
 ## Game Roms from Spain or Mexico: Rodrivas78 (Rodrigo Gonzalez) ##
