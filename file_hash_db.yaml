@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 18-12-2023 by gdx
+    MSX Roms Database version 26-12-2023 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -14940,7 +14940,7 @@
 
   - English title: Konami's Boxing
     Original title: コナミのボクシング
-    Longname: Konami's Boxing [SCC-a3] [trimmed].rom
+    Longname: Konami's Boxing [SCC-a trimmed].rom
     sha1: 4eb8014e54d20f4b337a39b960813009b41dd82a
     Name: KBoSCCA3 Trimmed.ROM
     Genre: Boxing
@@ -16090,9 +16090,9 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC+-a3].rom
+    Longname: Super Cobra [SCC+-a2].rom
     sha1: 402240af5ffe1b3a1fcd60b877580771d4f6e6d5
-    Name: SCSCCpA3.ROM
+    Name: SCSCCpA2.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
@@ -16113,7 +16113,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC+-a3 trimmed].rom
+    Longname: Super Cobra [SCC+-a2 trimmed].rom
     sha1: 8ce853700c5929fe0fb735494b39f814eb109fb2
     Name: SCSCCpA3 Trimmed.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -42403,64 +42403,18 @@
     Publisher: Hudson Soft
     Developer: Hudson Soft
     Release: 1984
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: Color Ball
     Original title: カラーボール
-    Longname: Color Ball [a].rom
-    sha1: 83fdaa429ad8b155ab2328a72fcb8de642ff5615
-    Name: ColorB-A.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Hudson Soft
-    Developer: Hudson Soft
-    Release: 1984
-    Original Dump: 
-    Remark: 
-
-  - English title: Color Ball
-    Original title: カラーボール
-    Longname: Color Ball [a2].rom
+    Longname: Color Ball [overdumped].rom
     sha1: 95d8a590bad595f9441aea4bf68667de05b1b34b
-    Name: ColorBA2.ROM
+    Name: ColorBAO.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Hudson Soft
-    Developer: Hudson Soft
-    Release: 1984
-    Original Dump: 
-    Remark: 
-
-  - English title: Color Ball
-    Original title: カラーボール
-    Longname: Color Ball [a3].rom
-    sha1: 9df754734b6d0cc77b23eccfd32b1b41d87aa268
-    Name: ColorBA3.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 8kB Rom (4000h-5FFFh) + the same 8kB Rom
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -90537,29 +90491,6 @@
 
   - English title: DICED - Tournament
     Original title: DICED - Tournament
-    Longname: DICED - Tournament [v1.0].rom
-    sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
-    Name: DICED101.ROM
-    Genre: Dices
-    Language: English
-    Country: Germany
-    Type: 328kB Rom with Konami8 mapper
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: Password
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSXdev
-    Developer: Def Danny (Daniel Simon) & Mi-Chi (Michael Stellmann)
-    Release: 2022
-    Original Dump: Yes
-    Remark: 
-
-  - English title: DICED - Tournament
-    Original title: DICED - Tournament
     Longname: DICED - Tournament [v1.01].rom
     sha1: 034d7034291ba0a461ae439bcb8885726e3d7b7b
     Name: DICED101.ROM
@@ -98896,11 +98827,11 @@
   Files:
   - English title: Laser Mazer
     Original title: Laser Mazer
-    Longname: Laser Mazer.rom
+    Longname: Laser Mazer [v1.0].rom
     sha1: 1c3e137dac31610a414a20f153a98c57895af904
-    Name: LaserMaz.ROM
+    Name: LaserM10.ROM
     Genre: Puzzle
-    Language: Spanish
+    Language: English
     Country: Spain
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -98919,11 +98850,11 @@
 
   - English title: Laser Mazer
     Original title: Laser Mazer
-    Longname: Laser Mazer [a].rom
+    Longname: Laser Mazer [v1.0-a].rom
     sha1: 6e926df7f3f5b5f36305ecdcac3af279c079c31e
-    Name: LaserMzA.ROM
+    Name: LaserM1A.ROM
     Genre: Puzzle
-    Language: Spanish
+    Language: English
     Country: Spain
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -98939,6 +98870,29 @@
     Release: 2023
     Original Dump: No
     Remark: Converted to Rom by gdx. (common method)
+
+  - English title: Laser Mazer
+    Original title: Laser Mazer
+    Longname: Laser Mazer [v1.5].rom
+    sha1: cbbb4621baa642ea671e5adfc54b327e0664af0f
+    Name: LaserM15.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Rodrivas78
+    Developer: Rodrivas78 (Game concept/design and programming) and Praduca (Technical advisor and writing)
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
 
 #
 ## Game Roms from Spain or Mexico: Roolando (Angel Colaso) ##
@@ -109427,6 +109381,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Babbulkund 1999
+    Original title: バブルクンド1999
+    Longname: Babbulkund 1999.rom
+    sha1: 65f3b9a0aca59688b8c1afc883a2a5b1a7efa528
+    Name: Babbulku.ROM
+    Genre: Air strike defense
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: 
+
   - English title: Stop The Express
     Original title: 暴走特急SOS
     Longname: Bousou Tokkyuu SOS - Stop The Express.rom
@@ -109519,6 +109496,29 @@
     Original Dump: 
     Remark: 
 
+  - English title: Dimensional Wars
+    Original title: ディメンジョナルウォーズ（次元戦争）
+    Longname: Dimensional Wars.rom
+    sha1: 81167e567cf50ecad5641b573096b87d5055bcaa
+    Name: DimWars.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: 
+    Remark: Convertion by Jipe.
+
   - English title: Driller Tanks
     Original title: イタサンドリアス
     Longname: Driller Tanks [a].rom
@@ -109540,6 +109540,29 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: 
+    Remark: 
+
+  - English title: Gang Man
+    Original title: ギャングマン
+    Longname: Gang Man [tape].rom
+    sha1: 7079629e0ec63709571b15e5a252c36d2157f49a
+    Name: GangManT.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
     Remark: 
 
   - English title: Gang Man
@@ -109567,9 +109590,9 @@
 
   - English title: Gang Man
     Original title: ギャングマン
-    Longname: Gang Man [tape].rom
-    sha1: 7079629e0ec63709571b15e5a252c36d2157f49a
-    Name: GangManT.ROM
+    Longname: Gang Man [tape-a2].rom
+    sha1: 807829a439d80aaa803742d457a3d3cf6f29030e
+    Name: GangMTA2.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
@@ -109586,13 +109609,36 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Conversion by Jipe.
 
   - English title: Frog Shooter
     Original title: カエルシューター
     Longname: Kaeru Shooter.rom
     sha1: 7312622728779fd2de7238b058a34bd73e02406f
     Name: KaeruSho.ROM
+    Genre: Shoot'em up (3D Wireframe)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Frog Shooter
+    Original title: カエルシューター
+    Longname: Kaeru Shooter [a].rom
+    sha1: 80b1a435d570979d5898a0a4d06aaefa5a87d211
+    Name: KaeruShA.ROM
     Genre: Shoot'em up (3D Wireframe)
     Language: English
     Country: Japan
@@ -109609,7 +109655,7 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Conversion by Jipe.
 
   - English title: Come on!
     Original title: 来なさい！
@@ -109636,6 +109682,29 @@
 
   - English title: Come on!
     Original title: 来なさい！
+    Longname: Kinasai! (Come on!) (J) [a].rom
+    sha1: 55f36017ad598523b14c3f30cda329c4759c41f5
+    Name: KinasaTA.ROM
+    Genre: Action (like Lode Runner)
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Conversion by Jipe.
+
+  - English title: Come on!
+    Original title: 来なさい！
     Longname: Kinasai! (Come on!) (Translated).rom
     sha1: 236f0deb089c878d2de7f6d2ee107388a0426d45
     Name: ComeOn!E.ROM
@@ -109656,6 +109725,29 @@
     Release: 1984 (tape)
     Original Dump: No
     Remark: 
+
+  - English title: Come on!
+    Original title: 来なさい！
+    Longname: Kinasai! (Come on!) (Translated) [translation fix].rom
+    sha1: 30ae56a2ab2e2cbebc972aed0e78e65dad6aa94c
+    Name: ComeOnEF.ROM
+    Genre: Action (like Lode Runner)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark:  Translation fix by Jipe.
 
   - English title: Machinegun Joe vs The Mafia
     Original title: 銀行強盗
@@ -109680,9 +109772,32 @@
     Original Dump: 
     Remark: 
 
+  - English title: MJ-05
+    Original title: MJ-05
+    Longname: MJ-05.rom
+    sha1: 20da51ccd50e7c6927a0f7a7898901a77233879e
+    Name: MJ-05&M.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Converted by Jipe.
+
   - English title: Nuts & Milk
     Original title: NUTS & MILK
-    Longname: Nuts & Milk (Hudson Soft).rom
+    Longname: Nuts & Milk (Honeybee Soft).rom
     sha1: bbb7297755ab26672325a9d0a7297a263374e8d0
     Name: HSNuts&M.ROM
     Genre: Maze
@@ -109705,7 +109820,7 @@
 
   - English title: Nuts & Milk
     Original title: NUTS & MILK
-    Longname: Nuts & Milk (Hudson Soft) [a].rom
+    Longname: Nuts & Milk (Honeybee Soft) [a].rom
     sha1: 99e56e458a41784fb33909d02945d7a619096369
     Name: HSNut&MA.ROM
     Genre: Maze
@@ -109714,6 +109829,29 @@
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
     RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Sky Diver
+    Original title: スカイダイバー
+    Longname: Sky Diver.rom
+    sha1: 97f1790146116198133c083de113ed1e5ca6ff21
+    Name: SkyDider.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -109772,6 +109910,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: The Spider
+    Original title: ザ・スパイダー
+    Longname: The Spider [a2].rom
+    sha1: 3534f44ab7b86e93465f18eade71f23a136e1be4
+    Name: TSpidrA2.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Converted to Rom by Jipe.
+
   - English title: Zero Fighter
     Original title: ゼロファイター
     Longname: Zero Fighter - Dog Fighter.rom
@@ -109795,6 +109956,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Zero Fighter
+    Original title: ゼロファイター
+    Longname: Zero Fighter - Dog Fighter [a].rom
+    sha1: 5ea46575e492cef09f197926e4c7d252c4f757c1
+    Name: ZeroFigA.ROM
+    Genre: Shooting
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: Converted to Rom by Jipe.
+
 #
 ## Tape Converted to ROM: Hudson Soft ##
 #
@@ -109803,6 +109987,29 @@
   Folder name: ~/Tape2Rom/Hudson
 
   Files:
+  - English title: Cheerful Plantation　/　Akarui Noenu
+    Original title: 明るい農園
+    Longname: Akarui Nouen (J).rom
+    sha1: 8a05e795d5f548e256910acc0227bbb46851039d
+    Name: AkaruiNo.ROM
+    Genre: Action
+    Language: English (title in Japanese)
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1983 (tape), 2023 (Rom Conversion)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 3". Rom Conversion by Jipe.
+
   - English title: I'm Very Busy On Rainy Days
     Original title: 雨の日は大忙し
     Longname: Ame no Hi ha Ooisogashi (J).rom
@@ -109824,14 +110031,152 @@
     Developer: Hudson Soft
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Comes from the tape "W Series 4".
+
+  - English title: I'm Very Busy On Rainy Days
+    Original title: 雨の日は大忙し
+    Longname: Ame no Hi ha Ooisogashi (J) [a].rom
+    sha1: 0bca4a0212e2f54062554f94a36b329e4bf4d450
+    Name: AmeNoHiA.ROM
+    Genre: Action
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 4".
+
+  - English title: Biotech
+    Original title: バイオテック
+    Longname: Biotech.rom
+    sha1: 565bca08b1a07a367548ea6b4dcb9f80a6e49b01
+    Name: Biotech.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1983 (original)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 1". Converted to Rom by Jipe.
+
+  - English title: Cannon Ball
+    Original title: キャノンボール
+    Longname: Cannon Ball (Hudson Soft).rom
+    sha1: 43100f034ef87dcd70bbcdc3f6b72ef15e3ba788
+    Name: CannbaUK.ROM
+    Genre: Action
+    Language: English
+    Country: UK
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: Converted to Rom by Jipe.
+
+  - English title: Color Ball
+    Original title: カラーボール
+    Longname: Color Ball [tape version].rom
+    sha1: 83fdaa429ad8b155ab2328a72fcb8de642ff5615
+    Name: ColorBal.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984
+    Original Dump: 
+    Remark: Comes from the tape "W Series 3".
+
+  - English title: Color Ball
+    Original title: カラーボール
+    Longname: Color Ball [tape version-a].rom
+    sha1: 9df754734b6d0cc77b23eccfd32b1b41d87aa268
+    Name: ColorBaA.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984
+    Original Dump: 
+    Remark: Comes from the tape "W Series 3".
+
+  - English title: Color Ball
+    Original title: カラーボール
+    Longname: Color Ball [tape version-a2].rom
+    sha1: 9821891025420c4720237fcae30aeb48016ffb5e
+    Name: ColorBA2.ROM
+    Genre: Action
+    Language: English
+    Country: Japan?
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft?
+    Developer: Hudson Soft
+    Release: 1984
+    Original Dump: 
+    Remark: Comes from the tape "W Series 3". Converted to Rom by Jipe.
 
   - English title: Dog Fighter
     Original title: ゼロファイター
     Longname: Dog Fighter - Zero Fighter.rom
     sha1: d8b19e54d6c389e846392ce58ea5b20a05ceb09d
     Name: DogFight.ROM
-    Genre: 
+    Genre: Action
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
@@ -109856,7 +110201,7 @@
     Name: Eric&Flo.ROM
     Genre: Action
     Language: English
-    Country: Japan
+    Country: Europe
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
     RAM: 16kB
@@ -109879,7 +110224,7 @@
     Name: Eric&FlA.ROM
     Genre: Action
     Language: English
-    Country: Japan
+    Country: Europe
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
     RAM: 16kB
@@ -109964,6 +110309,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Fireball
+    Original title: ファイアーボール
+    Longname: Fireball (Hudson Soft).rom
+    sha1: c44effbc66b9f71555e9193db9fbe0a6e065a745
+    Name: FirebaHS.ROM
+    Genre: Action
+    Language: English (Tittle in Japanese)
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1983 (tape), 2023 (Rom Conversion)
+    Original Dump: No
+    Remark: Rom Conversion by Jipe.
+
   - English title: Killer Station
     Original title: キラーステーション
     Longname: Killer Station.rom
@@ -109985,7 +110353,7 @@
     Developer: Hudson Soft
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Comes from the tape "W Series 1".
 
   - English title: Killer Station
     Original title: キラーステーション
@@ -110008,7 +110376,7 @@
     Developer: Hudson Soft
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Comes from the tape "W Series 1".
 
   - English title: MJ-05
     Original title: MJ-05
@@ -110077,7 +110445,7 @@
     Developer: Hudson Soft
     Release: 1984 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Comes from the tape "W Series 4".
 
 #
 ## Tape Converted to ROM: Iber Soft (Spain) ##
@@ -115190,6 +115558,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Fire Ball
+    Original title: Chick Fighter
+    Longname: Chick Fighter - Fire Ball [a] (Melchioni Informatica).rom
+    sha1: 87b9eb98f60607bd6e70400e83d3e7e83f8eb6ac
+    Name: ChickFiA.ROM
+    Genre: Action
+    Language: English
+    Country: Italy
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Melchioni Informatica
+    Developer: Hudson Soft
+    Release: 1985
+    Original Dump: No
+    Remark: Version converted to ROM by Jipe.
+
   - English title: Chuckie Egg
     Original title: Chuckie Egg
     Longname: Chuckie Egg (A&F Software).rom
@@ -115948,6 +116339,29 @@
     Release: 1989 (tape)
     Original Dump: No
     Remark: Game from the "King Size" tape converted to ROM by GDX.
+
+  - English title: Color Ball
+    Original title: Super Baby
+    Longname: Super Baby (Grupo de Trabajo Software).rom
+    sha1: 5eee941851d9b9201c8f3b097fec1273d4e6b768
+    Name: SuperBab.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984
+    Original Dump: 
+    Remark: 
 
   - English title: Tape Gamecase
     Original title: Tape Gamecase
@@ -121117,7 +121531,7 @@
     sha1: 0287b2ec897b9196788cd9f10c99e1487d7adbbb
     Name: ax170_ar.ROM
     Genre: Arabic Rom
-    Language: 
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -121134,13 +121548,82 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Japanese Main-Rom
+    Original title: Japanese Main-Rom
+    Longname: Japanese_bios1.rom
+    sha1: 302afb5d8be26c758309ca3df611ae69cced2821
+    Name: JP_bios.ROM
+    Genre: Main-Rom for MSX1
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: ASCII
+    Developer: ASCII, Microsoft
+    Release: 1983
+    Original Dump: Yes
+    Remark: "Used in following Japanese MSX1s: Canon V-10, Canon V-20, Casio MX-10, Casio PV-16, Casio PV-7, Fujitsu FM-X, General PCT-50, General PCT-55, Hitachi MB-H1, Hitachi MB-H2, Hitachi MB-H50, Mitsubishi ML-8000, Mitsubishi ML-F110, Mitsubishi ML-F120, National CF-2000, Pioneer PX-7, Pioneer PX-V60, Sanyo MPC-3, Sanyo MPC-6, Sanyo MPC-10, Sanyo MPC-10mkII, Sanyo PHC-30N, Sony HB-101, Sony HB-10, Sony HB-75, Sony HB-101, Sony HB-201, Sony HB-701, Sony HB-701FD, Toshiba HX-10D, Toshiba HX-22, Victor HC-7, Victor HC-30, Yamaha CX5F, Yamaha CX11 and Yamaha YIS-503."
+
+  - English title: Japanese Main-Rom
+    Original title: Japanese Main-Rom
+    Longname: Japanese_bios2.rom
+    sha1: 0081ea0d25bc5cd8d70b60ad8cfdc7307812c0fd
+    Name: Bios2-J.ROM
+    Genre: Main-Rom for MSX2
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: ASCII
+    Developer: ASCII, Microsoft
+    Release: 1983
+    Original Dump: Yes
+    Remark: "Used in following Japanese MSX2s: Canon V-25, Canon V-30F, Hitachi MB-H3, National FS-4500, National FS-4600F, National FS-4700F, Panasonic FS-A1, Panasonic FS-A1FM, Panasonic FS-A1MK2, Sanyo MPC-25FD, Sanyo MPC-25FS, Sanyo MPC-25FS, Sony HB-F1, Sony HB-F1II, Sony HB-F5, Sony HB-F500 (v1 & v2), Sony HB-F900, Toshiba HX-23, Toshiba HX-23F, Victor HC-80, Victor HC-90 series, Victor HC-95 series, Yamaha CX7-128, Yamaha CX7M-128 and Yamaha YIS-604/128"
+
+  - English title: Japanese Sub-Rom
+    Original title: Japanese Sub-Rom
+    Longname: Japanese_bios2.rom
+    sha1: b8e30d604d319d511cbfbc61e5d8c38fbb9c5a33
+    Name: SubRom-J.ROM
+    Genre: Sub-Rom for MSX2
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: ASCII
+    Developer: ASCII, Microsoft
+    Release: 1983
+    Original Dump: Yes
+    Remark: "Used in following Japanese MSX2s: Canon V-25, Canon V-30F, Hitachi MB-H3, Mitsubishi ML-G10, Mitsubishi ML-G30, National FS-4500, National FS-4600F, National FS-4700F, Panasonic FS-A1, Panasonic FS-A1FM, Panasonic FS-A1MK2, Sanyo MPC-25FD, Sanyo MPC-25FS, Sanyo MPC-25FS, Sony HB-F1, Sony HB-F1II, Sony HB-F5, Sony HB-F500 (v1 & v2), Sony HB-F900, Toshiba HX-23, Toshiba HX-23F, Victor HC-80, Victor HC-90 series, Victor HC-95 series, Yamaha CX7-128, Yamaha CX7M-128 and Yamaha YIS-604/128"
+
   - English title: Main-Rom
     Original title: Main-Rom
     Longname: Sakhr_ax170_bios1.rom
     sha1: 5e094fca95ab8e91873ee372a3f1239b9a48a48d
     Name: ax170bios.ROM
-    Genre: Arabic Rom
-    Language: 
+    Genre: Main-Rom for MSX1
+    Language: Arabic, English
     Country: Kuwait
     Type: 32kB Rom (0000h-7FFFh)
     Machine: MSX1
@@ -121152,7 +121635,7 @@
     Player number: 
     Signature: No
     Publisher: Sakhr
-    Developer: Al Alamiah, ASCII, Sanyo
+    Developer: Al Alamiah, ASCII, Microsoft, Sanyo
     Release: 1986
     Original Dump: Yes
     Remark: Uses the Toshiba T6950 or TMS9918 (VDP) and the Toshiba T7937A (MSX engine).
@@ -121163,7 +121646,7 @@
     sha1: 7574cc5655805ea316011a8123b064917f06f83c
     Name: ax200_ar.ROM
     Genre: Arabic Rom
-    Language: 
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -121186,7 +121669,7 @@
     sha1: 079c018739c37485f3d64ef2145a0267fce6e20e
     Name: ax200bios.ROM
     Genre: Arabic Rom
-    Language: 
+    Language: Arabic, English
     Country: Kuwait
     Type: 32kB Rom (0000h-7FFFh)
     Machine: MSX1
