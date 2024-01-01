@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 26-12-2023 by gdx
+    MSX Roms Database version 01-01-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -71208,52 +71208,6 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Pretty Sheep
-    Original title: ひつじやーい
-    Longname: Pretty Sheep (Hitsuji Yaai Translated).rom
-    sha1: 3beb85d30e3e7319c719e0a290096fb8aa9ff3bc
-    Name: PrSheep.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Toshiba
-    Developer: Hudson Soft
-    Release: 1984 (original)
-    Original Dump: No
-    Remark: Rom made from file by N.G.
-
-  - English title: Pretty Sheep
-    Original title: ひつじやーい
-    Longname: Pretty Sheep (Hitsuji Yaai Translated) [a].rom
-    sha1: b4c199296b76aee56224860ee7b68e8c7645ca43
-    Name: PrSheepA.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (8000h-BFFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Toshiba
-    Developer: Hudson Soft
-    Release: 1984 (original)
-    Original Dump: No
-    Remark: 
-
   - English title: Scarlet 7 - The Mightiest Women
     Original title: スカーレット7
     Longname: Scarlet 7 The Mightiest Women.rom
@@ -109609,7 +109563,30 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: Conversion by Jipe.
+    Remark: Rom conversion by jipe.
+
+  - English title: Machinegun Joe vs The Mafia
+    Original title: 銀行強盗
+    Longname: Ginkou Goutou - Machinegun Joe vs The Mafia.rom
+    sha1: 97dd31b2f0dd056abd808062e306b0c2536975bc
+    Name: MachineG.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: 
+    Remark: 
 
   - English title: Frog Shooter
     Original title: カエルシューター
@@ -109655,7 +109632,7 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: Conversion by Jipe.
+    Remark: Rom conversion by jipe.
 
   - English title: Come on!
     Original title: 来なさい！
@@ -109701,7 +109678,7 @@
     Developer: Honeybee Soft (Hudson Soft)
     Release: 1984 (tape)
     Original Dump: No
-    Remark: Conversion by Jipe.
+    Remark: Rom conversion by jipe.
 
   - English title: Come on!
     Original title: 来なさい！
@@ -109749,52 +109726,6 @@
     Original Dump: No
     Remark:  Translation fix by Jipe.
 
-  - English title: Machinegun Joe vs The Mafia
-    Original title: 銀行強盗
-    Longname: Ginkou Goutou - Machinegun Joe vs The Mafia.rom
-    sha1: 97dd31b2f0dd056abd808062e306b0c2536975bc
-    Name: MachineG.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Softbank
-    Developer: Honeybee Soft (Hudson Soft)
-    Release: 1984 (tape)
-    Original Dump: 
-    Remark: 
-
-  - English title: MJ-05
-    Original title: MJ-05
-    Longname: MJ-05.rom
-    sha1: 20da51ccd50e7c6927a0f7a7898901a77233879e
-    Name: MJ-05&M.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 32kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Softbank
-    Developer: Honeybee Soft (Hudson Soft)
-    Release: 1984 (tape)
-    Original Dump: No
-    Remark: Converted by Jipe.
-
   - English title: Nuts & Milk
     Original title: NUTS & MILK
     Longname: Nuts & Milk (Honeybee Soft).rom
@@ -109818,6 +109749,52 @@
     Original Dump: No
     Remark: 
 
+  - English title: MJ-05
+    Original title: MJ-05
+    Longname: MJ-05.rom
+    sha1: d62c4c56b5e1b1715b0dafa82712d388d773efba
+    Name: MJ-05.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: MJ-05
+    Original title: MJ-05
+    Longname: MJ-05 [a].rom
+    sha1: 20da51ccd50e7c6927a0f7a7898901a77233879e
+    Name: MJ-05_A.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Softbank
+    Developer: Honeybee Soft (Hudson Soft)
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Rom conversion by Jipe.
+
   - English title: Nuts & Milk
     Original title: NUTS & MILK
     Longname: Nuts & Milk (Honeybee Soft) [a].rom
@@ -109840,6 +109817,29 @@
     Release: 1984 (tape)
     Original Dump: No
     Remark: 
+
+  - English title: Power Fail
+    Original title: パワーフェイル
+    Longname: Power Fail.rom
+    sha1: be7ee0430fa5f62fb03362d815c3c5f33e59dd47
+    Name: PowerFai.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Honeybee Soft (Hudson Soft), Fumihoko Itakagi
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Rom conversion by jipe.
 
   - English title: Sky Diver
     Original title: スカイダイバー
@@ -110008,7 +110008,7 @@
     Developer: Hudson Soft
     Release: 1983 (tape), 2023 (Rom Conversion)
     Original Dump: No
-    Remark: Comes from the tape "W Series 3". Rom Conversion by Jipe.
+    Remark: Comes from the tape "W Series 3". Rom conversion by Jipe.
 
   - English title: I'm Very Busy On Rainy Days
     Original title: 雨の日は大忙し
@@ -110179,7 +110179,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -110194,6 +110194,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Dog Fighter
+    Original title: ゼロファイター
+    Longname: Dog Fighter - Zero Fighter [a].rom
+    sha1: f75244e00d0bc5a7a34b84067d09e1e48fe9c87c
+    Name: DogFighA.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Kuma Computers
+    Developer: Hudson Soft
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: Rom conversion by jipe.
+
   - English title: Eric And The Floaters
     Original title: Bomber Man
     Longname: Eric And The Floaters.rom
@@ -110202,7 +110225,7 @@
     Genre: Action
     Language: English
     Country: Europe
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -110239,6 +110262,29 @@
     Release: 1985 (tape)
     Original Dump: No
     Remark: 
+
+  - English title: Eric And The Floaters
+    Original title: Bomber Man
+    Longname: Eric And The Floaters [a2].rom
+    sha1: 3ce035efbc70dd73de6c9f2db08cf2b28e41004e
+    Name: Eric&FA2.ROM
+    Genre: Action
+    Language: English
+    Country: Europe
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Kuma Computers
+    Developer: Hudson Soft
+    Release: 1985 (tape)
+    Original Dump: No
+    Remark: Rom conversion by jipe.
 
   - English title: Fire Rescue
     Original title: ファイヤーレスキュー
@@ -110330,7 +110376,53 @@
     Developer: Hudson Soft
     Release: 1983 (tape), 2023 (Rom Conversion)
     Original Dump: No
-    Remark: Rom Conversion by Jipe.
+    Remark: Rom conversion by Jipe.
+
+  - English title: Gunman
+    Original title: ガンマン
+    Longname: Gunman.rom
+    sha1: 8f73000ba6b6883c18f32ac0cecd5269719874bf
+    Name: Gunman.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1983 (tape)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 5". Rom conversion by Jipe.
+
+  - English title: Help!
+    Original title: HELP!
+    Longname: Help.rom
+    sha1: 24b2b3b58961d528dbe30fbc1e54c9d96c0af4b2
+    Name: Help.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1983 (tape)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 2". Rom conversion by Jipe.
 
   - English title: Killer Station
     Original title: キラーステーション
@@ -110340,7 +110432,7 @@
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
-    Type: 8kB Rom (4000h-5FFFh)
+    Type: 8kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -110378,17 +110470,17 @@
     Original Dump: No
     Remark: Comes from the tape "W Series 1".
 
-  - English title: MJ-05
-    Original title: MJ-05
-    Longname: MJ-05.rom
-    sha1: d62c4c56b5e1b1715b0dafa82712d388d773efba
-    Name: MJ-05.ROM
+  - English title: Killer Station
+    Original title: キラーステーション
+    Longname: Killer Station [a2].rom
+    sha1: fadb33a170d84d5f8d8f23dc740e0a224bd211da
+    Name: KillerA2.ROM
     Genre: Shoot'em up (without scrolling)
     Language: English
     Country: Japan
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
-    RAM: 32kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -110399,7 +110491,99 @@
     Developer: Hudson Soft
     Release: 1984 (tape)
     Original Dump: No
+    Remark: Comes from the tape "W Series 1". Rom conversion by jipe.
+
+  - English title: Pretty Sheep
+    Original title: ひつじやーい
+    Longname: Pretty Sheep - Hitsuji Yaai.rom
+    sha1: 3beb85d30e3e7319c719e0a290096fb8aa9ff3bc
+    Name: PrettySh.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft UK
+    Developer: Hudson Soft
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: Rom conversion by N.G.
+
+  - English title: Pretty Sheep
+    Original title: ひつじやーい
+    Longname: Pretty Sheep - Hitsuji Yaai [a].rom
+    sha1: b4c199296b76aee56224860ee7b68e8c7645ca43
+    Name: PrettySA.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft UK
+    Developer: Hudson Soft
+    Release: 1984 (original)
+    Original Dump: No
     Remark: 
+
+  - English title: Pretty Sheep
+    Original title: ひつじやーい
+    Longname: Pretty Sheep - Hitsuji Yaai [a2].rom
+    sha1: 060322aa86e8485f9de0a20777bdd421a22d6c7b
+    Name: PrettyA2.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft UK
+    Developer: Hudson Soft
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: Rom conversion by Jipe.
+
+  - English title: Sea Bomber
+    Original title: シーボンバー
+    Longname: Sea Bomber.rom
+    sha1: 7a9525162476e6a87199b3e2554b47e2cc1f3647
+    Name: SeaBombe.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft UK
+    Developer: Hudson Soft
+    Release: 1984 (original)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 2". Rom conversion by Jipe.
 
   - English title: Submarine Shooter
     Original title: サブマリンシューター
@@ -110424,6 +110608,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: Submarine Shooter
+    Original title: サブマリンシューター
+    Longname: Submarine Shooter (J) [a].rom
+    sha1: aa0da0f570da8acb7d37e3902c1082dccbf25154
+    Name: SubmariA.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Rom conversion by jipe.
+
   - English title: Super Doors
     Original title: スーパードアーズ
     Longname: Super Doors.rom
@@ -110446,6 +110653,29 @@
     Release: 1984 (tape)
     Original Dump: No
     Remark: Comes from the tape "W Series 4".
+
+  - English title: Super Doors
+    Original title: スーパードアーズ
+    Longname: Super Doors [a].rom
+    sha1: 35a8a509692f308defb9dce0c2fe8a04848f8783
+    Name: SDoors-A.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Hudson Soft
+    Developer: Hudson Soft
+    Release: 1984 (tape)
+    Original Dump: No
+    Remark: Comes from the tape "W Series 4". Conversion by jipe.
 
 #
 ## Tape Converted to ROM: Iber Soft (Spain) ##
