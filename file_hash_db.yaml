@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 01-01-2024 by gdx
+    MSX Roms Database version 02-02-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -11651,29 +11651,6 @@
     Release: 1990 (original)
     Original Dump: No
     Remark: Disk converted to Rom with DSK2ROM.
-
-  - English title: Black Sea - Treasure Hunters
-    Original title: Black Sea - Treasure Hunters
-    Longname: Black Sea Treasure Hunters (Mananuk).rom
-    sha1: 05e4638a26ba4f6bdb357e7a4a6453a33d1fb495
-    Name: BlackSea.ROM
-    Genre: Action
-    Language: English
-    Country: Spain
-    Type: 64kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 64kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / keyboard and joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Mananuk
-    Developer: Mananuk
-    Release: 2022-04 (digital)
-    Original Dump: No
-    Remark: 
 
   - English title: Blade Lords
     Original title: Blade Lords
@@ -58980,11 +58957,11 @@
   Folder name: ~/Japan/Others
 
   Files:
-  - English title: Asteria II - The Temple Of The Sun
-    Original title: アステリアII 太陽の神殿
-    Longname: Asteria II Taiyou no Shinden (J).rom
+  - English title: Asteka II - The Temple Of The Sun
+    Original title: アステカII 太陽の神殿
+    Longname: Asteka II Taiyou no Shinden (J).rom
     sha1: 414fd2a22076f45502c2329b45bda9f8730dcaae
-    Name: Asteria2.ROM
+    Name: Asteka2.ROM
     Genre: Adventure
     Language: Japanese
     Country: Japan
@@ -64030,7 +64007,7 @@
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: None
+    Data saving: 8kB SRAM in the cartridge
     Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
@@ -69708,7 +69685,7 @@
     Original title: デジタル・デビル物語 女神転生
     Longname: Digital Devil Monogatari Megami Tensei (J).rom
     sha1: 7dc7f7e3966943280f34836656a7d1bd3ace67cd
-    Name: DDMMT.ROM
+    Name: DDM-MT.ROM
     Genre: Dungeon Crawler
     Language: Japanese
     Country: Japan
@@ -69726,6 +69703,29 @@
     Release: 1987
     Original Dump: Yes
     Remark: 
+
+  - English title: Digital Devil Story - Reincarnation of the Goddess
+    Original title: デジタル・デビル物語 女神転生
+    Longname: Digital Devil Monogatari Megami Tensei (Translation).rom
+    sha1: d71600e87e0703706f481eb55cae0784f4393d8e
+    Name: DDS-ROTG.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Japan
+    Type: 144kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Telenet Japan
+    Developer: Telenet Japan
+    Release: 1987
+    Original Dump: Yes
+    Remark: Translated by MSX translation
 
   - English title: Final Zone Wolf
     Original title: ファイナルゾーンウルフ
@@ -85612,7 +85612,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: MSXDev, Repro-Factory
+    Publisher: iotch.io, MSXDev, Repro-Factory
     Developer: Nenefranz
     Release: 2011
     Original Dump: Yes
@@ -91759,7 +91759,7 @@
     Publisher: MSXdev
     Developer: Casper Croes
     Release: 2023-10-15
-    Original Dump: Yes
+    Original Dump: No
     Remark: Version 1.00 patched to work with KonamiSCC mapper.
 
   - English title: Plastic
@@ -93972,29 +93972,6 @@
     Original Dump: yes
     Remark: Some games are badly integrated.
 
-  - English title: Hans' Adventure DeLuxe Edition (Hans' Adventure + Stan, the dreamer)
-    Original title: Hans' Adventure DeLuxe Edition (Hans' Adventure + Stan, the dreamer)
-    Longname: Hans' Adventure DeLuxe Edition [Final] (The Pets Mode).rom
-    sha1: 96c6b6f160e99e101266e6540be4b616a355192a
-    Name: Han&Stan.ROM
-    Genre: Point-and-click adventure
-    Language: English
-    Country: Spain
-    Type: 64kB Rom
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: The Pets Mode
-    Developer: The Pets Mode
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
-
   - English title: Konami Ultimate Collection
     Original title: Konami Ultimate Collection
     Longname: Konami Ultimate Collection (M. Pazos).rom
@@ -94202,52 +94179,6 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: Stan The Dreamer
-    Original title: Stan The Dreamer
-    Longname: Stan The Dreamer MSX2 [trimmed] (The Pets Mode).rom
-    sha1: ef2bd5325a6b54ba07b83566b0ee820691239d5f
-    Name: Stan.ROM
-    Genre: Point-and-click adventure
-    Language: English
-    Country: Spain
-    Type: 264kB Rom with KonamiSCC mapper
-    Machine: MSX2
-    RAM: 64kB in the same slot
-    VRAM: 128kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG and SCC
-    Player number: 1
-    Signature: No
-    Publisher: The Pets Mode
-    Developer: The Pets Mode
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
-
-  - English title: Stan The Dreamer
-    Original title: Stan The Dreamer
-    Longname: Stan The Dreamer MSX2 (S) (The Pets Mode).rom
-    sha1: 96c6b6f160e99e101266e6540be4b616a355192a
-    Name: Stan-S.ROM
-    Genre: Point-and-click adventure
-    Language: Spanish
-    Country: Spain
-    Type: 512kB Rom with KonamiSCC mapper
-    Machine: MSX2
-    RAM: 64kB in the same slot
-    VRAM: 128kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG and SCC
-    Player number: 1
-    Signature: No
-    Publisher: The Pets Mode
-    Developer: The Pets Mode
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
-
   - English title: Stevedore
     Original title: Stevedore
     Longname: Stevedore (theNestruo) [v1.2].rom
@@ -94429,6 +94360,221 @@
     Publisher: NataliaPC
     Developer: NataliaPC
     Release: 2020-01
+    Original Dump: Yes
+    Remark: 
+
+#
+## Game Roms from Spain or Mexico: AAMSX ##
+#
+
+- Folder longname: ~/Roms from Spain or Mexico/AAMSX
+  Folder name: ~/Spain/AAMSX
+
+  Files:
+  - English title: MSX compilation Vol.1 - Dinamic
+    Original title: MSX compilation Vol.1 - Dinamic
+    Longname: MSX compilation Vol.1 Dinamic.rom
+    sha1: 6d73068e17f9286cb66ae3c55af358cdcfa44874
+    Name: Reco-1.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2008
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.2 - Isometricos
+    Original title: MSX compilation Vol.2 - Isometricos
+    Longname: MSX compilation Vol.2 Isometricos.rom
+    sha1: 2bde9d09e59a58871f1362f6349c1406f3cd6bc4
+    Name: Reco-2.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2009
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.3 - Opera
+    Original title: MSX compilation Vol.3 - Opera
+    Longname: MSX compilation Vol.3 Opera.rom
+    sha1: 9883d83fcd2e87c308b47b251a2621c8614a1a9e
+    Name: Reco-3.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2010
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.4 - Topo
+    Original title: MSX compilation Vol.4 - Topo
+    Longname: MSX compilation Vol.4 Topo.rom
+    sha1: b4f7d201b09d583a8eb95349be21e12be415c26e
+    Name: Reco-4.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2010
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.5 - Zigurat
+    Original title: MSX compilation Vol.5 - Zigurat
+    Longname: MSX compilation Vol.5 Zigurat.rom
+    sha1: 43234219b780d2031ab6d024ed6e8e30ddf78ded
+    Name: Reco-5.ROM
+    Genre: Compilation
+    Language: English / Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Language: English and Spanish
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2010
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.6 - Activision
+    Original title: MSX compilation Vol.6 - Activision
+    Longname: MSX compilation Vol.6 Activision.rom
+    sha1: 4ef7d8be6a575c1bbaf994e87eb832e04f971b66
+    Name: Reco-6.ROM
+    Genre: Compilation
+    Language: English / Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Language: English and Spanish
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2013
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.7 - Ocean
+    Original title: MSX compilation Vol.7 - Ocean
+    Longname: MSX compilation Vol.7 Ocean.rom
+    sha1: 9a2db06ab6ee89dd14b2157514056a6838eb88dd
+    Name: Reco-7.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2014
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.8 - Aackosoft
+    Original title: MSX compilation Vol.8 - Aackosoft
+    Longname: MSX compilation Vol.8 Aackosoft.rom
+    sha1: bf30c06ab9626c981f832be1b34629aa3b11b3d3
+    Name: Reco-8.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2016
+    Original Dump: Yes
+    Remark: 
+
+  - English title: MSX compilation Vol.9 - Gremlin
+    Original title: MSX compilation Vol.9 - Gremlin
+    Longname: MSX compilation Vol.9 Gremlin.rom
+    sha1: 880c354c40fd9a19291be79f2d8af33a345e248e
+    Name: Reco-9.ROM
+    Genre: Compilation
+    Language: English and Spanish
+    Country: Spain
+    Type: 1024kB with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2
+    Signature: No
+    Publisher: AAMSX
+    Developer: AAMSX
+    Release: 2018
     Original Dump: Yes
     Remark: 
 
@@ -94826,28 +94972,6 @@
   Folder name: ~/Spain/DTenso
 
   Files:
-  - English title: The Circus Mystery Deluxe
-    Original title: The Circus Mystery Deluxe
-    Longname: The Circus Mystery Deluxe.rom
-    sha1: 944c3997f18229fac5e467c377818b7b238c8db8
-    Name: TCMD.ROM
-    Genre: Platform
-    Language: English / Spanish
-    Country: Spain
-    Type: 32kB Rom (4000h-BFFFh)
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 128kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: DTensoMSX (itch.io)
-    Developer: DTenso (aka. DTensoMSX)
-    Release: 2023
-    Original Dump: Yes
-    Remark: 
 
 #
 ## Game Roms from Spain or Mexico: FX Software ##
@@ -100424,13 +100548,82 @@
     Remark: Graphics are more colored on MSX2. Also sold in Japan with "フライトシミュレーター 魚雷攻撃" as title.
 
 #
-## Game Roms from U.K.: UltraNarwhal ##
+## Game Roms from itch.io ##
 #
 
-- Folder longname: ~/Roms from UK/UltraNarwhal
-  Folder name: ~/UK/UNarwhal
+- Folder longname: ~/Roms from UK/itch.io
+  Folder name: ~/UK/itch.io
 
   Files:
+  - English title: 3D Deathchase
+    Original title: 3D Deathchase
+    Longname: 3D Deathchase [Alpha 2] (The Retro Programmer).rom
+    sha1: 65662d2b6998f225235d3474bc551d817b85fb56
+    Name: 3DDchas2.ROM
+    Genre: Bike chase (First person scrolling)
+    Language: English
+    Country: 
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: The Retro Programmer
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: 3D Deathchase
+    Original title: 3D Deathchase
+    Longname: 3D Deathchase [Alpha 3] (The Retro Programmer).rom
+    sha1: bc2a10ba4cee93a1cb075e2056683b0d19cf2400
+    Name: 3DDchas3.ROM
+    Genre: Bike chase (First person scrolling)
+    Language: English
+    Country: 
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: The Retro Programmer
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Black Sea - Treasure Hunters
+    Original title: Black Sea - Treasure Hunters
+    Longname: Black Sea Treasure Hunters (Mananuk).rom
+    sha1: 05e4638a26ba4f6bdb357e7a4a6453a33d1fb495
+    Name: BlackSea.ROM
+    Genre: Action
+    Language: English
+    Country: Spain
+    Type: 64kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Mananuk
+    Release: 2022-04 (digital)
+    Original Dump: No
+    Remark: 
+
   - English title: Duckstroma
     Original title: Duckstroma
     Longname: Duckstroma [v1.00].rom
@@ -100448,7 +100641,7 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: UltraNarwhal
+    Publisher: itch.io
     Developer: UltraNarwhal
     Release: 2020
     Original Dump: 
@@ -100471,10 +100664,171 @@
     Sound: PSG
     Player number: 1
     Signature: No
-    Publisher: UltraNarwhal
+    Publisher: itch.io
     Developer: UltraNarwhal
     Release: 2020
     Original Dump: 
+    Remark: 
+
+  - English title: Hans' Adventure DeLuxe Edition (Hans' Adventure + Stan, the dreamer)
+    Original title: Hans' Adventure DeLuxe Edition (Hans' Adventure + Stan, the dreamer)
+    Longname: Hans' Adventure DeLuxe Edition [Final] (The Pets Mode).rom
+    sha1: 96c6b6f160e99e101266e6540be4b616a355192a
+    Name: Han&Stan.ROM
+    Genre: Point-and-click adventure
+    Language: English
+    Country: Spain
+    Type: 64kB Rom
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: The Pets Mode
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [final version].rom
+    sha1: 0a7b2d8e347d8e40d8700f5f166aa69345ea09c8
+    Name: PhenixFV.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Casper Croes
+    Release: 2024-01
+    Original Dump: Yes
+    Remark: Final version.
+
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [final version KonamiSCC mapper].rom
+    sha1: f07f4dd927c7043464ad824596f4357ad2cef7f1
+    Name: PhenFVKS.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Casper Croes
+    Release: 2024-01-22
+    Original Dump: No
+    Remark: Final version patched to work with KonamiSCC mapper by gdx.
+
+  - English title: Skull
+    Original title: Skull
+    Longname: Skull (Oniric Factor).rom
+    sha1: 4cd3c470bcb691930ba81929c0d05d4702a4b87e
+    Name: Skull.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Oniric factor
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stan The Dreamer
+    Original title: Stan The Dreamer
+    Longname: Stan The Dreamer MSX2 (S) (The Pets Mode).rom
+    sha1: 96c6b6f160e99e101266e6540be4b616a355192a
+    Name: Stan-S.ROM
+    Genre: Point-and-click adventure
+    Language: Spanish
+    Country: Spain
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB in the same slot
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: The Pets Mode
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Stan The Dreamer
+    Original title: Stan The Dreamer
+    Longname: Stan The Dreamer MSX2 (S) [trimmed] (The Pets Mode).rom
+    sha1: ef2bd5325a6b54ba07b83566b0ee820691239d5f
+    Name: Stan.ROM
+    Genre: Point-and-click adventure
+    Language: English
+    Country: Spain
+    Type: 264kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB in the same slot
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: The Pets Mode
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
+  - English title: The Circus Mystery Deluxe
+    Original title: The Circus Mystery Deluxe
+    Longname: The Circus Mystery Deluxe.rom
+    sha1: 944c3997f18229fac5e467c377818b7b238c8db8
+    Name: TCMD.ROM
+    Genre: Platform
+    Language: English / Spanish
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: DTensoMSX (aka. DTenso)
+    Release: 2023
+    Original Dump: Yes
     Remark: 
 
 ##
@@ -120880,52 +121234,6 @@
   Folder name: ~/Unclassd
 
   Files:
-  - English title: 3D Deathchase
-    Original title: 3D Deathchase
-    Longname: 3D Deathchase [Alpha 2] (The Retro Programmer).rom
-    sha1: 65662d2b6998f225235d3474bc551d817b85fb56
-    Name: 3DDchas2.ROM
-    Genre: Bike chase (First person scrolling)
-    Language: English
-    Country: 
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: itch.io
-    Developer: The Retro Programmer
-    Release: 2022
-    Original Dump: Yes
-    Remark: 
-
-  - English title: 3D Deathchase
-    Original title: 3D Deathchase
-    Longname: 3D Deathchase [Alpha 3] (The Retro Programmer).rom
-    sha1: bc2a10ba4cee93a1cb075e2056683b0d19cf2400
-    Name: 3DDchas3.ROM
-    Genre: Bike chase (First person scrolling)
-    Language: English
-    Country: 
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: itch.io
-    Developer: The Retro Programmer
-    Release: 2022
-    Original Dump: Yes
-    Remark: 
-
   - English title: CR3
     Original title: CR3
     Longname: CR3 (Nabeta).rom
