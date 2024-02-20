@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 02-02-2024 by gdx
+    MSX Roms Database version 02-20-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 249 classified bad dumps.
+    Currently there are 250 classified bad dumps.
 
 ##
 ### Application Roms ###
@@ -69,6 +69,52 @@
     Release: 1986 (Floppy disk, tape)
     Original Dump: No
     Remark: Tape converted to ROM
+
+  - English title: Artemio's 240p Test Suite
+    Original title: Artemio's 240p Test Suite
+    Longname: Artemio's 240p Test Suite [2024-01-04].rom
+    sha1: 856fbbf9b0f0e99393dfebc7e07b9a766800f5d8
+    Name: 240p_TS.ROM
+    Genre: Hardware tester
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Artemio (Artemio Urbina)
+    Developer: Nanochess (Oscar Toledo Gutierrez)
+    Release: 2024-01-04
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Artemio's 240p Test Suite
+    Original title: Artemio's 240p Test Suite
+    Longname: Artemio's 240p Test Suite [2024-01-27].rom
+    sha1: 867a3658dda8c71178a28c303cc92c13b4537581
+    Name: 240p_TSA.ROM
+    Genre: Hardware tester
+    Language: English
+    Country: Spain
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1 / MSX2
+    RAM: 16kB
+    VRAM: 16kB / 64kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Artemio (Artemio Urbina)
+    Developer: Nanochess (Oscar Toledo Gutierrez)
+    Release: 2024-01-27
+    Original Dump: Yes
+    Remark: 
 
   - English title: ASM Cocar
     Original title: ASM Cocar
@@ -3202,6 +3248,29 @@
   Folder name: ~/BadDumps
 
   Files:
+  - English title: 1942
+    Original title: 1942
+    Longname: 1942 [Bad dump].rom
+    sha1: dd8178037df44a7bdf41dc0b3d39b25415b0fcc1
+    Name: BADDUMP249.ROM
+    Genre: Bad dump
+    Language: 
+    Country: 
+    Type: 16kB file
+    Machine: MSX
+    RAM: 
+    VRAM: 
+    Data saving: None
+    Control: 
+    Sound: 
+    Player number: 
+    Signature: No
+    Publisher: Zemina
+    Developer: 
+    Release: 
+    Original Dump: No
+    Remark: Corrupted sound.
+
   - English title: 
     Original title: 
     Longname: A.E. [a] [Bad dump].rom
@@ -8937,6 +9006,29 @@
   Folder name: ~/Demos
 
   Files:
+  - English title: 10 Seconds Warning
+    Original title: 10 Seconds Warning
+    Longname: 10 Seconds Warning [Demo 2022] (Chien Loco).rom
+    sha1: bdf76732e8602e1356af2bbef6412367e57723a7
+    Name: 10secWar.ROM
+    Genre: Demo
+    Language: English
+    Country: Brazil
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Chien Loco
+    Developer: Chien Loco
+    Release: 2022
+    Original Dump: Yes
+    Remark: Demo version
+
   - English title: 3D maze test
     Original title: 3D maze test
     Longname: 3D maze test [SCC].rom
@@ -24600,7 +24692,7 @@
 
   - English title: Our flags
     Original title: أعلامنا
-    Longname: A'lamona (Our flags) [a] (A).rom
+    Longname: A'lamona (Our flags) (A) [a].rom
     sha1: a27a19d784aa8e3e121ec28d70479e4825db5b5d
     Name: AlamonaA.ROM
     Genre: Educational
@@ -24646,7 +24738,7 @@
 
   - English title: Instructor
     Original title: المرشد
-    Longname: Al Morshed (Instructor) [a] (A).rom
+    Longname: Al Morshed (Instructor) (A) [a].rom
     sha1: cb09942ae3b81089fa0ea7a1150596d63bf9a682
     Name: AlMorshA.ROM
     Genre: 
@@ -24807,11 +24899,11 @@
 
   - English title: Organizer
     Original title: المفكرة
-    Longname: Almufakira (Organizer).rom
+    Longname: Almufakira (Organizer) (A).rom
     sha1: 2844ff2d4cdee59a42e85c869c367354eb2da651
     Name: Almufaki.ROM
     Genre: 
-    Language: English
+    Language: Arab
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24851,9 +24943,9 @@
     Original Dump: 
     Remark: 
 
-  - English title: Assistant
+  - English title: The Assistant
     Original title: المساعد
-    Longname: Almusaeid (Assistant) (A).rom
+    Longname: Almusaeid (The Assistant) (A).rom
     sha1: e98dd601ef1773b6f23a4b1f77a7dd55820b196f
     Name: Almusaei.ROM
     Genre: 
@@ -24876,11 +24968,11 @@
 
   - English title: Shater Hassan
     Original title: الشاطر حسن
-    Longname: Alshaatir Hasan (Shater Hassan) [a].rom
+    Longname: Alshaatir Hasan (Shater Hassan) (A) [a].rom
     sha1: 6be1ee2b07dbb3e08fccfe6f1b37adfeb742bd23
     Name: AlHasanA.ROM
     Genre: 
-    Language: English
+    Language: Arab
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24899,11 +24991,11 @@
 
   - English title: Shater Hassan
     Original title: الشاطر حسن
-    Longname: Alshaatir Hasan (Shater Hassan).rom
+    Longname: Alshaatir Hasan (Shater Hassan) (A).rom
     sha1: ef051be25daf7339d46d6ad643a04cfce80460c4
     Name: AlHasan.ROM
     Genre: 
-    Language: English
+    Language: Arab
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24945,11 +25037,11 @@
 
   - English title: Papa Smurf
     Original title: بابا سنفور
-    Longname: Baba Sanafur (Papa Smurf).rom
+    Longname: Baba Sanafur (Papa Smurf) (A).rom
     sha1: 7eba01b7a509597e9a82e1d315c45fb1633d3e1e
     Name: BabaSana.ROM
     Genre: 
-    Language: English
+    Language: Arab
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25060,7 +25152,7 @@
 
   - English title: Our Country
     Original title: بلادنا
-    Longname: Our Country [a] (A).rom
+    Longname: Our Country (A) [a].rom
     sha1: 735b365c61b1610c1c4746fef086b35b73ef6561
     Name: OurCounA.ROM
     Genre: 
@@ -25175,7 +25267,7 @@
 
   - English title: Sky Wolf
     Original title: ذئب الجو
-    Longname: Dhiib Aljawu (Sky Wolf) (A).rom
+    Longname: Dhiib Aljawu (Airwolf) (A).rom
     sha1: 43ae7320aa08cb2bbdf03d56bc77dcd2bfbe3628
     Name: AQSkyWol.ROM
     Genre: 
@@ -25198,7 +25290,7 @@
 
   - English title: Sky Wolf
     Original title: ذئب الجو
-    Longname: Dhiib Aljawu (Sky Wolf) [a].rom
+    Longname: Dhiib Aljawu (Airwolf) [a].rom
     sha1: edd02daa045ac0ecec333ad8fbb2c69eff1888c7
     Name: AQSkyWoA.ROM
     Genre: 
@@ -25949,6 +26041,29 @@
     Publisher: Under4Mhz
     Developer: Under4Mhz
     Release: 2021
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Minesweeper
+    Original title: Minesweeper
+    Longname: Minesweeper [v1.03].rom
+    sha1: 06d66829c9eb29c681140fb592c2957e30c5e760
+    Name: Mines103.ROM
+    Genre: Deminer
+    Language: English
+    Country: Australia
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Under4Mhz
+    Developer: Under4Mhz
+    Release: 2024
     Original Dump: Yes
     Remark: 
 
@@ -29177,7 +29292,7 @@
     Publisher: ASCII Corporation
     Developer: Capcom, ASCII (MSX port)
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: 1942
@@ -29223,7 +29338,7 @@
     Publisher: ASCII Corporation
     Developer: Capcom, ASCII (MSX port)
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: 3D Tennis
@@ -43672,7 +43787,7 @@
     Genre: Action
     Language: English
     Country: Japan
-    Type: 7215 bytes Rom (4000h-5C2Fh)
+    Type: 7215 Bytes Rom (4000h-5C2Fh)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -43991,7 +44106,7 @@
     Publisher: Irem
     Developer: Irem
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: 10-Yard Fight
@@ -44014,8 +44129,8 @@
     Publisher: Irem
     Developer: Irem
     Release: 1986
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version with 2 bytes different from the original which cause a black dot in the H of the title
 
   - English title: R-Type
     Original title: R-TYPE
@@ -59072,6 +59187,29 @@
     Original Dump: Yes
     Remark: Re-release of Super Ilevan in cartridge.
 
+  - English title: M-Force
+    Original title: エム・フォース
+    Longname: M-Force (Chikuwa Teikoku).rom
+    sha1: a159a01ea2f4bfb8596bb773e610fb7ee4ed2a73
+    Name: M-Force.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Chikuwa Teikoku
+    Developer: Chikuwa Teikoku
+    Release: 2023-08-15
+    Original Dump: Yes
+    Remark: 
+
   - English title: Mars II
     Original title: マースII
     Longname: Mars II (Nagi-P Soft).rom
@@ -59186,6 +59324,75 @@
     Release: 1986
     Original Dump: Yes
     Remark: 
+
+  - English title: Mr. IoT - A Story Of Uncle Saburo
+    Original title: ミスターアイオーティー
+    Longname: Mr. IoT A Story Of Uncle Saburo (J) [r2] (Chikuwa Teikoku).rom
+    sha1: b13d45c520fa1492da3a957f1125992ebe1ab2f5
+    Name: Mr.IoT.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Chikuwa Teikoku
+    Developer: Chikuwa Teikoku
+    Release: 2023-10-15
+    Original Dump: Yes
+    Remark: Release 2.
+
+  - English title: Mr. IoT - A Story Of Uncle Saburo
+    Original title: ミスターアイオーティー
+    Longname: Mr. IoT A Story Of Uncle Saburo (J) [r4] (Chikuwa Teikoku).rom
+    sha1: 8ac253184d7df9b342366e9a69ffaa7e217a2530
+    Name: Mr.IoT.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Chikuwa Teikoku
+    Developer: Chikuwa Teikoku
+    Release: 2023-12-23
+    Original Dump: Yes
+    Remark: Release 4.
+
+  - English title: Mr. IoT - A Story Of Uncle Saburo
+    Original title: ミスターアイオーティー
+    Longname: Mr. IoT A Story Of Uncle Saburo (J) [r5] (Chikuwa Teikoku).rom
+    sha1: 8c8bd1563e0cd3da25061c57906773b3b95e7961
+    Name: Mr.IoT.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Chikuwa Teikoku
+    Developer: Chikuwa Teikoku
+    Release: 2024-01-28
+    Original Dump: Yes
+    Remark: Release 5.
 
   - English title: How's business? Not Bad!
     Original title: もうかりまっか？ぼちぼちでんなっ！
@@ -85496,8 +85703,8 @@
     Control: Keyboard
     Sound: PSG
     Player number: 1
-    Signature: MSXdev
-    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Signature: No
+    Publisher: MSXdev
     Developer: Nanochess (Óscar Toledo Gutierrez)
     Release: 2011
     Original Dump: Yes
@@ -90976,7 +91183,7 @@
     Original title: Space Cat
     Longname: Space Cat [v1.0].rom
     sha1: e2ab61dce070892aabcfa98bfe8d525619cd617a
-    Name: SpaceCat.ROM
+    Name: SpaceC10.ROM
     Genre: Landing
     Language: English
     Country: Netherlands
@@ -90993,7 +91200,30 @@
     Developer: PlattySoft
     Release: 2022
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
+
+  - English title: Space Cat
+    Original title: Space Cat
+    Longname: Space Cat [v1.2].rom
+    sha1: 8ab07128d0ea2069e0113ea0cac4ec8479f52050
+    Name: SpaceC12.ROM
+    Genre: Landing
+    Language: English
+    Country: Netherlands
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: PlattySoft
+    Release: 2023
+    Original Dump: Yes
+    Remark: Version 1.2
 
   - English title: The Circus Mystery
     Original title: The Circus Mystery
@@ -92974,7 +93204,7 @@
     Genre: Strategy
     Language: English
     Country: Netherlands
-    Type: 523008 bytes Rom with KonamiSCC mapper
+    Type: 523008 Bytes Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -97434,7 +97664,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB, 64kB, 128kB
+    VRAM: 16kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / keyboard and joystick
     Sound: External PSG compatible MFR SCC+SD, SCC and MSX turbo R PCM when present
@@ -97457,7 +97687,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB, 64kB, 128kB
+    VRAM: 16kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: External PSG compatible MFR SCC+SD, SCC and MSX turbo R PCM when present
@@ -97480,7 +97710,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB, 64kB, 128kB
+    VRAM: 16kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG, SCC and MSX turbo R PCM when present
@@ -97503,7 +97733,7 @@
     Type: 512kB Rom with KonamiSCC mapper
     Machine: MSX1, MSX2, MSX2+
     RAM: 64kB
-    VRAM: 64kB, 64kB, 128kB
+    VRAM: 16kB, 64kB, 128kB
     Data saving: Password
     Control: Keyboard / joystick
     Sound: PSG and SCC
@@ -97569,6 +97799,52 @@
   Folder name: ~/Spain/Nanoches
 
   Files:
+  - English title: Cubos
+    Original title: Cubos
+    Longname: Cubos.rom
+    sha1: 4a5a216668d9a8ec5884e9ea7943e13f1e89a91c
+    Name: Cubos.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 3673 Bytes Rom (4000h-4E59h)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: No
+    Player number: 1
+    Signature: No
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2024
+    Original Dump: Yes
+    Remark: Trimmed
+
+  - English title: Cubos 2
+    Original title: Cubos 2
+    Longname: Cubos 2.rom
+    sha1: 2c7b1bb0297b3bae17e22ba23bce832fe3bb4aae
+    Name: Cubos2.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 3126 Bytes Rom (4000h-4C36h)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: No
+    Player number: 1
+    Signature: No
+    Publisher: Nanochess (Óscar Toledo Gutiérrez)
+    Developer: Nanochess (Óscar Toledo Gutiérrez)
+    Release: 2024
+    Original Dump: Yes
+    Remark: Trimmed
+
   - English title: Karateka 2
     Original title: Karateka 2
     Longname: Karateka 2.rom
@@ -97775,6 +98051,52 @@
   Folder name: ~/Spain/Physical
 
   Files:
+  - English title: Campanera Jozelito's Adventure
+    Original title: Campanera Jozelito's Adventure
+    Longname: Campanera Jozelito's Adventure.rom
+    sha1: ec22cfe2be6fcf5d9a30b472225c562334acccaa
+    Name: CJ_adv.ROM
+    Genre: Platform, Role playing
+    Language: English
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Campanera Jozelito's Adventure
+    Original title: Campanera Jozelito's Adventure
+    Longname: Campanera Jozelito's Adventure.rom
+    sha1: 045e13987ff1a8b7262f65c9b3470324f1b138b8
+    Name: CJ_adv-S.ROM
+    Genre: Platform, Role playing
+    Language: Spanish
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Physical Dreams
+    Developer: Jose Luis Salguero (Salgue79)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
   - English title: Gelatino - To the Rescue of Bubbles
     Original title: Gelatino - Al Rescate de los Burbujos
     Longname: Gelatino Al Rescate de los Burbujos (S).rom
@@ -100695,7 +101017,7 @@
 
   - English title: Phenix Corrupta
     Original title: Phenix Corrupta
-    Longname: Phenix Corrupta [final version].rom
+    Longname: Phenix Corrupta [final version] (Casper Croes).rom
     sha1: 0a7b2d8e347d8e40d8700f5f166aa69345ea09c8
     Name: PhenixFV.ROM
     Genre: Platform
@@ -100718,7 +101040,30 @@
 
   - English title: Phenix Corrupta
     Original title: Phenix Corrupta
-    Longname: Phenix Corrupta [final version KonamiSCC mapper].rom
+    Longname: Phenix Corrupta [final version-Keyclick fix] (Casper Croes).rom
+    sha1: 93878a66e1839ef507f78022a95a58cc23fd2e8c
+    Name: PhenFVKF.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Casper Croes
+    Release: 2024-01
+    Original Dump: Yes
+    Remark: Final version without Keyclick.
+
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [final version KonamiSCC mapper] (Casper Croes).rom
     sha1: f07f4dd927c7043464ad824596f4357ad2cef7f1
     Name: PhenFVKS.ROM
     Genre: Platform
@@ -100738,6 +101083,29 @@
     Release: 2024-01-22
     Original Dump: No
     Remark: Final version patched to work with KonamiSCC mapper by gdx.
+
+  - English title: Phenix Corrupta
+    Original title: Phenix Corrupta
+    Longname: Phenix Corrupta [final version KonamiSCC mapper-Keyclick fix] (Casper Croes).rom
+    sha1: bc4cd32e038d43c60bf574d8580a075b16c7651b
+    Name: PheFVKSK.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / Joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: itch.io
+    Developer: Casper Croes
+    Release: 2024-01-22
+    Original Dump: No
+    Remark: Final version without Keyclick patched to work with KonamiSCC mapper by gdx.
 
   - English title: Skull
     Original title: Skull
@@ -109632,6 +110000,52 @@
     Publisher: Gremlin Graphics
     Developer: Colin Dooley
     Release: 1988 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Valkyr
+    Original title: Valkyr
+    Longname: Valkyr [Voices by Tracy Lewis].rom
+    sha1: 063a791dc5eae44b61ea3dd4a0bc974efa834b41
+    Name: ValkyTLT.ROM
+    Genre: Shoot'em up
+    Language: English
+    Country: UK
+    Type: 72kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Gremlin Graphics
+    Developer: Colin Dooley
+    Release: 1988 (original tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Valkyr
+    Original title: Valkyr
+    Longname: Valkyr [Voices filtered by Tracy Lewis].rom
+    sha1: e2f7e20ade945ab8e58d222b5f1989ece4b217d8
+    Name: ValkyrVF.ROM
+    Genre: Shoot'em up
+    Language: English
+    Country: UK
+    Type: 72kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Gremlin Graphics
+    Developer: Colin Dooley
+    Release: 1988 (original tape)
     Original Dump: No
     Remark: 
 
