@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 02-20-2024 by gdx
+    MSX Roms Database version 20-05-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37,7 +37,7 @@
     Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
 
 - comment: >
-    Currently there are 250 classified bad dumps.
+    Currently there are 251 classified bad dumps.
 
 ##
 ### Application Roms ###
@@ -2457,6 +2457,75 @@
     Original Dump: 
     Remark: 
 
+  - English title: Service Floppy Drive Test
+    Original title: Service Floppy Drive Test
+    Longname: Service Floppy Drive Test.rom
+    sha1: a80ec8398ec8fb8378c034eda5a65a209a646b13
+    Name: STCMSX1P.ROM
+    Genre: Hardware test
+    Language: English
+    Country: Netherlands
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: Philips
+    Release: 
+    Original Dump: 
+    Remark: Build 4822 397 30135
+
+  - English title: Service Floppy Drive Test
+    Original title: Service Floppy Drive Test
+    Longname: Service Floppy Drive Test [overdumped].rom
+    sha1: d24682996ab2291199d49ba77a60e1888398e967
+    Name: STCMSX1P Overdumped.ROM
+    Genre: Hardware test
+    Language: English
+    Country: Netherlands
+    Type: 8kB Rom (4000h-5FFFh) + the same 8kB Rom
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: none
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: Philips
+    Release: 
+    Original Dump: 
+    Remark: Build 4822 397 30135
+
+  - English title: Service Test Cartridge
+    Original title: Service Test Cartridge
+    Longname: Service Test Cartridge.rom
+    sha1: f29cef9d13d50d9e3158064c6bb381def6ff384d
+    Name: STCMSX2P.ROM
+    Genre: Hardware test
+    Language: English
+    Country: Netherlands
+    Type: 16kB Rom (0000h-3FFFh)
+    Machine: MSX2
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk, tape
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: Philips
+    Developer: Philips
+    Release: 
+    Original Dump: 
+    Remark: Build 4822 397 30138
+
 #
 ## Application Roms: Sony ##
 #
@@ -4328,6 +4397,29 @@
     Release: 
     Original Dump: No
     Remark: 
+
+  - English title: Crusader
+    Original title: クルセーダー
+    Longname: Crusader [Bad dump].rom
+    sha1: c6f090882886dcf783e5b65bff75c5e034fbb2eb
+    Name: BADDUMP250.ROM
+    Genre: platform (smooth horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Compile
+    Release: 1985
+    Original Dump: 
+    Remark: Playable with a few loader in Ram only.
 
   - English title: 
     Original title: 
@@ -26611,6 +26703,29 @@
     Release: 1986
     Original Dump: 
     Remark: 
+
+  - English title: Touche Pro
+    Original title: Esgrima
+    Longname: Touche Pro (Antor44).rom
+    sha1: 92a5e06eb3825ed0b8f3123ed2482249f629de12
+    Name: Touche.ROM
+    Genre: Fencing
+    Language: Portuguese
+    Country: Brazil
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard and joystick
+    Sound: PSG
+    Player number: 2 (against each other)
+    Signature: No
+    Publisher: Antor44
+    Developer: Antonio Millan then remastered by Antor44
+    Release: 2021
+    Original Dump: No
+    Remark: "Web page: https://github.com/antor44/TouchePro"
 
 #
 ## Game Roms from Brazil or Portugal: Amaury Calvalho ##
@@ -57770,6 +57885,75 @@
 
   - English title: Bubble Bobble
     Original title: Bubble Bobble
+    Longname: Bubble Bobble [Konami mapper].rom
+    sha1: 7b45f887d26876456d2ba1e64c9cfcf48896f2c5
+    Name: BubbleKM.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Taito (original)
+    Developer: Taito Corporation
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for Konami mapper
+
+  - English title: Bubble Bobble
+    Original title: Bubble Bobble
+    Longname: Bubble Bobble [KonamiSCC mapper].rom
+    sha1: 78fc97cedbde437d87e1dff8fd0a272298c2efda
+    Name: BubbleSM.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Taito (original)
+    Developer: Taito Corporation
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper
+
+  - English title: Bubble Bobble
+    Original title: Bubble Bobble
+    Longname: Bubble Bobble [KonamiSCC mapper-Sprites fixed].rom
+    sha1: c6456fc561c7f745a9721c5db701b5b45805901d
+    Name: BubbSFSM.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Taito (original)
+    Developer: Taito Corporation
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper and sprites fixed
+
+  - English title: Bubble Bobble
+    Original title: Bubble Bobble
     Longname: Bubble Bobble [MA-20].rom
     sha1: 1d188f980755e3b167a55a04d542ef34cc2fb857
     Name: BubbMA20.ROM
@@ -57829,29 +58013,6 @@
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG and Moonsound compatible (OPL4)
-    Player number: 1 or 2 (at the same time)
-    Signature: No
-    Publisher: Taito (original)
-    Developer: Taito Corporation
-    Release: 1987 (original)
-    Original Dump: No
-    Remark: 
-
-  - English title: Bubble Bobble
-    Original title: Bubble Bobble
-    Longname: Bubble Bobble [Sprites fixed-SCC mapper].rom
-    sha1: c6456fc561c7f745a9721c5db701b5b45805901d
-    Name: BubbSFSM.ROM
-    Genre: Action
-    Language: English
-    Country: Japan
-    Type: 128kB Rom with SCC mapper
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 64kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
     Player number: 1 or 2 (at the same time)
     Signature: No
     Publisher: Taito (original)
@@ -62681,8 +62842,8 @@
     Publisher: Pony Canyon (Ponyca)
     Developer: Compile
     Release: 1985
-    Original Dump: 
-    Remark: 
+    Original Dump: Yes
+    Remark: This rom doesn't work on several MSXs. 
 
   - English title: Crusader
     Original title: クルセーダー
@@ -62704,14 +62865,14 @@
     Publisher: Pony Canyon (Ponyca)
     Developer: Compile
     Release: 1985
-    Original Dump: 
-    Remark: 
+    Original Dump: Yes
+    Remark: This rom doesn't work on several MSXs. 
 
   - English title: Crusader
     Original title: クルセーダー
-    Longname: Crusader [a2].rom
-    sha1: c6f090882886dcf783e5b65bff75c5e034fbb2eb
-    Name: CrusadA2.ROM
+    Longname: Crusader [a-MSX support fix].rom
+    sha1: 27695e4b5f8b05116f2a905392075a883d7fa44c
+    Name: CrusMSFA.ROM
     Genre: platform (smooth horizontal scrolling)
     Language: English
     Country: Japan
@@ -62727,8 +62888,31 @@
     Publisher: Pony Canyon (Ponyca)
     Developer: Compile
     Release: 1985
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: MSX support fix by gdx.
+
+  - English title: Crusader
+    Original title: クルセーダー
+    Longname: Crusader [MSX support fix].rom
+    sha1: c37de419e37b42ab004d5d832115df8075d189f6
+    Name: CrusaMSF.ROM
+    Genre: platform (smooth horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Compile
+    Release: 1985
+    Original Dump: No
+    Remark: MSX support fix by gdx.
 
   - English title: Dawn Patrol
     Original title: ドーンパトロール
@@ -82610,7 +82794,7 @@
     Remark: 
 
   - English title: Griel's Quest for the Sangraal
-    Original title: 
+    Original title: Griel's Quest for the Sangraal
     Longname: Griel's Quest for the Sangraal - Griel no Seihai.rom
     sha1: 989d9ba7c0f29694fa3b737d09cf102606b2fd5b
     Name: GrielQGS.ROM
@@ -82633,7 +82817,7 @@
     Remark: 
 
   - English title: Griel's Quest for the Sangraal
-    Original title: 
+    Original title: Griel's Quest for the Sangraal
     Longname: Griel's Quest for the Sangraal - Griel no Seihai [final].rom
     sha1: 5a9364271ddca5208b625c891f01a89fd2367a8d
     Name: GrieQGSF.ROM
@@ -85570,7 +85754,30 @@
     Developer: TNI (The New Image)
     Release: 2011
     Original Dump: Yes
-    Remark: 
+    Remark: TNI logo is buggy on MSX1s except if the VDP is V9938.
+
+  - English title: Alter Ego
+    Original title: Alter Ego
+    Longname: Alter Ego [MSX support fix].rom
+    sha1: ef71dcee2ecdbe767145940c465d2755bde6f2c7
+    Name: AltrEgoA.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: TNI (The New Image)
+    Release: 2011
+    Original Dump: Yes
+    Remark: Version with VDP timing fixed by gdx.
 
   - English title: Experimental Chess
     Original title: Experimental Chess
@@ -86938,7 +87145,7 @@
     Original title: Wing Warriors
     Longname: Wing Warriors (Kitmaker Entertainment Inc).rom
     sha1: 4b934f0c383136ff315d04a56d2a8631169f9628
-    Name: WingWarr.ROM
+    Name: WingWa48.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Spain
@@ -86952,10 +87159,10 @@
     Player number: 1
     Signature: No
     Publisher: MSXdev, Repro Factory
-    Developer: Kitmaker Entertainment Inc
+    Developer: Kitmaker Entertainment Inc.
     Release: 2015
     Original Dump: Yes
-    Remark: 
+    Remark: There is also a cartridge edition.
 
 #
 ## Game Roms from MSXdev: 2017 ##
@@ -89095,7 +89302,7 @@
 
   - English title: The Menace from Triton
     Original title: The Menace from Triton
-    Longname: The Menace from Triton  [v1.00].rom
+    Longname: The Menace from Triton [v1.00].rom
     sha1: 29a648177be7e9be338543f1bc546d1993e75918
     Name: Trito100.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -89118,7 +89325,7 @@
 
   - English title: The Menace from Triton
     Original title: The Menace from Triton
-    Longname: The Menace from Triton  [v1.01].rom
+    Longname: The Menace from Triton [v1.01].rom
     sha1: a6907e9ad48d01be315b3041eb56d619af1b17d2
     Name: Trito101.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -89141,7 +89348,7 @@
 
   - English title: The Menace from Triton
     Original title: The Menace from Triton
-    Longname: The Menace from Triton  [v1.02].rom
+    Longname: The Menace from Triton [v1.02].rom
     sha1: 8e665321900566a41f1d42a9811bf6c71c57e22a
     Name: Trito102.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -89164,7 +89371,7 @@
 
   - English title: The Menace from Triton
     Original title: The Menace from Triton
-    Longname: The Menace from Triton  [v1.10].rom
+    Longname: The Menace from Triton [v1.10].rom
     sha1: b2ddb1a8f3eb3a05f693945def3d9300f779528a
     Name: Trito110.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -89187,7 +89394,7 @@
 
   - English title: The Menace from Triton
     Original title: The Menace from Triton
-    Longname: The Menace from Triton  [v1.20].rom
+    Longname: The Menace from Triton [v1.20].rom
     sha1: d301a822e698e03fa74cb7f8e5908aafea1a3491
     Name: Trito120.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -92567,6 +92774,152 @@
     Original Dump: Yes
     Remark: Version 1.00 (unfinished game)
 
+#
+## Game Roms from MSXdev: 2024 ##
+#
+
+- Folder longname: ~/Roms from MSXdev/2023
+  Folder name: ~/MSXdev/2023
+
+  Files:
+  - English title: AlienMSX
+    Original title: AlienMSX
+    Longname: AlienMSX [v1.1].rom
+    sha1: c55b808d3df175e60535a7036399661fee317614
+    Name: AlinMS11.ROM
+    Genre: Platform
+    Language: English
+    Country: Brazil
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rodrigo Siqueira
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.1
+
+  - English title: AlienMSX
+    Original title: AlienMSX
+    Longname: AlienMSX [v1.2].rom
+    sha1: 84289b2dec8333ae75e63837f1328f90db38343d
+    Name: AlinMS12.ROM
+    Genre: Platform
+    Language: English
+    Country: Brazil
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rodrigo Siqueira
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.2
+
+  - English title: AlienMSX
+    Original title: AlienMSX
+    Longname: AlienMSX [v1.3] [50hz].rom
+    sha1: 1fe93a2a171827428f4026a6555316539def807b
+    Name: AlM11-50.ROM
+    Genre: Platform
+    Language: English
+    Country: Brazil
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rodrigo Siqueira
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.3 for MSX at 50Hz
+
+  - English title: AlienMSX
+    Original title: AlienMSX
+    Longname: AlienMSX [v1.3] [60hz].rom
+    sha1: f8e098c6cdb6ea7125d8d7958475335f4f701676
+    Name: AlM11-60.ROM
+    Genre: Platform
+    Language: English
+    Country: Brazil
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rodrigo Siqueira
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.3 for MSX at 60Hz
+
+  - English title: Princess Paloma's Rescue
+    Original title: Princess Paloma's Rescue
+    Longname: Princess Paloma's Rescue [v1.0].rom
+    sha1: 9e18dd71ddee8d20e79e6ff95040b00f9fcc300c
+    Name: Paloma.ROM
+    Genre: Platform
+    Language: English
+    Country: Netherlands
+    Type: 256kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Infinite
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: Puzzle Mania
+    Original title: Puzzle Mania
+    Longname: Puzzle Mania [v1.0].rom
+    sha1: d5fc595f7d72c98e8257326fab2fc20f9c4f1250
+    Name: PuzzMa10.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fony
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.0
+
 ##
 ### Game Roms from Netherlands ###
 ##
@@ -93352,7 +93705,7 @@
     Country: Ireland
     Type: 48kB Rom (0000h-BFFFh)
     Machine: MSX1
-    RAM: 16kB
+    RAM: 32kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -94478,28 +94831,28 @@
     Original Dump: No
     Remark: Crash fix by gdx.
 
-  - English title: Touche Pro
-    Original title: Esgrima
-    Longname: Touche Pro (Antor44).rom
-    sha1: 92a5e06eb3825ed0b8f3123ed2482249f629de12
-    Name: Touche.ROM
-    Genre: Fencing
-    Language: Portuguese
-    Country: Brazil
-    Type: 16kB Rom (4000h-7FFFh)
+  - English title: Wing Warriors
+    Original title: Wing Warriors
+    Longname: Wing Warriors [Cartridge edition] (Kitmaker Entertainment Inc).rom
+    sha1: 0fcbfed932e02277932f03610784151d93b13777
+    Name: WingWarr.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English, French and Spanish
+    Country: Spain
+    Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
-    RAM: 32kB
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard and joystick
+    Control: Keyboard / joystick
     Sound: PSG
-    Player number: 2 (against each other)
+    Player number: 1
     Signature: No
-    Publisher: Antor44
-    Developer: Antonio Millan then remastered by Antor44
+    Publisher: EGS
+    Developer: Kitmaker Entertainment Inc.
     Release: 2021
     Original Dump: No
-    Remark: "Web page: https://github.com/antor44/TouchePro"
+    Remark: 
 
   - English title: Zakil Wood Remake
     Original title: Zakil Wood Remake
@@ -95495,9 +95848,9 @@
   Folder name: ~/Spain/Jam
 
   Files:
-  - English title: Activisioncase
-    Original title: Activisioncase
-    Longname: Activisioncase.rom
+  - English title: Activision Gamecase
+    Original title: Activision Gamecase
+    Longname: Activision Gamecase.rom
     sha1: d76c7a5c2d28684f0d67114cc7b9707b296e68a2
     Name: ActiviGC.ROM
     Genre: Compilation
@@ -95515,7 +95868,30 @@
     Publisher: Jam (compilation)
     Developer: Activision (games), Jam (compilation)
     Release: 
-    Original Dump: Yes
+    Original Dump: 
+    Remark: 
+
+  - English title: Activision Gamecase
+    Original title: Activision Gamecase
+    Longname: Activision Gamecase [a].rom
+    sha1: d0f3df51aececdbe5f1f88baf2373d0a65532346
+    Name: ActivGCA.ROM
+    Genre: Compilation
+    Language: English
+    Country: Spain
+    Type: 512kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Jam (compilation)
+    Developer: Activision (games), Jam (compilation)
+    Release: 
+    Original Dump: 
     Remark: 
 
   - English title: Activision Gamecase
@@ -105368,7 +105744,7 @@
     Language: Spanish
     Country: Spain
     Type: 128kB Rom with ASCII8 mapper
-    Machine: MSX1
+    Machine: MSX1 with v9938
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -105391,7 +105767,7 @@
     Language: Spanish
     Country: Spain
     Type: 64kB Rom with ASCII16 mapper
-    Machine: MSX1
+    Machine: MSX1 with v9938
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -105414,7 +105790,7 @@
     Language: Spanish
     Country: Spain
     Type: 64kB Rom with ASCII8 mapper
-    Machine: MSX1
+    Machine: MSX1 with v9938
     RAM: 64kB
     VRAM: 16kB
     Data saving: None
@@ -105427,6 +105803,29 @@
     Release: 1989 (tape)
     Original Dump: No
     Remark: MSX support improved by gdx.
+
+  - English title: Bestial Warrior
+    Original title: Bestial Warrior
+    Longname: Bestial Warrior (S) [MSX support fix v2].rom
+    sha1: b6f85116509bb87b0ffe023e02bd1354fd67408c
+    Name: BstWMsf2.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Type: 64kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Dinamic
+    Developer: Zeus Soft
+    Release: 1989 (tape)
+    Original Dump: No
+    Remark: MSX support improved by gdx. Fixed VDP access to fast by mcolom.
 
   - English title: Buggy Ranger
     Original title: Buggy Ranger
@@ -107471,7 +107870,7 @@
 
   - English title: Confused?
     Original title: Confused?
-    Longname: Confused [a] (Eaglesoft).rom
+    Longname: Confused [KonamiSCC mapper] (Eaglesoft).rom
     sha1: 9865f0bc4d54137809f0d8b48d5461ddf0c5bf4c
     Name: ESConfuA.ROM
     Genre: Puzzle
@@ -107479,7 +107878,7 @@
     Country: Netherlands
     Type: 48kB Rom with KonamiSCC mapper
     Machine: MSX1
-    RAM: 64kB in the same slot
+    RAM: 16kB
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -117532,7 +117931,7 @@
   Files:
   - English title: Dracula
     Original title: Drácula
-    Longname: Dracula (S).rom
+    Longname: Dracula (S) [KonamiSCC mapper].rom
     sha1: b0c6f993b7e87274de712e18f7497009f830c68a
     Name: Dracula.ROM
     Genre: Dungeon Crawler
