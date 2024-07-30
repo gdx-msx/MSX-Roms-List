@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 20-05-2024 by gdx
+    MSX Roms Database version 30-07-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -168,7 +168,7 @@
     sha1: f6ae6e9f42a2d2328a3464d3168517c189f3de10
     Name: BarBASIC.ROM
     Genre: Programming
-    Language: Arab
+    Language: Arabic
     Country: Koweit
     Type: 16kB Rom (4000h-7FFFh)
     Machine: Arabic MSX1
@@ -191,7 +191,7 @@
     sha1: f9f3e2e6222e1cdb0784bf041e4a01146aab736a
     Name: BarBASIC Overdumped.ROM
     Genre: Programming
-    Language: Arab
+    Language: Arabic
     Country: Koweit
     Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
     Machine: Arabic MSX1
@@ -691,6 +691,29 @@
     Original Dump: 
     Remark: Enter _HOTPLAN.
 
+  - English title: Joy Graph
+    Original title: ジョイグラフ
+    Longname: Joy Graph (J) (Victor).rom
+    sha1: 4ecf05aac789771e5eb4e9bd3abfe057d643461b
+    Name: JoyGraph.ROM
+    Genre: Graphic editor
+    Language: Japanese
+    Country: Japan
+    Type: 16B Rom (8000h-BFFFh without mirror)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Tape
+    Control: Keyboard
+    Sound: None
+    Player number: None
+    Signature: No
+    Publisher: Victor
+    Developer: Victor
+    Release: 1983
+    Original Dump: Yes
+    Remark: Supports the superimpose. Also called Joyful Graphic Tool.
+
   - English title: JoyGold
     Original title: JoyGold
     Longname: JoyGold [v1.3] (Cube MSX).rom
@@ -716,7 +739,7 @@
 
   - English title: Joytelop
     Original title: ジョイテロップ
-    Longname: Joytelop (J).rom
+    Longname: Joytelop (J) (Victor).rom
     sha1: 5ceedd2ae401febb79c1f6a64ddef4b2e1790674
     Name: Joytelop.ROM
     Genre: 
@@ -1303,7 +1326,7 @@
     sha1: 013beda727ed35043b22731f522a0d8749f0c7be
     Name: ArBASIC0.ROM
     Genre: Programming
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -1326,7 +1349,7 @@
     sha1: cd49e8253a9610c03f37804ab9e41e776626cf65
     Name: ArBASIC1.ROM
     Genre: Programming
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -1349,7 +1372,7 @@
     sha1: 2da83f3d46d613f5f21e63aaa451b05012b4e20e
     Name: ArBASIC0 Overdumped.ROM
     Genre: Programming
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh) + 32kB (Arabic Sakhr Basic v1.11)
     Machine: Arabic MSX1
@@ -1372,7 +1395,7 @@
     sha1: 0dbc7defd96b71c1fe2d63cbc725f5e58aea2db0
     Name: HolQuran.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 1024kB Rom with HolyQuran mapper
     Machine: Arabic MSX1
@@ -1395,7 +1418,7 @@
     sha1: 3ca12cac125752985f3bf14a667d80a41aebc4ea
     Name: MagicWri.ROM
     Genre: Writer
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
@@ -1418,7 +1441,7 @@
     sha1: 3ca12cac125752985f3bf14a667d80a41aebc4ea
     Name: MagicWri Overdumped.ROM
     Genre: Writer
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -1441,7 +1464,7 @@
     sha1: acc93f818a9f2925bfcc61df7d9fe2e0cbc0a9ae
     Name: MySDico.ROM
     Genre: Arab to English dictionary with quiz
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -1464,7 +1487,7 @@
     sha1: 64c49fdabbdd5e13c4310b03a183ea1a018154a4
     Name: SakhrDic.ROM
     Genre: Dictionary
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX1
@@ -1487,7 +1510,7 @@
     sha1: 64c49fdabbdd5e13c4310b03a183ea1a018154a4
     Name: SakhrDic.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX2
@@ -1510,7 +1533,7 @@
     sha1: 3a74e73b94d066b0187feb743c5eceddf0c61c2b
     Name: SakhrWP.ROM
     Genre: Word Processor
-    Language: Arab
+    Language: Arabic
     Country: 
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX2
@@ -3417,8 +3440,8 @@
     Genre: Bad dump
     Language: 
     Country: 
-    Type: 56kB file
-    Machine: MSX
+    Type: 64kB Rom with KonamiSCC mapper
+    Machine: MSX2
     RAM: 
     VRAM: 
     Data saving: None
@@ -3430,7 +3453,7 @@
     Developer: 
     Release: 
     Original Dump: No
-    Remark: No SCC sound on real hardware.
+    Remark: No SCC sound on real hardware. File size is 56kB bytes.
 
   - English title: 
     Original title: 
@@ -3756,7 +3779,7 @@
 
   - English title: 
     Original title: 
-    Longname: Antarctic Adventure (E-J) [SCC-a] [Bad dump].rom
+    Longname: Antarctic Adventure (E-J) [SCC] [a] [Bad dump].rom
     sha1: 6bd5b97baceb3bc8da3571590e2a6a761bb90b48
     Name: BADDUMP.ROM
     Genre: Bad dump
@@ -5807,7 +5830,7 @@
     sha1: 182eb2502cf70b3890d551c4e63e60fa4554d764
     Name: BADDUMP13.ROM
     Genre: Bad dump
-    Language: Arab
+    Language: Arabic
     Country: 
     Type: 32kB file
     Machine: MSX
@@ -6244,7 +6267,7 @@
     sha1: 1f45beca6f3fc64e0c1a7eb5ee112f962edec82f
     Name: BADDUMP14.ROM
     Genre: Bad dump
-    Language: Arab
+    Language: Arabic
     Country: 
     Type: 32kB file
     Machine: MSX
@@ -6911,7 +6934,7 @@
     sha1: 6c684481c42106c1e8e5bfa5261a9d8cfde3323f
     Name: BADDUMP15.ROM
     Genre: Bad dump
-    Language: Arab
+    Language: Arabic
     Country: 
     Type: 32kB file
     Machine: MSX
@@ -7068,7 +7091,7 @@
 
   - English title: 
     Original title: 
-    Longname: Pippols [Snatcher SCC+-a] [trimmed] [Bad dump].rom
+    Longname: Pippols [Snatcher SCC+] [a trimmed] [Bad dump].rom
     sha1: 8927b9aa770195f255e4e0e143f89bfe93353022
     Name: BADDUMP218.ROM
     Genre: Bad dump
@@ -8425,7 +8448,7 @@
 
   - English title: 
     Original title: 
-    Longname: Twin Bee [SD Snatcher SCC+-a] [trimmed] [Bad dump].rom
+    Longname: Twin Bee [SD Snatcher SCC+] [a trimmed] [Bad dump].rom
     sha1: b813123219446f16cd10b916cc18ec4a8d7c69de
     Name: BADDUMP82.ROM
     Genre: Bad dump
@@ -12755,7 +12778,7 @@
     Longname: Bubble Utilize.rom
     sha1: 27731d0f0900ad900cd229d69e9bc4eab6ea4135
     Name: BubbleUt.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
@@ -12778,7 +12801,7 @@
     Longname: Poyo Poyo Life.rom
     sha1: f3cf0e4d88ccfd6720fff8feed8e6a3caada83a0
     Name: PoyoLife.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Japan
     Type: 64kB Rom with KonamiSCC mapper
@@ -12801,7 +12824,7 @@
     Longname: Poyo Poyo Life 2.rom
     sha1: 6630158b46f96756d1a90d2df909c4dcc4bca6c7
     Name: PoyoLif2.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Japan
     Type: 128kB Rom with KonamiSCC mapper
@@ -13654,7 +13677,7 @@
     Longname: Ago Board (J) [SCC].rom
     sha1: f4ad7a54b872e5459fab1f5ef260bc22b9559ba6
     Name: AgoBoSCC.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 64kB Rom with KonamiSCC mapper
@@ -13677,7 +13700,7 @@
     Longname: Ago Board (J) [SCC] [Partially trimmed].rom
     sha1: e6d2f6f6f6b478656585835c596b4b98cb3f87f0
     Name: AgoBoSCC Partially trimmed.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 56kB Rom with KonamiSCC mapper
@@ -13700,7 +13723,7 @@
     Longname: Ago Board (J) [SCC trimmed].rom
     sha1: a4aecb6f3b8d6221260247ff7bc838c07dbb4899
     Name: AgoBoSCC Trimmed.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 48kB Rom with KonamiSCC mapper
@@ -13720,10 +13743,10 @@
 
   - English title: Ago Board
     Original title: Ago Board
-    Longname: Ago Board (J) [SCC-a].rom
+    Longname: Ago Board (J) [SCC] [a].rom
     sha1: fa7664ede4259d93982bfde47b30556fb3f74f5c
     Name: AgoBSCCA.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 64kB Rom with KonamiSCC mapper
@@ -13746,7 +13769,7 @@
     Longname: Ago Board (J) [SCC-a overdumped].rom
     sha1: b7d279bed9a4809672c33e274fb9a1d78a57bb24
     Name: AgoBSCCA Overdumped.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 64kB Rom with KonamiSCC mapper overdumped
@@ -13769,7 +13792,7 @@
     Longname: Ago Board (J) [SCC+].rom
     sha1: cfd9dd7aa3c29f58195f4c4115a346f96926ab12
     Name: AgoBSCCp.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 64kB Rom with KonamiSCC+ mapper
@@ -13789,10 +13812,10 @@
 
   - English title: Ago Board
     Original title: Ago Board
-    Longname: Ago Board (J) [SCC+-a].rom
+    Longname: Ago Board (J) [SCC+] [a].rom
     sha1: dea3305bb09f34dc25d764798ed3c8ee0c54ee5a
     Name: AgSCCpA.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 64kB Rom with KonamiSCC+ mapper
@@ -13812,13 +13835,13 @@
 
   - English title: Ago Board
     Original title: Ago Board
-    Longname: Ago Board (J) [SCC+-a] [Partially trimmed].rom
+    Longname: Ago Board (J) [SCC+] [a partially trimmed].rom
     sha1: 82bbe05b539bf5463738f8b246c09c67ab9bf65d
     Name: AgSCCpA Partially trimmed.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
-    Type: Rom with KonamiSCC+ mapper
+    Type: 56kB Rom with KonamiSCC+ mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -13835,10 +13858,10 @@
 
   - English title: Ago Board
     Original title: Ago Board
-    Longname: Ago Board (J) [SCC+-a] [trimmed].rom
+    Longname: Ago Board (J) [SCC+] [a trimmed].rom
     sha1: 78ec7ca4f2660f761d3c99adc9c119b05579260f
     Name: AgSCCpA Trimmed.ROM
-    Genre: 
+    Genre: Abstract strategy
     Language: Japanese
     Country: Japan
     Type: 48kB Rom with KonamiSCC+ mapper
@@ -13881,7 +13904,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC-a].rom
+    Longname: Antarctic Adventure (E-J) [SCC] [a].rom
     sha1: ea166874cc4eb78e7eaf0f83e774c994972ac338
     Name: AntaSCCA.ROM
     Genre: Action (First person scrolling)
@@ -13904,7 +13927,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC-a] [trimmed].rom
+    Longname: Antarctic Adventure (E-J) [SCC] [a trimmed].rom
     sha1: 71cf1c2fa12be4e00b6026634f23cc62ceb56728
     Name: AntSCCAT Trimmed.ROM
     Genre: Action (First person scrolling)
@@ -13933,7 +13956,7 @@
     Genre: Action (First person scrolling)
     Language: English / Japanese
     Country: Japan
-    Type: Rom with KonamiSCC mapper
+    Type: 40kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -13973,7 +13996,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC+-a].rom
+    Longname: Antarctic Adventure (E-J) [SCC+] [a].rom
     sha1: 07577fa97e3e9130df6eb7117cb1c14de7807cee
     Name: AntSCCpA.ROM
     Genre: Action (First person scrolling)
@@ -13996,7 +14019,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC+-a] [trimmed].rom
+    Longname: Antarctic Adventure (E-J) [SCC+] [a trimmed].rom
     sha1: 9ba68e7bfad5568676e3af6d12e4a1c517c4807b
     Name: AntSCCpA Trimmed.ROM
     Genre: Action (First person scrolling)
@@ -14019,7 +14042,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC+-a2].rom
+    Longname: Antarctic Adventure (E-J) [SCC+] [a2].rom
     sha1: aab1dec019b3e3033153feceb7889288f1248bb4
     Name: AnSCCpA2.ROM
     Genre: Action (First person scrolling)
@@ -14042,7 +14065,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC+-a2] [Partially trimmed].rom
+    Longname: Antarctic Adventure (E-J) [SCC+] [a2] [Partially trimmed].rom
     sha1: 2f41afb1599349f3c1f35f68f5de997dedecffe2
     Name: AnSCCpA2 Partially Trimmed.ROM
     Genre: Action (First person scrolling)
@@ -14065,7 +14088,7 @@
 
   - English title: Antarctic Adventure
     Original title: I LOVE 地理 けっきょく南極大冒険
-    Longname: Antarctic Adventure (E-J) [SCC+-a2] [trimmed].rom
+    Longname: Antarctic Adventure (E-J) [SCC+] [a2] [trimmed].rom
     sha1: 468c5d62b8842859c04148eae96d8d018b11b0f9
     Name: AnSCCpA2 Trimmed.ROM
     Genre: Action (First person scrolling)
@@ -14111,7 +14134,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC-a].rom
+    Longname: Gradius - Nemesis [SCC] [a].rom
     sha1: 6b42315eddefa0a33ea0c4510d6a4bc1086a5163
     Name: GradSCCA.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -14134,7 +14157,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC-a2].rom
+    Longname: Gradius - Nemesis [SCC] [a2].rom
     sha1: 89564b82224d2540d7e6c68ba8ac2e5bc2616236
     Name: GraSCCA2.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -14157,7 +14180,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC-a3].rom
+    Longname: Gradius - Nemesis [SCC] [a3].rom
     sha1: 7d8f04b71f1f0aa89459bd210c329f63cd21d0d4
     Name: GraSCCA3.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -14226,7 +14249,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC] [Enhanced by V. Martinez].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Victor Martinez].rom
     sha1: cb42bebed357fc949577bca39680f766533f4c65
     Name: GrSCCHVM.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -14433,7 +14456,7 @@
 
   - English title: Hyper Rally
     Original title: Hyper Rally
-    Longname: Hyper Rally [SCC+-a].rom
+    Longname: Hyper Rally [SCC+] [a].rom
     sha1: e37aa5a4a05285cf1f3d81c5247cf7c72ad2248b
     Name: HRaSCCpA.ROM
     Genre: Car racing
@@ -14456,7 +14479,7 @@
 
   - English title: Hyper Rally
     Original title: Hyper Rally
-    Longname: Hyper Rally [SCC+-a] [trimmed].rom
+    Longname: Hyper Rally [SCC+] [a trimmed].rom
     sha1: 8e435f6fda26dd8657e9e1d09c980b0e9684dd5c
     Name: HRaSCCpA Trimmed.ROM
     Genre: Car racing
@@ -14479,7 +14502,7 @@
 
   - English title: Hyper Rally
     Original title: Hyper Rally
-    Longname: Hyper Rally [SCC+-a2].rom
+    Longname: Hyper Rally [SCC+] [a2].rom
     sha1: ca511ec8e39c139b2315c025afd607b1f99b7ed6
     Name: HRSCCpA2.ROM
     Genre: Car racing
@@ -14502,7 +14525,7 @@
 
   - English title: Hyper Rally
     Original title: Hyper Rally
-    Longname: Hyper Rally [SCC+-a2] [Partially trimmed].rom
+    Longname: Hyper Rally [SCC+] [a2] [Partially trimmed].rom
     sha1: 04f1c852a331e8d9654fcbd61848153f2c1310c3
     Name: HRSCCpA2 Partially trimmed.ROM
     Genre: Car racing
@@ -14525,7 +14548,7 @@
 
   - English title: Hyper Rally
     Original title: Hyper Rally
-    Longname: Hyper Rally [SCC+-a2] [trimmed].rom
+    Longname: Hyper Rally [SCC+] [a2] [trimmed].rom
     sha1: a7941723dea430afaf1c761b900d1f6d406f3667
     Name: HRSCCpA2 Trimmed.ROM
     Genre: Car racing
@@ -14572,7 +14595,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC-a].rom
+    Longname: Hyper Soumen (J) [SCC] [a].rom
     sha1: bf4d23e4faceef83fdf18418b0ecd8b63c10cd21
     Name: HSouSCCA.ROM
     Genre: Action
@@ -14595,7 +14618,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC-a] [trimmed].rom
+    Longname: Hyper Soumen (J) [SCC] [a trimmed].rom
     sha1: b0e526b6ea68cc53f116846d8decafc698448d0d
     Name: HSouSCCA Trimmed.ROM
     Genre: Action
@@ -14641,7 +14664,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC+-a].rom
+    Longname: Hyper Soumen (J) [SCC+] [a].rom
     sha1: 1c5774ec283f9022bb81f0c5466290cafada6c57
     Name: HSoSCCpA.ROM
     Genre: Action
@@ -14664,7 +14687,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC+-a] [trimmed].rom
+    Longname: Hyper Soumen (J) [SCC+] [a trimmed].rom
     sha1: 53bb7651ec2aafe9fbc4b4b6bc47580861d1cf2d
     Name: HSoSCCpA Trimmed.ROM
     Genre: Action
@@ -14687,7 +14710,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC+-a2].rom
+    Longname: Hyper Soumen (J) [SCC+] [a2].rom
     sha1: 9062e6e6f9f9c187febcb39064c1ac9dacabe659
     Name: HSSCCpA2.ROM
     Genre: Action
@@ -14710,7 +14733,7 @@
 
   - English title: Hyper Soumen
     Original title: Hyper Soumen
-    Longname: Hyper Soumen (J) [SCC+-a2] [trimmed].rom
+    Longname: Hyper Soumen (J) [SCC+] [a2] [trimmed].rom
     sha1: cc76eeab83a5958a4b039a9b2331cf88176eb168
     Name: HSSCCpA2 Trimmed.ROM
     Genre: Action
@@ -14756,7 +14779,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC-a].rom
+    Longname: Hyper Sports 2 [SCC] [a].rom
     sha1: 385cb02c7ffefab8282baaeba6c003da762157b4
     Name: HSp2SCCA.ROM
     Genre: Sport
@@ -14779,7 +14802,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC-a] [trimmed].rom
+    Longname: Hyper Sports 2 [SCC] [a trimmed].rom
     sha1: d394e2f71cdb955d03cbf8173950e82fc69646bd
     Name: HSp2SCCA Trimmed.ROM
     Genre: Sport
@@ -14802,7 +14825,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC-a2].rom
+    Longname: Hyper Sports 2 [SCC] [a2].rom
     sha1: 2e7d9597fda90e20883bbdcd6efdf854dfd3ee5b
     Name: HS2SCCA2.ROM
     Genre: Sport
@@ -14825,7 +14848,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC-a2] [trimmed].rom
+    Longname: Hyper Sports 2 [SCC] [a2] [trimmed].rom
     sha1: 6d456f66104aaa5b12f20a0150b1d1a834b4e454
     Name: HS2SCCA2 Trimmed.ROM
     Genre: Sport
@@ -14871,7 +14894,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC+-a].rom
+    Longname: Hyper Sports 2 [SCC+] [a].rom
     sha1: 1c6ef0ba360d01eb2d6858ee2b9b21f8dadfa03c
     Name: HS2SCCpA.ROM
     Genre: Sport
@@ -14894,7 +14917,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC+-a] [trimmed].rom
+    Longname: Hyper Sports 2 [SCC+] [a trimmed].rom
     sha1: e07fefd24366bfd7f854e25777b92542c3206a4b
     Name: HS2SCCpA Trimmed.ROM
     Genre: Sport
@@ -14917,7 +14940,7 @@
 
   - English title: Hyper Sports 2
     Original title: Hyper Sports 2
-    Longname: Hyper Sports 2 [SCC+-a] [Partially trimmed].rom
+    Longname: Hyper Sports 2 [SCC+] [a partially trimmed].rom
     sha1: e1a30e9f27ee358a25e1d86712671dee8bd9fdd9
     Name: HS2SCCpA Partially trimmed.ROM
     Genre: Sport
@@ -15055,7 +15078,7 @@
 
   - English title: Konami's Boxing
     Original title: コナミのボクシング
-    Longname: Konami's Boxing [SCC-a].rom
+    Longname: Konami's Boxing [SCC] [a].rom
     sha1: b1179dd8201eac3a03d6109b6d8a5192cdf77258
     Name: KBoxSCCA.ROM
     Genre: Boxing
@@ -15078,7 +15101,7 @@
 
   - English title: Konami's Boxing
     Original title: コナミのボクシング
-    Longname: Konami's Boxing [SCC-a2].rom
+    Longname: Konami's Boxing [SCC] [a2].rom
     sha1: 158f1feacd0d6a59cd132d9c5865e0941b72f20e
     Name: KBoSCCA2.ROM
     Genre: Boxing
@@ -15101,7 +15124,7 @@
 
   - English title: Konami's Boxing
     Original title: コナミのボクシング
-    Longname: Konami's Boxing [SCC-a trimmed].rom
+    Longname: Konami's Boxing [SCC] [a trimmed].rom
     sha1: 4eb8014e54d20f4b337a39b960813009b41dd82a
     Name: KBoSCCA3 Trimmed.ROM
     Genre: Boxing
@@ -15170,7 +15193,7 @@
 
   - English title: Konami's Boxing
     Original title: コナミのボクシング
-    Longname: Konami's Boxing [SCC+-a].rom
+    Longname: Konami's Boxing [SCC+] [a].rom
     sha1: 6f67bbd588876f4fef5b3785c4e36ad70aba5e94
     Name: BoxiSCCp.ROM
     Genre: Boxing
@@ -15308,7 +15331,7 @@
 
   - English title: Konami's Ping-Pong
     Original title: コナミのピンポン
-    Longname: Konami's Ping-Pong [SCC+-a].rom
+    Longname: Konami's Ping-Pong [SCC+] [a].rom
     sha1: 662f7200f32a75d7ae19d4467607f6ac755aafd1
     Name: KPiSCCpA.ROM
     Genre: Ping-Pong
@@ -15331,7 +15354,7 @@
 
   - English title: Konami's Ping-Pong
     Original title: コナミのピンポン
-    Longname: Konami's Ping-Pong [SCC+-a] [trimmed].rom
+    Longname: Konami's Ping-Pong [SCC+] [a trimmed].rom
     sha1: 961ce6fa5503cf83c68110dcaf3201857bf4f711
     Name: KPiSCCpA Trimmed.ROM
     Genre: Ping-Pong
@@ -15423,7 +15446,7 @@
 
   - English title: Konami's Soccer
     Original title: コナミのサッカー
-    Longname: Konami's Soccer [SCC+-a].rom
+    Longname: Konami's Soccer [SCC+] [a].rom
     sha1: 7afd779fc7507170e21b4bb76374b09210b0da38
     Name: KSoSCCpA.ROM
     Genre: Football / Soccer
@@ -15446,7 +15469,7 @@
 
   - English title: Konami's Soccer
     Original title: コナミのサッカー
-    Longname: Konami's Soccer [SCC+-a] [trimmed].rom
+    Longname: Konami's Soccer [SCC+] [a trimmed].rom
     sha1: c0961ba9186523a19465de88167fedb3ce622e1f
     Name: KSoSCCpA Trimmed.ROM
     Genre: Football / Soccer
@@ -15515,7 +15538,7 @@
 
   - English title: Knightmare
     Original title: 魔城伝説
-    Longname: Majou Densetsu - Knightmare [SCC-a] [trimmed].rom
+    Longname: Majou Densetsu - Knightmare [SCC] [a trimmed].rom
     sha1: 2b36169693227eb2b53e1961191991453f9f27f1
     Name: KnigSCCA Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -15561,7 +15584,7 @@
 
   - English title: Knightmare
     Original title: 魔城伝説
-    Longname: Majou Densetsu - Knightmare [SCC+-a].rom
+    Longname: Majou Densetsu - Knightmare [SCC+] [a].rom
     sha1: 88c972e2e567d71ec749299f923292304a91e4ca
     Name: KniSCCpA.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -15584,7 +15607,7 @@
 
   - English title: Knightmare
     Original title: 魔城伝説
-    Longname: Majou Densetsu - Knightmare [SCC+-a] [trimmed].rom
+    Longname: Majou Densetsu - Knightmare [SCC+] [a trimmed].rom
     sha1: 299249b75b61ecc26bbec06228c8fd5cbcc0d2d6
     Name: KniSCCpA Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -15630,7 +15653,7 @@
 
   - English title: Pippols
     Original title: ピポルス
-    Longname: Pippols [SCC-a].rom
+    Longname: Pippols [SCC] [a].rom
     sha1: ea22823170080ac93c5ae4b19f2f88d90e2bba43
     Name: PippSCCA.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -15653,7 +15676,7 @@
 
   - English title: Pippols
     Original title: ピポルス
-    Longname: Pippols [SCC-a] [trimmed].rom
+    Longname: Pippols [SCC] [a trimmed].rom
     sha1: 40f59d13f67e4b1113af3339ce09f78f3dfb56f2
     Name: PippSCCA Trimmed.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -15699,7 +15722,7 @@
 
   - English title: Pippols
     Original title: ピポルス
-    Longname: Pippols [SCC+-a].rom
+    Longname: Pippols [SCC+] [a].rom
     sha1: b26991db469957c79858e24fc1514f0114e09747
     Name: PipSCCpA.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -15722,7 +15745,7 @@
 
   - English title: Pippols
     Original title: ピポルス
-    Longname: Pippols [SCC+-a trimmed].rom
+    Longname: Pippols [SCC+] [a trimmed].rom
     sha1: 55aa56c09c827c67464050a89aa69b9ea817b023
     Name: PipSCCpA Trimmed.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -15768,7 +15791,7 @@
 
   - English title: Pippols
     Original title: ピポルス
-    Longname: Pippols [SCC+-a2].rom
+    Longname: Pippols [SCC+] [a2].rom
     sha1: 984b57b6ced1fe95145992ed0c6b3b9e9ad67c86
     Name: PiSCCpA2.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -15860,7 +15883,7 @@
 
   - English title: Road Fighter
     Original title: ロードファイター
-    Longname: Road Fighter [SCC+-a].rom
+    Longname: Road Fighter [SCC+] [a].rom
     sha1: f0820dd5ff6279ea833052cfbc7e255a889d8567
     Name: RoaSCCpA.ROM
     Genre: Car racing
@@ -15906,7 +15929,7 @@
 
   - English title: Road Fighter
     Original title: ロードファイター
-    Longname: Road Fighter [SCC+-a2].rom
+    Longname: Road Fighter [SCC+] [a2].rom
     sha1: f4f3cf590905369b1d85aa9324221df915d5c23a
     Name: RoSCCpA2.ROM
     Genre: Car racing
@@ -15975,7 +15998,7 @@
 
   - English title: Sky Jaguar
     Original title: スカイジャガー
-    Longname: Sky Jaguar [SCC-a].rom
+    Longname: Sky Jaguar [SCC] [a].rom
     sha1: fdc255b9f83a2caa1342569225494fa28c1177ac
     Name: SkyJSCCA.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -15998,7 +16021,7 @@
 
   - English title: Sky Jaguar
     Original title: スカイジャガー
-    Longname: Sky Jaguar [SCC-a trimmed].rom
+    Longname: Sky Jaguar [SCC] [a trimmed].rom
     sha1: b2268ac565d86ec0059b0f642115bfee8e36409c
     Name: SkyJSCCA Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16044,7 +16067,7 @@
 
   - English title: Sky Jaguar
     Original title: スカイジャガー
-    Longname: Sky Jaguar [SCC+-a].rom
+    Longname: Sky Jaguar [SCC+] [a].rom
     sha1: f6080e5f3024e33452a652fe6f0d51ff1c496c04
     Name: SkySCCpA.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16067,7 +16090,7 @@
 
   - English title: Sky Jaguar
     Original title: スカイジャガー
-    Longname: Sky Jaguar [SCC+-a trimmed].rom
+    Longname: Sky Jaguar [SCC+] [a trimmed].rom
     sha1: 26e30161be01a0e8f6835468f876d82c89742ac9
     Name: SkySCCpA Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16113,7 +16136,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC-a].rom
+    Longname: Super Cobra [SCC] [a].rom
     sha1: 27b7d1df436d37f86ccab9c30cbb429668c9414f
     Name: SCobSCCA.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -16136,7 +16159,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC-a trimmed].rom
+    Longname: Super Cobra [SCC] [a trimmed].rom
     sha1: ab7e66a44e333380fe4090dfab99b6e8349e618f
     Name: SCobSCCA Trimmed.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -16182,7 +16205,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC+-a].rom
+    Longname: Super Cobra [SCC+] [a].rom
     sha1: dfb6a60891d9717cf4bec1be6ecf7215cf2e97e8
     Name: SCoSCCpA.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -16228,7 +16251,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC+-a trimmed].rom
+    Longname: Super Cobra [SCC+] [a trimmed].rom
     sha1: eaa4bfb4b76b0eb840fa99c000ce6ff6bab71383
     Name: SCSCCpA2 Trimmed.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -16251,7 +16274,7 @@
 
   - English title: Super Cobra
     Original title: スーパーコブラ
-    Longname: Super Cobra [SCC+-a2].rom
+    Longname: Super Cobra [SCC+] [a2].rom
     sha1: 402240af5ffe1b3a1fcd60b877580771d4f6e6d5
     Name: SCSCCpA2.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -16435,7 +16458,7 @@
 
   - English title: Tsururin-kun
     Original title: Tsururin-kun
-    Longname: Tsururin-kun (J) [SCC+-a].rom
+    Longname: Tsururin-kun (J) [SCC+] [a].rom
     sha1: 18db53998adfaf4b4f0c5410032824c7ab27a662
     Name: TsuSCCpA.ROM
     Genre: Action
@@ -16527,7 +16550,7 @@
 
   - English title: Twin Bee
     Original title: ツインビー
-    Longname: Twin Bee [SCC-a].rom
+    Longname: Twin Bee [SCC] [a].rom
     sha1: a35edba2203907bb71efcfd69cc070e3248473bb
     Name: TwinSCCA.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16550,7 +16573,7 @@
 
   - English title: Twin Bee
     Original title: ツインビー
-    Longname: Twin Bee [SCC-a trimmed].rom
+    Longname: Twin Bee [SCC] [a trimmed].rom
     sha1: 23e7e6e4aaa37fc74b9b788c6f56cb44aefc0223
     Name: TwSCCA2 Trimmed.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16596,7 +16619,7 @@
 
   - English title: Twin Bee
     Original title: ツインビー
-    Longname: Twin Bee [SCC+-a].rom
+    Longname: Twin Bee [SCC+] [a].rom
     sha1: 608262129beb658fc0794f45207fb3244a68b7ed
     Name: TwiSCCpA.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -16665,7 +16688,7 @@
 
   - English title: Video Hustler
     Original title: ビデオハスラー
-    Longname: Video Hustler [SCC-a].rom
+    Longname: Video Hustler [SCC] [a].rom
     sha1: 25662236c5b136a358a021e2c9e1f769d75815e7
     Name: VHusSCCA.ROM
     Genre: Billiards
@@ -16757,7 +16780,7 @@
 
   - English title: Video Hustler
     Original title: ビデオハスラー
-    Longname: Video Hustler [SCC+-a].rom
+    Longname: Video Hustler [SCC+] [a].rom
     sha1: 993c2c338876926a5fca35a46ff2a4262b14f65e
     Name: VHuSCCpA.ROM
     Genre: Billiards
@@ -16826,7 +16849,7 @@
 
   - English title: Video Hustler
     Original title: ビデオハスラー
-    Longname: Video Hustler [SCC+-a2].rom
+    Longname: Video Hustler [SCC+] [a2].rom
     sha1: 28a9303ce6951a9dd263f8ca5b4313ba9212d95c
     Name: VHSCCpA2.ROM
     Genre: Billiards
@@ -16918,7 +16941,7 @@
 
   - English title: Yie Ar Kung-Fu
     Original title: イーアルカンフー
-    Longname: Yie Ar Kung-Fu [SCC+-a].rom
+    Longname: Yie Ar Kung-Fu [SCC+] [a].rom
     sha1: 183304517821e9f2f5ae23a96eb5b6626d99a2ea
     Name: YAKSCCpA.ROM
     Genre: Fighting
@@ -16941,7 +16964,7 @@
 
   - English title: Yie Ar Kung-Fu
     Original title: イーアルカンフー
-    Longname: Yie Ar Kung-Fu [SCC+-a] [trimmed].rom
+    Longname: Yie Ar Kung-Fu [SCC+] [a trimmed].rom
     sha1: 486da96399105009a5642c852aa9958ac4747d0c
     Name: YAKSCCpA Trimmed.ROM
     Genre: Fighting
@@ -17033,7 +17056,7 @@
 
   - English title: Yie Ar Kung-Fu II - The Emperor Yie-Gah
     Original title: イーアルカンフーII - The Emperor Yie-Gah
-    Longname: Yie Ar Kung-Fu II The Emperor Yie-Gah [SCC+-a].rom
+    Longname: Yie Ar Kung-Fu II The Emperor Yie-Gah [SCC+] [a].rom
     sha1: 14cf977e79a07d373120cbaebc477348606fb116
     Name: YA2SCCpA.ROM
     Genre: Fighting
@@ -17056,7 +17079,7 @@
 
   - English title: Yie Ar Kung-Fu II - The Emperor Yie-Gah
     Original title: イーアルカンフーII - The Emperor Yie-Gah
-    Longname: Yie Ar Kung-Fu II The Emperor Yie-Gah [SCC+-a] [trimmed].rom
+    Longname: Yie Ar Kung-Fu II The Emperor Yie-Gah [SCC+] [a trimmed].rom
     sha1: 70e04b521d7cebfad745228b64e1c85aa5cc2e99
     Name: YA2SCCpA Trimmed.ROM
     Genre: Fighting
@@ -19207,6 +19230,29 @@
     Signature: No
     Publisher: Zemina / Saehan Sangsa
     Developer: Taito Corporation
+    Release:  (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: The Treasure Of Usas
+    Original title: ウシャス
+    Longname: The Treasure Of Usas (E-J) [ultimate cheat version].rom
+    sha1: 7f23a5030e337ba41a5a898c515a8eecd15d60a2
+    Name: Usas-UC.ROM
+    Genre: Platform
+    Language: English / Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
     Release:  (original)
     Original Dump: No
     Remark: 
@@ -21560,7 +21606,7 @@
     sha1: 150b249b6402ed89ed03cc7125f9472c931dcb2a
     Name: 123v116.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21583,7 +21629,7 @@
     sha1: a7c116e987f561aaa6199c3018433c431268ca86
     Name: 123v117.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21692,13 +21738,13 @@
     Original Dump: No
     Remark: 
 
-  - English title: Alphabet in Arabic
-    Original title: الحروف العربية - ا ب ت
-    Longname: a b c - Alhuruf Alearabia (a b c - Alphabet in Arabic) (A) [v1.11].rom
+  - English title: Arabic Alphabet
+    Original title: أبجدية عربية - ا ب ت
+    Longname: a b c - Abjadiat Earabiat (a b c - Arabic Alphabet) (A) [v1.11].rom
     sha1: 148c9a4f316ff73c4e802baadc34bf852492821d
-    Name: AlphabeA.ROM
+    Name: AlphA111.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21716,12 +21762,12 @@
     Remark: 
 
   - English title: a,b,c - Alphabet in Arabic
-    Original title: الحروف العربية - ا ب ت
-    Longname: a b c - Alhuruf Alearabia (a b c - Alphabet in Arabic) (A) [v1.13].rom
+    Original title: أبجدية عربية - ا ب ت
+    Longname: a b c - Abjadiat Earabiat (a b c - Arabic Alphabet) (A) [v1.13].rom
     sha1: 6898910ed409daee48c8f9f5b20505330d46f714
-    Name: AlphArab.ROM
+    Name: AlphA113.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21738,15 +21784,38 @@
     Original Dump: 
     Remark: 
 
-  - English title: a,b,c - Alphabets in English
+  - English title: a,b,c - English Alphabet 
     Original title: a b c - الحروف الإنجليزية
-    Longname: a b c - Alphabets in English.rom
+    Longname: a b c - English Alphabet.rom
     sha1: 5bd09e5a9669c58365c87f32a0e9a8e59680d5c9
-    Name: AlphEngl.ROM
+    Name: AlphE106.ROM
     Genre: Educational
-    Language: English
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
+    Machine: Arabic MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: a,b,c - French Alphabet
+    Original title: a b c - الحروف الفرنسية
+    Longname: a b c - French Alphabet.rom
+    sha1: 07eb66fcd99fb8a3aa8a5f3eaa20b7512cc3428d
+    Name: AlphF106.ROM
+    Genre: Educational
+    Language: Arabic
+    Country: Kuwait
+    Type: 32kB Rom (0000h-7FFFh)
     Machine: Arabic MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -21767,7 +21836,7 @@
     sha1: 8f5e7717a506e3314d48ae9ff5e6c6c8a3df72eb
     Name: Add&Subt.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21836,7 +21905,7 @@
     sha1: f2b5b9029575b85f0730914a44e57f94c9313df5
     Name: BWTurtle.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -21882,7 +21951,7 @@
     sha1: b20e02cbffef692c7aee6281eb36729ee1e928ef
     Name: ArabPoet.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX2
@@ -21905,7 +21974,7 @@
     sha1: 55cc50740d68d2558351cd8d125821dd1be70a1c
     Name: AMAZIKID.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -21928,7 +21997,7 @@
     sha1: 6b4b099fa7a87c5059ebb40da3089d0d61967644
     Name: ArabWorl.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22319,7 +22388,7 @@
     sha1: f2ac1ce7584297bb646caec3fe4f0384ed5b072f
     Name: Equation.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22411,7 +22480,7 @@
     sha1: e930f53bf480aba5d50d97ee7c60aad96c000d33
     Name: Fractio1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22434,7 +22503,7 @@
     sha1: bb3df0a7656249e486accc60f583d3dd41db590b
     Name: Fracti2A.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22457,7 +22526,7 @@
     sha1: b8b277064fe2427f586a6ad32504ec5ce756a574
     Name: Fractio2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22587,7 +22656,7 @@
     Developer: The Bytebusters
     Release: 1987
     Original Dump: 
-    Remark: 
+    Remark: Version extrated from the MSX AX-230 firmware
 
   - English title: Hype
     Original title: Hype
@@ -22609,8 +22678,8 @@
     Publisher: Al Alamiah
     Developer: The Bytebusters
     Release: 1987
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version extrated from the MSX AX-230 firmware and modified to improve the MSX support
 
   - English title: Ibn Malek
     Original title: ابن مالك
@@ -22618,7 +22687,7 @@
     sha1: 2d174a58c81eda0490e4606afa167bbe4082d845
     Name: IbnMalek.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22641,7 +22710,7 @@
     sha1: c5248a712d9e58ea5f9b34f398419cbecef8a1fe
     Name: IbnMaleA.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22756,7 +22825,7 @@
     sha1: 39a40c1265cc663eef0d21dea01a9bf52c8c140e
     Name: DiscComp.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22779,7 +22848,7 @@
     sha1: 217b21d10d80fe2d5d04636ee8c2f97f6edfe34a
     Name: InfoRace.ROM
     Genre: Sport
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX1
@@ -22802,7 +22871,7 @@
     sha1: 4a28e8bc5ff7b57c63ce810972c3ffc2683ee3d4
     Name: ISLAMBUL.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22825,7 +22894,7 @@
     sha1: eb164a0a65077687c6e71f3ba2f3956f3aea6bb3
     Name: IslamBuA.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22894,7 +22963,7 @@
     sha1: 7a0ddc5f086a6bc7e8e7f7b1840988623a2cc1b5
     Name: Koufi.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22940,7 +23009,7 @@
     sha1: bf3d9433bf32d3af7a7adc0ba77b9690ac754daa
     Name: LABASIC.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22963,7 +23032,7 @@
     sha1: 0cc58a60e35303442abf82f28b7030ac1ae4e538
     Name: LABASICA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22986,7 +23055,7 @@
     sha1: 08eb5001bd95ffb7232cdbdffbec7634eb110ad8
     Name: LetsCnt1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -23009,7 +23078,7 @@
     sha1: 73938f51fcb26349aa17e1ae1f1bd43b20ef227b
     Name: LetsCnt3.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -23032,7 +23101,7 @@
     sha1: 99107515d4985c101ed73cf45e27e3405fd62ca4
     Name: LetsThin.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23193,7 +23262,7 @@
     sha1: eb374a5e1d3209fa5da24a8fbbe9c4839dd02679
     Name: MAGNETIA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23216,7 +23285,7 @@
     sha1: 4998d34b559f4a531843cebd2302212658d953f7
     Name: Magnetic.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23377,7 +23446,7 @@
     sha1: 860f5180c9028cbf675d9b1e59b7e7487c59ea0c
     Name: Mult&Div.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23400,7 +23469,7 @@
     sha1: 20effe093026e9209bd3327114e9ad51676cf807
     Name: Mult&DiA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23423,7 +23492,7 @@
     sha1: 0a7bed652592ed6325acd037f1f5bbbd1d31b239
     Name: Landmark.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX1
@@ -23446,7 +23515,7 @@
     sha1: d9195b9a24f6e7c5b99eca046908915bfe369d46
     Name: MyClock.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23469,7 +23538,7 @@
     sha1: 11927d62332a3310ad462f2f532ac30533c1fc17
     Name: MyClockA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23492,7 +23561,7 @@
     sha1: ce493944b6b57ffa56e7eb09df76e73b65dcb800
     Name: Num&Targ.ROM
     Genre: Strategy (like Pico Pico)
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
@@ -23515,7 +23584,7 @@
     sha1: ddfb953e6c6d9c1be15362b9a0299259a66a2c98
     Name: Num&Targ Overdumped.ROM
     Genre: Strategy (like Pico Pico)
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 16kB Rom (4000h-7FFFh) + 16kB filled with 0FFh
     Machine: MSX1
@@ -23538,7 +23607,7 @@
     sha1: 3c9301eea142857ee5e9e04d0caebbc5a4245715
     Name: Optics.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23561,7 +23630,7 @@
     sha1: 6918679b2be2d014b60b4025a3877dee9ad5f407
     Name: OurArabi.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23584,7 +23653,7 @@
     sha1: 823b638419dc81767a8511db190212607908cece
     Name: PerioTbA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23607,7 +23676,7 @@
     sha1: 7033c47a3b20fd04054ef37d209e1545ac053865
     Name: PerioTbl.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23653,7 +23722,7 @@
     sha1: 17bbed846045f3325b1d34c686d35889f9efe157
     Name: Projecti.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23676,7 +23745,7 @@
     sha1: b186d547c0b79612bffb63dd49c3230f156c2bbe
     Name: Proverbs.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23722,7 +23791,7 @@
     sha1: 108abde71e59839fb4d1e59c3a0cb2366220030c
     Name: RainbwST.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23837,7 +23906,7 @@
     sha1: d0cd48404eec5975d0f284c46b3cd710236b87a5
     Name: Sebaweh1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23860,7 +23929,7 @@
     sha1: bbabc8ce1e39d4405dee587737e4dea24477c24d
     Name: Sebaweh2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23952,7 +24021,7 @@
     sha1: a4d4a6fc06739c543ff0767a1006ae2860d9b635
     Name: ShaterHa.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -23975,7 +24044,7 @@
     sha1: 1071420c786d882187ec277a47d486a92071231f
     Name: BelieveO.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -24136,7 +24205,7 @@
     sha1: 80a2c10a28307efc765260ff4d422c58b65921fe
     Name: ArabHisA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24159,7 +24228,7 @@
     sha1: 3ce544aaefdb8a916a1639afea774eb75ec4702f
     Name: ArabHist.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24182,7 +24251,7 @@
     sha1: 2f1aacc5d18973e59f9eafa20d7ffddca34d0ef9
     Name: TestIQ1.ROM
     Genre: IQ test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24205,7 +24274,7 @@
     sha1: c3680636efd8d2f3a7c1c6774dd36399c754b71d
     Name: TestIQ2.ROM
     Genre: IQ test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24228,7 +24297,7 @@
     sha1: e9d7957a45ef0ac4cb2b206af424332081d3d3cb
     Name: TstKnow1.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24251,7 +24320,7 @@
     sha1: 33352b5e33057bebe0c9b989afe90f178aba7243
     Name: TstKnw1A.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24274,7 +24343,7 @@
     sha1: 82bf80166e77f99a6f1e091f97f8ab167373dc60
     Name: TstKnow2.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24297,7 +24366,7 @@
     sha1: 4a7827c5f6b73a0f607381dd85353ed3a69d8694
     Name: TstKnw2A.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24320,7 +24389,7 @@
     sha1: 1257d2004e625e1ca60ef78a43cd59c7fa2df29c
     Name: TstKnow3.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX1
@@ -24343,7 +24412,7 @@
     sha1: 16f06109c57de5a39fbe150de9c25754483ee9fb
     Name: TstKnw3A.ROM
     Genre: Knowledge test
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: Arabic MSX1
@@ -24366,7 +24435,7 @@
     sha1: b153dc92b9ff967cb8829182dfe2ae40c210aefb
     Name: Energy.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24389,7 +24458,7 @@
     sha1: ad2e1e957ee469d51faa07a99a20dbf00003dacf
     Name: Energy-A.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24481,7 +24550,7 @@
     sha1: 09d2563fd5d9df095aa48be5ead7771c23c50ad2
     Name: T2Mecca.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24504,7 +24573,7 @@
     sha1: 38db3c065c3b5afbe40112a4fef982725c4646ef
     Name: T2Meccaa.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24527,7 +24596,7 @@
     sha1: 01e58fa57a8590595cb3cf5370e60ed53302e93d
     Name: T2Mecca2.ROM
     Genre: Religious
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24596,7 +24665,7 @@
     sha1: d2c5c19ad327149f029a72e1834b97761e570f02
     Name: Who.ROM
     Genre: Education
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24619,7 +24688,7 @@
     sha1: b815cb222a6314c1adad0945af7be759a14c200a
     Name: Who-A.ROM
     Genre: Education
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24642,7 +24711,7 @@
     sha1: e7324782c7bec087105312275043984907cbfe1f
     Name: WindowOn.ROM
     Genre: Education
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24665,7 +24734,7 @@
     sha1: e5a347daa39098a38918b1fceb756d93bbcf1dd0
     Name: WonderCh.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24734,7 +24803,7 @@
     sha1: e4f7a94d0cb43f56f73d54c22364e91434363945
     Name: YoungExp.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -24765,7 +24834,7 @@
     sha1: bf5f571c88c9100ac7fccd92ae89e7780787683a
     Name: Alamona.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24788,7 +24857,7 @@
     sha1: a27a19d784aa8e3e121ec28d70479e4825db5b5d
     Name: AlamonaA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24811,7 +24880,7 @@
     sha1: 90161111906b3efa51089b0c79f6d365f70b2ebb
     Name: AlMorshd.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24834,7 +24903,7 @@
     sha1: cb09942ae3b81089fa0ea7a1150596d63bf9a682
     Name: AlMorshA.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24857,7 +24926,7 @@
     sha1: b7b63a9b333a0cb1ca0453bffac358fde5430578
     Name: AlMuruur.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24880,7 +24949,7 @@
     sha1: d616e0b55d4dddf16bd686e6353acf9947b47f42
     Name: Statemen.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24903,7 +24972,7 @@
     sha1: 9fd29a3a70d4092d52af90b2680c943a22796773
     Name: BarqGame.ROM
     Genre: Compilation
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24926,7 +24995,7 @@
     sha1: a86ac07631e27d64cbc5309b8a82e2961f3cece9
     Name: AhlaaAlk.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24949,7 +25018,7 @@
     sha1: d1bf83a8c0763a0229e7f96a1204c2344dd76db2
     Name: Alkusur.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24972,7 +25041,7 @@
     sha1: 34abc343f2d678df9d9ea1268ef9132547a526da
     Name: Meaning.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24995,7 +25064,7 @@
     sha1: 2844ff2d4cdee59a42e85c869c367354eb2da651
     Name: Almufaki.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -25018,7 +25087,7 @@
     sha1: fd4def0c4c352d97d576cac3be03ab6139d1d1dd
     Name: Treasure.ROM
     Genre: Platform
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25041,7 +25110,7 @@
     sha1: e98dd601ef1773b6f23a4b1f77a7dd55820b196f
     Name: Almusaei.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25064,7 +25133,7 @@
     sha1: 6be1ee2b07dbb3e08fccfe6f1b37adfeb742bd23
     Name: AlHasanA.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25087,7 +25156,7 @@
     sha1: ef051be25daf7339d46d6ad643a04cfce80460c4
     Name: AlHasan.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25110,7 +25179,7 @@
     sha1: 9d65b7ba150c5d65af21191531a2f5cdbf05a7b5
     Name: Amjaduna.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25133,7 +25202,7 @@
     sha1: 7eba01b7a509597e9a82e1d315c45fb1633d3e1e
     Name: BabaSana.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25179,7 +25248,7 @@
     sha1: a1c69bae93eb063a01ef5de71036065576e64335
     Name: Knowledg.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25202,7 +25271,7 @@
     sha1: 0b7f1c39e4b375954fbc470064f0829a050fe1c3
     Name: NumbersW.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25225,7 +25294,7 @@
     sha1: 1831c3dc9476929d94a89ce0c7994eca64c0fb6d
     Name: OurCount.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25248,7 +25317,7 @@
     sha1: 735b365c61b1610c1c4746fef086b35b73ef6561
     Name: OurCounA.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25271,7 +25340,7 @@
     sha1: 4013470a0fe6183ac4e967fade73d9fae71ffdbc
     Name: Physics.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25294,7 +25363,7 @@
     sha1: 8bdf4bca4b3cc792ee9a5acc50e8595accd90345
     Name: Sayidati.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25317,7 +25386,7 @@
     sha1: ee138a69d7bc2bcb2cb386b837464f8985a0942b
     Name: SpcTrip.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25340,7 +25409,7 @@
     sha1: 2200e15dcb7d56f97a5a308dc75fef53fae25e29
     Name: Sinbad.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25363,7 +25432,7 @@
     sha1: 43ae7320aa08cb2bbdf03d56bc77dcd2bfbe3628
     Name: AQSkyWol.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25409,7 +25478,7 @@
     sha1: 30f468f02e43c8fcad8d3c9b90f51f98f33329ea
     Name: ThinkWit.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25432,7 +25501,7 @@
     sha1: bf355b7de4af6367323dd10a159091a233519e26
     Name: ToysBox.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25455,7 +25524,7 @@
     sha1: b13b8a747e8bb1ba875724d1a3fbdcbfcff6594c
     Name: AQWriter.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -25509,7 +25578,7 @@
     sha1: 017d0dac6646331ff4692f2f6b9a513c7a021ce9
     Name: MECompte.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25532,7 +25601,7 @@
     sha1: bfb79527fc1229fd6eafbec797109f22650acd6b
     Name: MEElect.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25555,7 +25624,7 @@
     sha1: 00a926746e9d656642d1eebdfaf517acf7c00d2f
     Name: Databank.ROM
     Genre: 
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25578,7 +25647,7 @@
     sha1: dcfb1e044bf3cfac22077848c0756ea30b5468bc
     Name: MEGeome.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25601,7 +25670,7 @@
     sha1: 299936bc4014e949186e513b05b1cf5c99487a6f
     Name: EngS1-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25624,7 +25693,7 @@
     sha1: c44f8728ce96429bf28ffe20fc2c1ec794592604
     Name: EngS2-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25647,7 +25716,7 @@
     sha1: 058ecd437a1d633972646f883604cca57e79f0a5
     Name: GramP1-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25670,7 +25739,7 @@
     sha1: dfd09b46fc5716b5b2c96c07c03e9df06dc6d635
     Name: GramP1-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25693,7 +25762,7 @@
     sha1: 4269b4e9e6cd863bb233ae82999b13b940ed88df
     Name: GramS1-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25716,7 +25785,7 @@
     sha1: 6ddd87bbaee7b22d1715e6a09cdd91e06e2ad2dc
     Name: MathF1-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25739,7 +25808,7 @@
     sha1: 8b816f328958ba87388aa5a9abbd895f9c48e7ca
     Name: MathS2-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25762,7 +25831,7 @@
     sha1: d5028fedcc9f990357e222b62c5c0fccc22698a6
     Name: MathS2-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25785,7 +25854,7 @@
     sha1: 190a24223d1544f61fa627f4d6e27cde48d64196
     Name: MathT3-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25808,7 +25877,7 @@
     sha1: 36f3efea2f462ef890b4d0c4758092d9fd0d36f5
     Name: MathT3-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25831,7 +25900,7 @@
     sha1: 18b50a5dc9bba07a7bcc9982a21b799289e72859
     Name: Scien1-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25854,7 +25923,7 @@
     sha1: 000a04fceebba105b6fab2ffe9e09d7b521a63af
     Name: Scien2-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25877,7 +25946,7 @@
     sha1: 610c043c147bca0ca1a4bebc6f3cf88ec9def9c8
     Name: Scien2-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25900,7 +25969,7 @@
     sha1: 11adeff026e7223a67709d0bb4264e340e18c920
     Name: Scien2-3.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25923,7 +25992,7 @@
     sha1: ac42d6a4891109690bcd0235decfc701eef754cb
     Name: Scien3-1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25946,7 +26015,7 @@
     sha1: ad72beb1ad8841accbbc91d04caec3f325828231
     Name: Scien3-2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25969,7 +26038,7 @@
     sha1: 3c3707ba58fd287bc7ac4b485ea65cd7132f2464
     Name: MEPeriod.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -25992,7 +26061,7 @@
     sha1: e8ce88ccc904d535a8d7ec3cb48bc684364c1855
     Name: PhysiHBA.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -26015,7 +26084,7 @@
     sha1: f6ddb513448d10fdb19a921ffb8bc43e7388491d
     Name: TheCompu.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -26038,7 +26107,7 @@
     sha1: d2cd548bed4aadd2cacd486481e18fb3568d74b6
     Name: T&JENGLI.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -26061,7 +26130,7 @@
     sha1: 83f35ae22f72544edc345302621563d101a4715a
     Name: T&JMath1.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -26084,7 +26153,7 @@
     sha1: 00d758adee7a07ded4381c823da72ced0eae98c4
     Name: T&JMath2.ROM
     Genre: Educational
-    Language: Arab
+    Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -26336,6 +26405,29 @@
   Folder name: ~/Brazil
 
   Files:
+  - English title: Adventure
+    Original title: Adventure
+    Longname: Adventure (Rutagames).rom
+    sha1: 792e4f8139ad75710296bc3e9a4601fa0c5c9932
+    Name: Adventur.ROM
+    Genre: Dungeon Crawler
+    Language: Portuguese
+    Country: Brazil
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick(s)
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Rutagames ltda
+    Developer: Diogo Patrão
+    Release: 2023
+    Original Dump: Yes
+    Remark: 
+
   - English title: Penguin-Kun Wars
     Original title: Animals Wars
     Longname: Animals Wars - Penguin-Kun Wars (P).rom
@@ -33660,7 +33752,7 @@
 
   - English title: Quinpl
     Original title: クインプル
-    Longname: Quinpl.rom
+    Longname: Quinpl (J).rom
     sha1: c82c6e054313f4c8864e64897baea8b63776020d
     Name: Quinpl.ROM
     Genre: Platform
@@ -33679,11 +33771,11 @@
     Developer: 
     Release: 1988
     Original Dump: 
-    Remark: 
+    Remark: The Rom is over dumped. Real size is 128kB.
 
   - English title: Quinpl
     Original title: クインプル
-    Longname: Quinpl [crash fix].rom
+    Longname: Quinpl (J) [crash fix].rom
     sha1: 33a26e3c43bfc677849d137cfef1aaf281084841
     Name: Quinpl-A.ROM
     Genre: Platform
@@ -33706,7 +33798,7 @@
 
   - English title: Quinpl
     Original title: クインプル
-    Longname: Quinpl (Translated).rom
+    Longname: Quinpl (Translated) [crash fix].rom
     sha1: cec9f58b9ce61ada4baa24611c8353038415d173
     Name: Quinpl-E.ROM
     Genre: Platform
@@ -43206,7 +43298,7 @@
     Player number: 1
     Signature: No
     Publisher: Hudson Soft
-    Developer: Tehkan & Hudson Soft, Enhanced by Victor
+    Developer: Tehkan & Hudson Soft, Enhanced by Victor Martinez
     Release: 1985, 2018-12 for the enhanced version
     Original Dump: 
     Remark: 
@@ -43229,7 +43321,7 @@
     Player number: 1
     Signature: No
     Publisher: Hudson Soft
-    Developer: Tehkan & Hudson Soft, Enhanced by Victor
+    Developer: Tehkan & Hudson Soft, Enhanced by Victor Martinez
     Release: 1985, 2018-12 for the enhanced version
     Original Dump: 
     Remark: 
@@ -43616,7 +43708,7 @@
     Developer: Inufuto
     Release: 2021-10-24
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Aerial
     Original title: AERIAL
@@ -43639,7 +43731,53 @@
     Developer: Inufuto
     Release: 2021-10-24
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 10486 bytes.
+
+  - English title: AntiAir
+    Original title: AntiAir
+    Longname: AntiAir.rom
+    sha1: 85fc3462ea7f15377cc9f3490d4091f89e904464
+    Name: AntiAir.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2024-03-20
+    Original Dump: Yes
+    Remark: File size fixed by filling with FFh.
+
+  - English title: AntiAir
+    Original title: AntiAir
+    Longname: AntiAir [trimmed].rom
+    sha1: 4193a7226ee1a913a86c03fe0b71ef49466ae22e
+    Name: AntiAir Trimmed.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Japan
+    Type: 8kB Rom (4000h-5FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2024-03-20
+    Original Dump: Yes
+    Remark: File size is 7926 bytes.
 
   - English title: Ascend
     Original title: ASCEND
@@ -43662,7 +43800,7 @@
     Developer: Inufuto
     Release: 2022-03-20
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Ascend
     Original title: ASCEND
@@ -43685,7 +43823,7 @@
     Developer: Inufuto
     Release: 2022-03-20
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 9528 bytes.
 
   - English title: Battlot
     Original title: BATTLOT
@@ -43708,7 +43846,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Battlot
     Original title: BATTLOT
@@ -43731,7 +43869,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 9662 bytes.
 
   - English title: Bootskell
     Original title: Bootskell
@@ -43754,7 +43892,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Bootskell
     Original title: Bootskell
@@ -43777,7 +43915,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 9256 bytes.
 
   - English title: Cacorm
     Original title: Cacorm
@@ -43800,7 +43938,7 @@
     Developer: Inufuto
     Release: 2022-07-26
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Cacorm
     Original title: Cacorm
@@ -43823,7 +43961,7 @@
     Developer: Inufuto
     Release: 2022-07-26
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 8357 bytes.
 
   - English title: Cavit
     Original title: CAVIT
@@ -43846,7 +43984,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Cavit
     Original title: CAVIT
@@ -43869,7 +44007,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 9791 bytes.
 
   - English title: Cracky
     Original title: Cracky
@@ -43892,7 +44030,7 @@
     Developer: Inufuto
     Release: 2023-03-12
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Cracky
     Original title: Cracky
@@ -43915,7 +44053,7 @@
     Developer: Inufuto
     Release: 2023-03-12
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 11310 bytes.
 
   - English title: Guntus
     Original title: GUNTUS
@@ -43938,7 +44076,7 @@
     Developer: Inufuto
     Release: 2022-10-03
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Guntus
     Original title: GUNTUS
@@ -43961,7 +44099,53 @@
     Developer: Inufuto
     Release: 2022-10-03
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 11733 bytes.
+
+  - English title: Hopman
+    Original title: HOPMAN
+    Longname: Hopman [trimmed].rom
+    sha1: 74d4d4cf97cc18ac355040ee04a44d50b545f16a
+    Name: Hopman Trimmed.ROM
+    Genre: Platform (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2023-07-19
+    Original Dump: Yes
+    Remark: File size is 9803 bytes.
+
+  - English title: Hopman
+    Original title: HOPMAN
+    Longname: Hopman.rom
+    sha1: ac57d314576bee3b943e1254467742946e3b13be
+    Name: Hopman.ROM
+    Genre: Platform (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2023-07-19
+    Original Dump: Yes
+    Remark: File size fixed by filling with FFh.
 
   - English title: Impetus
     Original title: IMPETUS
@@ -43984,7 +44168,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Impetus
     Original title: IMPETUS
@@ -44007,7 +44191,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 16352 bytes.
 
   - English title: Lift
     Original title: LIFT
@@ -44030,7 +44214,7 @@
     Developer: Inufuto
     Release: 2021-12-25
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Lift
     Original title: LIFT
@@ -44053,7 +44237,7 @@
     Developer: Inufuto
     Release: 2021-12-25
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 8150 bytes.
 
   - English title: Mazy
     Original title: Mazy
@@ -44076,7 +44260,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Mazy
     Original title: Mazy
@@ -44099,7 +44283,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 6875 bytes.
 
   - English title: Neuras
     Original title: NEURAS
@@ -44122,7 +44306,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Neuras
     Original title: NEURAS
@@ -44145,7 +44329,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 8760 bytes.
 
   - English title: Ruptus
     Original title: RUPTUS
@@ -44168,7 +44352,7 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: No
-    Remark: 
+    Remark: File size fixed by filling with FFh.
 
   - English title: Ruptus
     Original title: RUPTUS
@@ -44191,7 +44375,53 @@
     Developer: Inufuto
     Release: 2021-10-10
     Original Dump: Yes
-    Remark: 
+    Remark: File size is 8760 bytes.
+
+  - English title: Yewdow
+    Original title: Yewdow
+    Longname: Yewdow.rom
+    sha1: 934bec64a08004286a81f228714b44803d74f33e
+    Name: Yewdow.ROM
+    Genre: Action, puzzle
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2023-11-11
+    Original Dump: Yes
+    Remark: File size fixed by filling with FFh.
+
+  - English title: Yewdow
+    Original title: Yewdow
+    Longname: Yewdow [trimmed].rom
+    sha1: 1ecd56a923d062cd5e1199c3a6221603925c92d3
+    Name: Yewdow Trimmed.ROM
+    Genre: Action, puzzle
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2023-11-11
+    Original Dump: Yes
+    Remark: File size is 8927 bytes.
 
 #
 ## Game Roms from Japan: Irem ##
@@ -44889,7 +45119,7 @@
     Developer: Irem
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Disk doesn't work.
 
   - English title: Super Lode Runner
     Original title: スーパーロードランナー
@@ -44912,7 +45142,7 @@
     Developer: Irem
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Disk doesn't work.
 
   - English title: Super Lode Runner
     Original title: スーパーロードランナー
@@ -44935,7 +45165,30 @@
     Developer: Irem
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Disk doesn't work.
+
+  - English title: Super Lode Runner
+    Original title: スーパーロードランナー
+    Longname: Super Lode Runner [Konami mapper].rom
+    sha1: a9b3a7a58b6a3efea1bd78a6d097056bad1d76bf
+    Name: SLRunneK.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Floppy disk, Tape
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Irem
+    Developer: Irem
+    Release: 1987
+    Original Dump: No
+    Remark: Version for Konami mapper by bsittler.
 
   - English title: Super Lode Runner
     Original title: スーパーロードランナー
@@ -44981,7 +45234,7 @@
     Developer: Irem
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Disk doesn't work.
 
 #
 ## Game Roms from Japan: Jaleco ##
@@ -46934,7 +47187,7 @@
 
   - English title: Clash Pennant Race 2
     Original title: 激突ペナントレース2
-    Longname: Gekitotsu Pennant Race 2 (Translated by V. Martinez).rom
+    Longname: Gekitotsu Pennant Race 2 (Translated by Victor Martinez).rom
     sha1: dbed87a53c604f7140577d6707ca0fc8490463a6
     Name: Pennan2E.ROM
     Genre: Baseball
@@ -48360,7 +48613,7 @@
 
   - English title: Firebird - The Phoenix
     Original title: 火の鳥 鳳凰編
-    Longname: Hi no Tori (Firebird) Hououhen (Translated by 232 & Bifi) [SCC version by V. Martinez].rom
+    Longname: Hi no Tori (Firebird) Hououhen (Translated by 232 & Bifi) [SCC version by Victor Martinez].rom
     sha1: 6b9263e6c5047b70d2c6e6ad896262aae73a3447
     Name: HinSCCVM.ROM
     Genre: Shoot'em up (vertical scrolling)
@@ -53750,7 +54003,7 @@
 
   - English title: Nemesis
     Original title: グラディウス
-    Longname: Gradius - Nemesis [SCC] [Enhanced by V. Martinez] [JoySNES].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Victor Martinez] [JoySNES].rom
     sha1: a3dc972f94ae5ed94f1b5c66d723ab46dad5dca1
     Name: GrSCCVJS.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -84606,7 +84859,7 @@
     Longname: Yahtzee.rom
     sha1: 720054d7ab4da46db8c9fb47d17fb7e0aa79d25b
     Name: Txupinaz.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Netherlands
     Type: 16kB Rom (4000h-7FFFh)
@@ -85363,7 +85616,7 @@
     Longname: DAQ Lord of Idar.rom
     sha1: 9be7612db1f968455dcd0b115239efcb91474e91
     Name: DAQ-LOI.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Netherlands
     Type: 32kB Rom (4000h-BFFFh)
@@ -85386,7 +85639,7 @@
     Longname: DAQ Lord of Idar [Flashrom version].rom
     sha1: 053c7ff78dce7c3b24250f64ca6b139182e14844
     Name: DAQLOIFV.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Netherlands
     Type: 32kB Rom (4000h-BFFFh)
@@ -88454,7 +88707,7 @@
     Longname: Anchors Aweigh [v1.0] (Manuel Martinez Torres).rom
     sha1: 660af63d866caab0c99f8ce1128726f872b52f55
     Name: Ancho100.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: Catalan, Dutch, English, Spanish
     Country: Spain
     Type: 168kB Rom with KonamiSCC mapper
@@ -88477,7 +88730,7 @@
     Longname: Anchors Aweigh [v1.1] (Manuel Martinez Torres).rom
     sha1: 0522be9b9d0aea9b40b1aa7a1d331099a68ccd07
     Name: Ancho110.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Spain
     Type: 168kB Rom with KonamiSCC mapper
@@ -88500,7 +88753,7 @@
     Longname: Anchors Aweigh [v1.2] (Manuel Martinez Torres).rom
     sha1: c866ac07ffb80d086965be243866e13866262837
     Name: Ancho120.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: Spain
     Type: 168kB Rom with KonamiSCC mapper
@@ -88861,7 +89114,7 @@
     Developer: Fabf
     Release: 2020
     Original Dump: No
-    Remark: Original ROM trimmed
+    Remark: Size fixed because original rom is doubled.
 
   - English title: Find It!
     Original title: Find It!
@@ -88907,7 +89160,7 @@
     Developer: Fabf
     Release: 2020
     Original Dump: No
-    Remark: Original ROM trimmed
+    Remark: Size fixed because original rom is doubled.
 
   - English title: Freedom Fighter
     Original title: Freedom Fighter
@@ -92232,7 +92485,7 @@
     Country: Netherlands
     Type: 48kB Rom (0000h-BFFFh)
     Machine: MSX1
-    RAM: 32kB
+    RAM: 32kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / Keyboard and joystick
@@ -92778,8 +93031,8 @@
 ## Game Roms from MSXdev: 2024 ##
 #
 
-- Folder longname: ~/Roms from MSXdev/2023
-  Folder name: ~/MSXdev/2023
+- Folder longname: ~/Roms from MSXdev/2024
+  Folder name: ~/MSXdev/2024
 
   Files:
   - English title: AlienMSX
@@ -92874,6 +93127,52 @@
     Original Dump: Yes
     Remark: Version 1.3 for MSX at 60Hz
 
+  - English title: Grazers
+    Original title: Grazers
+    Longname: Grazers [v1.0].rom
+    sha1: 87703e78be1510816de95540ab8fa43ca6a0ff6a
+    Name: Grazer10.ROM
+    Genre: Grass defender
+    Language: English
+    Country: Latvia
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Artūrs Grebstelis
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Grazers
+    Original title: Grazers
+    Longname: Grazers [v1.1].rom
+    sha1: dd85707d39229f6ec5d61e503e93fd2ee14246a8
+    Name: Grazer11.ROM
+    Genre: Grass defender
+    Language: English
+    Country: Latvia
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Artūrs Grebstelis
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
   - English title: Princess Paloma's Rescue
     Original title: Princess Paloma's Rescue
     Longname: Princess Paloma's Rescue [v1.0].rom
@@ -92919,6 +93218,121 @@
     Release: 2024
     Original Dump: Yes
     Remark: Version 1.0
+
+  - English title: Puzzle Mania
+    Original title: Puzzle Mania
+    Longname: Puzzle Mania [v1.2].rom
+    sha1: 90996fd3b1481b62cd6bb854b90ed456b8268914
+    Name: PuzzMa12.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard
+    Sound: MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fony
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.2
+
+  - English title: Sam.Pr
+    Original title: Sam.Pr
+    Longname: Sam.Pr [v1.0].rom
+    sha1: 433be0ae304579fa22f17b30455cf5d67a48e7e1
+    Name: Sam-Pr.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Antonio Perez
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Sam.Pr
+    Original title: Sam.Pr
+    Longname: Sam.Pr [v1.1].rom
+    sha1: 6a88e58e967a0fbd505c152ac2ad26350321e8d4
+    Name: Sam-Pr.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Antonio Perez
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Whack 'Em Smack 'Em Byrons
+    Original title: Whack 'Em Smack 'Em Byrons
+    Longname: Whack 'Em Smack 'Em Byrons.rom
+    sha1: f8e098c6cdb6ea7125d8d7958475335f4f701676
+    Name: WESEB.ROM
+    Genre: Arcade
+    Language: English
+    Country: Undisclosed
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: JessCreations (ArugulaZ)
+    Release: 2024
+    Original Dump: Yes
+    Remark: Rom trimmed. File size is 30343 Byte.
+
+  - English title: Whack 'Em Smack 'Em Byrons
+    Original title: Whack 'Em Smack 'Em Byrons
+    Longname: Whack 'Em Smack 'Em Byrons [size fix].rom
+    sha1: f8e098c6cdb6ea7125d8d7958475335f4f701676
+    Name: WESEB-SF.ROM
+    Genre: Arcade
+    Language: English
+    Country: Undisclosed
+    Type: 32kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: JessCreations (ArugulaZ)
+    Release: 2024
+    Original Dump: No
+    Remark: Size fixed because original rom is trimmed.
 
 ##
 ### Game Roms from Netherlands ###
@@ -95376,6 +95790,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Westen House Ex
+    Original title: Westen House Ex
+    Longname: Westen House Ex (E-S).rom
+    sha1: 96340fe1668903f9971533d73040a081dc177454
+    Name: WHouseEx.ROM
+    Genre: Adventure
+    Language: English / Spanish
+    Country: Spain
+    Type: 128kB Rom with Konami mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Brain Games (Santiago Ontañón)
+    Developer: Brain Games (Santiago Ontañón)
+    Release: 2022
+    Original Dump: Yes
+    Remark: 
+
 #
 ## Game Roms from Spain or Mexico: César Rincón ##
 #
@@ -95564,6 +96001,29 @@
   Folder name: ~/Spain/FX
 
   Files:
+  - English title: Aleste Collection
+    Original title: Aleste Collection
+    Longname: Aleste Collection.rom
+    sha1: fdcf01da8b91108517c614fdc6a040f28b223f29
+    Name: AlestCol.ROM
+    Genre: Shoot'em-up (vertical scrolling)
+    Language: English
+    Country: Spain
+    Type: 1024kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: FX Software
+    Developer: FX Software
+    Release: 2018
+    Original Dump: Yes
+    Remark: Contains Aleste, Aleste 2 and Aleste Gaiden
+
   - English title: Bat Man MSX2 remake
     Original title: Bat Man MSX2 remake
     Longname: Bat Man MSX2 remake (E-S) [FlashRom & external PSG].rom
@@ -97523,7 +97983,7 @@
     Remark: 
 
 #
-## Game Roms from Spain or Mexico: Microbyte ##
+## Game Roms from Spain, Argentina or Mexico: Microbyte ##
 #
 
 - Folder longname: ~/Roms from Spain or Mexico/Microbyte
@@ -98389,6 +98849,52 @@
   Folder name: ~/Spain/Paxanga
 
   Files:
+  - English title: Godzilla Balls
+    Original title: Godzilla Balls
+    Longname: Godzilla Balls.rom
+    sha1: f7ba1200c9539f3953e8d0e8245e9ae35ef997be
+    Name: GBalls.ROM
+    Genre: Action
+    Language: English
+    Country: Spain
+    Type: 64kB Rom (0000h-FFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Paxanga Soft
+    Developer: Paxanga Soft
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
+  - English title: Godzilla Balls
+    Original title: Godzilla Balls
+    Longname: Godzilla Balls [2024-04-05].rom
+    sha1: f7ba1200c9539f3953e8d0e8245e9ae35ef997be
+    Name: GBallsR2.ROM
+    Genre: Action
+    Language: English
+    Country: Spain
+    Type: 64kB Rom (0000h-FFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Paxanga Soft
+    Developer: Paxanga Soft
+    Release: 2024-04-05
+    Original Dump: Yes
+    Remark: 
+
   - English title: Pengo Free Version
     Original title: Pengo Free Version
     Longname: Pengo Free Version.rom
@@ -107168,6 +107674,29 @@
     Developer: Xortrapa Soft
     Release: 1989 (tape)
     Original Dump: No
+    Remark: Doesn't work on MSX turbo R.
+
+  - English title: Alien Syndrome
+    Original title: Alien Syndrome
+    Longname: Alien Syndrome (S) [MSX support fix].rom
+    sha1: 5e63e5fe0fc8a0b7c5225c7c79f3c0cbb4f0b447
+    Name: AlienSyF.ROM
+    Genre: Shoot'em up (multidirectional scrolling)
+    Language: Spanish
+    Country: Spain
+    Type: 64kB Rom
+    Machine: MSX1 (0000h-FFFFh)
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1 or 2 (at the same time)
+    Signature: No
+    Publisher: Dro Soft (tape)
+    Developer: Xortrapa Soft
+    Release: 1989 (tape)
+    Original Dump: No
     Remark: 
 
   - English title: Antares
@@ -109711,6 +110240,29 @@
     Language: Spanish
     Country: Spain
     Type: 64kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: ERBE Software
+    Developer: Topo Soft
+    Release: 1991 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Zona 0
+    Original title: Zona 0
+    Longname: Zona 0 (S) [a].rom
+    sha1: 0cb750a2dd41edf744371cdd9d1c5be2ce5dad5b
+    Name: Zona0-A.ROM
+    Genre: Action (like Tron)
+    Language: Spanish
+    Country: Spain
+    Type: 48kB Rom (0000h-BFFFh)
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
@@ -114363,7 +114915,7 @@
     Developer: The Bytebusters
     Release: 1987 (tape)
     Original Dump: No
-    Remark: 
+    Remark: MSX turbo R recommended
 
   - English title: Indy 500
     Original title: Indy 500
@@ -114802,6 +115354,37 @@
     Release: 1986 (tape)
     Original Dump: No
     Remark: 
+
+#
+## Tape Converted to ROM: Microbyte (Spain) ##
+#
+
+- Folder longname: ~/Tape Converted to ROM/Microbyte (Spain)
+  Folder name: ~/Tape2Rom/Microbyt
+
+  Files:
+  - English title: Galaga
+    Original title: Galaga
+    Longname: Galaga (Microbyte).rom
+    sha1: 0e132fec16af4f386f9fb368ecdc7be00c6e41c2
+    Name: MGalaga.ROM
+    Genre: Shoot'em up (without scrolling)
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Microbyte
+    Developer: Namco
+    Release: 1987 (tape)
+    Original Dump: No
+    Remark: Tape also released in Argentina.
 
 #
 ## Tape Converted to ROM: Mind Games Espania (Spain) ##
@@ -117029,7 +117612,7 @@
     Longname: Cluedo (Leisure Genius).rom
     sha1: 2b3ba1518a5069b76624c4f65b08f863a261ed2d
     Name: Cluedo.ROM
-    Genre: Board
+    Genre: Abstract strategy
     Language: English
     Country: UK
     Type: 64kB Rom with ASCII16 mapper
@@ -117092,6 +117675,29 @@
     Release: 1986 (tape)
     Original Dump: No
     Remark: Italian version of Globi-Blod. (Hacked version?)
+
+  - English title: Doki Doki Penguin Land
+    Original title: Pingüilandia
+    Longname: Doki Doki Penguin Land (Bitgame).rom
+    sha1: 0818f00730aacd2cc83cd76491ce82228026d690
+    Name: BDokiPen.ROM
+    Genre: Platform
+    Language: English
+    Country: Argentina
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Bitgame
+    Developer: 
+    Release: 
+    Original Dump: 
+    Remark: 
 
   - English title: Eggy
     Original title: EGGY
