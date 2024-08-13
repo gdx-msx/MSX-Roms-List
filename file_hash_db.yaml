@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 30-07-2024 by gdx
+    MSX Roms Database version 13-08-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -37901,7 +37901,7 @@
 
   - English title: Volguard
     Original title: ヴォルガード
-    Longname: Volguard [Anti-copy fix].rom
+    Longname: Volguard [copy protection removed].rom
     sha1: b334fe8871771230bd74da02f3c76ac13e4eb1e6
     Name: VolguaPf.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -41368,7 +41368,7 @@
     Genre: Pinball (with scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -41380,8 +41380,8 @@
     Publisher: HAL Laboratory, Toshiba
     Developer: HAL Laboratory
     Release: 1984
-    Original Dump: 
-    Remark: 
+    Original Dump: Yes
+    Remark: Anti-piracy protection.
 
   - English title: Roller Ball
     Original title: ローラーボール
@@ -41391,7 +41391,7 @@
     Genre: Pinball (with scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -41403,8 +41403,8 @@
     Publisher: HAL Laboratory, Toshiba
     Developer: HAL Laboratory
     Release: 1984
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version with copy protection removed.
 
   - English title: Roller Ball
     Original title: ローラーボール
@@ -41414,7 +41414,7 @@
     Genre: Pinball (with scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -41426,8 +41426,8 @@
     Publisher: HAL Laboratory, Toshiba
     Developer: HAL Laboratory
     Release: 1984
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version with copy protection removed.
 
   - English title: Roller Ball
     Original title: ローラーボール
@@ -41437,7 +41437,7 @@
     Genre: Pinball (with scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom (4000h-7FFFh)
+    Type: 16kB Rom (8000h-BFFFh)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -41449,8 +41449,31 @@
     Publisher: HAL Laboratory, Toshiba
     Developer: HAL Laboratory
     Release: 1984
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Version with copy protection removed by Nyyrikki.
+
+  - English title: Roller Ball
+    Original title: ローラーボール
+    Longname: Roller Ball [a4].rom
+    sha1: 3efa39414199be485f0361cae44c63aeaef23681
+    Name: RollrBa4.ROM
+    Genre: Pinball (with scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (8000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: HAL Laboratory, Toshiba
+    Developer: HAL Laboratory
+    Release: 1984
+    Original Dump: No
+    Remark: Version with copy protection removed by Bsittler.
 
   - English title: Space Maze Attack
     Original title: スペースメイズアタック
@@ -56727,9 +56750,9 @@
 
   - English title: Dig Dug
     Original title: ディグダグ
-    Longname: Dig Dug [a3].rom
+    Longname: Dig Dug [Rom size fix].rom
     sha1: b72383222cc7c5bcd0e3b935b5e97af394bc0401
-    Name: DigDugA3.ROM
+    Name: DigDu16K.ROM
     Genre: Action
     Language: English
     Country: Japan
@@ -56745,8 +56768,31 @@
     Publisher: Namcot
     Developer: Namcot
     Release: 1984
-    Original Dump: 
-    Remark: 
+    Original Dump: No
+    Remark: Rom size fixed because only 16KB is used in the original Rom.
+
+  - English title: Dig Dug
+    Original title: ディグダグ
+    Longname: Dig Dug [MSX2 support fix].rom
+    sha1: d0d31b3972bf1ec0af1c0017b8fab0bc1a23bbe9
+    Name: DigDuMsf.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Namcot
+    Developer: Namcot (Fix by an unknow user)
+    Release: 1984
+    Original Dump: No
+    Remark: MSX2 support fix.
 
   - English title: Dig Dug
     Original title: ディグダグ
@@ -58707,6 +58753,29 @@
     Signature: No
     Publisher: Taito (original)
     Developer: Taito Corporation
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: Rastan Saga
+    Original title: RASTAN SAGA
+    Longname: Rastan Saga [MSX-Music].rom
+    sha1: 51955f6abe063e553897a218c221e1dd2017d738
+    Name: RastMM.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG + MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Taito
+    Developer: Taito Corporation (BGM enhancement by Toughkid)
     Release: 1988 (original)
     Original Dump: No
     Remark: 
@@ -62030,7 +62099,7 @@
     Developer: David Crane (Activision)
     Release: 1984
     Original Dump: 
-    Remark: 
+    Remark: Anti-piracy protection.
 
   - English title: Pitfall!
     Original title: ピットフォール
@@ -62705,7 +62774,7 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: Anti-copy protection!
+    Remark: Anti-piracy protection!
 
   - English title: C-So!
     Original title: シーソー
@@ -62728,7 +62797,7 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: Version with anti-copy protection removed.
+    Remark: Version with copy protection removed.
 
   - English title: C-So!
     Original title: シーソー
@@ -62751,7 +62820,7 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: Anti-copy protection!
+    Remark: Anti-piracy protection!
 
   - English title: C-So!
     Original title: シーソー
@@ -62774,7 +62843,7 @@
     Developer: Compile
     Release: 1985
     Original Dump: 
-    Remark: Anti-copy protection!
+    Remark: Anti-piracy protection!
 
   - English title: Challenge Derby
     Original title: チャレンジダービー
@@ -74505,7 +74574,7 @@
     Developer: Eutteum Soft (Best)
     Release: 
     Original Dump: No
-    Remark: Version with anti-copy protection removed.
+    Remark: Version with copy protection removed.
 
   - English title: Tetris
     Original title: 테트리스
@@ -94785,6 +94854,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Cube Droid - Save The Galaxy
+    Original title: Cube Droid - Save The Galaxy
+    Longname: Cube Droid - Save The Galaxy (BitsOfBas).rom
+    sha1: 5d8897b91f02ec8d56a51fd768b307f3a224348f
+    Name: Cubedroi.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Spain
+    Type: 64kB Rom (0000h-BFFFh)
+    Machine: MSX2
+    RAM: 64kB in the same slot
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXGoto40
+    Developer: BitsOfBas
+    Release: 2023-12-09
+    Original Dump: Yes
+    Remark: 
+
   - English title: Cubic Duel
     Original title: Cubic Duel
     Longname: Cubic Duel (Digital Concrete).rom
@@ -94997,7 +95089,7 @@
     Longname: Metal Gear Collection (M. Pazos).rom
     sha1: 04b790b46e9dbd81e09d4f9b10ea34614163a6ab
     Name: MetalGC.ROM
-    Genre: Role playing
+    Genre: Role playing compilation
     Language: English
     Country: France
     Type: 2048kB Flash-Rom with KonamiSCC mapper
@@ -96006,7 +96098,7 @@
     Longname: Aleste Collection.rom
     sha1: fdcf01da8b91108517c614fdc6a040f28b223f29
     Name: AlestCol.ROM
-    Genre: Shoot'em-up (vertical scrolling)
+    Genre: Shoot'em-up (vertical scrolling) compilation
     Language: English
     Country: Spain
     Type: 1024kB Rom with KonamiSCC mapper
@@ -98180,7 +98272,7 @@
     Developer: Maltanto
     Release: 2020
     Original Dump: 
-    Remark: Version with anti-copy protection removed.
+    Remark: Version with copy protection removed.
 
   - English title: Suite Macabre
     Original title: Suite Macabre
@@ -98226,7 +98318,7 @@
     Developer: 
     Release: 
     Original Dump: 
-    Remark: Version with anti-copy protection removed.
+    Remark: Version with copy protection removed.
 
 #
 ## Game Roms from Spain or Mexico: MSX Cartridge Shop ##
@@ -98556,7 +98648,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed. Graphics change depending the MSX generation.
+    Remark: Version with copy protection removed. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -98579,7 +98671,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed by Slotman. Graphics change depending the MSX generation.
+    Remark: Version with copy protection removed by Slotman. Graphics change depending the MSX generation.
 
   - English title: The Goonies 'R' Good Enough
     Original title: The Goonies 'R' Good Enough
@@ -98602,7 +98694,7 @@
     Developer: Kralizec
     Release: 2009
     Original Dump: No
-    Remark: Version with anti-copy protection removed by Slotman. Graphics change depending the MSX generation.
+    Remark: Version with copy protection removed by Slotman. Graphics change depending the MSX generation.
 
   - English title: Who dares wins
     Original title: Who dares wins
@@ -99369,6 +99461,29 @@
     Release: 2021-08-23
     Original Dump: Yes
     Remark: 
+
+  - English title: Ultimate Play The Game
+    Original title: Ultimate Play The Game
+    Longname: Ultimate Play The Game (S).rom
+    sha1: 9318a6883da38992ceff739450569f347ecdf13e
+    Name: UPTG.ROM
+    Genre: Compilation
+    Language: English with some texts in Spanish
+    Country: Spain
+    Type: 2048kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Physical Dreams
+    Developer: Ultimate Play
+    Release: 199x
+    Original Dump: Yes
+    Remark: Rom made with DSK2ROM.
 
   - English title: Vengeance
     Original title: Venganza
@@ -102848,7 +102963,7 @@
     Country: Netherlands
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
-    RAM: 64kB
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -102871,7 +102986,30 @@
     Country: Netherlands
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
-    RAM: 64kB
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Aackosoft
+    Developer: Aackosoft
+    Release: 1986 (tape)
+    Original Dump: No
+    Remark: 
+
+  - English title: Oh Shit!
+    Original title: Oh Shit!
+    Longname: Oh Shit! [turbo mod].rom
+    sha1: b01713293268a5f25c45ea20baba443ff144d419
+    Name: OhShitTM.ROM
+    Genre: Maze (like Pac-Man)
+    Language: English
+    Country: Netherlands
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
     Control: Keyboard / joystick
@@ -115363,6 +115501,29 @@
   Folder name: ~/Tape2Rom/Microbyt
 
   Files:
+  - English title: Antarctic Adventure
+    Original title: Antarctic Adventure
+    Longname: Antarctic Adventure (Microbyte).rom
+    sha1: b7ae14346dcace31fd18a89566b25af85a477365
+    Name: MAntarti.ROM
+    Genre: Action (First person scrolling)
+    Language: English
+    Country: Spain
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / Keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Microbyte
+    Developer: Namco
+    Release: 1986 (tape)
+    Original Dump: No
+    Remark: Tape also released in Argentina.
+
   - English title: Galaga
     Original title: Galaga
     Longname: Galaga (Microbyte).rom
@@ -118932,7 +119093,7 @@
     Developer: HAL Laboratory
     Release: 1988 (tape)
     Original Dump: No
-    Remark: 
+    Remark: Converted by N.G.
 
   - English title: Zaxxon
     Original title: Zaxxon
