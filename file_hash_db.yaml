@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 13-08-2024 by gdx
+    MSX Roms Database version 10-09-2024 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -538,7 +538,7 @@
     Genre: Graphic editor
     Language: English
     Country: 
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -1750,7 +1750,7 @@
     Genre: Word processor
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with ASCII8 mapper
+    Type: 512kB Rom with MSX-Write mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -1773,7 +1773,7 @@
     Genre: Word processor
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with ASCII8 mapper
+    Type: 512kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -13641,6 +13641,52 @@
     Original Dump: No
     Remark: 
 
+  - English title: Spirit Power
+    Original title: SPIRIT POWER
+    Longname: Spirit Power (Disc Station #25).rom
+    sha1: 90fff80cf14ab796844c4bdecc0bc1b191bc2aa3
+    Name: SpiritPw.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Compile (Disc Station #25)
+    Developer: Makottoto
+    Release: 1985 (original)
+    Original Dump: No
+    Remark: Converted by bsittler.
+
+  - English title: Spirit Power
+    Original title: SPIRIT POWER
+    Longname: Spirit Power [trimmed] (Disc Station #25).rom
+    sha1: 99c24a073115402cfc36647b8d39c7fdbb04434a
+    Name: SpiritPT.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Compile (Disc Station #25)
+    Developer: Makottoto
+    Release: 1985 (original)
+    Original Dump: No
+    Remark: Converted by bsittler. File size is 8883 bytes.
+
   - English title: Swing
     Original title: 窓ふき会社のスイングくん
     Longname: Swing.rom
@@ -17531,7 +17577,7 @@
     Genre: Shoot'em up (pseudo 3D scrolling)
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1 with Japanese font
     RAM: 32kB
     VRAM: 16kB
@@ -24664,7 +24710,7 @@
     Longname: Who (A).rom
     sha1: d2c5c19ad327149f029a72e1834b97761e570f02
     Name: Who.ROM
-    Genre: Education
+    Genre: Educational
     Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
@@ -24687,7 +24733,7 @@
     Longname: Who (A) [a].rom
     sha1: b815cb222a6314c1adad0945af7be759a14c200a
     Name: Who-A.ROM
-    Genre: Education
+    Genre: Educational
     Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
@@ -24710,7 +24756,7 @@
     Longname: Window On The World (A).rom
     sha1: e7324782c7bec087105312275043984907cbfe1f
     Name: WindowOn.ROM
-    Genre: Education
+    Genre: Educational
     Language: Arabic
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
@@ -24750,6 +24796,29 @@
     Release: 1985
     Original Dump: 
     Remark: 
+
+  - English title: X & Y
+    Original title: إكس و واي
+    Longname: X & Y (A-E).rom
+    sha1: 92f26bcd265d32fa8b45e9c071462cc8802b6b39
+    Name: X&Y.ROM
+    Genre: Educational
+    Language: Arabic / English
+    Country: Kuwait
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Al Alamiah
+    Developer: Al Alamiah
+    Release: 1987
+    Original Dump: Yes
+    Remark: Require an arabic MSX1 for Arabic.
 
   - English title: Young Artist
     Original title: الفنان الصغير
@@ -27534,7 +27603,7 @@
     Genre: Pairs finding
     Language: English
     Country: Brazil, Portugal
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -28206,7 +28275,7 @@
     Genre: Puzzle
     Language: English
     Country: France
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 64kB in same slot
     VRAM: 16kB
@@ -28229,7 +28298,7 @@
     Genre: Puzzle
     Language: English
     Country: France
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -31304,7 +31373,7 @@
     Genre: Action
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1 with Japanese font
     RAM: 8kB
     VRAM: 16kB
@@ -31626,7 +31695,7 @@
     Genre: Pairs finding
     Language: English
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -31741,7 +31810,7 @@
     Genre: Beach Volley
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1 with Japanese font
     RAM: 8kB
     VRAM: 16kB
@@ -32339,7 +32408,7 @@
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -45567,7 +45636,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 8kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45590,7 +45659,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 256kB Rom with Koei mapper and 8kB SRAM
+    Type: 256kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -45613,7 +45682,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45636,11 +45705,11 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 2kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: 2kB SRAM in the cartridge
+    Data saving: 32kB SRAM in the cartridge
     Control: Keyboard
     Sound: PSG and MSX-Music
     Player number: 1
@@ -45659,11 +45728,11 @@
     Genre: Strategy
     Language: English
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 32kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: 2kB SRAM in the cartridge
+    Data saving: 32kB SRAM in the cartridge
     Control: Keyboard
     Sound: PSG and MSX-Music
     Player number: 1
@@ -45682,7 +45751,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 8kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45705,7 +45774,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 8kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45728,7 +45797,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45751,7 +45820,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45774,7 +45843,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 8kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -45797,7 +45866,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45820,7 +45889,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -45843,7 +45912,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45866,11 +45935,11 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper
+    Type: 1024kB Rom with ASCII8 mapper and 8KB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
-    Data saving: SRAM in the cartridge, PAC SRAM
+    Data saving: 8KB SRAM in the cartridge, PAC SRAM
     Control: Keyboard
     Sound: PSG and MSX-Music
     Player number: 1
@@ -45889,7 +45958,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 256kB Rom with Koei mapper
+    Type: 256kB Rom with ASCII8 mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -45912,7 +45981,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 256kB Rom with Koei mapper
+    Type: 256kB Rom with ASCII8 mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -45958,7 +46027,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 32kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -45981,7 +46050,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 32kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -46004,7 +46073,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 512kB Rom with Koei mapper and 8kB SRAM
+    Type: 512kB Rom with ASCII8 mapper and 8kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -46027,7 +46096,7 @@
     Genre: Strategy
     Language: Japanese
     Country: Japan
-    Type: 1024kB Rom with Koei mapper and 32kB SRAM
+    Type: 1024kB Rom with ASCII8 mapper and 32kB SRAM
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -53765,6 +53834,29 @@
 
   - English title: Penguin Adventure
     Original title: 夢大陸アドベンチャー
+    Longname: Yume Tairiku Adventure - Penguin Adventure (E-J) [KonamiSCC mapper].rom
+    sha1: 439ccc30f503ede763ca18f9cf3b46fa293f679f
+    Name: PengAvSM.ROM
+    Genre: Action (First person scrolling)
+    Language: English / Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
+    Remark: Version modified for the KonamiSCC mapper.
+
+  - English title: Penguin Adventure
+    Original title: 夢大陸アドベンチャー
     Longname: Yume Tairiku Adventure - Penguin Adventure (Translated to Spanish by Locomosxca).rom
     sha1: c0a3afabaff431b0cb3774ecdbd6833040d934b0
     Name: PengAdvS.ROM
@@ -54868,7 +54960,7 @@
     Genre: Shooter
     Language: English
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -54891,7 +54983,7 @@
     Genre: Shooter
     Language: English
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -56789,7 +56881,7 @@
     Player number: 1
     Signature: No
     Publisher: Namcot
-    Developer: Namcot (Fix by an unknow user)
+    Developer: Namcot (Fix by Jam)
     Release: 1984
     Original Dump: No
     Remark: MSX2 support fix.
@@ -68990,7 +69082,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Type: 128kB Rom with ASCII16 mapper
+    Type: 128kB Rom with ASCII16 mapper and 2kB SRAM
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -69013,7 +69105,7 @@
     Genre: Role playing
     Language: Japanese
     Country: Japan
-    Type: 128kB Rom with ASCII16 mapper
+    Type: 128kB Rom with ASCII16 mapper and 2kB SRAM
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -69036,7 +69128,7 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Type: 128kB Rom with ASCII16 mapper
+    Type: 128kB Rom with ASCII16 mapper and 2kB SRAM
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -69059,7 +69151,7 @@
     Genre: Role playing
     Language: English
     Country: Japan
-    Type: 128kB Rom with ASCII16 mapper
+    Type: 128kB Rom with ASCII16 mapper and 2kB SRAM
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -95944,7 +96036,7 @@
     Genre: Maze
     Language: English
     Country: Spain
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -101243,7 +101335,7 @@
     Genre: Shoot'em up (First person scrolling)
     Language: Spanish
     Country: Spain
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -112804,7 +112896,7 @@
     Genre: Education (Morse code)
     Language: Spanish
     Country: Spain
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -113419,7 +113511,7 @@
     Genre: Cards
     Language: Japanese
     Country: Japan
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1 with Japanese font
     RAM: 32kB
     VRAM: 16kB
@@ -122860,6 +122952,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: Fruit Maze
+    Original title: Fruit Maze
+    Longname: Fruit Mazes [v1.2] (Edd Biddulph).rom
+    sha1: 6075c00bf4442425ff8f24facc6805384566374a
+    Name: FruitMaz.ROM
+    Genre: Maze
+    Language: English
+    Country: 
+    Type: 16kB Rom (4000h~7FFFh  without mirror)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Edd Biddulph
+    Developer: Edd Biddulph
+    Release: 2024
+    Original Dump: Yes
+    Remark: 
+
   - English title: Maze Chase
     Original title: Maze Chase
     Longname: Maze Chase (Area 51).rom
@@ -122868,7 +122983,7 @@
     Genre: Maze
     Language: English
     Country: 
-    Type: 16kB Rom without mirror
+    Type: 16kB Rom (8000h~BFFFh without mirror)
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -122973,6 +123088,29 @@
     Developer: 
     Release: 1987
     Original Dump: No
+    Remark: 
+
+  - English title: Pallo
+    Original title: Pallo
+    Longname: Pallo (Edd Biddulph).rom
+    sha1: 2f60c832341319e27a676fd13ea71dbbd2d9b3d3
+    Name: Pallo.ROM
+    Genre: Mini Golf
+    Language: English
+    Country: 
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Edd Biddulph
+    Developer: Edd Biddulph
+    Release: 2024
+    Original Dump: Yes
     Remark: 
 
   - English title: Spellbound
