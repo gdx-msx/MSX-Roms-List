@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 18-09-2024 by gdx
+    MSX Roms Database version 01-04-2025 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -12043,6 +12043,29 @@
     Original Dump: No
     Remark: Disk converted to Rom with DSK2ROM.
 
+  - English title: "Goody"
+    Original title: "Goody"
+    Longname: Goody (Translated) [Enhanced GFX] (Opera Soft).rom
+    sha1: f46d5a3c570b7cc9f4ac2e2d7905b04d4e1085d2
+    Name: Goody.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joysticks
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Opera Soft
+    Developer: Opera Soft
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
   - English title: "Herzog"
     Original title: "Herzog"
     Longname: Herzog (Tecno Soft).rom
@@ -12098,6 +12121,29 @@
     Language: English
     Country: Spain
     Type: 256kB Rom with ASCII16 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Philips Spain
+    Developer: Opera Soft
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Livingstone, I Presume?"
+    Original title: "Livingstone Supongo"
+    Longname: Livingstone Supongo MSX2 [Fix & Loading Screen by JAM] (Opera Soft).rom
+    sha1: dd8929d59e41694d5f84ebbbb039f4e56f17f346
+    Name: LivX2Jam.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 128kB Rom with ASCII8 mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 128kB
@@ -14302,9 +14348,9 @@
     Language: English
     Country: Japan
     Type: 256kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
+    Machine: MSX1 / MSX2
+    RAM: 16kB / 64kB
+    VRAM: 16kB / 128kB
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG and SCC
@@ -14314,7 +14360,7 @@
     Developer: Konami
     Release: 1988 (original)
     Original Dump: No
-    Remark: 
+    Remark: Smooth scrolling on MSX2.
 
   - English title: "Nemesis"
     Original title: "グラディウス"
@@ -46837,7 +46883,7 @@
     Developer: Konami
     Release: 1986 (original), patch in 2016
     Original Dump: No
-    Remark: 
+    Remark: Akumajou Dracula - Vampire Killer modified.
 
   - English title: "Circus Charlie"
     Original title: "サーカスチャーリー"
@@ -47782,6 +47828,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC mapper].rom
+    sha1: 61d277e9f108b05f772a16925faa65f23a3b02ac
+    Name: GradiuSM.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with SCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986
+    Original Dump: No
+    Remark: 
+
   - English title: "Nemesis 2"
     Original title: "グラディウス2"
     Longname: Gradius 2 - Nemesis 2 (E-J).rom
@@ -48176,7 +48245,7 @@
   - English title: "The tile magician"
     Original title: "牌の魔術師"
     Longname: Hai no Majutsushi (The tile magician) (J).rom
-    sha1: 25022c4f5cfc805e93026fd5fda781e9a1807474
+    sha1: d08d4e2a8d92c01551ff012a71a1f3e57fe2d09c
     Name: HMajutsu.ROM
     Genre: Mahjong
     Language: Japanese
@@ -48193,13 +48262,13 @@
     Publisher: Konami
     Developer: Konami
     Release: 1989
-    Original Dump: Yes
+    Original Dump: 
     Remark: 
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
     Longname: Hai no Majutsushi (The tile magician) (J) [a].rom
-    sha1: 3ff54468a5acf1ad44e85bdc993044aaa3165a63
+    sha1: 25022c4f5cfc805e93026fd5fda781e9a1807474
     Name: HMajutsA.ROM
     Genre: Mahjong
     Language: Japanese
@@ -48216,14 +48285,14 @@
     Publisher: Konami
     Developer: Konami
     Release: 1989
-    Original Dump: Yes
+    Original Dump: 
     Remark: 
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [covox-a].rom
-    sha1: e9fc28dfe04fd2eda4872af9012469d695dd7aed
-    Name: HMajuCXA.ROM
+    Longname: Hai no Majutsushi (The tile magician) (J) [ASCII8 mapper & Turbo R PCM].rom
+    sha1: 14403ca71d287084569e6c2f4124d2712c665219
+    Name: HMajA8tR.ROM
     Genre: Mahjong
     Language: Japanese
     Country: Japan
@@ -48233,20 +48302,20 @@
     VRAM: 64kB
     Data saving: Game Master 2 (SRAM)
     Control: Keyboard
-    Sound: PSG and Covox
+    Sound: PSG and its PCM
     Player number: 1
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release: 1989 (original)
-    Original Dump: No
+    Release: 1989
+    Original Dump: 
     Remark: 
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [covox].rom
+    Longname: Hai no Majutsushi (The tile magician) (J) [Konami8 mapper & covox].rom
     sha1: baa6282ff92b66f7cc906429fc94c7e833625f2d
-    Name: HMajutCX.ROM
+    Name: HMajK8CX.ROM
     Genre: Mahjong
     Language: Japanese
     Country: Japan
@@ -48267,9 +48336,9 @@
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [MSX-Audio].rom
-    sha1: 366cf05d2eb1a13770f50b09196202001b35dbe8
-    Name: HMajutXA.ROM
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & covox].rom
+    sha1: e9fc28dfe04fd2eda4872af9012469d695dd7aed
+    Name: HMajKSCX.ROM
     Genre: Mahjong
     Language: Japanese
     Country: Japan
@@ -48279,7 +48348,7 @@
     VRAM: 64kB
     Data saving: Game Master 2 (SRAM)
     Control: Keyboard
-    Sound: PSG and MSX-Audio
+    Sound: PSG and Covox
     Player number: 1
     Signature: No
     Publisher: Konami
@@ -48290,30 +48359,7 @@
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [Music Module].rom
-    sha1: f917dcffe93810594c2c48173812ecc5ea9e9b0e
-    Name: HMajutMM.ROM
-    Genre: Mahjong
-    Language: Japanese
-    Country: Japan
-    Type: 128kB Rom with Konami8 mapper
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 64kB
-    Data saving: Game Master 2 (SRAM)
-    Control: Keyboard
-    Sound: PSG and Music Module
-    Player number: 1
-    Signature: No
-    Publisher: Konami
-    Developer: Konami
-    Release: 1989 (original)
-    Original Dump: No
-    Remark: 
-
-  - English title: "The tile magician"
-    Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [GR8NET DAC].rom
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & GR8NET DAC].rom
     sha1: dffd8367024694f86e6025c0b8f2e9b633055020
     Name: HMajuGR8.ROM
     Genre: Mahjong
@@ -48336,9 +48382,78 @@
 
   - English title: "The tile magician"
     Original title: "牌の魔術師"
-    Longname: Hai no Majutsushi (The tile magician) (J) [Turbo R PCM].rom
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & MSX-Audio].rom
+    sha1: 366cf05d2eb1a13770f50b09196202001b35dbe8
+    Name: HMajKSXA.ROM
+    Genre: Mahjong
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Game Master 2 (SRAM)
+    Control: Keyboard
+    Sound: PSG and MSX-Audio
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1989 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "The tile magician"
+    Original title: "牌の魔術師"
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & Music Module].rom
+    sha1: f917dcffe93810594c2c48173812ecc5ea9e9b0e
+    Name: HMajKSMM.ROM
+    Genre: Mahjong
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Game Master 2 (SRAM)
+    Control: Keyboard
+    Sound: PSG and Music Module
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1989 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "The tile magician"
+    Original title: "牌の魔術師"
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & no digit].rom
+    sha1: 3ff54468a5acf1ad44e85bdc993044aaa3165a63
+    Name: HMajKSND.ROM
+    Genre: Mahjong
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Game Master 2 (SRAM)
+    Control: Keyboard
+    Sound: PSG and Turbo R PCM
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1989 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "The tile magician"
+    Original title: "牌の魔術師"
+    Longname: Hai no Majutsushi (The tile magician) (J) [KonamiSCC mapper & Turbo R PCM].rom
     sha1: 8f98a3a5b1a9da5ac80aec4ee7c474ed9e4144e0
-    Name: HMajuPCM.ROM
+    Name: HMajKStR.ROM
     Genre: Mahjong
     Language: Japanese
     Country: Japan
@@ -54021,7 +54136,7 @@
     Developer: Konami
     Release: 1986 (original)
     Original Dump: No
-    Remark: 
+    Remark: Akumajou Dracula - Vampire Killer modified.
 
   - English title: "Nemesis 3 Eve of Destruction"
     Original title: "ゴーファーの野望 EPISODE II"
@@ -72175,11 +72290,11 @@
 
   - English title: "Genius Rabbian - Great Battle"
     Original title: "天才ラビアン 〜大奮戦〜"
-    Longname: Tensai Rabbian Daifunsen (J).rom
+    Longname: Tensai Rabbian Daifunsen.rom
     sha1: 249da12e2711c643c5e18cf96184d33dbf7e2305
     Name: TRabbian.ROM
     Genre: Platform
-    Language: Japanese
+    Language: English, title in Japanese
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -72193,16 +72308,16 @@
     Publisher: Toshiba Emi
     Developer: Soft Pro International
     Release: 1986
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
 
   - English title: "Genius Rabbian - Great Battle"
     Original title: "天才ラビアン 〜大奮戦〜"
-    Longname: Tensai Rabbian Daifunsen (J) [Dumped by Crack FM].rom
+    Longname: Tensai Rabbian Daifunsen [Dumped by Crack FM].rom
     sha1: 45bd813039977750c9a347952d2e527a4e1674c5
     Name: TRabbiDF.ROM
     Genre: Platform
-    Language: Japanese
+    Language: English, title in Japanese
     Country: Japan
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -72216,7 +72331,53 @@
     Publisher: Toshiba Emi
     Developer: Soft Pro International
     Release: 1986
-    Original Dump: 
+    Original Dump: No
+    Remark: 
+
+  - English title: "Genius Rabbian - Great Battle"
+    Original title: "天才ラビアン 〜大奮戦〜"
+    Longname: Tensai Rabbian Daifunsen [Graphic hack].rom
+    sha1: 940082cd7da0e0b6d54f182c51226dedf6769aea
+    Name: TRabbiGH.ROM
+    Genre: Platform
+    Language: English, title in Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Toshiba Emi
+    Developer: Soft Pro International
+    Release: 1986
+    Original Dump: No
+    Remark: 
+
+  - English title: "Genius Rabbian - Great Battle"
+    Original title: "天才ラビアン 〜大奮戦〜"
+    Longname: Tensai Rabbian Daifunsen [PSG ports fix].rom
+    sha1: 465b66f6583cfaa3b9b83168fbe66fa9000bd3e6
+    Name: TRabbiPf.ROM
+    Genre: Platform
+    Language: English, title in Japanese
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Toshiba Emi
+    Developer: Soft Pro International
+    Release: 1986
+    Original Dump: no
     Remark: 
 
   - English title: "Top Roller"
@@ -86638,7 +86799,7 @@
 
   - English title: "Teodoro Can't Fly"
     Original title: "Teodoro no Sabe Volar"
-    Longname: Teodoro no Sabe Volar (Teodoro Can't Fly) (E).rom
+    Longname: Teodoro no Sabe Volar (E) (Teodoro Can't Fly).rom
     sha1: ae04c82e2ecde28bfcd19dc39b6c4978410aa908
     Name: TeodoroE.ROM
     Genre: Platform
@@ -86661,7 +86822,7 @@
 
   - English title: "Teodoro Can't Fly"
     Original title: "Teodoro no Sabe Volar"
-    Longname: Teodoro no Sabe Volar (Teodoro Can't Fly) (S).rom
+    Longname: Teodoro no Sabe Volar (S) (Teodoro Can't Fly).rom
     sha1: 6e44688cd709dc551fc51b6322f49333c4673dfd
     Name: TeodoroS.ROM
     Genre: Platform
@@ -89507,6 +89668,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: "Litter Box"
+    Original title: "Litter Box"
+    Longname: Litter Box.rom
+    sha1: 53fb28a6e27dc212f4a0b8f3c95e5c75ee7bc087
+    Name: LitterBo.ROM
+    Genre: Maze
+    Language: English
+    Country: 
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Ray2Day
+    Release: 2020
+    Original Dump: Yes
+    Remark: This game doesn't work on cartridge with mirrors.
+
   - English title: "Pacific"
     Original title: "Pacific"
     Longname: Pacific [v1.0.0] (Andre Baptista).rom
@@ -90388,29 +90572,6 @@
     Original Dump: Yes
     Remark: 
 
-  - English title: "Litter Box"
-    Original title: "Litter Box"
-    Longname: Litter Box [v1.0].rom
-    sha1: 53fb28a6e27dc212f4a0b8f3c95e5c75ee7bc087
-    Name: LitterBo.ROM
-    Genre: Maze
-    Language: English
-    Country: 
-    Type: 16kB Rom (4000h-7FFFh)
-    Machine: MSX1
-    RAM: 16kB
-    VRAM: 16kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: MSXdev
-    Developer: Ray2Day
-    Release: 2021
-    Original Dump: Yes
-    Remark: This game doesn't work on cartridge with mirrors.
-
   - English title: "Logic Remastered"
     Original title: "Logic Remastered"
     Longname: Logic Remastered [v1.2].rom
@@ -90503,6 +90664,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: "Market Master"
+    Original title: "Market Master"
+    Longname: Market Master [v1.0].rom
+    sha1: 8df7fd0aa3326c76d24d5d093b1ec6f248b55466
+    Name: Market10.ROM
+    Genre: Strategy
+    Language: English
+    Country: 
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Robosoft
+    Release: 2021-04-23
+    Original Dump: Yes
+    Remark: 
+
   - English title: "Monster On The Run"
     Original title: "Monster On The Run"
     Longname: Monster On The Run [v1.0].rom
@@ -90523,6 +90707,29 @@
     Publisher: MSXdev
     Developer: Neurox66
     Release: 2021
+    Original Dump: Yes
+    Remark: 
+
+  - English title: "No Back Down"
+    Original title: "No Back Down"
+    Longname: No Back Down.rom
+    sha1: d47e20d83063cd6bbda8566177a53baff358e5f5
+    Name: NoBackDn.ROM
+    Genre: Action
+    Language: English
+    Country: Netherlands
+    Type: 64kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: SoCal
+    Release: 2021-08-31
     Original Dump: Yes
     Remark: 
 
@@ -93195,6 +93402,29 @@
   Folder name: ~/MSXdev/2024
 
   Files:
+  - English title: "A Great New World"
+    Original title: "A Great New World"
+    Longname: A Great New World.rom
+    sha1: 194703efafe211a3e0b87eb561f610ad1fcda256
+    Name: AGNW.ROM
+    Genre: Action
+    Language: English
+    Country: Denmark, Italy
+    Type: 48kB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Phaze101
+    Release: 2025-01-27
+    Original Dump: Yes
+    Remark: 
+
   - English title: "AlienMSX"
     Original title: "AlienMSX"
     Longname: AlienMSX [v1.1].rom
@@ -93214,9 +93444,9 @@
     Signature: No
     Publisher: MSXdev
     Developer: Rodrigo Siqueira
-    Release: 2024
+    Release: 2024-05-01
     Original Dump: Yes
-    Remark: Version 1.1
+    Remark: Version 1.1. There are also a version 1.0 and 0.99 before the MSXdev versions.
 
   - English title: "AlienMSX"
     Original title: "AlienMSX"
@@ -93237,7 +93467,7 @@
     Signature: No
     Publisher: MSXdev
     Developer: Rodrigo Siqueira
-    Release: 2024
+    Release: 2024-05-08
     Original Dump: Yes
     Remark: Version 1.2
 
@@ -93260,7 +93490,7 @@
     Signature: No
     Publisher: MSXdev
     Developer: Rodrigo Siqueira
-    Release: 2024
+    Release: 2024-05-19
     Original Dump: Yes
     Remark: Version 1.3 for MSX at 50Hz
 
@@ -93287,6 +93517,52 @@
     Original Dump: Yes
     Remark: Version 1.3 for MSX at 60Hz
 
+  - English title: "Binary Battle"
+    Original title: "Binary Battle"
+    Longname: Binary Battle.rom
+    sha1: a88d2ab90d54c6ff33ef925c4bf49fd0ec8117ac
+    Name: BinaryBa.ROM
+    Genre: Dungeon Crawler
+    Language: English
+    Country: Portugese
+    Type: 32kB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Haplo
+    Release: 2025-01-17
+    Original Dump: Yes
+    Remark: 
+
+  - English title: "Doomlings"
+    Original title: "Doomlings"
+    Longname: Doomlings.rom
+    sha1: 7a7cc862c53807e97111a2121e545b1f5e05dd85
+    Name: Doomling.ROM
+    Genre: Action, Puzzle (Lemmings like)
+    Language: English
+    Country: Sweden
+    Type: 256kB Rom with ASCII16 mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Totta
+    Release: 2025-02-03
+    Original Dump: Yes
+    Remark: 
+
   - English title: "Grazers"
     Original title: "Grazers"
     Longname: Grazers [v1.0].rom
@@ -93306,9 +93582,9 @@
     Signature: No
     Publisher: MSXdev
     Developer: Artūrs Grebstelis
-    Release: 2024
+    Release: 2024-07-16
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "Grazers"
     Original title: "Grazers"
@@ -93329,9 +93605,32 @@
     Signature: No
     Publisher: MSXdev
     Developer: Artūrs Grebstelis
-    Release: 2024
+    Release: 2024-07-24
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.1
+
+  - English title: "Grazers"
+    Original title: "Grazers"
+    Longname: Grazers [v1.2].rom
+    sha1: dd85707d39229f6ec5d61e503e93fd2ee14246a8
+    Name: Grazer12.ROM
+    Genre: Grass defender
+    Language: English
+    Country: Latvia
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Artūrs Grebstelis
+    Release: 2024-08-08
+    Original Dump: Yes
+    Remark: Version 1.2
 
   - English title: "Princess Paloma's Rescue"
     Original title: "Princess Paloma's Rescue"
@@ -102658,7 +102957,7 @@
     Sound: PSG
     Player number: 1 or 2
     Signature: No
-    Publisher: ?
+    Publisher: 
     Developer: Converted by Bsittler.
     Release: 
     Original Dump: No
@@ -102750,7 +103049,7 @@
     Sound: PSG
     Player number: 1 or 2
     Signature: No
-    Publisher: ?
+    Publisher: 
     Developer: Converted by Bsittler.
     Release: 
     Original Dump: No
@@ -123634,6 +123933,144 @@
   Folder name: ~/Devices/Panasoft
 
   Files:
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v1.8.0].rom
+    sha1: 11bd12a95142185d18659ccf74748fc1bb20c60d
+    Name: BEER180.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: SOLIDSOFT
+    Developer: SOLIDSOFT
+    Release: 1995
+    Original Dump: Yes
+    Remark: Doesn't work with MSX-DOS2.
+
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v1.8.0-a].rom
+    sha1: 9dd75bfd0d1f63be84f10076c32d6cea1b724b00
+    Name: BEER180a.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: SOLIDSOFT
+    Developer: SOLIDSOFT
+    Release: 1995
+    Original Dump: Yes
+    Remark: Doesn't work with MSX-DOS2.
+
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v1.9.0].rom
+    sha1: 5a14ac0a1cce3ceebdcd66c42b2d5c975d45b755
+    Name: BEER190.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: SOLIDSOFT
+    Developer: SOLIDSOFT
+    Release: 1995
+    Original Dump: Yes
+    Remark: Doesn't work with MSX-DOS2.
+
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v2.0.2].rom
+    sha1: c91b2dd1546ae9329c64584e5c7cb33a77064f28
+    Name: BEER202.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: b3rendsh
+    Developer: SOLIDSOFT and b3rendsh
+    Release: 2024-03-19
+    Original Dump: 
+    Remark: DEFAULT DPB patch in the beer 2.0 driver for improved compatibility.
+
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v2.0.3].rom
+    sha1: f5ed61b3428070b79edd3926715cbc8c8b0fee17
+    Name: BEER203.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: b3rendsh
+    Developer: SOLIDSOFT and b3rendsh
+    Release: 2024-03-19
+    Original Dump: 
+    Remark: Dynamic drive assignment and use bios to check select key pressed. Resolves phantom drive access issue.
+
+  - English title: "Beer IDE ROM"
+    Original title: "Beer IDE ROM"
+    Longname: Beer Disk-ROM [v2.0.4].rom
+    sha1: c8b92b914b7190b397ee5f19efe47152a635ebc8
+    Name: BEER204.ROM
+    Genre: Disk-ROM
+    Language: Japanese
+    Country: Japan
+    Type: 16kB Rom (4000h~7FFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: None
+    Signature: No
+    Publisher: b3rendsh
+    Developer: SOLIDSOFT and b3rendsh
+    Release: 2024-09-29
+    Original Dump: 
+    Remark: BEER IDE low level DSKIO now compliant with OKEI's FAT16 / Nextor method for 23-bit sector number parameter.
+
   - English title: "FM Pana Amusement Cartridge"
     Original title: "FM Pana Amusement Cartridge"
     Longname: FM Pana Amusement Cartridge (J).rom
@@ -123807,7 +124244,7 @@
     Original title: "Japanese Main-Rom"
     Longname: Japanese_bios1.rom
     sha1: 302afb5d8be26c758309ca3df611ae69cced2821
-    Name: JP_bios.ROM
+    Name: bios1-J.ROM
     Genre: Main-Rom for MSX1
     Language: Japanese
     Country: Japan
@@ -123824,7 +124261,7 @@
     Developer: ASCII, Microsoft
     Release: 1983
     Original Dump: Yes
-    Remark: "Used in following Japanese MSX1s: Canon V-10, Canon V-20, Casio MX-10, Casio PV-16, Casio PV-7, Fujitsu FM-X, General PCT-50, General PCT-55, Hitachi MB-H1, Hitachi MB-H2, Hitachi MB-H50, Mitsubishi ML-8000, Mitsubishi ML-F110, Mitsubishi ML-F120, National CF-2000, Pioneer PX-7, Pioneer PX-V60, Sanyo MPC-3, Sanyo MPC-6, Sanyo MPC-10, Sanyo MPC-10mkII, Sanyo PHC-30N, Sony HB-101, Sony HB-10, Sony HB-75, Sony HB-101, Sony HB-201, Sony HB-701, Sony HB-701FD, Toshiba HX-10D, Toshiba HX-22, Victor HC-7, Victor HC-30, Yamaha CX5F, Yamaha CX11 and Yamaha YIS-503."
+    Remark: "Used in following Japanese MSX1s: Canon V-10, Canon V-20, Casio MX-10, Casio MX-101, Casio PV-16, Casio PV-7, Fujitsu FM-X, General PCT-50, General PCT-55, Hitachi MB-H1, Hitachi MB-H2, Hitachi MB-H50, Mitsubishi ML-8000, Mitsubishi ML-F110, Mitsubishi ML-F120, National CF-2000, Pioneer PX-7, Pioneer PX-V60, Sanyo MPC-3, Sanyo MPC-6, Sanyo MPC-10, Sanyo MPC-10mkII, Sanyo PHC-30N, Sony HB-101, Sony HB-10, Sony HB-75, Sony HB-101, Sony HB-201, Sony HB-701, Sony HB-701FD, Toshiba HX-10D, Toshiba HX-22, Victor HC-7, Victor HC-30, Yamaha CX5F, Yamaha CX11 and Yamaha YIS-503."
 
   - English title: "Japanese Main-Rom"
     Original title: "Japanese Main-Rom"
@@ -123848,6 +124285,29 @@
     Release: 1983
     Original Dump: Yes
     Remark: "Used in following Japanese MSX2s: Canon V-25, Canon V-30F, Hitachi MB-H3, National FS-4500, National FS-4600F, National FS-4700F, Panasonic FS-A1, Panasonic FS-A1FM, Panasonic FS-A1MK2, Sanyo MPC-25FD, Sanyo MPC-25FS, Sanyo MPC-25FS, Sony HB-F1, Sony HB-F1II, Sony HB-F5, Sony HB-F500 (v1 & v2), Sony HB-F900, Toshiba HX-23, Toshiba HX-23F, Victor HC-80, Victor HC-90 series, Victor HC-95 series, Yamaha CX7-128, Yamaha CX7M-128 and Yamaha YIS-604/128"
+
+  - English title: "Japanese Main-Rom"
+    Original title: "Japanese Main-Rom"
+    Longname: Japanese_bios0.rom
+    sha1: 5f8cf3b01c5c8a91503949482024b94585bfd26d
+    Name: bios0-J.ROM
+    Genre: Main-Rom for MSX1
+    Language: Japanese
+    Country: Japan
+    Type: 32kB Rom (0000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: None
+    Player number: 
+    Signature: No
+    Publisher: ASCII
+    Developer: ASCII, Microsoft
+    Release: 1983
+    Original Dump: Yes
+    Remark: Used in the MSX0.
 
   - English title: "Japanese Sub-Rom"
     Original title: "Japanese Sub-Rom"
@@ -123939,7 +124399,7 @@
     Developer: Al Alamiah & ASCII
     Release: 
     Original Dump: Yes
-    Remark:  Uses the Toshiba V9938 (VDP) and the Yamaha S3527 (MSX engine). Keyboard layout is QWERTY
+    Remark:  Uses the Toshiba V9938 (VDP) and the Yamaha S3527 (MSX engine). Keyboard layout is QWERTY.
 
 ##
 ### Sega SG-1000 Game Roms ###
