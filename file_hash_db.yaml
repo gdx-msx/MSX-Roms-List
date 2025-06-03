@@ -1,7 +1,7 @@
 ---
 
 - comment: >
-    MSX Roms Database version 01-04-2025 by gdx
+    MSX Roms Database version 03-06-2025 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
@@ -1593,7 +1593,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Disk, tape
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -1616,7 +1616,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Disk, tape
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -1639,7 +1639,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Disk, tape
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -1662,7 +1662,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Disk, tape
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -1685,7 +1685,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: Disk, tape
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -1708,7 +1708,7 @@
     Machine: MSX2
     RAM: 128kB
     VRAM: 64kB
-    Data saving: Disk
+    Data saving: Floppy disk
     Control: Keyboard
     Sound: PSG
     Player number: None
@@ -2100,7 +2100,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: ShinSeSizer's PCM
     Player number: None
@@ -2123,7 +2123,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: ShinSeSizer's PCM
     Player number: None
@@ -2146,7 +2146,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: Covox
     Player number: None
@@ -2169,7 +2169,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: Covox
     Player number: None
@@ -2192,7 +2192,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: MSX-Audio
     Player number: None
@@ -2215,7 +2215,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: Music Module
     Player number: None
@@ -2238,7 +2238,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: Music Module
     Player number: None
@@ -2261,7 +2261,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: None
+    Data saving: Floppy disk, tape
     Control: Keyboard
     Sound: turbo R PCM
     Player number: None
@@ -12273,6 +12273,29 @@
     Original Dump: No
     Remark: 
 
+  - English title: "Undeadline"
+    Original title: "アンデッドライン"
+    Longname: Undeadline (T&ESoft) [KonamiSCC mapper].rom
+    sha1: 46c3315755fe866a8a82b0685e47b835482fe007
+    Name: UndeadKS.ROM
+    Genre: Shoot'em up (vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB with memory mapper
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music when present
+    Player number: 1
+    Signature: No
+    Publisher: T&E Soft
+    Developer: T&E Soft
+    Release: 1989
+    Original Dump: No
+    Remark: 
+
   - English title: "Uwol - Quest For Money"
     Original title: "Uwol - Quest For Money"
     Longname: Uwol Quest For Money [CTRL] (Imanok).rom
@@ -12352,9 +12375,9 @@
   Files:
   - English title: "Aleste 2"
     Original title: "Aleste 2"
-    Longname: Aleste 2 (Jose Angel Morente).rom
+    Longname: Aleste 2 [converted by Jose Angel Morente].rom
     sha1: df29d62a536ebaaf7a101478574ff3cc44833cd4
-    Name: Alest2v6.ROM
+    Name: Ales2JAM.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
     Language: English
     Country: Japan
@@ -12375,7 +12398,7 @@
 
   - English title: "Aleste 2"
     Original title: "Aleste 2"
-    Longname: Aleste 2 [v6] (Ricbit).rom
+    Longname: Aleste 2 [v6 by Ricbit].rom
     sha1: 075eaf508e5d8b4131453bf9c452cfd28f34389e
     Name: Alest2v6.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -12398,7 +12421,7 @@
 
   - English title: "Aleste 2"
     Original title: "Aleste 2"
-    Longname: Aleste 2 [v7] (Ricbit).rom
+    Longname: Aleste 2 [v7 by Ricbit].rom
     sha1: a099892e8fefa98425b515d4ef2706f647610aaf
     Name: Alest2v7.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -12421,7 +12444,7 @@
 
   - English title: "Aleste 2"
     Original title: "Aleste 2"
-    Longname: Aleste 2 [v8] (Ricbit).rom
+    Longname: Aleste 2 [v8 by Ricbit].rom
     sha1: e93d0840c59c6eba273df546d22148d486a150a6
     Name: Alest2v8.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -12444,7 +12467,7 @@
 
   - English title: "Aleste 2"
     Original title: "Aleste 2"
-    Longname: Aleste 2 [v8-SCCp] (Ricbit).rom
+    Longname: Aleste 2 [v8 SCCp by Ricbit].rom
     sha1: 3862d8b5d49ef8a7d38e5c91b16a1317506d6264
     Name: Ales2v8p.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -12676,7 +12699,7 @@
 ## FDD Games Converted to ROM: Kotai (Spain) ##
 #
 
-- Folder longname: ~/FDD Games Converted to ROM/Kotai (Spain)
+- Folder longname: ~/FDD Games Converted to ROM/Kotai [ES]
   Folder name: ~/FDD2Rom/Kotai
 
   Files:
@@ -12753,7 +12776,7 @@
 ## FDD Games Converted to ROM: N.I (Japan) ##
 #
 
-- Folder longname: ~/FDD Games Converted to ROM/N.I (Japan)
+- Folder longname: ~/FDD Games Converted to ROM/N.I [JP]
   Folder name: ~/FDD2Rom/NI
 
   Files:
@@ -17227,11 +17250,34 @@
     Original title: "SHM"
     Longname: SHM [Konami8 mapper].rom
     sha1: c74325fbeaa7293b46766c99a2dd8bd57db3a7e9
-    Name: SHM-K4.ROM
+    Name: SHM-K8.ROM
     Genre: Action
     Language: English
     Country: Japan
     Type: 64kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Namcot (Namco)
+    Developer: Namcot (Namco)
+    Release: 1990 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "SHM"
+    Original title: "SHM"
+    Longname: SHM [KonamiSCC mapper].rom
+    sha1: 6FBC5A1A358E5F4569922CC4EE81EECF0DD025A2
+    Name: SHM-KS.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 64kB Rom with KonamiSCC mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -17754,10 +17800,10 @@
     Remark: 
 
 ##
-### Games from magazine converted to ROM: MSX-FAN Magazine (JP) ###
+### Games from magazine converted to ROM: MSX-FAN Magazine (Japan) ###
 ##
 
-- Folder longname: ~/Games from magazine converted to ROM/MSX-FAN Magazine (JP)
+- Folder longname: ~/Games from magazine converted to ROM/MSX-FAN Magazine [JP]
   Folder name: ~/Mag2Rom/MSX-FAN
 
   Files:
@@ -17972,7 +18018,7 @@
 ### Games from magazine converted to ROM: Popcom Magazine (JP) ###
 ##
 
-- Folder longname: ~/Games from magazine converted to ROM/Popcom Magazine (JP)
+- Folder longname: ~/Games from magazine converted to ROM/Popcom Magazine [JP]
   Folder name: ~/Mag2Rom/Popcom
 
   Files:
@@ -21974,7 +22020,7 @@
     sha1: 7538fe6f0dfbf72ba7a89d349258afdff547b4c1
     Name: CrossWor.ROM
     Genre: Cross Word
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22112,7 +22158,7 @@
     sha1: b49a41e57ddde304c9706e9b65bbf63733c14c88
     Name: AroundCl.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22135,7 +22181,7 @@
     sha1: fd9eef4ea54e31e9ffb121c079e4b76c990d755c
     Name: AroundCA.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22181,7 +22227,7 @@
     sha1: 254208d7ea2f7cc1035cfe7685238ac3ad17e438
     Name: Boullata.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22273,7 +22319,7 @@
     sha1: ac2475e955e98c5d5816ec60118b424b46c30670
     Name: DBLFace1.ROM
     Genre: Word search puzzles
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22296,7 +22342,7 @@
     sha1: affbe8a1ca3ac62d315d62fa3038e1ecbdd3dac3
     Name: DBLFac1A.ROM
     Genre: Word search puzzles
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22319,7 +22365,7 @@
     sha1: a66fe495cfd443cac9cfd434d95a537e6984dbc6
     Name: DBLFa110.ROM
     Genre: Word search puzzles
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22342,7 +22388,7 @@
     sha1: 08cb8d0a42e1c2a0961aff3ab70262525964b434
     Name: DBLFace2.ROM
     Genre: Word search puzzles
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22365,7 +22411,7 @@
     sha1: 3627431db990b6913606328ae2fb3340452b2797
     Name: DBLFac2A.ROM
     Genre: Word search puzzles
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -22388,7 +22434,7 @@
     sha1: afcc2f649e4001a2a8bb701874ef4a26e224f689
     Name: DBLJaw.ROM
     Genre: Word game
-    Language: Arab / English / Japanese
+    Language: Arabic / English / Japanese
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22411,7 +22457,7 @@
     sha1: 7b89c2d62c3106a87c3375bbc0284d2b5a364cc9
     Name: DBLJMMNS.ROM
     Genre: Word game
-    Language: Arab / English / Japanese
+    Language: Arabic / English / Japanese
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22434,7 +22480,7 @@
     sha1: 94584ca2e89ab0b249cd52f3a356176a03f9e35f
     Name: ElectroA.ROM
     Genre: Educational
-    Language: Arab / English / Japanese
+    Language: Arabic / English / Japanese
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22457,7 +22503,7 @@
     sha1: 1dbe5a8e05fd8ed6a2181271e7423610a259b5b7
     Name: ElectroM.ROM
     Genre: Educational
-    Language: Arab / English / Japanese
+    Language: Arabic / English / Japanese
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22503,7 +22549,7 @@
     sha1: 7758f57e91dd62ddb5c88cdd73dc0fb5ccd4de7f
     Name: EXPRESS.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22526,7 +22572,7 @@
     sha1: a5dc0aa283072f772ee4b9eb93b0966500dd306b
     Name: ExpressA.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22549,7 +22595,7 @@
     sha1: a420f8d7d3631b1c795d182162221b21aaf48f1b
     Name: Faces.ROM
     Genre: Visage editor (like Mr. Potato)
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22641,7 +22687,7 @@
     sha1: f4d4d132866707e7f8a97408b093acabb67ef5aa
     Name: Head&Tai.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22825,7 +22871,7 @@
     sha1: f332df804849c7a12f50dbbdbbb37949716b3671
     Name: IbnSina1.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22848,7 +22894,7 @@
     sha1: c17b78ae95a17a3d3eb4cd00546f15cbbf4c846e
     Name: IbnSIN1A.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22871,7 +22917,7 @@
     sha1: 630db2516b6f6da16882f507e74fb35455552ea4
     Name: IbnSina2.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -22894,7 +22940,7 @@
     sha1: 136506ec295af5b3aa0012cf9cf2405be1cbd712
     Name: IbnSin2A.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -23078,7 +23124,7 @@
     sha1: fea0a6406b22aa67dfbf6985e18dd7a0a6f071a6
     Name: LangNumb.ROM
     Genre: Educational
-    Language: Arab / English / French
+    Language: Arabic / English / French
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -23446,7 +23492,7 @@
     sha1: 7f0037069d75a36f1a73b8f7dd286d33f80be6dd
     Name: Memory.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -23469,7 +23515,7 @@
     sha1: 6523381fa5012b45a69af0e351f239c97afd4be7
     Name: MemoryA.ROM
     Genre: Educational
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -23649,11 +23695,11 @@
 
   - English title: "Number & target"
     Original title: "رقم وهدف"
-    Longname: Number & target (A).rom
+    Longname: Number & target (A-E).rom
     sha1: ce493944b6b57ffa56e7eb09df76e73b65dcb800
     Name: Num&Targ.ROM
     Genre: Strategy (like Pico Pico)
-    Language: Arabic
+    Language: Arabic / English
     Country: Kuwait
     Type: 16kB Rom (4000h-7FFFh)
     Machine: MSX1
@@ -23791,7 +23837,7 @@
     sha1: 5b25d93259a358f2064adc44f6382c91c9394861
     Name: Pict&Wor.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: MSX1
@@ -23860,7 +23906,7 @@
     sha1: 0dfe92b48e99bed4cd879e4026d036f94c826ce8
     Name: ALPuzzle.ROM
     Genre: Puzzle
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -23906,7 +23952,7 @@
     sha1: a2901318f8216ccd2f4d08b0f272e1bf90ab197a
     Name: SakhrLog.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 64kB Rom
     Machine: Arabic MSX1
@@ -23975,7 +24021,7 @@
     sha1: 80b88d19ab17fc101fbc91b5ab46d8eaf0e368f7
     Name: SeaHorsA.ROM
     Genre: Hangman
-    Language: Arab / English
+    Language: Arabic / English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24044,7 +24090,7 @@
     sha1: fdc3cc10b4821ea5169c817fcbd6e99fac464feb
     Name: SecretWo.ROM
     Genre: Educational
-    Language: Arab and English
+    Language: Arabic and English
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: Arabic MSX1
@@ -24228,7 +24274,7 @@
     sha1: a25f9b813c4488c73c5f54055748b4dbb057c2e9
     Name: SpcArith.ROM
     Genre: Educational
-    Language: Arab / English / Japanese
+    Language: Arabic / English / Japanese
     Country: Kuwait
     Type: 32kB Rom (4000h-BFFFh)
     Machine: MSX1
@@ -24573,7 +24619,7 @@
     sha1: ad3d8fc2201a245e352875918e421b42764e4148
     Name: The_Zoo.ROM
     Genre: Educational
-    Language: Arab / English / French
+    Language: Arabic / English / French
     Country: Kuwait
     Type: 128kB Rom with ASCII8 mapper
     Machine: MSX1
@@ -25660,7 +25706,7 @@
 ## Game Roms from Arabic Countries: Methali (Kuwait) ##
 #
 
-- Folder longname: ~/Roms from Arabic Countries/Methali (Kuwait)
+- Folder longname: ~/Roms from Arabic Countries/Methali [KW]
   Folder name: ~/Arabic/Methali
 
   Files:
@@ -33822,7 +33868,7 @@
     Original title: "ファミクルパロディック"
     Longname: Famicle Parodic (J) [Konami8 mapper].rom
     sha1: d39bde46f0ff17e566f9918b825d2cf1e54b0000
-    Name: FamiclK4.ROM
+    Name: FamiclK8.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
     Language: Japanese
     Country: Japan
@@ -33839,7 +33885,30 @@
     Developer: 
     Release: 1988
     Original Dump: No
-    Remark: 
+    Remark: Version modified for Konami8 mapper.
+
+  - English title: "Famicle Parodic"
+    Original title: "ファミクルパロディック"
+    Longname: Famicle Parodic (J) [KonamiSCC mapper].rom
+    sha1: 6e16de0b79086ba15c324d7773ba6858bf0e7452
+    Name: FamiclKS.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: Japanese
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Bit²
+    Developer: 
+    Release: 1988
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Famicle Parodic"
     Original title: "ファミクルパロディック"
@@ -33863,6 +33932,29 @@
     Release: 1988
     Original Dump: No
     Remark: 
+
+  - English title: "Famicle Parodic"
+    Original title: "ファミクルパロディック"
+    Longname: Famicle Parodic (Translated) [KonamiSCC mapper].rom
+    sha1: 6bb539b1e761023011c55063062a0a3bb25d4f76
+    Name: FamicTKS.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: PAC SRAM
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Bit²
+    Developer: 
+    Release: 1988
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Quinpl"
     Original title: "クインプル"
@@ -34196,6 +34288,52 @@
 
   - English title: "Topple Zip"
     Original title: "トップルジップ"
+    Longname: Topple Zip (J) [MSX2-Konami8 mapper].rom
+    sha1: 2300aa82bfcbcf95329eb04e58bcd7e4ca0a7889
+    Name: ToppX2K8.ROM
+    Genre: Racing (vertical scrolling)
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Bothtec
+    Developer: Bothtec
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: "Topple Zip"
+    Original title: "トップルジップ"
+    Longname: Topple Zip (J) [MSX2-KonamiSCC mapper].rom
+    sha1: 75C4C280606DFC59146354C76EA3760C98585080
+    Name: ToppX2KS.ROM
+    Genre: Racing (vertical scrolling)
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Bothtec
+    Developer: Bothtec
+    Release: 1987
+    Original Dump: 
+    Remark: 
+
+  - English title: "Topple Zip"
+    Original title: "トップルジップ"
     Longname: Topple Zip (J) [MSX2-PSG ports fix].rom
     sha1: 4bd313fe13f8630406ef0f2346f36862c5421c02
     Name: ToppX2Pf.ROM
@@ -34215,29 +34353,6 @@
     Developer: Bothtec
     Release: 1987
     Original Dump: No
-    Remark: 
-
-  - English title: "Topple Zip"
-    Original title: "トップルジップ"
-    Longname: Topple Zip (J) [MSX2-Konami8 mapper].rom
-    sha1: 2300aa82bfcbcf95329eb04e58bcd7e4ca0a7889
-    Name: ToppX2K4.ROM
-    Genre: Racing (vertical scrolling)
-    Language: Japanese
-    Country: Japan
-    Type: 128kB Rom with Konami8 mapper
-    Machine: MSX2
-    RAM: 64kB
-    VRAM: 128kB
-    Data saving: None
-    Control: Keyboard / joystick
-    Sound: PSG
-    Player number: 1
-    Signature: No
-    Publisher: Bothtec
-    Developer: Bothtec
-    Release: 1987
-    Original Dump: 
     Remark: 
 
   - English title: "Chima Chima The Monster Detective"
@@ -36904,11 +37019,57 @@
     Original title: "魔王ゴルベリアス"
     Longname: Golvellius (J) [Konami8 mapper].rom
     sha1: 91505fccdcc43230550d101967010bed27f9b573
-    Name: GolvelK4.ROM
+    Name: GolvelK8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Japan
     Type: 144kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Compile
+    Developer: Compile
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Golvellius"
+    Original title: "魔王ゴルベリアス"
+    Longname: Golvellius (J) [KonamiSCC mapper].rom
+    sha1: D0A2B13971937B0C07E84C923AAB16FE3A20F5B6
+    Name: GolvelKS.ROM
+    Genre: Role playing
+    Language: Japanese
+    Country: Japan
+    Type: 144kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Compile
+    Developer: Compile
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Golvellius"
+    Original title: "魔王ゴルベリアス"
+    Longname: Golvellius (J) [KonamiSCC mapper-a].rom
+    sha1: C984D2391CDAC5A7D74601438DB22C391DD835CF
+    Name: GolveKSA.ROM
+    Genre: Role playing
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -38278,7 +38439,7 @@
     Original title: "ドルイド"
     Longname: Druid [Konami8 mapper].rom
     sha1: d0bbf730725806384756f5306ceccd91dc01d975
-    Name: Druid-K4.ROM
+    Name: Druid-K8.ROM
     Genre: Role playing
     Language: English
     Country: Japan
@@ -39000,8 +39161,31 @@
     Publisher: Falcom
     Developer: Falcom
     Release: 1988
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
+
+  - English title: "Dragon Slayer IV - Drasle Family"
+    Original title: "ドラゴンスレイヤーIV ドラスレファミリー"
+    Longname: Dragon Slayer IV Drasle Family [MSX1] (J) [KonamiSCC mapper].rom
+    sha1: 853d0922de5d1610f8c587f600828db30e2d1194
+    Name: DrS4X1KS.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Falcom
+    Developer: Falcom
+    Release: 1988
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Dragon Slayer IV - Drasle Family"
     Original title: "ドラゴンスレイヤーIV ドラスレファミリー"
@@ -39023,8 +39207,31 @@
     Publisher: Falcom
     Developer: Falcom
     Release: 1988
-    Original Dump: 
+    Original Dump: Yes
     Remark: 
+
+  - English title: "Dragon Slayer IV - Drasle Family"
+    Original title: "ドラゴンスレイヤーIV ドラスレファミリー"
+    Longname: Dragon Slayer IV Drasle Family [MSX2] (J) [KonamiSCC mapper].rom
+    sha1: efce914f968d956d6b125438b8724f0bd763c413
+    Name: DrS4X2KS.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Falcom
+    Developer: Falcom
+    Release: 1988
+    Original Dump: 
+    Remark: Version modified for KonamiSCC mapper
 
   - English title: "Dragon Slayer IV - Drasle Family"
     Original title: "ドラゴンスレイヤーIV ドラスレファミリー"
@@ -39598,7 +39805,7 @@
     Original title: "フェアリーランドストーリー"
     Longname: The Fairy Land Story [Konami8 mapper].rom
     sha1: 84566b5f37ab4f04a2e5b950c5beecbd27b88ea0
-    Name: TheFaiK4.ROM
+    Name: TheFaiK8.ROM
     Genre: Platform
     Language: English
     Country: Japan
@@ -39615,7 +39822,30 @@
     Developer: GAmu (Hot-B)
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Version modified for Konami8 mapper.
+
+  - English title: "The Fairy Land Story"
+    Original title: "フェアリーランドストーリー"
+    Longname: The Fairy Land Story [KonamiSCC mapper].rom
+    sha1: 61516ac4afb6b66628b0df0163f14f19e25a2bd2
+    Name: TheFaiKS.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: GAmu (Hot-B)
+    Developer: GAmu (Hot-B)
+    Release: 1987
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
 #
 ## Game Roms from Japan: General (Paxon) ##
@@ -44422,6 +44652,52 @@
     Original Dump: Yes
     Remark: File size is 6875 bytes.
 
+  - English title: "Mazy 2"
+    Original title: "Mazy 2"
+    Longname: Mazy 2.rom
+    sha1: 426ff1d094ce34b4fd0ae52dab88217d7c1eba82
+    Name: Mazy2.ROM
+    Genre: Maze
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2025
+    Original Dump: No
+    Remark: File size fixed by filling with FFh.
+
+  - English title: "Mazy 2"
+    Original title: "Mazy 2"
+    Longname: Mazy 2 [trimmed].rom
+    sha1: 798fdc1439319f278a5fa70c404617a1e60dcc57
+    Name: Mazy2 Trimmed.ROM
+    Genre: Maze
+    Language: English
+    Country: Japan
+    Type: 16kB Rom (4000h-7FFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Inufuto
+    Developer: Inufuto
+    Release: 2025
+    Original Dump: Yes
+    Remark: File size is 9522 bytes.
+
   - English title: "Neuras"
     Original title: "NEURAS"
     Longname: Neuras.rom
@@ -45306,13 +45582,13 @@
 
   - English title: "Super Lode Runner"
     Original title: "スーパーロードランナー"
-    Longname: Super Lode Runner [Konami mapper].rom
+    Longname: Super Lode Runner [Konami8 mapper].rom
     sha1: a9b3a7a58b6a3efea1bd78a6d097056bad1d76bf
     Name: SLRunneK.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Type: 128kB Rom with Konami mapper
+    Type: 128kB Rom with Konami8 mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -45325,7 +45601,7 @@
     Developer: Irem
     Release: 1987
     Original Dump: No
-    Remark: Version for Konami mapper by bsittler.
+    Remark: Version for Konami8 mapper by bsittler.
 
   - English title: "Super Lode Runner"
     Original title: "スーパーロードランナー"
@@ -57050,7 +57326,7 @@
     Original title: "ドラゴンバスター"
     Longname: Dragon Buster [Konami8 mapper].rom
     sha1: 81befaa45ee3f1196b0e1ea657b0161495601a87
-    Name: DBusteK4.ROM
+    Name: DBusteK8.ROM
     Genre: Action
     Language: English
     Country: Japan
@@ -58390,13 +58666,13 @@
 
   - English title: "Bubble Bobble"
     Original title: "Bubble Bobble"
-    Longname: Bubble Bobble [Konami mapper].rom
+    Longname: Bubble Bobble [Konami8 mapper].rom
     sha1: 7b45f887d26876456d2ba1e64c9cfcf48896f2c5
     Name: BubbleKM.ROM
     Genre: Action
     Language: English
     Country: Japan
-    Type: 128kB Rom with Konami mapper
+    Type: 128kB Rom with Konami8 mapper
     Machine: MSX2
     RAM: 64kB
     VRAM: 64kB
@@ -58409,7 +58685,7 @@
     Developer: Taito Corporation
     Release: 1987 (original)
     Original Dump: No
-    Remark: Version modified for Konami mapper
+    Remark: Version modified for Konami8 mapper
 
   - English title: "Bubble Bobble"
     Original title: "Bubble Bobble"
@@ -58944,7 +59220,7 @@
     Original title: "RASTAN SAGA"
     Longname: Rastan Saga [Konami8 mapper].rom
     sha1: b81dd702afaaa5946e4ec065042c891ad2f76c2b
-    Name: RastanK4.ROM
+    Name: RastanK8.ROM
     Genre: Platform
     Language: English
     Country: Japan
@@ -59991,6 +60267,75 @@
     Original Dump: Yes
     Remark: Title means "The one with three eyes goes through".
 
+  - English title: "The Three-Eyed One"
+    Original title: "三つ目がとおる"
+    Longname: Mitsume Ga Tooru - The Three-Eyed One (J) [KonamiSCC mapper].rom
+    sha1: 8c87c95f089743d2680fff8e4fe50f11fe38c9a7
+    Name: MitsumKS.ROM
+    Genre: Role playing
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Natsume
+    Developer: Natsume
+    Release: 1989
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
+
+  - English title: "The Three-Eyed One"
+    Original title: "三つ目がとおる"
+    Longname: Mitsume Ga Tooru - The Three-Eyed One Comes Here (Translated) (Natsume).rom
+    sha1: ada6a3375dbab9c8059b08dd8f87bc8e23397f88
+    Name: MitsumeT.ROM
+    Genre: Role playing
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Natsume
+    Developer: Natsume
+    Release: 1989
+    Original Dump: No
+    Remark: 
+
+  - English title: "The Three-Eyed One"
+    Original title: "三つ目がとおる"
+    Longname: Mitsume Ga Tooru - The Three-Eyed One Comes Here (Translated) (Natsume) [disk save].rom
+    sha1: d67ff59099a2e093d4882d63e5de663e8ef29280
+    Name: MitsuTDS.ROM
+    Genre: Role playing
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with ASCII8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Natsume
+    Developer: Natsume
+    Release: 1989
+    Original Dump: No
+    Remark: 
+
   - English title: "How's business? Not Bad!"
     Original title: "もうかりまっか？ぼちぼちでんなっ！"
     Longname: Mokari Makka Bochibochi Tenna! (J).rom
@@ -60409,7 +60754,7 @@
     Original title: "ゾンビハンター"
     Longname: Zombie Hunter (J) [Konami8 mapper].rom
     sha1: aec3a4d883d1c34b0ba9bf2933e07b7e82207034
-    Name: ZombieK4.ROM
+    Name: ZombieK8.ROM
     Genre: Action
     Language: Japanese
     Country: Japan
@@ -60432,7 +60777,7 @@
     Original title: "ゾンビハンター"
     Longname: Zombie Hunter (J) [Konami8 mapper-a].rom
     sha1: 67fa6e9005d23d9c49f77884a856cfb376194083
-    Name: ZombiAK4.ROM
+    Name: ZombiAK8.ROM
     Genre: Action
     Language: Japanese
     Country: Japan
@@ -60624,7 +60969,7 @@
     Original title: "ラビリンス 魔王の迷宮"
     Longname: Labyrinth Maou no Meikyuu (J) [Konami8 mapper].rom
     sha1: 13c59dd8f7320856b15c834038af3c846db33e4e
-    Name: LabyriK4.ROM
+    Name: LabyriK8.ROM
     Genre: Action
     Language: Japanese
     Country: Japan
@@ -61038,7 +61383,7 @@
     Original title: "ヤングシャーロック ドイルの遺産"
     Longname: Young Sherlock The Legacy of Doyle (J) [Konami8 mapper].rom
     sha1: b6a5552effcee708b665fa74e5ce7b0fa2541c03
-    Name: YoungSK4.ROM
+    Name: YoungSK8.ROM
     Genre: Adventure
     Language: Japanese
     Country: Japan
@@ -61115,7 +61460,7 @@
     Original title: "アシュギーネ 伝説の聖戦士"
     Longname: AshGuine Densetsu no Sensenshi (J) [Konami8 mapper].rom
     sha1: a8eeac428a5992a2390b1827db1358f4c733e200
-    Name: AshGDSK4.ROM
+    Name: AshGDSK8.ROM
     Genre: Platform
     Language: Japanese
     Country: Japan
@@ -61132,7 +61477,30 @@
     Developer: Panasoft (Panasonic)
     Release: 1987 (original)
     Original Dump: No
-    Remark: 
+    Remark: Version modified for Konami8 mapper.
+
+  - English title: "AshGuine - The Legendary Holy Warrior"
+    Original title: "アシュギーネ 伝説の聖戦士"
+    Longname: AshGuine Densetsu no Sensenshi (J) [KonamiSCC mapper].rom
+    sha1: CBE9C7A79C0824888FE5580A76562AC3EF9E4EFB
+    Name: AshGDSKS.ROM
+    Genre: Platform
+    Language: Japanese
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Panasoft
+    Developer: Panasoft (Panasonic)
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "AshGuine - Flame of Vengeance"
     Original title: "アシュギーネ 復讐の炎"
@@ -64412,7 +64780,7 @@
     Original title: "熱血柔道"
     Longname: Nekketsu Juudou (Fighting Judo) (J) [Konami8 mapper].rom
     sha1: 6075cd96bc85864f22c643b023302f006b565049
-    Name: NkJudoK4.ROM
+    Name: NkJudoK8.ROM
     Genre: Judo
     Language: Japanese
     Country: Japan
@@ -64550,7 +64918,7 @@
     Original title: "アウトラン"
     Longname: Out run [Konami8 mapper].rom
     sha1: 6933de9a128e90a34383f3a9b2660d5bae5d9fe3
-    Name: OutRunK4.ROM
+    Name: OutRunK8.ROM
     Genre: Car racing
     Language: English
     Country: Japan
@@ -64567,7 +64935,30 @@
     Developer: Pony Canyon (Ponyca)
     Release: 1988 (original)
     Original Dump: No
-    Remark: 
+    Remark: Version modified for Konami8 mapper.
+
+  - English title: "Out run"
+    Original title: "アウトラン"
+    Longname: Out run [KonamiSCC mapper].rom
+    sha1: a011270a8d8882a470be73e89167372c99451c9b
+    Name: OutRunKS.ROM
+    Genre: Car racing
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Pony Canyon (Ponyca)
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Jackie Chan in Project A Part 2 - Biggest Target Ever"
     Original title: "プロジェクトA 2 史上最大の標的"
@@ -64826,7 +65217,7 @@
     Original title: "スーパーランナー"
     Longname: Super Runner [Konami8 mapper].rom
     sha1: 1ab38b014480745eaae143c9e6f67b542e62442f
-    Name: SRunnrK4.ROM
+    Name: SRunnrK8.ROM
     Genre: Action
     Language: English
     Country: Japan
@@ -64843,7 +65234,30 @@
     Developer: Pony Canyon (Ponyca)
     Release: 1987
     Original Dump: No
-    Remark: 
+    Remark: Version modified for Konami8 mapper.
+
+  - English title: "Super Runner"
+    Original title: "スーパーランナー"
+    Longname: Super Runner [KonamiSCC mapper].rom
+    sha1: ec99335aed4bda9fcdaefb9240bc0375eb16f027
+    Name: SRunnrKS.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (one against the other)
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Pony Canyon (Ponyca)
+    Release: 1987
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Super Runner"
     Original title: "スーパーランナー"
@@ -65192,6 +65606,29 @@
 
   - English title: "Zanac Ex"
     Original title: "ザナックEX"
+    Longname: Zanac Ex [Enhanced v1.03] [KonamiSCC mapper].rom
+    sha1: 2470e59d0e2e73c50c39333cd0a271d20cf66b78
+    Name: ZanaH103.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Compile
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
+
+  - English title: "Zanac Ex"
+    Original title: "ザナックEX"
     Longname: Zanac Ex [Dump by A&L Soft].rom
     sha1: 9200fd6f1e92f78e3d9c6d082837f719ad0500d4
     Name: ZanEXA&L.ROM
@@ -65212,6 +65649,29 @@
     Release: 1987 (original)
     Original Dump: No
     Remark: 
+
+  - English title: "Zanac Ex"
+    Original title: "ザナックEX"
+    Longname: Zanac Ex [KonamiSCC mapper].rom
+    sha1: 85207a25140d9981e71ade711c898d4a2290ec8c
+    Name: ZanaExKS.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Pony Canyon (Ponyca)
+    Developer: Compile
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: Version modified for KonamiSCC mapper.
 
   - English title: "Zanac Ex"
     Original title: "ザナックEX"
@@ -74471,7 +74931,7 @@
     Original title: "인조인간프랑켄"
     Longname: MonMon Kaibutsu (J) [Konami8 mapper] (Daewoo).rom
     sha1: b1cf453206beef8ab2ede2b061ed95a3cd91eae3
-    Name: MonMonK4.ROM
+    Name: MonMonK8.ROM
     Genre: Platform
     Language: Japanese
     Country: Korea
@@ -75431,7 +75891,7 @@
     Original title: "리턴 오브 젤다"
     Longname: Return of Jelda (Softmen) [Konami8 mapper].rom
     sha1: a80b5426fd0f4ab19eba1c06620f5efb8fbade3a
-    Name: KRetOZK4.ROM
+    Name: KRetOZK8.ROM
     Genre: Shoot'em up (3D Wireframe)
     Language: English
     Country: Korea
@@ -78853,7 +79313,7 @@
     Original title: "디지털 데빌 스토리 - 여신전생"
     Longname: Digital Devil Monogatari Megami Tensei (J) [Konami8 mapper].rom
     sha1: 03b42b77b1a7412f1d7bd0998cf8f2f003f77d0a
-    Name: KDDMMTK4.ROM
+    Name: KDDMMTK8.ROM
     Genre: Dungeon Crawler
     Language: Japanese
     Country: Korea
@@ -78876,7 +79336,7 @@
     Original title: "드래곤 퀘스트"
     Longname: Dragon Quest (J) [Konami8 mapper].rom
     sha1: 7e9a9ce7c18206b325830e9cdcbb27179118de96
-    Name: KDragoK4.ROM
+    Name: KDragoK8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -78991,7 +79451,7 @@
     Original title: "드루이드"
     Longname: Druid [Konami8 mapper].rom
     sha1: 4d0af1bbba3a3a15bae3beaadbdb46c24fefaed1
-    Name: KDruidK4.ROM
+    Name: KDruidK8.ROM
     Genre: Role playing
     Language: English
     Country: Korea
@@ -79175,7 +79635,7 @@
     Original title: 
     Longname: Hard Ball [Konami8 mapper].rom
     sha1: 4ee3e785e6949bd535804a32c6a1a31eeef30031
-    Name: KHardBK4.ROM
+    Name: KHardBK8.ROM
     Genre: Baseball
     Language: English
     Country: Korea
@@ -79336,7 +79796,7 @@
     Original title: "재규어 5"
     Longname: Jagur 5 (J) [a] [Konami8 mapper].rom
     sha1: 3977d40b8296e1de497621d1419d21b48741fd6c
-    Name: KJaG5AK4.ROM
+    Name: KJaG5AK8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79359,7 +79819,7 @@
     Original title: "재규어 5"
     Longname: Jagur 5 (J) [a2] [Konami8 mapper].rom
     sha1: 3b6200f88561a59ae5d2b3e94515b89cdb96044b
-    Name: KJa5A2K4.ROM
+    Name: KJa5A2K8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79382,7 +79842,7 @@
     Original title: "재규어 5"
     Longname: Jagur 5 (J) [Konami8 mapper].rom
     sha1: 842009e0f7d0e977e47be7a56fe60707f477ed93
-    Name: KJagu5K4.ROM
+    Name: KJagu5K8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79520,7 +79980,7 @@
     Original title: "릭 & 믹의 대모험"
     Longname: Lick to Mick no Daibouken (Rick and Mick's Adventure) (J) [Konami8 mapper].rom
     sha1: d3a936e5ef24fdbc7a02a81644ab6cd4b88119d3
-    Name: KLi&MiK4.ROM
+    Name: KLi&MiK8.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79566,7 +80026,7 @@
     Original title: "도레미 하우스 - 완결편 마음에서 포토그래프"
     Longname: Maison Ikkoku Omoide no Photograph (J) [Konami8 mapper].rom
     sha1: 4fe1d66e8f3cbd5ecd9b22b6aea2b37a604f2492
-    Name: KMIONPK4.ROM
+    Name: KMIONPK8.ROM
     Genre: Adventure
     Language: Japanese
     Country: Korea
@@ -79610,9 +80070,9 @@
 
   - English title: "The Three Eyed One Comes Here"
     Original title: "삼목동자"
-    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (J) [Konami8 mapper].rom
+    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (J) [KR].rom
     sha1: 7341efc039394ec159feebcfaa9d4a61ebf08a18
-    Name: K3EyedK4.ROM
+    Name: K3EyedKR.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79633,9 +80093,9 @@
 
   - English title: "The Three Eyed One Comes Here"
     Original title: "삼목동자"
-    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (J) [Konami8 mapper-a].rom
+    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (J) [KR-a].rom
     sha1: 0ec71916791e05d207d7fe0a461a79a76eab52c5
-    Name: K3EyeK4A.ROM
+    Name: K3EyeKRA.ROM
     Genre: Role playing
     Language: Japanese
     Country: Korea
@@ -79652,6 +80112,52 @@
     Developer: Natsume
     Release: 
     Original Dump: 
+    Remark: 
+
+  - English title: "The Three Eyed One Comes Here"
+    Original title: "삼목동자"
+    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (Translated) [KR].rom
+    sha1: da8314c31879cbf5608dadf4e4f0a100feb19a43
+    Name: K3EyeTKR.ROM
+    Genre: Role playing
+    Language: English
+    Country: Korea
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: 
+    Developer: Natsume
+    Release: 
+    Original Dump: No
+    Remark: 
+
+  - English title: "The Three Eyed One Comes Here"
+    Original title: "삼목동자"
+    Longname: Mitsume Ga Tooru - The Three Eyed One Comes Here (Translated) [KR-disk save].rom
+    sha1: c1796330ee46bdea5c7f05fad045c20ba8c7e46a
+    Name: K3EyTKRD.ROM
+    Genre: Role playing
+    Language: English
+    Country: Korea
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: 
+    Developer: Natsume
+    Release: 
+    Original Dump: No
     Remark: 
 
   - English title: "Mopiranger"
@@ -79911,7 +80417,7 @@
     Original title: "스크램블 포메이션"
     Longname: Scramble Formation [Konami8 mapper].rom
     sha1: 3f9d72bdafecfa640639cf66721e7380e41c6e6d
-    Name: KScramK4.ROM
+    Name: KScramK8.ROM
     Genre: Shoot'em up (vertical scrolling)
     Language: English
     Country: Korea
@@ -80118,7 +80624,7 @@
     Original title: "요정의 나라"
     Longname: The Fairy Land Story [Konami8 mapper].rom
     sha1: d5282755c7787dc0eef9b18f5368a046d8dc5081
-    Name: KFairyK4.ROM
+    Name: KFairyK8.ROM
     Genre: Platform
     Language: English
     Country: Korea
@@ -80210,7 +80716,7 @@
     Original title: "유령군"
     Longname: Yuurei-kun (Young Ghost) [Konami8 mapper].rom
     sha1: 6fe7a6bb86897e579393e70961a3a3204adfa48b
-    Name: KYureiK4.ROM
+    Name: KYureiK8.ROM
     Genre: Action
     Language: English
     Country: Korea
@@ -90733,6 +91239,29 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: "No Back Down"
+    Original title: "No Back Down"
+    Longname: No Back Down [KonamiSCC mapper].rom
+    sha1: d47e20d83063cd6bbda8566177a53baff358e5f5
+    Name: NoBackDn.ROM
+    Genre: Action
+    Language: English
+    Country: Netherlands
+    Type: 64kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: SoCal
+    Release: 2021-08-31
+    Original Dump: Yes
+    Remark: Version modified for KonamiSCC mapper.
+
   - English title: "PAC-01"
     Original title: "PAC-01"
     Longname: PAC-01 (ARC8).rom
@@ -95460,17 +95989,40 @@
     Language: English
     Country: Spain
     Type: 5120kB Flash-Rom with KonamiUltimateCollection mapper
-    Machine: MSX1
+    Machine: MSX1 / MSX2
     RAM: 16kB
-    VRAM: 16kB
+    VRAM: 16kB / 64kB
     Data saving: None
     Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
     Signature: No
+    Publisher: Matra Computer Automations
+    Developer: Konami, Compilation by M. Pasos
+    Release: 2010
+    Original Dump: Yes
+    Remark: 
+
+  - English title: "Konami Ultimate Collection Fix"
+    Original title: "Konami Ultimate Collection Fix"
+    Longname: Konami Ultimate Collection Fix (M. Pazos).rom
+    sha1: 870a34785bce4e125c16d85635bd238511ff8be6
+    Name: KUC-Fix.ROM
+    Genre: Add on fix
+    Language: English
+    Country: Spain
+    Type: 64kB Rom without mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: None
+    Player number: 1
+    Signature: No
     Publisher: M. Pazos
-    Developer: Konami
-    Release: 2011
+    Developer: M. Pasos
+    Release: 2014
     Original Dump: Yes
     Remark: 
 
@@ -96280,7 +96832,7 @@
     Genre: Adventure
     Language: English / Spanish
     Country: Spain
-    Type: 128kB Rom with Konami mapper
+    Type: 128kB Rom with Konami8 mapper
     Machine: MSX1
     RAM: 16kB
     VRAM: 16kB
@@ -98638,7 +99190,7 @@
     Publisher: Micromancers
     Developer: Maltanto
     Release: 2020
-    Original Dump: 
+    Original Dump: Yes
     Remark: Copy protected.
 
   - English title: "Suite Macabre"
@@ -98661,7 +99213,7 @@
     Publisher: Micromancers
     Developer: Maltanto
     Release: 2020
-    Original Dump: 
+    Original Dump: No
     Remark: Version with copy protection removed.
 
   - English title: "Suite Macabre"
@@ -98684,7 +99236,7 @@
     Publisher: Micromancers
     Developer: Maltanto
     Release: 2020
-    Original Dump: 
+    Original Dump: No
     Remark: 
 
   - English title: "Suite Macabre"
@@ -98705,9 +99257,9 @@
     Player number: 1
     Signature: No
     Publisher: Micromancers
-    Developer: 
-    Release: 
-    Original Dump: 
+    Developer: Maltanto
+    Release: 2025
+    Original Dump: No
     Remark: Version with copy protection removed.
 
 #
@@ -100583,6 +101135,52 @@
 
   - English title: "The sword of IANNA"
     Original title: "The sword of IANNA"
+    Longname: The sword of IANNA (E-F) [v1.2] [ASCII8 mapper].rom
+    sha1: 3c7d54d1b40c56cf598fd691d5655fc4b5f553f1
+    Name: IAN12FA8.ROM
+    Genre: Platform
+    Language: English / French
+    Country: Spain
+    Type: 720kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: No
+    Remark: Version 1.2 modified for ASCII8 mapper. Version translated by Piccolo. Version modified for ASCII8 mapper.
+
+  - English title: "The sword of IANNA"
+    Original title: "The sword of IANNA"
+    Longname: The sword of IANNA (E-F) [v1.2] [KonamiSCC mapper].rom
+    sha1: 4d602374e36afdbe95e5c5dded3136628aab4380
+    Name: IANN12FS.ROM
+    Genre: Platform
+    Language: English / French
+    Country: Spain
+    Type: 720kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: No
+    Remark: Version 1.2 modified for KonamiSCC mapper.
+
+  - English title: "The sword of IANNA"
+    Original title: "The sword of IANNA"
     Longname: The sword of IANNA (E-S) [v1.2].rom
     sha1: 82cf4caa78571a750403e592e3ac87c249ac4604
     Name: IANNA120.ROM
@@ -100603,6 +101201,52 @@
     Release: 2017
     Original Dump: Yes
     Remark: Version 1.2. Free for the digital version, 40 euro for the cartridge.
+
+  - English title: "The sword of IANNA"
+    Original title: "The sword of IANNA"
+    Longname: The sword of IANNA (E-S) [v1.2] [ASCII8 mapper].rom
+    sha1: 7927cdfde506d3f40a455594c529371979bd86a5
+    Name: IAN12SA8.ROM
+    Genre: Platform
+    Language: English / Spanish
+    Country: Spain
+    Type: 720kB Rom with ASCII8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: No
+    Remark: Version 1.2 modified for ASCII8 mapper.
+
+  - English title: "The sword of IANNA"
+    Original title: "The sword of IANNA"
+    Longname: The sword of IANNA (E-S) [v1.2] [KonamiSCC mapper].rom
+    sha1: 6441c6fdaba1c683a7c08b8a1054df1d06a8f172
+    Name: IANN12SS.ROM
+    Genre: Platform
+    Language: English / Spanish
+    Country: Spain
+    Type: 720kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: RetroWorks
+    Developer: RELEVO Videogames
+    Release: 2017
+    Original Dump: No
+    Remark: Version 1.2 modified for KonamiSCC mapper.
 
 #
 ## Game Roms from Spain or Mexico: Rodrivas78 (Rodrigo Gonzalez) ##
@@ -101804,7 +102448,7 @@
   Files:
   - English title: "Magical Kid Wiz"
     Original title: 
-    Longname: Magical Kid Wiz (TW).rom
+    Longname: Magical Kid Wiz [TW].rom
     sha1: fd24b501046cf811b04386129be0362a1eabf6b3
     Name: MKWiz-TW.ROM
     Genre: Platform
@@ -101873,7 +102517,7 @@
 
   - English title: "Road Fighter"
     Original title: 
-    Longname: Road Fighter (TW).rom
+    Longname: Road Fighter [TW].rom
     sha1: 2755f74019dc94559fd0c2248e2ecb7f48879b90
     Name: RoadFiTW.ROM
     Genre: Car racing
@@ -103224,7 +103868,7 @@
 ## Tape Converted to ROM: Aackosoft (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Aackosoft (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Aackosoft [NL]
   Folder name: ~/Tape2Rom/Aackosft
 
   Files:
@@ -103600,7 +104244,7 @@
 ## Tape Converted to ROM: Activision (US) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Activision (US)
+- Folder longname: ~/Tape Converted to ROM/Activision [US]
   Folder name: ~/Tape2Rom/Activisi
 
   Files:
@@ -103930,7 +104574,7 @@
 ## Tape Converted to ROM: Addictive Games (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Addictive Games (UK)
+- Folder longname: ~/Tape Converted to ROM/Addictive Games [UK]
   Folder name: ~/Tape2Rom/Addictiv
 
   Files:
@@ -103961,7 +104605,7 @@
 ## Tape Converted to ROM: Alligata (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Alligata (UK)
+- Folder longname: ~/Tape Converted to ROM/Alligata [UK]
   Folder name: ~/Tape2Rom/Alligata
 
   Files:
@@ -104222,7 +104866,7 @@
 ## Tape Converted to ROM: Alternative Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Alternative Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Alternative Software [UK]
   Folder name: ~/Tape2Rom/Alternat
 
   Files:
@@ -104276,7 +104920,7 @@
 ## Tape Converted to ROM: Anirog (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Anirog (UK)
+- Folder longname: ~/Tape Converted to ROM/Anirog [UK]
   Folder name: ~/Tape2Rom/Anirog
 
   Files:
@@ -104399,7 +105043,7 @@
 ## Tape Converted to ROM: Artic Computing (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Artic Computing (UK)
+- Folder longname: ~/Tape Converted to ROM/Artic Computing [UK]
   Folder name: ~/Tape2Rom/Artic
 
   Files:
@@ -104519,10 +105163,10 @@
     Remark: 
 
 #
-## Tape Converted to ROM: ASCII (JP) ##
+## Tape Converted to ROM: ASCII (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/ASCII (JP)
+- Folder longname: ~/Tape Converted to ROM/ASCII [JP]
   Folder name: ~/Tape2Rom/ASCII-JP
 
   Files:
@@ -104599,7 +105243,7 @@
 ## Tape Converted to ROM: Atlantis Software (US) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Atlantis Software (US)
+- Folder longname: ~/Tape Converted to ROM/Atlantis Software [US]
   Folder name: ~/Tape2Rom/Atlantis
 
   Files:
@@ -104653,7 +105297,7 @@
 ## Tape Converted to ROM: Aventuras AD (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Aventuras AD (Spain)
+- Folder longname: ~/Tape Converted to ROM/Aventuras AD [ES]
   Folder name: ~/Tape2Rom/Aventura
 
   Files:
@@ -104753,7 +105397,7 @@
 ## Tape Converted to ROM: Blue Ribbon Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Blue Ribbon Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Blue Ribbon Software [UK]
   Folder name: ~/Tape2Rom/
 
   Files:
@@ -104807,7 +105451,7 @@
 ## Tape Converted to ROM: Bubble Bus (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Bubble Bus (UK)
+- Folder longname: ~/Tape Converted to ROM/Bubble Bus [UK]
   Folder name: ~/Tape2Rom/BubblBus
 
   Files:
@@ -104930,7 +105574,7 @@
 ## Tape Converted to ROM: Bug-Byte Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Bug-Byte Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Bug-Byte Software [UK]
   Folder name: ~/Tape2Rom/Bug-Byte
 
   Files:
@@ -105306,7 +105950,7 @@
 ## Tape Converted to ROM: Bulldog (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Bulldog (UK)
+- Folder longname: ~/Tape Converted to ROM/Bulldog [UK]
   Folder name: ~/Tape2Rom/Bulldog
 
   Files:
@@ -105472,10 +106116,10 @@
     Remark: 
 
 #
-## Tape Converted to ROM: Codemasters (Netherlands) ##
+## Tape Converted to ROM: Central Education (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Central Education (Japan)
+- Folder longname: ~/Tape Converted to ROM/Central Education [JP]
   Folder name: ~/Tape2Rom/CentrEdu
 
   Files:
@@ -105529,7 +106173,7 @@
 ## Tape Converted to ROM: Codemasters (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Codemasters (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Codemasters [NL]
   Folder name: ~/Tape2Rom/Codemast
 
   Files:
@@ -105606,7 +106250,7 @@
 ## Tape Converted to ROM: Colpax - Nippon Columbia (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Colpax - Nippon Columbia (Japan)
+- Folder longname: ~/Tape Converted to ROM/Colpax - Nippon Columbia [JP]
   Folder name: ~/Tape2Rom/Colpax
 
   Files:
@@ -105959,7 +106603,7 @@
 ## Tape Converted to ROM: Databyte (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Databyte (UK)
+- Folder longname: ~/Tape Converted to ROM/Databyte [UK]
   Folder name: ~/Tape2Rom/Databyte
 
   Files:
@@ -106197,7 +106841,7 @@
 ## Tape Converted to ROM: dB-Soft (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/dB-Soft (Japan)
+- Folder longname: ~/Tape Converted to ROM/dB-Soft [JP]
   Folder name: ~/Tape2Rom/dB-Soft
 
   Files:
@@ -106297,7 +106941,7 @@
 ## Tape Converted to ROM: Delta (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Delta (Spain)
+- Folder longname: ~/Tape Converted to ROM/Delta [ES]
   Folder name: ~/Tape2Rom/Delta
 
   Files:
@@ -106328,7 +106972,7 @@
 ## Tape Converted to ROM: Dinamic (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Dinamic (Spain)
+- Folder longname: ~/Tape Converted to ROM/Dinamic [ES]
   Folder name: ~/Tape2Rom/Dinamic
 
   Files:
@@ -107808,7 +108452,7 @@
 ## Tape Converted to ROM: Discovery Informatic (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Discovery Informatic (Spain)
+- Folder longname: ~/Tape Converted to ROM/Discovery Informatic [ES]
   Folder name: ~/Tape2Rom/Discovry
 
   Files:
@@ -107931,7 +108575,7 @@
 ## Tape Converted to ROM: Disprosoft (Brazil) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Disprosoft (Brazil)
+- Folder longname: ~/Tape Converted to ROM/Disprosoft [BR]
   Folder name: ~/Tape2Rom/Dispro
 
   Files:
@@ -108054,7 +108698,7 @@
 ## Tape Converted to ROM: Domark Software Ltd (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Domark Software Ltd (UK)
+- Folder longname: ~/Tape Converted to ROM/Domark Software Ltd [UK]
   Folder name: ~/Tape2Rom/Domark
 
   Files:
@@ -108177,7 +108821,7 @@
 ## Tape Converted to ROM: Dro Soft (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Dro Soft (Spain)
+- Folder longname: ~/Tape Converted to ROM/Dro Soft [ES]
   Folder name: ~/Tape2Rom/Dro
 
   Files:
@@ -108829,7 +109473,7 @@
 ## Tape Converted to ROM: Eaglesoft (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Eaglesoft (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Eaglesoft [NL]
   Folder name: ~/Tape2Rom/Eaglesft
 
   Files:
@@ -109550,7 +110194,7 @@
 ## Tape Converted to ROM: Eclipse (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Eclipse (UK)
+- Folder longname: ~/Tape Converted to ROM/Eclipse [UK]
   Folder name: ~/Tape2Rom/Eclipse
 
   Files:
@@ -109650,7 +110294,7 @@
 ## Tape Converted to ROM: Electric Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Electric Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Electric Software [UK]
   Folder name: ~/Tape2Rom/Electric
 
   Files:
@@ -109773,7 +110417,7 @@
 ## Tape Converted to ROM: Endurance Games (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Endurance Games (UK)
+- Folder longname: ~/Tape Converted to ROM/Endurance Games [UK]
   Folder name: ~/Tape2Rom/Enduranc
 
   Files:
@@ -109896,7 +110540,7 @@
 ## Tape Converted to ROM: EngeSoft (Brazil) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/EngeSoft (Brazil)
+- Folder longname: ~/Tape Converted to ROM/EngeSoft [BR]
   Folder name: ~/Tape2Rom/EngeSoft
 
   Files:
@@ -109973,7 +110617,7 @@
 ## Tape Converted to ROM: ERBE Software (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/ERBE Software (Spain)
+- Folder longname: ~/Tape Converted to ROM/ERBE Software [ES]
   Folder name: ~/Tape2Rom/Erbe
 
   Files:
@@ -110809,7 +111453,7 @@
 ## Tape Converted to ROM: Eurosoft (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Eurosoft (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Eurosoft [NL]
   Folder name: ~/Tape2Rom/Eurosoft
 
   Files:
@@ -110818,7 +111462,7 @@
 ## Tape Converted to ROM: Gema S.L. (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Gema S.L. (Spain)
+- Folder longname: ~/Tape Converted to ROM/Gema S.L. [SP]
   Folder name: ~/Tape2Rom/Gema_SL
 
   Files:
@@ -110872,7 +111516,7 @@
 ## Tape Converted to ROM: Grandslam Entertainments (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Grandslam Entertainments (UK)
+- Folder longname: ~/Tape Converted to ROM/Grandslam Entertainments [UK]
   Folder name: ~/Tape2Rom/Grandslm
 
   Files:
@@ -110949,7 +111593,7 @@
 ## Tape Converted to ROM: Gremlin Graphics (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Gremlin Graphics (UK)
+- Folder longname: ~/Tape Converted to ROM/Gremlin Graphics [UK]
   Folder name: ~/Tape2Rom/Gremlin
 
   Files:
@@ -111532,7 +112176,7 @@
 ## Tape Converted to ROM: Honeybee Soft - Softbank (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Honeybee Soft - SoftBank
+- Folder longname: ~/Tape Converted to ROM/Honeybee Soft - SoftBank [JP]
   Folder name: ~/Tape2Rom/Honeybee
 
   Files:
@@ -112928,7 +113572,7 @@
 ## Tape Converted to ROM: Iber Soft (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Iber Soft (Spain)
+- Folder longname: ~/Tape Converted to ROM/Iber Soft [ES]
   Folder name: ~/Tape2Rom/Iber
 
   Files:
@@ -113028,7 +113672,7 @@
 ## Tape Converted to ROM: Idealogic (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Idealogic (Spain)
+- Folder longname: ~/Tape Converted to ROM/Idealogic [ES]
   Folder name: ~/Tape2Rom/Idealogi
 
   Files:
@@ -113128,7 +113772,7 @@
 ## Tape Converted to ROM: Image Works (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Image Works (UK)
+- Folder longname: ~/Tape Converted to ROM/Image Works [UK]
   Folder name: ~/Tape2Rom/Image
 
   Files:
@@ -113182,7 +113826,7 @@
 ## Tape Converted to ROM: Infopress (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Infopress (Spain)
+- Folder longname: ~/Tape Converted to ROM/Infopress [ES]
   Folder name: ~/Tape2Rom/Infopress
 
   Files:
@@ -113213,7 +113857,7 @@
 ## Tape Converted to ROM: KG Soft (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/KG Soft (Japan)
+- Folder longname: ~/Tape Converted to ROM/KG Soft [JP]
   Folder name: ~/Tape2Rom/KG
 
   Files:
@@ -113313,7 +113957,7 @@
 ## Tape Converted to ROM: Kuma Computers (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Kuma Computers (UK)
+- Folder longname: ~/Tape Converted to ROM/Kuma Computers [UK]
   Folder name: ~/Tape2Rom/Kuma
 
   Files:
@@ -113597,7 +114241,7 @@
 ## Tape Converted to ROM: Level 9 Computing (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Level 9 Computing (UK)
+- Folder longname: ~/Tape Converted to ROM/Level 9 Computing [UK]
   Folder name: ~/Tape2Rom/Level9
 
   Files:
@@ -113743,7 +114387,7 @@
 ## Tape Converted to ROM: Livewire (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Livewire (UK)
+- Folder longname: ~/Tape Converted to ROM/Livewire [UK]
   Folder name: ~/Tape2Rom/Livewire
 
   Files:
@@ -113797,7 +114441,7 @@
 ## Tape Converted to ROM: Login (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Login (JP)
+- Folder longname: ~/Tape Converted to ROM/Login [JP]
   Folder name: ~/Tape2Rom/Login
 
   Files:
@@ -113897,7 +114541,7 @@
 ## Tape Converted to ROM: Loriciels (France) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Loriciels (France)
+- Folder longname: ~/Tape Converted to ROM/Loriciels [FR]
   Folder name: ~/Tape2Rom/Loriciel
 
   Files:
@@ -114043,7 +114687,7 @@
 ## Tape Converted to ROM: M.A.D. - Mastertronic Added Dimension (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Mastertronic Added Dimension (UK)
+- Folder longname: ~/Tape Converted to ROM/Mastertronic Added Dimension [UK]
   Folder name: ~/Tape2Rom/MAD
 
   Files:
@@ -114810,7 +115454,7 @@
 ## Tape Converted to ROM: MagicalZoo (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/MagicalZoo (Japan)
+- Folder longname: ~/Tape Converted to ROM/MagicalZoo [JP]
   Folder name: ~/Tape2Rom/MagicZoo
 
   Files:
@@ -114864,7 +115508,7 @@
 ## Tape Converted to ROM: Martech Games (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Martech Games (UK)
+- Folder longname: ~/Tape Converted to ROM/Martech Games [UK]
   Folder name: ~/Tape2Rom/Martech
 
   Files:
@@ -115179,7 +115823,7 @@
 ## Tape Converted to ROM: Melbourne House (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Melbourne House (UK)
+- Folder longname: ~/Tape Converted to ROM/Melbourne House [UK]
   Folder name: ~/Tape2Rom/Melbourn
 
   Files:
@@ -115325,7 +115969,7 @@
 ## Tape Converted to ROM: Methodic Solutions (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Methodic Solutions (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Methodic Solutions [NL]
   Folder name: ~/Tape2Rom/Methodic
 
   Files:
@@ -115541,7 +116185,7 @@
 ## Tape Converted to ROM: MIA (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/MIA (Japan)
+- Folder longname: ~/Tape Converted to ROM/MIA [JP]
   Folder name: ~/Tape2Rom/MIA
 
   Files:
@@ -115595,7 +116239,7 @@
 ## Tape Converted to ROM: Micro Cabin (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Micro Cabin (Japan)
+- Folder longname: ~/Tape Converted to ROM/Micro Cabin [JP]
   Folder name: ~/Tape2Rom/MicroCab
 
   Files:
@@ -115764,7 +116408,7 @@
 ## Tape Converted to ROM: Micro value (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Micro value (UK)
+- Folder longname: ~/Tape Converted to ROM/Micro value [UK]
   Folder name: ~/Tape2Rom/MicroVal
 
   Files:
@@ -115887,7 +116531,7 @@
 ## Tape Converted to ROM: Microbyte (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Microbyte (Spain)
+- Folder longname: ~/Tape Converted to ROM/Microbyte [ES]
   Folder name: ~/Tape2Rom/Microbyt
 
   Files:
@@ -115941,7 +116585,7 @@
 ## Tape Converted to ROM: Mind Games Espania (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Mind Games Espania (Spain)
+- Folder longname: ~/Tape Converted to ROM/Mind Games Espania [ES]
   Folder name: ~/Tape2Rom/MindGame
 
   Files:
@@ -116317,7 +116961,7 @@
 ## Tape Converted to ROM: Mirrorsoft (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Mirrorsoft (UK)
+- Folder longname: ~/Tape Converted to ROM/Mirrorsoft [UK]
   Folder name: ~/Tape2Rom/Mirror
 
   Files:
@@ -116440,7 +117084,7 @@
 ## Tape Converted to ROM: Mister Chip (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Mister Chip (Spain)
+- Folder longname: ~/Tape Converted to ROM/Mister Chip [ES]
   Folder name: ~/Tape2Rom/Mr_Chip
 
   Files:
@@ -116571,7 +117215,7 @@
 ## Tape Converted to ROM: Monser (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Monser (Spain)
+- Folder longname: ~/Tape Converted to ROM/Monser [ES]
   Folder name: ~/Tape2Rom/Monser
 
   Files:
@@ -116625,7 +117269,7 @@
 ## Tape Converted to ROM: Morwood Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Morwood Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Morwood Software [UK]
   Folder name: ~/Tape2Rom/Morwood
 
   Files:
@@ -116634,7 +117278,7 @@
 ## Tape Converted to ROM: Mr. Micro (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Mr. Micro (UK)
+- Folder longname: ~/Tape Converted to ROM/Mr. Micro [UK]
   Folder name: ~/Tape2Rom/Mr_Micro
 
   Files:
@@ -116872,7 +117516,7 @@
 ## Tape Converted to ROM: Nice Ideas (France) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Nice Ideas (France)
+- Folder longname: ~/Tape Converted to ROM/Nice Ideas [FR]
   Folder name: ~/Tape2Rom/NiceIdea
 
   Files:
@@ -117064,7 +117708,7 @@
 ## Tape Converted to ROM: Ocean Software (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Ocean Software (UK)
+- Folder longname: ~/Tape Converted to ROM/Ocean Software [UK]
   Folder name: ~/Tape2Rom/Ocean
 
   Files:
@@ -117126,7 +117770,7 @@
     Machine: MSX1
     RAM: 64kB
     VRAM: 16kB
-    Data saving: Disk (needs 128kB RAM)
+    Data saving: Floppy disk (needs 128kB RAM)
     Control: Keyboard / keyboard and joystick
     Sound: PSG
     Player number: 1
@@ -117394,7 +118038,7 @@
 ## Tape Converted to ROM: Omikron / OMK Software (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Omikron Software (Spain)
+- Folder longname: ~/Tape Converted to ROM/Omikron Software [ES]
   Folder name: ~/Tape2Rom/Omikron
 
   Files:
@@ -117448,7 +118092,7 @@
 ## Tape Converted to ROM: Opera Soft (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Opera Soft (Spain)
+- Folder longname: ~/Tape Converted to ROM/Opera Soft [ES]
   Folder name: ~/Tape2Rom/Opera
 
   Files:
@@ -117755,7 +118399,7 @@
 ## Tape Converted to ROM: Orpheus (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Orpheus (UK)
+- Folder longname: ~/Tape Converted to ROM/Orpheus [UK]
   Folder name: ~/Tape2Rom/Orpheus
 
   Files:
@@ -118745,7 +119389,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: Disk, Tape, Quick disk
+    Data saving: Floppy disk, Tape, Quick disk
     Control: Keyboard
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -118768,7 +119412,7 @@
     Machine: MSX1
     RAM: 32kB
     VRAM: 16kB
-    Data saving: Disk, Tape, Quick disk
+    Data saving: Floppy disk, Tape, Quick disk
     Control: Keyboard
     Sound: PSG
     Player number: 1 or 2 (against each other)
@@ -119082,7 +119726,7 @@
 ## Tape Converted to ROM: P.P.P. Ediciones (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/P.P.P. Ediciones (Spain)
+- Folder longname: ~/Tape Converted to ROM/P.P.P. Ediciones [ES]
   Folder name: ~/Tape2Rom/PPP
 
   Files:
@@ -119535,7 +120179,7 @@
 ## Tape Converted to ROM: Players (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Players (UK)
+- Folder longname: ~/Tape Converted to ROM/Players [UK]
   Folder name: ~/Tape2Rom/Players
 
   Files:
@@ -119593,7 +120237,7 @@
     Genre: Action
     Language: English
     Country: UK
-    Type: 24kB Rom with ACSII8 mapper
+    Type: 24kB Rom with ASCII8 mapper
     Machine: MSX1
     RAM: 128kB
     VRAM: 16kB
@@ -119727,7 +120371,7 @@
 ## Tape Converted to ROM: Ponyca / Pony Canyon (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Ponyca (Japan)
+- Folder longname: ~/Tape Converted to ROM/Ponyca [JP]
   Folder name: ~/Tape2Rom/Ponyca
 
   Files:
@@ -120057,7 +120701,7 @@
 ## Tape Converted to ROM: Positive (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Positive (Spain)
+- Folder longname: ~/Tape Converted to ROM/Positive [ES]
   Folder name: ~/Tape2Rom/Positive
 
   Files:
@@ -120203,7 +120847,7 @@
 ## Tape Converted to ROM: Premium III Software Distribution (Netherlands) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Premium III Software Distribution (Netherlands)
+- Folder longname: ~/Tape Converted to ROM/Premium III Software Distribution [NL]
   Folder name: ~/Tape2Rom/Premium3
 
   Files:
@@ -120403,7 +121047,7 @@
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
-    Data saving: Disk, Tape
+    Data saving: Floppy disk, Tape
     Control: Keyboard
     Sound: PSG
     Player number: 1
@@ -120426,7 +121070,7 @@
     Machine: MSX1
     RAM: 64kB in the same slot
     VRAM: 16kB
-    Data saving: Disk, Tape
+    Data saving: Floppy disk, Tape
     Control: Keyboard
     Sound: PSG
     Player number: 1
@@ -121039,7 +121683,7 @@
 ## Tape Converted to ROM: Proein Soft Line (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Proein Soft Line (Spain)
+- Folder longname: ~/Tape Converted to ROM/Proein Soft Line [ES]
   Folder name: ~/Tape2Rom/ProeinSL
 
   Files:
@@ -121116,7 +121760,7 @@
 ## Tape Converted to ROM: PSS (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/PSS (UK)
+- Folder longname: ~/Tape Converted to ROM/PSS [UK]
   Folder name: ~/Tape2Rom/PSS
 
   Files:
@@ -121400,7 +122044,7 @@
 ## Tape Converted to ROM: Quicksilva (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Quicksilva (UK)
+- Folder longname: ~/Tape Converted to ROM/Quicksilva [UK]
   Folder name: ~/Tape2Rom/Quicksil
 
   Files:
@@ -121546,7 +122190,7 @@
 ## Tape Converted to ROM: Soft Pro International (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Soft Pro Internationnal
+- Folder longname: ~/Tape Converted to ROM/Soft Pro Internationnal [JP]
   Folder name: ~/Tape2Rom/SoftPro
 
   Files:
@@ -121600,7 +122244,7 @@
 ## Tape Converted to ROM: Software Projects (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Software Projects (UK)
+- Folder longname: ~/Tape Converted to ROM/Software Projects [UK]
   Folder name: ~/Tape2Rom/SoftProj
 
   Files:
@@ -121731,7 +122375,7 @@
 ## Tape Converted to ROM: Spectravideo (US) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Spectravideo (US)
+- Folder longname: ~/Tape Converted to ROM/Spectravideo [US]
   Folder name: ~/Tape2Rom/Spectrav
 
   Files:
@@ -121808,7 +122452,7 @@
 ## Tape Converted to ROM: Sprites Logiciels (France) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Sprites (France)
+- Folder longname: ~/Tape Converted to ROM/Sprites [FR]
   Folder name: ~/Tape2Rom/Sprites
 
   Files:
@@ -121908,7 +122552,7 @@
 ## Tape Converted to ROM: State soft (US) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/State soft (US)
+- Folder longname: ~/Tape Converted to ROM/State soft [US]
   Folder name: ~/Tape2Rom/State
 
   Files:
@@ -121962,7 +122606,7 @@
 ## Tape Converted to ROM: SVI / Spectravideo (US) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/SVI (US)
+- Folder longname: ~/Tape Converted to ROM/SVI [US]
   Folder name: ~/Tape2Rom/SVI
 
   Files:
@@ -122039,7 +122683,7 @@
 ## Tape Converted to ROM: Sygran S.A. (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Sygran S.A. (Spain)
+- Folder longname: ~/Tape Converted to ROM/Sygran S.A. [ES]
   Folder name: ~/Tape2Rom/SygranSA
 
   Files:
@@ -122093,7 +122737,7 @@
 ## Tape Converted to ROM: System 4 (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/System 4 (Spain)
+- Folder longname: ~/Tape Converted to ROM/System 4 [ES]
   Folder name: ~/Tape2Rom/System4
 
   Files:
@@ -122262,7 +122906,7 @@
 ## Tape Converted to ROM: T&E Soft (Japan) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/T&E Soft (Japan)
+- Folder longname: ~/Tape Converted to ROM/T&E Soft [JP]
   Folder name: ~/Tape2Rom/T&ESoft
 
   Files:
@@ -122416,7 +123060,7 @@
 ## Tape Converted to ROM: Ultimate Play The Game (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Ultimate Play The Game (UK)
+- Folder longname: ~/Tape Converted to ROM/Ultimate Play The Game [UK]
   Folder name: ~/Tape2Rom/Ultimate
 
   Files:
@@ -122608,7 +123252,7 @@
 ## Tape Converted to ROM: US Gold (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/US Gold (UK)
+- Folder longname: ~/Tape Converted to ROM/US Gold [UK]
   Folder name: ~/Tape2Rom/US_Gold
 
   Files:
@@ -122731,7 +123375,7 @@
 ## Tape Converted to ROM: Vifi International (France) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Vifi International (France)
+- Folder longname: ~/Tape Converted to ROM/Vifi International [FR]
   Folder name: ~/Tape2Rom/Vifi
 
   Files:
@@ -122762,7 +123406,7 @@
 ## Tape Converted to ROM: Virgin Game Roms (UK) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Virgin Game Roms (UK)
+- Folder longname: ~/Tape Converted to ROM/Virgin Game Roms [UK]
   Folder name: ~/Tape2Rom/Virgin
 
   Files:
@@ -122793,7 +123437,7 @@
 ## Tape Converted to ROM: Zafiro / ZCobra (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Zafiro - ZCobra (Spain)
+- Folder longname: ~/Tape Converted to ROM/Zafiro - ZCobra [ES]
   Folder name: ~/Tape2Rom/Zafiro
 
   Files:
@@ -122847,7 +123491,7 @@
 ## Tape Converted to ROM: Zigurat (Spain) ##
 #
 
-- Folder longname: ~/Tape Converted to ROM/Zigurat (Spain)
+- Folder longname: ~/Tape Converted to ROM/Zigurat [ES]
   Folder name: ~/Tape2Rom/Zigurat
 
   Files:
