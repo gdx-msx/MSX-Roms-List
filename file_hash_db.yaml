@@ -1,11 +1,11 @@
 ---
 
 - comment: >
-    MSX Roms Database version 03-06-2025 by gdx
+    MSX Roms Database version 08-07-2025 by gdx
 
 - comment: >
     Version number is indicated between square brackets. Examples: [r1] for
-    revision 1, [v1.1] for version 1.1, [MSX2] for MSX2 or niewer, etc.
+    revision 1, [v1.1] for version 1.1, [MSX2] for MSX2 or newer, etc.
     Roms with [a], [a2], ... are alternative versions whose version number is
     not known. Rom mapper type is indicated when it has been modified.
     If you want put two or more indications in square brackets, separate them
@@ -31,10 +31,10 @@
 
 - comment: >
     Original title: indicate the title used in the country in witch the
-    software has released.
+    software has released at first.
 
 - comment: >
-    Special thanks to: Pencionier, Sebbeug, Vampier and all contributors.
+    Special thanks to: Pencionier, Sebbeug, Vampier and other contributors.
 
 - comment: >
     Currently there are 251 classified bad dumps.
@@ -12002,7 +12002,7 @@
     Longname: Feedback [ASCII8 mapper].rom
     sha1: 4408a71e6cfab8015d00baa793725d28525c53ac
     Name: Feedback.ROM
-    Genre: Shoot'em up (First person scrolling)
+    Genre: Shoot'em up (Vertical scrolling)
     Language: English
     Country: Japan
     Type: 736kB Rom with ASCII8 mapper
@@ -12088,6 +12088,29 @@
     Release: 1988 (original)
     Original Dump: No
     Remark: Disk converted to Rom with DSK2ROM.
+
+  - English title: "Knightmare Gold"
+    Original title: "Knightmare Gold"
+    Longname: Knightmare Gold (Amusement Factory).rom
+    sha1: 48fb38c931197992bf89289298183ae9099836e9
+    Name: KMGold20.ROM
+    Genre: Shoot'em up (Vertical scrolling)
+    Language: English
+    Country: Japan (original), Brazil (Enhanced version)
+    Type: 512kB Rom with SCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joysticks
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: Amusement Factory
+    Developer: Konami (Enhanced by Amusement Factory)
+    Release: 1988 (original), 2006 (Enhanced version)
+    Original Dump: No
+    Remark: Disk converted to Rom.
 
   - English title: "KPI Ball"
     Original title: "KPI Ball"
@@ -19767,7 +19790,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1989 (original)
     Original Dump: No
     Remark: 
 
@@ -19790,7 +19813,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1989 (original)
     Original Dump: No
     Remark: 
 
@@ -19813,7 +19836,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19836,7 +19859,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19859,7 +19882,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19882,7 +19905,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19905,7 +19928,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19928,7 +19951,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -19951,7 +19974,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -19974,53 +19997,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
-    Original Dump: No
-    Remark: 
-
-  - English title: "Nemesis"
-    Original title: "グラディウス"
-    Longname: Gradius - Nemesis (E-J) [96 lifes].rom
-    sha1: 98748c364e7bff50cf073c1a421ebe5b5d8b7025
-    Name: Gradi96l.ROM
-    Genre: Shoot'em up (horizontal scrolling)
-    Language: English
-    Country: Japan
-    Type: 128kB Rom with KonamiSCC mapper
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: Floppy disk (Game Master 2)
-    Control: Keyboard / joystick(s)
-    Sound: PSG
-    Player number: 1 or 2 (alternately)
-    Signature: No
-    Publisher: Konami
-    Developer: Konami
-    Release:  (original)
-    Original Dump: No
-    Remark: 
-
-  - English title: "Nemesis"
-    Original title: "グラディウス"
-    Longname: Gradius - Nemesis (E-J) [Ulver crack].rom
-    sha1: 910b156b562880ace789fb3f9b11848163c2df20
-    Name: GradiuUc.ROM
-    Genre: Shoot'em up (horizontal scrolling)
-    Language: English
-    Country: Japan
-    Type: 128kB Rom with Konami8 mapper
-    Machine: MSX1
-    RAM: 8kB
-    VRAM: 16kB
-    Data saving: Floppy disk (Game Master 2)
-    Control: Keyboard / joystick(s)
-    Sound: PSG
-    Player number: 1 or 2 (alternately)
-    Signature: No
-    Publisher: Konami
-    Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20043,13 +20020,59 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [96 lifes] [Hyper always enablable] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [a-96 lifes].rom
+    sha1: 98748c364e7bff50cf073c1a421ebe5b5d8b7025
+    Name: Gradi96l.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [Ulver crack].rom
+    sha1: 910b156b562880ace789fb3f9b11848163c2df20
+    Name: GradiuUc.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [96 lifes] [HYPER enablable] [Twin Bee spaceship].rom
     sha1: 45afae571c7d56e3bd5858f2dac27668784aa235
     Name: Gra96HTB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20066,13 +20089,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [96 lifes] [Hyper always enablable] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [96 lifes] [HYPER enablable] [Twin Bee spaceship].rom
     sha1: b9b6a63ee5642a9617798897fe1ad477bc0bb49a
     Name: GES96HTB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20089,13 +20112,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [96 lifes] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [96 lifes] [Twin Bee spaceship].rom
     sha1: 0172746f212e541e32f3e44f92b0d6e1a40700d0
     Name: GrES96TB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20112,13 +20135,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [96 lifes] [Hyper always enablable].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [96 lifes] [HYPER enablable].rom
     sha1: 2d2402a313cd588baed6105a064fa32b15627968
     Name: GraES96H.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20135,13 +20158,82 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [Invincibility by Ulver-a].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [HYPER enablable].rom
+    sha1: c6bd9ef56e357962057940979109b986d7b4a481
+    Name: GradiESH.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [HYPER enablable] [Twin Bee spaceship].rom
+    sha1: 7da1f8acdad5ad494ff7deb5d64a117de232f553
+    Name: GradESHT.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Twin Bee spaceship].rom
+    sha1: 7d66ad041ec6b2f1c917d9a37bc3dd5cfd5b8011
+    Name: GradiEST.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Invincibility by Ulver-a].rom
     sha1: 25bd2688c5aca3b817b6e073eb6f71cc8722be5b
     Name: GrESIUlA.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20158,13 +20250,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [Invincibility by Ulver] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Invincibility by Ulver] [Twin Bee spaceship].rom
     sha1: 94537ec0f031a5a030b70ad1676148fb6323d989
     Name: GrESIUTB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20181,13 +20273,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [Invincibility by Ulver].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Invincibility by Ulver].rom
     sha1: 328572dc7c778d6ef635832a6361bff3fbab7348
     Name: GraESIUl.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20204,13 +20296,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [Invincible] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Invincible] [Twin Bee spaceship].rom
     sha1: 0128fef6dde2ef66ebd10578a584e3502b614c7d
     Name: GraESITB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20227,13 +20319,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [Ardade graphics] [Invincible].rom
+    Longname: Gradius - Nemesis [Enhanced by Shalom] [Invincible].rom
     sha1: 9fb00b6a6e7df58891a9f467704ffcd5c0b6ba29
     Name: GradiESI.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20250,7 +20342,53 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [HYPER enablable].rom
+    sha1: ea6944dbd893c699792286cd0bcdec13f9330ab3
+    Name: GradiuHE.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [HYPER enablable] [Twin Bee spaceship].rom
+    sha1: 51eca4d8cd41a5b2110d5e811e0efe141c64ce72
+    Name: GradiHTB.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20273,7 +20411,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20296,7 +20434,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20319,13 +20457,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [SCC] [96 lifes] [Hyper always enablable] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [SCC] [96 lifes] [HYPER enablable] [Twin Bee spaceship].rom
     sha1: 6ff7d8f4cb86279f5906ee0fcc602ec32e6d655b
     Name: GrS96HTB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20342,13 +20480,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [SCC] [96 lifes] [Hyper always enablable].rom
+    Longname: Gradius - Nemesis [SCC] [96 lifes] [HYPER enablable].rom
     sha1: 793ebcc9d1f4d25da26560e8121d7ed845541bcc
     Name: GradS96H.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20365,7 +20503,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20388,7 +20526,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20411,7 +20549,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20434,7 +20572,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20457,13 +20595,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [96 lifes] [Hyper always enablable] [Twin Bee spaceship].rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [96 lifes] [HYPER enablable] [Twin Bee spaceship].rom
     sha1: dadf09e4d5664225d4e1880cf2b7a757b7662a4c
     Name: GSS96HTB.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20480,13 +20618,13 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
   - English title: "Nemesis"
     Original title: "グラディウス"
-    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [96 lifes] [Hyper always enablable).rom
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [96 lifes] [HYPER enablable).rom
     sha1: 686121fdd61eac928d82339e3ec9b519f48e37fc
     Name: GrSES96H.ROM
     Genre: Shoot'em up (horizontal scrolling)
@@ -20503,7 +20641,75 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [HYPER enablable].rom
+    sha1: 4b5f9b1c8505fb62d8e67fc316feb9ddacbde345
+    Name: GradiSAH.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [HYPER enablable] [Twin Bee spaceship].rom
+    sha1: b8b4ddf7caa7e47b30437163e05b09cdd333dca3
+    Name: GradSAHT.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [Enhanced by Shalom] [Twin Bee spaceship].rom
+    sha1: 5e563b867a5cbfe0351ee17eed0943da3479b424
+    Name: GradiSAT.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20526,7 +20732,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20549,7 +20755,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20572,7 +20778,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20595,7 +20801,76 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [HYPER enablable].rom
+    sha1: 363dfd60bc639f9b9165b87a111e5162bff071cb
+    Name: GradiuSH.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [HYPER enablable] [Twin Bee spaceship].rom
+    sha1: 3a122b12f626787ebdb6924ccf5b6851be6e1b98
+    Name: GradSHTB.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [SCC] [Twin Bee spaceship].rom
+    sha1: 605ac83515a8011ae0b68dfae12df2240eab8269
+    Name: GradiSTB.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG and SCC
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20618,7 +20893,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20641,7 +20916,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20664,7 +20939,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20687,7 +20962,30 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1986 (original)
+    Original Dump: No
+    Remark: 
+
+  - English title: "Nemesis"
+    Original title: "グラディウス"
+    Longname: Gradius - Nemesis [Twin Bee spaceship].rom
+    sha1: e24497acf7a61bc548a4241c6301377dd277f4c5
+    Name: GradiuTB.ROM
+    Genre: Shoot'em up (horizontal scrolling)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1986 (original)
     Original Dump: No
     Remark: 
 
@@ -20733,7 +21031,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20756,7 +21054,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20779,7 +21077,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20802,7 +21100,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20825,7 +21123,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20848,7 +21146,7 @@
     Signature: No
     Publisher: Konami
     Developer: Konami
-    Release:  (original)
+    Release: 1987 (original)
     Original Dump: No
     Remark: 
 
@@ -20943,6 +21241,29 @@
     Release: 1987 (original)
     Original Dump: No
     Remark: 
+
+  - English title: "Firebird"
+    Original title: "火の鳥 鳳凰編"
+    Longname: Hi no Tori (Firebird) Hououhen (J) [Code AAAAA to playing in debug mode].rom
+    sha1: 45c108f04c1abd12bfa5d2222e578bda6ef54c39
+    Name: HinotoDM.ROM
+    Genre: Platform
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with Konami8 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: Floppy disk (Game Master 2)
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1987 (original)
+    Original Dump: No
+    Remark: You have the possible 5-letter codes in use like "CHEAT", "POWER", "DEBUG", "ELITE" or even "CINIC", but also "AAAAA" to enable the debug mode.
 
   - English title: "King Kong 2 - The Legend Resurrected"
     Original title: "キングコング2 甦る伝説"
@@ -26676,7 +26997,7 @@
     Player number: 1
     Signature: No
     Publisher: Danjovic
-    Developer: "@hoge1e3, ROM conversion and Ninja Tap patch by Danjovic"
+    Developer: "@hoge1e3, ROM conversion and NinjaTap patch by Danjovic"
     Release: 2022-11-13
     Original Dump: Yes
     Remark: 
@@ -26699,7 +27020,7 @@
     Player number: 1
     Signature: No
     Publisher: Danjovic
-    Developer: "@hoge1e3, ROM conversion and Ninja Tap patch by Danjovic"
+    Developer: "@hoge1e3, ROM conversion and NinjaTap patch by Danjovic"
     Release: 2022-11-15
     Original Dump: Yes
     Remark: 
@@ -31501,6 +31822,7 @@
     Developer: ASCII Corporation
     Release: 1984
     Original Dump: 
+    Remark: 
 
   - English title: "Manes"
     Original title: "メイニーズ"
@@ -36833,7 +37155,7 @@
 
   - English title: "Aleste"
     Original title: "アレスタ"
-    Longname: Aleste (Translated by D4Enterprise).rom
+    Longname: Aleste (Translated by Sama).rom
     sha1: 11b712633bd0e44e8d59ceba5a2d6b1c20a43ef9
     Name: AlestD4E.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -36852,7 +37174,30 @@
     Developer: Compile
     Release: 1988 (original)
     Original Dump: No
-    Remark: 
+    Remark: Come from iPad/iPhone version by D4Enterprise. Also called Woomb version.
+
+  - English title: "Aleste"
+    Original title: "アレスタ"
+    Longname: Aleste (Translated by Tsunami v1.0).rom
+    sha1: be2d023f5f1ee4cfbdc712c8ef9eda9d07278d88
+    Name: AlestT10.ROM
+    Genre: Shoot'em up (smooth vertical scrolling)
+    Language: English
+    Country: Japan
+    Type: 256kB Rom with ASCII16 mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG / PSG and MSX-Music
+    Player number: 1
+    Signature: No
+    Publisher: Compile
+    Developer: Compile
+    Release: 1988 (original)
+    Original Dump: No
+    Remark: Translation v1.0 by Tsunami (232)
 
   - English title: "Aleste"
     Original title: "アレスタ"
@@ -36875,11 +37220,11 @@
     Developer: Compile
     Release: 1988 (original)
     Original Dump: No
-    Remark: 
+    Remark: Partial translation.
 
   - English title: "Aleste"
     Original title: "アレスタ"
-    Longname: Aleste (Translated to Portuguese).rom
+    Longname: Aleste (Translated to Portuguese by Luiz H. Lugato).rom
     sha1: f4f7c789dd320192fd544c666ceab720c7f3a747
     Name: Aleste-P.ROM
     Genre: Shoot'em up (smooth vertical scrolling)
@@ -47347,6 +47692,29 @@
 
   - English title: "F-1 Spirit - The Way to Formula-1"
     Original title: "F-1スピリット THE WAY TO FORMULA-1"
+    Longname: F1 Spirit The Way to Formula-1 [a-without SCC sound] [Slot1 only].rom
+    sha1: 8b252fe784692fc15290a04fa59848f609216f16
+    Name: F1SpiPSG.ROM
+    Genre: Car racing (top view)
+    Language: English
+    Country: Japan
+    Type: 128kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick(s)
+    Sound: PSG
+    Player number: 1 or 2 (alternately or at the same time)
+    Signature: No
+    Publisher: Konami
+    Developer: Konami
+    Release: 1987
+    Original Dump: No
+    Remark: 
+
+  - English title: "F-1 Spirit - The Way to Formula-1"
+    Original title: "F-1スピリット THE WAY TO FORMULA-1"
     Longname: F1 Spirit The Way to Formula-1 [ASCII8 mapper] [Needs SCC in slot 2].rom
     sha1: 3880b064dcb851ca221ff67e435137a7cf1141f8
     Name: F1Spiri8.ROM
@@ -48085,7 +48453,7 @@
     Original title: "グラディウス"
     Longname: Gradius - Nemesis [Enhanced by Shalom].rom
     sha1: 0ac97f403e89cf0a5646e1ad49ff2c19223d0a74
-    Name: GradiusH.ROM
+    Name: GradiuES.ROM
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
@@ -48112,7 +48480,7 @@
     Genre: Shoot'em up (horizontal scrolling)
     Language: English
     Country: Japan
-    Type: 128kB Rom with SCC mapper
+    Type: 128kB Rom with KonamiSCC mapper
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
@@ -59766,7 +60134,7 @@
     RAM: 8kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -73382,6 +73750,7 @@
     Publisher: Sein soft
     Developer: Sein soft
     Release: 1986 (original)
+    Original Dump: 
     Remark: 
 
   - English title: "Deep Forest"
@@ -91237,7 +91606,7 @@
     Developer: SoCal
     Release: 2021-08-31
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "No Back Down"
     Original title: "No Back Down"
@@ -92282,6 +92651,75 @@
     Original Dump: Yes
     Remark: 
 
+  - English title: "Muhonmourn 3"
+    Original title: "Muhonmourn 3"
+    Longname: Muhonmourn 3 [v1.1] (hoge1e3).rom
+    sha1: 177fe939e389fd2f491cadf02014151dd265936a
+    Name: Muhon311.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1-4 at same time
+    Signature: No
+    Publisher: MSXdev
+    Developer: hoge1e3
+    Release: 2022
+    Original Dump: No
+    Remark: Conversion to Rom by gdx from the binary file v1.1 released by MSXdev. Original version was released in DSK format.
+
+  - English title: "Muhonmourn 3"
+    Original title: "Muhonmourn 3"
+    Longname: Muhonmourn 3 [v1.1] [NinjaTap] (hoge1e3).rom
+    sha1: 50cc9eefd7b76043b36d81a9056210d41b03d9d1
+    Name: Muh311NT.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick + NinjaTap
+    Sound: PSG
+    Player number: 1-4 at same time
+    Signature: No
+    Publisher: MSXdev
+    Developer: hoge1e3 (NinjaTap support by Danjovic)
+    Release: 2022
+    Original Dump: No
+    Remark: Conversion to Rom by Danjovic from the binary file v1.1 released by MSXdev. Original version was released in DSK format.
+
+  - English title: "Muhonmourn 3"
+    Original title: "Muhonmourn 3"
+    Longname: Muhonmourn 3 [v1.1] [intro] [NinjaTap] (hoge1e3).rom
+    sha1: 50cc9eefd7b76043b36d81a9056210d41b03d9d1
+    Name: Mu311NTI.ROM
+    Genre: Action
+    Language: English
+    Country: Japan
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 32kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick + NinjaTap
+    Sound: PSG
+    Player number: 1-4 at same time
+    Signature: No
+    Publisher: MSXdev
+    Developer: hoge1e3 (NinjaTap support and intro by Danjovic)
+    Release: 2022
+    Original Dump: No
+    Remark: Conversion to Rom by Danjovic from the binary file v1.1 released by MSXdev. Original version was released in DSK format.
+
   - English title: "My Sacred Place"
     Original title: "My Sacred Place"
     Longname: My Sacred Place [v1.0].rom
@@ -92980,6 +93418,29 @@
     Original Dump: Yes
     Remark: Version 1.10
 
+  - English title: "Crawlers"
+    Original title: "Crawlers"
+    Longname: Crawlers [v1.2.2].rom
+    sha1: add2000147fb93f28d59d5932dabd7614c84f539
+    Name: Crawl122.ROM
+    Genre: Snake
+    Language: English
+    Country: France
+    Type: 48kB Rom (0000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joysticks / NinjaTap + joysticks
+    Sound: None
+    Player number: 1 - 8
+    Signature: No
+    Publisher: MSXdev
+    Developer: Pixel Phenix (Aoineko)
+    Release: 2025
+    Original Dump: Yes
+    Remark: Version 1.22
+
   - English title: "Double Rainbow"
     Original title: "Double Rainbow"
     Longname: Double Rainbow [v1.1].rom
@@ -93315,7 +93776,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -93338,7 +93799,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -93498,7 +93959,7 @@
     Machine: MSX1
     RAM: 8kB
     VRAM: 16kB
-    Data saving: PAC SRAM (slot 6)
+    Data saving: PAC SRAM (SRAM slot 6)
     Control: Keyboard
     Sound: PSG
     Player number: 1
@@ -93952,7 +94413,7 @@
     Developer: Phaze101
     Release: 2025-01-27
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "AlienMSX"
     Original title: "AlienMSX"
@@ -94067,7 +94528,7 @@
     Developer: Haplo
     Release: 2025-01-17
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "Doomlings"
     Original title: "Doomlings"
@@ -94090,7 +94551,7 @@
     Developer: Totta
     Release: 2025-02-03
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "Grazers"
     Original title: "Grazers"
@@ -94161,6 +94622,190 @@
     Original Dump: Yes
     Remark: Version 1.2
 
+  - English title: "Harker's Escape"
+    Original title: "Harker's Escape"
+    Longname: Harker's Escape [v1.1].rom
+    sha1: 08fcb3d2dee2c691ee1e250b4beb13c48ddb2949
+    Name: Harker11.ROM
+    Genre: Action-adventure
+    Language: English
+    Country: Brazil
+    Type: 384KB Rom with KonamiSCC mapper
+    Machine: MSX1 / MSX2
+    RAM: 16kB / 64kB
+    VRAM: 16kB / 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Amaury Carvalho
+    Release: 2024-08-02
+    Original Dump: Yes
+    Remark: Version 1.1. Disk converted to Rom.
+
+  - English title: "Kitten 2 - The Return"
+    Original title: "Kitten 2 - The Return"
+    Longname: Kitten 2 The Return [v6.0].rom
+    sha1: 00c03ba4ea1ec243cd6338dbbbdf3134ea4ff891
+    Name: Kitt2_60.ROM
+    Genre: Platform
+    Language: English
+    Country: Italy
+    Type: 1024KB Rom with ASCII8 mapper
+    Machine: MSX turbo R
+    RAM: 256kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: ZioOry
+    Release: 2024-11-10
+    Original Dump: Yes
+    Remark: Version 6.0. Disk converted to Rom.
+
+  - English title: "Kitten 2 - The Return"
+    Original title: "Kitten 2 - The Return"
+    Longname: Kitten 2 The Return [v6.1].rom
+    sha1: bce49708ce38732feddce55255e8331bbbf76503
+    Name: Kitt2_61.ROM
+    Genre: Platform
+    Language: English
+    Country: Italy
+    Type: 1024KB Rom with ASCII8 mapper
+    Machine: MSX turbo R
+    RAM: 256kB
+    VRAM: 128kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: ZioOry
+    Release: 2024-11-30
+    Original Dump: Yes
+    Remark: Version 6.1. Disk converted to Rom.
+
+  - English title: "The Drop Of Abu-Cymbel"
+    Original title: "Lagotade Abu-Cymbel"
+    Longname: Lagotade Abu-Cymbel.rom
+    sha1: ec78a2228d1466b3bf893b45da829c39e4e1b2f1
+    Name: Abu-CymS.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2024-12-12
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: "Maiden's Extreme Fist - BUNGARUA"
+    Original title: "乙女烈拳ブンガルア"
+    Longname: Otome Rekken Bungarua - Maiden's Extreme Fist BUNGARUA [v1.11].rom
+    sha1: 04ec4a148f519d3a1d512347541be3b0a5c5e400
+    Name: MEF-B111.ROM
+    Genre: Fighting
+    Language: English / Japanese
+    Country: Japan
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password, PAC SRAM (SRAM slot 2 and 3)
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Retromixis
+    Release: 2024-10-25
+    Original Dump: Yes
+    Remark: Version 1.1.1. Insert the game cartridge into slot 1 and the PAC into 2.
+
+  - English title: "Maiden's Extreme Fist - BUNGARUA"
+    Original title: "乙女烈拳ブンガルア"
+    Longname: Otome Rekken Bungarua - Maiden's Extreme Fist BUNGARUA [v1.12].rom
+    sha1: 78506eb97d2f137e85ed61aa0e3ae093d1539be6
+    Name: MEF-B112.ROM
+    Genre: Fighting
+    Language: English / Japanese
+    Country: Japan
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 128kB
+    Data saving: Password, PAC SRAM (SRAM slot 2 and 3)
+    Control: Keyboard / joystick and keyboard
+    Sound: PSG and SCC
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Retromixis
+    Release: 2025-01-23
+    Original Dump: Yes
+    Remark: Version 1.1.2. Insert the game cartridge into slot 1 and the PAC into 2.
+
+  - English title: "Molotov"
+    Original title: "Molotov"
+    Longname: Molotov.rom
+    sha1: 2d0a486e4a69f86d266a92e48ced6d1d7016765f
+    Name: Molotov.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2025-01-10
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: "Molotov"
+    Original title: "Molotov"
+    Longname: Molotov (S).rom
+    sha1: 9239c4769666a11754a3cf8ba6a976be0bc32d1a
+    Name: MolotovS.ROM
+    Genre: Platform
+    Language: Spanish
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2025-01-10
+    Original Dump: Yes
+    Remark: Version 1.0
+
   - English title: "Princess Paloma's Rescue"
     Original title: "Princess Paloma's Rescue"
     Longname: Princess Paloma's Rescue [v1.0].rom
@@ -94230,11 +94875,126 @@
     Original Dump: Yes
     Remark: Version 1.2
 
+  - English title: "Pyjamarama"
+    Original title: "Pyjamarama"
+    Longname: Pyjamarama.rom
+    sha1: 886afc527452a77536b08050df028d5b6a9affe9
+    Name: Pyjamara.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Type: 128KB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 64kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Fregarni
+    Release: 2024-10-15
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: "Racing"
+    Original title: "Racing"
+    Longname: Racing.rom
+    sha1: b2ea02606a021cd4d0d89380d627de84039fffca
+    Name: Racing.ROM
+    Genre: Racing
+    Language: English
+    Country: Italy
+    Type: 128KB Rom with KonamiSCC mapper
+    Machine: MSX2
+    RAM: 64kB
+    VRAM: 64kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Bosh77
+    Release: 2025-01-25
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: "Robo Race"
+    Original title: "Robo Race"
+    Longname: Robo Race [size fix].rom
+    sha1: d602517a765ba0ee1540b91f9cd0a959808c3332
+    Name: RoboRace.ROM
+    Genre: Board
+    Language: English
+    Country: Germany
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: "Maximilian Wöhrl"
+    Release: 2025-01-13
+    Original Dump: No
+    Remark: Version 1.0 with size fixed because original rom is trimmed.
+
+  - English title: "Robo Race"
+    Original title: "Robo Race"
+    Longname: Robo Race [trimmed].rom
+    sha1: 602580357a3cfdf61e84506e58ebb43f11ff08e6
+    Name: RoboRace Trimmed.ROM
+    Genre: Board
+    Language: English
+    Country: Germany
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 64kB in the same slot
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: "Maximilian Wöhrl"
+    Release: 2025-01-13
+    Original Dump: Yes
+    Remark: Version 1.0. File size is 45582 Byte.
+
+  - English title: "Room 5"
+    Original title: "Room 5"
+    Longname: Room 5 [v1.1].rom
+    sha1: c2c3fb3132b22f6147bd1ad16300e5d24bd86a6e
+    Name: Room5-11.ROM
+    Genre: Adventuve, puzzle
+    Language: Dutch, English, French, Italian, Japanese, Portugese, Spanish, Tagalog
+    Country: France
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: Password
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: MO5.com
+    Release: 2025-01-27
+    Original Dump: Yes
+    Remark: Version 1.1
+
   - English title: "Sam.Pr"
     Original title: "Sam.Pr"
     Longname: Sam.Pr [v1.0].rom
     sha1: 433be0ae304579fa22f17b30455cf5d67a48e7e1
-    Name: Sam-Pr.ROM
+    Name: Sam-Pr10.ROM
     Genre: Maze
     Language: English
     Country: Spain
@@ -94251,13 +95011,13 @@
     Developer: Antonio Perez
     Release: 2024
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.0
 
   - English title: "Sam.Pr"
     Original title: "Sam.Pr"
     Longname: Sam.Pr [v1.1].rom
     sha1: 6a88e58e967a0fbd505c152ac2ad26350321e8d4
-    Name: Sam-Pr.ROM
+    Name: Sam-Pr11.ROM
     Genre: Maze
     Language: English
     Country: Spain
@@ -94274,7 +95034,145 @@
     Developer: Antonio Perez
     Release: 2024
     Original Dump: Yes
-    Remark: 
+    Remark: Version 1.1
+
+  - English title: "Sam.Pr"
+    Original title: "Sam.Pr"
+    Longname: Sam.Pr [v1.2].rom
+    sha1: 394ca3625afa1f1d874a7aa271fbbdb27575d04e
+    Name: Sam-Pr11.ROM
+    Genre: Maze
+    Language: English
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Antonio Perez
+    Release: 2024
+    Original Dump: Yes
+    Remark: Version 1.2
+
+  - English title: "Sorcerer Kid Adventure"
+    Original title: "Sorcerer Kid Adventure"
+    Longname: Sorcerer Kid Adventure [v1.0].rom
+    sha1: 00dd76731ec2670734a7cef35acad3586b168ba9
+    Name: SKA-100.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: VidaExtraRetro, Music by Antonio Greenweb
+    Release: 2024-12-13
+    Original Dump: Yes
+    Remark: Version 1.0
+
+  - English title: "Sorcerer Kid Adventure"
+    Original title: "Sorcerer Kid Adventure"
+    Longname: Sorcerer Kid Adventure [v1.01].rom
+    sha1: c2ca2318523ee368b6dca592adec875facab2cf9
+    Name: SKA-101.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: VidaExtraRetro, Music by Antonio Greenweb
+    Release: 2024-12-13
+    Original Dump: Yes
+    Remark: Version 1.01
+
+  - English title: "Sorcerer Kid Adventure"
+    Original title: "Sorcerer Kid Adventure"
+    Longname: Sorcerer Kid Adventure [v1.02].rom
+    sha1: b89c846d4330c8ecb89270f88a7ff1b3ac5e4eeb
+    Name: SKA-102.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 48KB Rom (0000h~BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: VidaExtraRetro, Music by Antonio Greenweb
+    Release: 2024-12-20
+    Original Dump: Yes
+    Remark: Version 1.02
+
+  - English title: "The Curse Of Lies"
+    Original title: "The Curse Of Lies"
+    Longname: The Curse Of Lies [v2.0].rom
+    sha1: a8f10e04933e68761e2eb1a97c02effa974fc2a3
+    Name: TCOL200.ROM
+    Genre: Puzzle
+    Language: English
+    Country: France
+    Type: 512kB Rom with KonamiSCC mapper
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Rei-Vax-73
+    Release: 2024-10-09
+    Original Dump: Yes
+    Remark: Version 2. Doesn't work on MSX2+ and turbo R.
+
+  - English title: "The Drop Of Abu-Cymbel"
+    Original title: "Lagotade Abu-Cymbel"
+    Longname: The Drop Of Abu-Cymbel.rom
+    sha1: dd91d781f7a0f1c302fceb208788aa42d5182454
+    Name: Abu-Cymb.ROM
+    Genre: Platform
+    Language: English
+    Country: Spain
+    Type: 32KB Rom (4000h~BFFFh)
+    Machine: MSX1
+    RAM: 8kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / keyboard and joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: MSXdev
+    Developer: Joesg
+    Release: 2024-12-12
+    Original Dump: Yes
+    Remark: Version 1.0
 
   - English title: "Whack 'Em Smack 'Em Byrons"
     Original title: "Whack 'Em Smack 'Em Byrons"
@@ -94297,7 +95195,7 @@
     Developer: JessCreations (ArugulaZ)
     Release: 2024
     Original Dump: Yes
-    Remark: Rom trimmed. File size is 30343 Byte.
+    Remark: Rom trimmed version 1.1. File size is 30343 Byte.
 
   - English title: "Whack 'Em Smack 'Em Byrons"
     Original title: "Whack 'Em Smack 'Em Byrons"
@@ -94420,6 +95318,52 @@
     Developer: Team DEVA
     Release: 2020
     Original Dump: No
+    Remark: 
+
+  - English title: "Beep"
+    Original title: "Beep"
+    Longname: Beep [v1.4] (Breinthee).rom
+    sha1: e981ad1f5d093e7b34fae54acc85fdd0bb05192a
+    Name: Beep140.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Breinthee
+    Developer: Breinthee
+    Release: 2025
+    Original Dump: Yes
+    Remark: 
+
+  - English title: "Beep"
+    Original title: "Beep"
+    Longname: Beep [v1.5] (Breinthee).rom
+    sha1: b24dfb9658a6b7236c2ed20f0c76d573e4c34a5c
+    Name: Beep150.ROM
+    Genre: Puzzle
+    Language: English
+    Country: Netherlands
+    Type: 32kB Rom (4000h-BFFFh)
+    Machine: MSX1
+    RAM: 16kB
+    VRAM: 16kB
+    Data saving: None
+    Control: Keyboard / joystick
+    Sound: PSG
+    Player number: 1
+    Signature: No
+    Publisher: Breinthee
+    Developer: Breinthee
+    Release: 2025-03-03
+    Original Dump: Yes
     Remark: 
 
   - English title: "Break It"
@@ -98123,7 +99067,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
     Signature: No
@@ -98146,7 +99090,7 @@
     RAM: 16kB
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG and SCC
     Player number: 1
     Signature: No
@@ -103059,7 +104003,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -103082,7 +104026,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -103105,7 +104049,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -103128,7 +104072,7 @@
     RAM: 64kB
     VRAM: 128kB
     Data saving: None
-    Control: Keyboard / Joystick
+    Control: Keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -116978,7 +117922,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: Keyboard / Joystick (after push Space)
+    Control: Keyboard / joystick (after push Space)
     Sound: PSG
     Player number: 1
     Signature: No
@@ -117533,7 +118477,7 @@
     RAM: 64kB in the same slot
     VRAM: 16kB
     Data saving: None
-    Control: AZERTY keyboard / Joystick
+    Control: AZERTY keyboard / joystick
     Sound: PSG
     Player number: 1
     Signature: No
@@ -117679,7 +118623,7 @@
     Developer: Infogrames
     Release: 1985 (tape)
     Original Dump: No
-    Remark: Tape converted to ROM and modified by GDX to improve MSX compatibility and Keyboard / Joysticks
+    Remark: Tape converted to ROM and modified by GDX to improve MSX compatibility and Keyboard / joysticks
 
   - English title: "Tarot"
     Original title: "Tarot"
@@ -129943,6 +130887,7 @@
     Developer: Maechiko
     Release: 1998-12-12
     Original Dump: Yes
+    Remark: 
 
   - English title: "Music Station"
     Original title: "Music Station"
